@@ -1,9 +1,9 @@
-import { useState } from "react";
-import "./App.css";
-import rss from "./assets/rss.json";
+import { useState } from 'react';
+import './App.css';
+import rss from './assets/rss.json';
 
 function App() {
-  const [searched, setSearched] = useState("");
+  const [searched, setSearched] = useState('');
 
   return (
     <>
@@ -13,27 +13,34 @@ function App() {
         value={searched}
         onChange={(e) => setSearched(e.target.value)}
       />
-      {Object.entries(rss)
-        .filter(
-          ([key, data]) =>
-            data.title?.match(new RegExp(`.*${searched}.*`, "gi")) ||
-            data.media_title?.match(new RegExp(`.*${searched}.*`, "gi")) ||
-            data.description?.match(new RegExp(`.*${searched}.*`, "gi")) ||
-            data.media_desc?.match(new RegExp(`.*${searched}.*`, "gi"))
-        )
-        .map(([key, data]) => (
-          <div className="card" key={key}>
-            <h2>
-              {data.title ?? data.media_title} - {data.media_type}
-            </h2>
-            {data.description ?? data.media_desc}
-            <h3>
-              <a href={data.rss} target="_blank">
-                RSS esteka
-              </a>
-            </h3>
-          </div>
-        ))}
+      <div className="series">
+        {Object.entries(rss)
+          .filter(
+            ([key, data]) =>
+              data.title?.match(new RegExp(`.*${searched}.*`, 'gi')) ||
+              data.media_title?.match(new RegExp(`.*${searched}.*`, 'gi')) ||
+              data.description?.match(new RegExp(`.*${searched}.*`, 'gi')) ||
+              data.media_desc?.match(new RegExp(`.*${searched}.*`, 'gi')),
+          )
+          .map(([key, data]) => (
+            <div className="card" key={key}>
+              <img
+                loading="lazy"
+                src={data.img}
+                alt={`${data.title ?? data.media_title} - ${data.media_type}`}
+              />
+              <div className="card-content">
+                <h2>
+                  {data.title ?? data.media_title} - {data.media_type} -{' '}
+                  <a href={data.rss} target="_blank">
+                    RSS esteka
+                  </a>
+                </h2>
+                {data.description ?? data.media_desc}
+              </div>
+            </div>
+          ))}
+      </div>
     </>
   );
 }

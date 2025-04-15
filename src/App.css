@@ -1,23 +1,60 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  width: 100%;
 }
 
 input {
   padding: 1rem;
   margin-bottom: 2rem;
   width: 70%;
+  display: flex;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #14bed6;
 }
-
+.series {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  container-type: inline-size;
+  container-name: cseries;
+}
 .card {
-  padding: 0 1rem 1rem 1rem;
   border: 1px solid #aaa;
   border-radius: 1rem;
-  width: 70%;
+  width: 49%;
   margin-bottom: 2rem;
+  display: flex;
+  overflow: hidden;
+  img {
+    width: 15rem;
+    height: 100%;
+    align-self: center;
+  }
+  .card-content {
+    padding: 0 1rem 1rem 1rem;
+  }
+}
+
+@container cseries (max-width: 800px) {
+  div.card {
+    width: 100%;
+  }
+}
+@container cseries (max-width: 400px) {
+  div.card {
+    width: 100%;
+    flex-direction: column;
+    img {
+      width: 100%;
+    }
+  }
 }
