@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  padding: 1rem;
+  margin-bottom: 2rem;
+  width: 70%;
+}
+
+.card {
+  padding: 0 1rem 1rem 1rem;
+  border: 1px solid #aaa;
+  border-radius: 1rem;
+  width: 70%;
+  margin-bottom: 2rem;
+}
