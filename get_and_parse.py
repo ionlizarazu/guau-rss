@@ -72,4 +72,4 @@ if result.ok:
 
 
 with open("./src/assets/rss.json", "w", encoding="utf-8") as series_file:
-    json.dump(series, series_file)
+    json.dump(series, series_file, indent=2)
