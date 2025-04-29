@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Clara Navas, Directora de Turismo y Hosteler\u00eda",
-    "media_desc": "Clara Navas, Turismo eta Ostalaritzako zuzendaria",
+    "media_title": "I\u00f1igo Juez, presidente de AJEBASK Araba, asociacion de J\u00f3venes Empresarios",
+    "media_desc": "I\u00f1igo Juez, AJEBASK, Arabako Enpresari Gazteen Elkarteko presidentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -188,7 +188,9 @@
     "media_type": "video",
     "page": "Kultura",
     "page_id": 63,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/7a1d9184-bf67-4b2d-821f-33e59ad61807.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/7a1d9184-bf67-4b2d-821f-33e59ad61807.jpg",
+    "media_title": "4. \"Airbag\", la pel\u00edcula que lo cambio todo",
+    "media_desc": "\u201cAirbag\u201d filma, mugarria izan zen 90ko hamarkadan. Esaldi xelebreak utzi zituen Juanma Bajo Ulloaren filmak gizartean. Zuzendariak berak azaldu dizkigu errodajearen inguruko bitxikeriak atal honetan. Filmak kontatzen duen istorioa bezain dibertigarria izan zen grabaketa.  "
   },
   "1687": {
     "rss": "https://guau.eus/series/1687/rss.xml",
@@ -587,8 +589,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Feliz Viernes...lameculos!",
-    "media_desc": "Feliz Viernes aurkezten du Aritz Agirrek. Gaurkotasunari eskainitako beste begirada bat, \"Boulevard\" albiste saioaren baitan. Eguneko albisteei kontrapuntua jartzeko tartea, Aritz Agirreren eskutik, ostiralero 09:45ean zuzenean, Boulevard saioko asteko azken tertulia bere punturik gorenean bukatzeko... eta ondoren entzungai Guau plataforman edo zeure podcast gune egokienean.",
+    "media_title": "Vargas Llosa en Euskadi: \"Los nacionalismos son antidemocr\u00e1ticos\"",
+    "media_desc": "Peruko idazleak 2010ean Literaturako Nobel Saria jaso zuen eta eragin intelektual handia izan zuen: liberalismo klasikoaren defendatzailea, Latinoamerikako ezkertiarren kontrakoa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -1337,8 +1339,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Eneko Eizagirreren teoria: denok familia gara",
-    "media_desc": "Eneko Eizagirrek hainbat datu ekarri ditu aspalditik buruan zuen teoria bat azaltzeko: \"munduko biztanle guztiek oinordeko amankomun bat izan behar dugu\". Hala al da? Gaurko irrati tartean galdera horren erantzuna bilatzen saiatu gara.",
+    "media_title": "Andreak whatsappeko eguneraketa berriak azaldu dizkigu",
+    "media_desc": "Andrea Aranburuk whatsappera iritsi diren eguneraketak azaldu ditu adimen artifizialaren bueltan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1401,7 +1403,9 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/1fbc2b79-34d9-4d8e-a034-017efaa2687c.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/1fbc2b79-34d9-4d8e-a034-017efaa2687c.jpg",
+    "media_title": "Apag\u00f3n general",
+    "media_desc": ""
   },
   "1471": {
     "rss": "https://guau.eus/series/1471/rss.xml",
@@ -1622,7 +1626,9 @@
     "title": "La noche de... podcast",
     "description": " \"La Noche de...\" podcastak zinearen ete bere protagonisten inguruko informazio eta bitxikeriak biltzen ditu. Bigarren denboraldian Dani \u00c1lvarezek euskal zinemarenb mugarri izan diren filmak eta hauen zuzendariak elkarrizketatu ditu.\n\nAurreneko denboraldian, Felix Linaresek bere ezagutzaren zati bat utzi zigun, podcast formatuan. ",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/7a1d9184-bf67-4b2d-821f-33e59ad61807.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/7a1d9184-bf67-4b2d-821f-33e59ad61807.jpg",
+    "media_title": "4. \"Airbag\", la pel\u00edcula que lo cambio todo",
+    "media_desc": "\u201cAirbag\u201d filma mugarria izan zen 90ko hamarkadan. Esaldi xelebreak utzi zituen Juanma Bajo Ulloaren filmak gizartean. Zuzendariak berak azaldu dizkigu errodajearen inguruko bitxikeriak atal honetan. Filmak kontatzen duen istorioa bezain dibertigarria izan zen grabaketa."
   },
   "1256": {
     "rss": "https://guau.eus/series/1256/rss.xml",
@@ -2290,8 +2296,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Alav\u00e9s - Real Sociedad este mi\u00e9rcoles a las 9",
-    "media_desc": ""
+    "media_title": "Promoci\u00f3n la C\u00e1tedra",
+    "media_desc": null
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2595,9 +2601,9 @@
     "rss": "https://guau.eus/series/1694/rss.xml",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "\"Kastinetan ere zaintza garrantzitsua da\"",
+    "media_title": "Altruista naiz pertsona ona naizelako edo irudi hori eman nahi dudalako?",
     "media_type": "audio",
-    "media_desc": "Zinezital atalean, kastinak izan ditugu protagonista. Kastin koordinatzaileen figuraz, aktoreak zaintzearen beharraz eta ezetz esateak sortzen dituen buruko minez aritu zaizkigu Jone Arriola eta Be\u00f1at Uribe-etxebarria. Euren esperientzia kontatu digute.",
+    "media_desc": "\"Dilemamarratxeoan\" altruista izateari buruz aritu gara. Hauxe, Malen Altunak eta Aitziber Gradosek botatako galdera: ekintza solidarioak egiten ditugu pertsona onak garelako edo irudi hori eman nahi dugulako? Altruistak gara besteei laguntzeko asmoa dugulako edo gure burua hobeto sentiarazteko? Dilemaren aurrean, konponbideak eman dizkigute.",
     "title": "Bitan",
     "description": "Gazteako asteburuetako magazina. Zineaz, literaturaz, antzerkiaz eta, batez ere, musikaz osatuko ditugu larunbat eta igandeetako goizak. 09:00etatik 11:00etara, Ainhoa Vitoria eta Sara Alonsoren eskutik, Bitan!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e8818160-4f0c-498e-ab99-5937758449ee.jpg"
@@ -2769,5 +2775,12 @@
     "description": "IKT eta sare sozialek ezkuta ditzaketen arriskuetaz ohartarazi nahi duen podcasta da \"PrebenTIK\". Fikzioaren bidez, arrisku kasu errealak lantzen dira eta hauetan oinarrituta azalerazten dira adibideak, egoera zail horiei nola aurre hartu eta prebentzioaren garrantziaz ohartarazteko. Tresnak eskura jartzea da helburua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/af94d1fa-dc24-4d83-9577-796ee2ea861b.jpg"
+  },
+  "1842": {
+    "rss": "https://guau.eus/series/1842/rss.xml",
+    "title": "Zartagina kirtenetik",
+    "description": "Euskarazko irrati-nobela. Carlos P\u00e9rez Uralde II. Irrati Antzerki Lehiaketaren irabazlea\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/1f718390-5220-4142-8719-b84b60b59127.jpg"
   }
 }
