@@ -631,8 +631,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra del martes 22 de abril",
-    "media_desc": "Emilio Pascual, Mart\u00edn Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin Sevillaren aurkako berdinketa aztertu dugu.",
+    "media_title": "La c\u00e1tedra del martes 29 de abril",
+    "media_desc": "Emilio Pascual, Mart\u00edn Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin aztertu dugu arabarrek Realeko txuriurdinen aurka lortutako garaipen garrantzitsua.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -817,8 +817,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Meatzaritza. Mineralen ustiaketa eta geopolitika",
-    "media_desc": "Mundua bloketan edo influentzia eremuetan banatzen ari da eta eremu bakoitzak, bere subiranotasuna nahi du,  bere independentzia. Izan energian, defentsan edota mineraletan, meatzaritzan.",
+    "media_title": "Munduko itzalaldiak",
+    "media_desc": "Hemen oso ezohikoa eta tragikoa dena, planetaren zati handi batean, erabat ohikoa eta egunerokoa da. Puerto Ricon sarri ematen dira itzalaldiak, Bad Bunnyk berak jaso du hori bere kantuetan. 2012an 620 milioi pertsona argi gabe utzi zituen Indian itzalaldi batek. Kuban berriz, azpiegituren egoerak ohiko bilakatu ditu itzalaldiak. Eta Venezuelan, hamaika aitzakia ematen ditu gobernuak etenaldi horiek argudiatzeko, baita iguana batek kableak jan izana ere. 2003an itzalaldi oso garrantzitsua egon zen Estatu Batuetan eta Kanadan. Uda betean, abuztuaren 14tik 16ra. New york, Toronto, Detroit eta beste hainbat hiri handi harrapatu zituen, beraz, aire giroturik ez.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7f789197-b284-4b5e-ad72-e88a7c003214.jpg"
   },
   "1764": {
@@ -1393,8 +1393,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/91435160-cd27-4144-87d9-e745d584fe04.jpg",
-    "media_title": "Araban barrena bertsolaritza zabaltzen",
-    "media_desc": "Bertsozale Elkartea lanean ari da bertsoak Arabako txoko gehiagotara hel daitezen. Une honetan, hiru proiektu pilotu dituzte. Irati Anda eskalatzaile eta bertsolariak azaldu dizkigu."
+    "media_title": "Conocemos \"de cerca\" a Irantzu Lekue, artista multidisciplinar y activista",
+    "media_desc": "Irantzu Lekue artista arabarraren bizi-etapak gertutik ezagutu ditugu. Bere alderik intimoena eta baita esku artean dituen proiektuak ere."
   },
   "1441": {
     "rss": "https://guau.eus/series/1441/rss.xml",
@@ -2296,8 +2296,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Promoci\u00f3n la C\u00e1tedra",
-    "media_desc": null
+    "media_title": "Alav\u00e9s-Atl\u00e9tico este s\u00e1bado a la una y media",
+    "media_desc": ""
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2316,7 +2316,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Valencia-Baskonia este domingo a las 12",
+    "media_title": "Baskonia-Zaragoza este s\u00e1bado a las cuatro y media",
     "media_desc": ""
   },
   "1305": {
