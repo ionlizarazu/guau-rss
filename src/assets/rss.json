@@ -1339,8 +1339,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Andreak whatsappeko eguneraketa berriak azaldu dizkigu",
-    "media_desc": "Andrea Aranburuk whatsappera iritsi diren eguneraketak azaldu ditu adimen artifizialaren bueltan.",
+    "media_title": "Onintza Enbeita: \"ez kontatu zuen erditzeak\"",
+    "media_desc": "Bere haurdunaldian zehar milaka erditze istorio entzun behar izan omen ditu Onintzak. Orain bera entzun dezagun nahi du.  Entzun ezazu ba esateko duena.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1370,8 +1370,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Irrati transistoreen salmenta hirukoiztu egin da",
-    "media_desc": "Hondamendiei aurre egiteko larrialdi kit-a prestatzeko agintarien deiak bere efektua izan du.",
+    "media_title": "Jason Derulo artistaren beste aldea ezagutu dugu",
+    "media_desc": "Garai batean txoko guztietan geneukan artista da Jason Derulo. Bere B aldean sartu dugu muturra.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b947ea12-0f7a-4708-8f7e-845fcedf35e7.jpg"
   },
   "1413": {
@@ -1393,8 +1393,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/91435160-cd27-4144-87d9-e745d584fe04.jpg",
-    "media_title": "Conocemos \"de cerca\" a Irantzu Lekue, artista multidisciplinar y activista",
-    "media_desc": "Irantzu Lekue artista arabarraren bizi-etapak gertutik ezagutu ditugu. Bere alderik intimoena eta baita esku artean dituen proiektuak ere."
+    "media_title": "La Generaci\u00f3n Milennial y su visi\u00f3n del trabajo y del futuro en este primero de mayo",
+    "media_desc": "\"D\u00e9jate LLevar\" irratsaioan jakin nahi izan dugu zer pentsatzen duten eta nola ikusten duten haien etorkizuna belaunaldi horretako lau pertsonak.  Mikel Ezkerro, Jokin Azkoaga, Miren Rico eta Irati Camonekin lan duinaz, soldata prekarioez eta etorkizunaz hitz egin dugu."
   },
   "1441": {
     "rss": "https://guau.eus/series/1441/rss.xml",
@@ -1817,7 +1817,9 @@
     "title": "Historias de cerca Programa",
     "description": "Bizitzako istorioak, protagonistek lehen pertsonan kontatzen dituzten hurbileko kontakizunak, herri oso baten oroimena bihurtzen diren gauza txikiak. Gerora igaro diren semblanzak eta kronikak\n\n\n",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/2ab511c1-ea18-406c-bb13-c6a8f48f0a14.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2ab511c1-ea18-406c-bb13-c6a8f48f0a14.jpg",
+    "media_title": "La patata, la joya de Alava",
+    "media_desc": "Patata da gehien desiratzen eta erabiltzen den produktuetako bat, eta, zalantzarik gabe, gure amek eta amonek prestatzen zituzten haurtzarora eta plateretara atzerarazten gaitu. Gogora dezagun zer eman dion patatak Arabari, eta ezagutu ditzagun birsortze proiektuak eta barietateak, Arabari aberastasuna dakarkiotenak.\n"
   },
   "1639": {
     "rss": "https://guau.eus/series/1639/rss.xml",
@@ -2688,8 +2690,8 @@
     "description": "Radio Vitoriak Arabako herrietako jaien berri ematen dizu\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/533a1465-c7f4-4ff4-b794-0c7459fd0aa6.jpg",
-    "media_title": "Preg\u00f3n de Isabel Mell\u00e9n. Fiestas de  2025",
-    "media_desc": "Isabel Mell\u00e9n historialari, ikertzaile eta dibulgatzaileak San Prudentzio eta Estibalizko Andre Mariaren pregoiko festarako deia egin du 2025ean"
+    "media_title": "Fiestas en Gardea (Laudio)",
+    "media_desc": ""
   },
   "1495": {
     "rss": "https://guau.eus/series/1495/rss.xml",
