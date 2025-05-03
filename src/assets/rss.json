@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "I\u00f1igo Juez, presidente de AJEBASK Araba, asociacion de J\u00f3venes Empresarios",
-    "media_desc": "I\u00f1igo Juez, AJEBASK, Arabako Enpresari Gazteen Elkarteko presidentea",
+    "media_title": "Maite C\u00f3rdoba, alcaldesa de Lapuebla de Labarca y Mara Garc\u00eda, alcaldesa de Moreda",
+    "media_desc": "Maite Cordoba, Lapuebla de Labarcako alkatea eta Mara Garcia, Moredako alkatea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -589,8 +589,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Vargas Llosa en Euskadi: \"Los nacionalismos son antidemocr\u00e1ticos\"",
-    "media_desc": "Peruko idazleak 2010ean Literaturako Nobel Saria jaso zuen eta eragin intelektual handia izan zuen: liberalismo klasikoaren defendatzailea, Latinoamerikako ezkertiarren kontrakoa.",
+    "media_title": "\"Ser\u00eda un retroceso no apostar por un papa del estilo de Francisco\"",
+    "media_desc": "Espainiak Vatikanoaren aurrean duen enbaxadoreak Frantzisko Aita Santu zena gizon afektiboa dela esan du, umore handikoa, eta agintari handi gisa izan duen alderdia nabarmendu du, aita santu berri gisa aukeratua izango denak jarraipen ildo bat izan dezan baikortasuna erakutsiz",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -1441,8 +1441,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "El nuevo agro vasco",
-    "media_desc": "Antonio Lovelli arkitekto italiarrak eta Antoine Latour albaitaria frantsesak (argazkian) ametsak betetzeko leku aproposa aurkitu dute Bizkaian. Erasmus programa batean eskualdea arakatu ostean, euren lotura lurrarekiko konpromiso bihurtzea erabaki zuten: perretxikoak haztea Lemoizen eta fruta eta barazkiak Gatikan.",
+    "media_title": "VOST Euskadi ayuda sobre desapariciones y bulos en redes sociales",
+    "media_desc": "Alazne Villar VOST Euskadiko presidentearekin, 2012an sareko iruzurrari aurre egiteko, babes eta segurtasun aholkuak eskaintzeko eta desagerpen baten ondorengo prozesuan laguntzeko sortu zen larrialdi egoeretan boluntario digitalen elkartearen lana ezagutuko dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/58cf06e6-1968-4e6a-a05e-8b994b6313c3.jpg"
   },
   "1645": {
@@ -1682,7 +1682,9 @@
     "title": "Hitza jolas",
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
+    "media_title": " Itziarko eta Ordiziako afalostekoak",
+    "media_desc": "Afalosteko bi bertso saiorekin osatu dugu \u201cHitza Jolas\u201den atal hau. Itziarko auzo-udalaren urteurrenekoa bata, Ordiziako Emaneurre taldearen urteroko hitzordua bestea. Biak ere umore kutsu handiko saioak izan zirela jabetuko zara."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
