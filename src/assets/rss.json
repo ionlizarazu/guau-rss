@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Maite C\u00f3rdoba, alcaldesa de Lapuebla de Labarca y Mara Garc\u00eda, alcaldesa de Moreda",
-    "media_desc": "Maite Cordoba, Lapuebla de Labarcako alkatea eta Mara Garcia, Moredako alkatea",
+    "media_title": "Clara Navas, Directora de Turismo y Hosteler\u00eda",
+    "media_desc": "Clara Navas, Turismo eta Ostalaritzako zuzendaria",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -2300,8 +2300,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Alav\u00e9s-Atl\u00e9tico este s\u00e1bado a la una y media",
-    "media_desc": ""
+    "media_title": "Promoci\u00f3n la C\u00e1tedra",
+    "media_desc": null
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2786,5 +2786,12 @@
     "description": "Euskarazko irrati-nobela. Carlos P\u00e9rez Uralde II. Irrati Antzerki Lehiaketaren irabazlea\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1f718390-5220-4142-8719-b84b60b59127.jpg"
+  },
+  "1846": {
+    "rss": "https://guau.eus/series/1846/rss.xml",
+    "title": "Arteari begira",
+    "description": "Arte lanek ezkutatzen dituzten istorioak, Aintzane Erkizia arte historialariaren eskutik, arteaz gehiago gozatzeko.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/e7d0817b-eb15-429d-8657-3e25a4018465.png"
   }
 }
