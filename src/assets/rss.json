@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Clara Navas, Directora de Turismo y Hosteler\u00eda",
-    "media_desc": "Clara Navas, Turismo eta Ostalaritzako zuzendaria",
+    "media_title": "Ana del Val, Diputada de Cultura y Deporte",
+    "media_desc": "Ana del Val, Kultura eta Kirol diputatua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -2304,8 +2304,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Promoci\u00f3n la C\u00e1tedra",
-    "media_desc": null
+    "media_title": "Athletic-Alav\u00e9s este domingo a las seis de la tarde",
+    "media_desc": ""
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2324,7 +2324,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Baskonia-Zaragoza este s\u00e1bado a las cuatro y media",
+    "media_title": "Joventut-Baskonia este s\u00e1bado a las cuatro y media",
     "media_desc": ""
   },
   "1305": {
@@ -2797,5 +2797,12 @@
     "description": "IKT eta sare sozialek ezkuta ditzaketen arriskuetaz ohartarazi nahi duen podcasta da \"PrebenTIK\". Fikzioaren bidez, arrisku kasu errealak lantzen dira eta hauetan oinarrituta azalerazten dira adibideak, egoera zail horiei nola aurre hartu eta prebentzioaren garrantziaz ohartarazteko. Tresnak eskura jartzea da helburua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/af94d1fa-dc24-4d83-9577-796ee2ea861b.jpg"
+  },
+  "1847": {
+    "rss": "https://guau.eus/series/1847/rss.xml",
+    "title": "Secretos",
+    "description": "Carlos P\u00e9rez Uralde irrati-antzerki gidoien II. lehiaketa. Bigarren saria.\n",
+    "media_type": "video",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/39601cbf-f770-41a8-a48b-7b63d89818b1.jpg"
   }
 }
