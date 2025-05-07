@@ -4,8 +4,8 @@
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. \n",
     "media_type": "video",
-    "media_title": "4. \"Ander, Josean Bengoetxea",
-    "media_desc": "Baserri giroan gertatzen den \u201cAnder\u201d filma izango da, Josean Bengoetxea aktore ezaguna sakonago ezagutzeko bidea \u201cKlaketa\u201d podcastaren atal honetan. Filma 2009. urtean estreinatu zen arren, hamar urtez egon zen, zinema aretoetan estreinatu gabe. \nBi gizon homosexual protagonista dituen filmak izugarri markatu zuen protagonista, bestelako mundu batean murgildu behar izan zuela aitortu izan du. ",
+    "media_title": "5. \"80 egunean\", Ane Gabarain",
+    "media_desc": "Hogeita hamar saritik gora eskuratu ditu 2009an argitaratu zenetik  Joxe Mari Goenaga eta Jon Gara\u00f1oren \u201c80 egunean\u201d filmak. 70 urteko bi emakumeren arteko harremanean oinarritzen da, eta begiradek, keinuek eta isiluneek garrantzi handia hartzen dute. Ane Gabarain da filmaren protagonistetako bat eta berak azaldu dizkigu filmaren ingurukoak \u201cKlaketa\u201d podcastaren atal honetan. Bide batez, 2025ko Goya saridunarekin bere aktore ibilbidean sakondu du Gaizka Izagirrek. ",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8c4e9ce-2814-4d27-849d-69c28fe0ddea.jpg"
@@ -55,8 +55,8 @@
     "title": "Bi ahotsetan ",
     "description": "Zein doinu du maitasunak? Nola abesten zaio heriotzari? eta nostalgiari?... Donostiako Musika Hamabostaldiaren podcast sailaren atal bakoitzean, musika klasikoa aitzaki hartuta, horren inspirazio iturri izan diren gai unibertsalei buruz solasean ariko dira Joseina Etxeberria, kazetaria, eta euskal gizartean eremu jakin batean bere jardunagatik (kultura, kirola\u2026) ezaguna den gonbidatu bat. Musika klasikoa eta solasaldia uztartuta, lasai entzun eta gogoeta egiteko saioa.",
     "media_type": "audio",
-    "media_title": "1. Harkaitz Cano, bidaia eta nostalgia",
-    "media_desc": "\u201cBizitza bidaia bezala sentitzea iruditzen zaidak gizakiak baduela oso berea hasieratik\u2026 Ziur aski lehenbiziko trama edo literatura zer zen edo istorio bat zer zen ez zekielarik, gizakiak bazekien zer zen bidaia bat\u201d. Harkaitz Canok eta Joseina Etxeberriak bidaiaz eta nostalgiaz dihardute atal honetan, Beethoven eta Messiaen ere bidelagun dituztela. \nMusika:\n- L. V. BEETHOVEN: Schinsucht (Nostalgia), ahots eta pianorako lied-a\n- O. MESSIAEN: Quatuor pour la fin du temps (Denboren amaierarako kuartetoa)",
+    "media_title": "2. Edurne Pasaban, bakardadea",
+    "media_desc": "\u201cNi bakardadean ez naiz gaizki bizi, behar bada ohitu egin naizelako; behar bada mendiak egin nau horrela; ez naiz bakarrik egotea gustuko duen horietakoa. Baina nire bizitzan egin dudan guztiak, erabakiak bakartasunean erraz hartzera eraman nau\u201d. Edurne Pasaban eta Joseina Etxeberriak bakardadea izan dute hizpide \u201cBi ahotsetan\u201d podcastaren bigarren atalean, Debussy eta Tchaikovskyren musikaz lagunduta.\nMusika:\nC. DEBUSSY: Clair de lune\nP. I. TCHAIKOVSKY: 6. Sinfonia, \"Patetikoa\" (zatia)",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a15665ac-2a69-40a2-b054-736bff32fc87.jpg"
@@ -66,8 +66,8 @@
     "title": "Egia gordinetik",
     "description": "\"Egia gordinetik\" soinu-fikzioak Mari Sagarzazu neska gaztearen bizitzaren pasarte bat kontatzen du. Marik bere baserri munduko mugak zabaltzeko beharra sentitzen du eta aktoresa izatea du amets. Helburu hori lortzeko asmoz eraikitako bidean, oztopo eta amildegi latzak bizi beharko ditu. Baina baita une zirraragarri eta gozo askoak ere, ibilera horretan gurutzatuko zaizkion lagun zintzoei esker. \nIkasketak, lana, inbidiak, estutasunak, laguntasuna\u2026 Banbalina arteko amodio istorioa eta gehiago!\n",
     "media_type": "audio",
-    "media_title": "3. Kakazaharra!",
-    "media_desc": "TAEko kurtso amaierako antzerki obra estreinatu dute. Sekulako arrakasta izan da.",
+    "media_title": "4. Fitxajea",
+    "media_desc": "Joxeluis Altolagirre antzerki-enpresari entzutetsuak protagonista papera eskaini dio Mariri, laster taularatzeko asmoa duen ikuskizunean.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b7faec-2f74-4e9a-8a8f-7a6055b776eb.jpg"
@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Ana del Val, Diputada de Cultura y Deporte",
-    "media_desc": "Ana del Val, Kultura eta Kirol diputatua",
+    "media_title": "Maite Ruiz de Austri, presidenta de Apika, Asociaci\u00f3n de Productores Audiovisuales Independientes de Araba.",
+    "media_desc": "Maite Ruiz de Austri, Apika Arabako Ikus-entzunezko Ekoizle Independenteen Elkarteko presidentea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -692,8 +692,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "3. Goodbye Volcano High",
-    "media_desc": "\"Jokutopia\"ren atal honetan albisteak azkar-azkar kenduko ditugu gainetik. Txartel grafiko berriek eman dute zer esana jokalarion artean, baina garrantzitsuena bideojoko zehatz baten analisia izango da, dinosauroz jositako \"Goodbye Volcano High\".",
+    "media_title": "4. PS5 Pro eta Duck Detective",
+    "media_desc": "Sony-ren kontsola berriaren gako guztiak aztertu ditugu \u201cJokutopia\u201dren atal honetan. Zenbat hobetzen dira jokoak gailu berriari esker? Zer aukera berri ematen ditu? Eta batez ere... benetan al da hori prezioa? \nBukatzeko, Duck Detective komentatu dugu, abentura ahaztezina eskaintzen duen joko txiki bezain dibertigarria.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -714,8 +714,8 @@
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
-    "media_title": "Mark Knopfler: \u201cDire Straits-en musikak jende askoren bizitza aldatu zuen\"",
-    "media_desc": "Knopfler-ek gitarra jotzeko garatu zuen estiloan zerikusi handia izan zuen bere jatorri apalak: hamabost urterekin, gurasoek esfortzu handia eginez bere lehen gitarra oparitu ziotenean ez zekiten anplifikadorerik gabe ez zebilenik, eta \u201cFingerpicking\u201d, hau da, hatzekin jotzen hasi zen.",
+    "media_title": "Mark Knopfler (II) : Gizon diskretua, sailetik aparteko gitarrista",
+    "media_desc": "1985ean, Dire Straits-en \"Brothers in Arms\" fenomeno globala bihurtu zen. Mark Knopfler zuten talde buru eta aurretik zein ondoren, bakarlari modura edota beste batzuekin elkarlanean argitaratu duen musikaren onena biltzen jarraitu du Irantzu Karrerak, \u201cPasaiak\u201d podcastaren atal honetan.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -936,8 +936,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0ca6183a-10ce-41ae-86de-d86937a1c470.jpg",
-    "media_title": "Ciclismo y literatura",
-    "media_desc": "Kapitulu honetan txirrindularitzaren eta literaturaren arteko lotura aztertu nahi dugu. Ander Izagirre idazleak elkarrizketa batean esan zuenez, Tourra \"egitura narratibo klasiko perfektua da, bere hasiera, korapiloa eta amaierarekin\", \"erritmoa\", \"protagonistak eta antagonistak\" eta \"trama\" bat du, etapak lehiatzean azaltzen dena.\nAnder Izagirreren \"C\u00f3mo ganar el giro bebiendo sangre de buey\" eleberriaz ari gara. Bira nola sortu zen eta bere historia eta istorio guztiak kontatzen ditu.\n\"Landismo\" Mikel Landa txirrindulari arabarrari buruzko liburua. Besteak beste, Ander Izagirrek, Peio Ruiz Cabestanyk eta Txani Rodriguezek parte hartzen dute.\nDavid Conventryren \"La milla invisible\" liburuak Tourrean parte hartu zuen lehen talde ingelesaren odisea kontatzen du.\nJulen Gabiriaren \"Han goitik itsasoa ikusten da\"; protagonista Michele Bartoli korrikalari italiarra da.\nEugenio Fuertesen \"Contrarreloj\" Tourreko laugarren etapan gertatzen ari den historia batekin, non sailkapeneko liderra hil duten."
+    "media_title": "Ruptura de la normalidad",
+    "media_desc": "Kapitulu honetan, begiak irekitzean eta ixtean segurtasun-sentsazioa nola desager daitekeen erakusten diguten liburuez hitz egingo dugu\n1. Jos\u00e9 Saramagoren \"ensayo sobre la ceguera\". Nobela honek irakurlea zibilizazioaren hauskortasunaz, elkartasunaren garrantziaz eta gizateriak ontasunerako eta gaiztakeriarako duen gaitasunaz hausnartzen uzten du.\n2. J.G. Ballarden \"Lehortea\". Ura, gizakiaren ondasunik preziatuena, iraganeko luxua da. Industriak urte askoan isuri erradioaktiboak izan ondoren, itsasoan geruza babesle bat eratu da, behin eutsi zion planeta suntsitzeko bezain gogorra eta erresistentea. Eta eguzki damugabe batek hilzorian dauden lurrak jotzen dituen bitartean, zibilizazioa bera erortzen hasten da. Indarkeria sortzen da, eta eromena nagusitzen da etsipenaren munduko basamortuan bizirauteko borrokan ari den gizateria baten artean.\n3. De De Lilloren \"El silencio\" filmak Manhattaneko apartamentu batean 2022an afaltzen ari diren bost lagunen istorioa kontatzen du, itzalaldi global batek mundua argirik eta konexio digitalik gabe uzten duenean. Nobelak nortasuna eta gizatasuna aztertzen ditu teknologiarik gabeko mundu batean, eta zalantzan jartzen du zer geratzen den gugandik konexio digitalak eteten direnean."
   },
   "1547": {
     "rss": "https://guau.eus/series/1547/rss.xml",
@@ -1297,8 +1297,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Ainhoa Vitoria: Nor da Jos\u00e9Luis? ",
-    "media_desc": "Sonyk fitxatutako artista murtziarraren lau kantak entzun ditugu. Gitarran lau akorde dakizki eta musikaria izan ezean, artista bat dela dio gaurko protagonistak.",
+    "media_title": "Joseina Etxeberria: Gariren bakarkako ibilbideak 30 urte ",
+    "media_desc": "Gariren bakarkako ibilbideko lehen diskoaren berredizioa ekarri digu Joseinak, eta Hertzainaken amaieratik aro berri honetara emandako pausuak kontatu dizkigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e596b5c7-33b0-4154-88e6-d3844d668048.jpg"
   },
   "1582": {
@@ -1372,8 +1372,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Jason Derulo artistaren beste aldea ezagutu dugu",
-    "media_desc": "Garai batean txoko guztietan geneukan artista da Jason Derulo. Bere B aldean sartu dugu muturra.",
+    "media_title": "Oroitzapenak desblokeatzen Betagarrirekin",
+    "media_desc": "Betagarriren kantak entzun ditugu Ainhoa Etxebarriaren musika nostalgikoaren tartean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b947ea12-0f7a-4708-8f7e-845fcedf35e7.jpg"
   },
   "1413": {
