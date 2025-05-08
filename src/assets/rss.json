@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Maite Ruiz de Austri, presidenta de Apika, Asociaci\u00f3n de Productores Audiovisuales Independientes de Araba.",
-    "media_desc": "Maite Ruiz de Austri, Apika Arabako Ikus-entzunezko Ekoizle Independenteen Elkarteko presidentea.",
+    "media_title": "I\u00f1igo Juez, presidente de AJEBASK Araba, asociacion de J\u00f3venes Empresarios",
+    "media_desc": "I\u00f1igo Juez, AJEBASK, Arabako Enpresari Gazteen Elkarteko presidentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -1275,8 +1275,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Michel Etchebest, erretreta hartu berritan",
-    "media_desc": "Artzainak lantegi-taldearen gidaritza utzi du aste honetan. Maule-Lextarreko alkate ere izandakoak enpresa-munduan eta politikan eginiko ibilbidea errepasatu du Faktorian.",
+    "media_title": "Konklabearen giltzak",
+    "media_desc": "80 urtez azpiko 133 kardinal, ezkutuko bozkak, eta tximiniako kea, horiek dira Vatikanoko estatu burua aukeratzeko konklabearen ezaugarri nagusienetarikoak, baina nola funtzionatzen du? Maitane Subijana",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1483,8 +1483,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Araia y su patrimonio industrial y natural",
-    "media_desc": "Asparrena udalerriaren buru den herri hau hirigunean eta inguruan iragan industrialak utzitako ondareagatik nabarmentzen da. Araia XIX. mende amaierako euskal siderurgiaren sorlekua da.",
+    "media_title": "Arriba, Mayo!!!!",
+    "media_desc": "Urtero, maiatzaren 3an, Done Bikendi Haranako kontzejuak pago bat altxatzen du maiatzean, ekaitzetatik eta txingorretik babesteko sinboloekin \"jantzia\", soroak babesteko. #aranako udalerriko ekialdeko espazio komunak garbitzeko bidezidor edo auzolan batekin hasiko da jardunaldia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -2609,9 +2609,9 @@
     "rss": "https://guau.eus/series/1694/rss.xml",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Altruista naiz pertsona ona naizelako edo irudi hori eman nahi dudalako?",
+    "media_title": "Max Martinek asmatutako perlak Ekain Perezekin",
     "media_type": "audio",
-    "media_desc": "\"Dilemamarratxeoan\" altruista izateari buruz aritu gara. Hauxe, Malen Altunak eta Aitziber Gradosek botatako galdera: ekintza solidarioak egiten ditugu pertsona onak garelako edo irudi hori eman nahi dugulako? Altruistak gara besteei laguntzeko asmoa dugulako edo gure burua hobeto sentiarazteko? Dilemaren aurrean, konponbideak eman dizkigute.",
+    "media_desc": "Ezagutzen duzu Max Martin? Bereak diren kanta asko entzun dituzu, baina agian ez zara jabetu nor dagoen sorkuntza horien atzean. Atal honetan, 1997tik gaur egunerainoko hit handienak deskubrituko dituzu Ekain Perezekin.",
     "title": "Bitan",
     "description": "Gazteako asteburuetako magazina. Zineaz, literaturaz, antzerkiaz eta, batez ere, musikaz osatuko ditugu larunbat eta igandeetako goizak. 09:00etatik 11:00etara, Ainhoa Vitoria eta Sara Alonsoren eskutik, Bitan!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e8818160-4f0c-498e-ab99-5937758449ee.jpg"
@@ -2696,7 +2696,7 @@
     "description": "Radio Vitoriak Arabako herrietako jaien berri ematen dizu\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/533a1465-c7f4-4ff4-b794-0c7459fd0aa6.jpg",
-    "media_title": "Fiestas en Gardea (Laudio)",
+    "media_title": "Fiestas en Y\u00e9cora 10 de mayo",
     "media_desc": ""
   },
   "1495": {
@@ -2744,7 +2744,7 @@
   "1774": {
     "rss": "https://guau.eus/series/1774/rss.xml",
     "title": "Erreleboa Vatikanoan",
-    "description": "Frantzisko Aita Santua hil ondoren, zer gertatuko da Vatikanoan? Euskadi Irratiaren eduki berezia.",
+    "description": "Zer berri Vatikanoan? Euskadi Irratiaren eduki berezia.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/759ec776-fd9d-4271-9135-d1baf5a9c813.jpg",
     "media_title": "Vatikanoa ulertzeko film eta telesailak, Mikel Yarzaren eskutik.",
