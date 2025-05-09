@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "I\u00f1igo Juez, presidente de AJEBASK Araba, asociacion de J\u00f3venes Empresarios",
-    "media_desc": "I\u00f1igo Juez, AJEBASK, Arabako Enpresari Gazteen Elkarteko presidentea",
+    "media_title": "Belen Mu\u00f1iz, directora del EUSTAT",
+    "media_desc": "Belen Mu\u00f1iz, Eustateko zuzendaria",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -578,8 +578,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"La voz que nos une\" este s\u00e1bado a las diez menos cuarto",
-    "media_desc": "",
+    "media_title": "Insultos de otra \u00e9poca: m\u00e1s elaborados pero ofenden igual!",
+    "media_desc": "Aintzineko irainak: landuagoak, baina oraingoak bezain mingarriak!\n\nEuskarazko irainak, adibidez...puta ordia apez alaba, adaburu adarra, axari, gaisto andurra, ordi zarra... gaztalaniazkoak ere bai : tranca del infierno (gaiztoa), badaj\u00f3n con panza malsonada (ergela), hocicos de cepa de Baru\u00e9s (mozkorra), boca de esportizos (ahozabala), pantierno (tuntuna), pisiacamas (zikina, txizatia), chismindero (kuxkuxeroa), mandilona (koldarra),  bachillerejo, bellacaz\u2026\n\n Nafarroako artxiboan jaso dituzte aintzineko irain hauek, XVI-XVII. mendekoak \"Beste garai bateko irainak\" izeneko erakusketan. Irain hauek, bere testuingurua, irantzaileam eta irainduak nortzuk ziren hobeto ezagutu ditugu erakusketaren komisarioei esker: Jes\u00fas Mar\u00eda Usun\u00e1riz, Nafarroako Unibertsitateko Historia Modernoko katedraduna, eta Cristina Tabernero, Nafarroako Unibertsitateko Gaztelaniako katedraduna.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -1372,8 +1372,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Oroitzapenak desblokeatzen Betagarrirekin",
-    "media_desc": "Betagarriren kantak entzun ditugu Ainhoa Etxebarriaren musika nostalgikoaren tartean.",
+    "media_title": "Itzal bila Anixerekin",
+    "media_desc": "Shademap webgunea gomendatu digu. Mapa honen bidez, eguzki-argia eta itzala topa ditzakegu modu oso errazean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b947ea12-0f7a-4708-8f7e-845fcedf35e7.jpg"
   },
   "1413": {
@@ -2164,7 +2164,9 @@
     "title": "Asuntos de anta\u00f1o y hoga\u00f1o",
     "description": "Baliabide soziologiko, psikologiko edo estetiko hutsek forma eman diote modaren historiari eta herri-kulturari. Berezitasun kostunbristetan eta zoriontasun oharkabean. \n",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/b52ebb2f-3e69-4f96-9d7e-d8fb4e4311ad.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/b52ebb2f-3e69-4f96-9d7e-d8fb4e4311ad.jpg",
+    "media_title": "El beso de la Victoria",
+    "media_desc": "2025ean, Bigarren Mundu Gerraren amaieraren 80. urteurrena ospatzen da, eta 1945eko maiatzaren 9an, Europan Aliatuen Garaipenaren Eguna, Alemania naziak baldintzarik gabeko errendizioa sinatu zuen eguna. Seguruenik, sufrimenduz betetako urteak eta 60 milioi hildako baino gehiago utzi zituen gerra baten amaiera iragarri ondoren sortutako poza hobekien irudikatzen duen irudia Times Squareko (New York) marinel baten eta erizain baten arteko musu ikonikoarena da, Bigarren Mundu Gerraren amaiera ofizialaren iragarpenaren ondorengo bat-bateko ospakizunen esparruan. V-J Day in Times Square izenburua duen argazki hau, gaur egun ospetsua den Alfred Eisenstaedtek sinatua, hogeigarren mendeko irudirik adierazgarrienetakoa bihurtu da. Argazkia 1945eko abuztuaren 14an atera zen."
   },
   "1299": {
     "rss": "https://guau.eus/series/1299/rss.xml",
