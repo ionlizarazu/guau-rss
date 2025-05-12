@@ -146,8 +146,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Belen Mu\u00f1iz, directora del EUSTAT",
-    "media_desc": "Belen Mu\u00f1iz, Eustateko zuzendaria",
+    "media_title": "Pedro D\u00e1vila, Presidente de la Asociaci\u00f3n de Autoescuelas de \u00c1lava",
+    "media_desc": "Pedro D\u00e1vila, Arabako Autoeskolen Elkarteko presidentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -2306,8 +2306,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Athletic-Alav\u00e9s este domingo a las seis de la tarde",
-    "media_desc": ""
+    "media_title": "Promoci\u00f3n la C\u00e1tedra",
+    "media_desc": null
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2698,7 +2698,7 @@
     "description": "Radio Vitoriak Arabako herrietako jaien berri ematen dizu\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/533a1465-c7f4-4ff4-b794-0c7459fd0aa6.jpg",
-    "media_title": "Fiestas en Y\u00e9cora 10 de mayo",
+    "media_title": "Fiesta de San Isidro en Loza este s\u00e1bado",
     "media_desc": ""
   },
   "1495": {
