@@ -4,8 +4,8 @@
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. \n",
     "media_type": "video",
-    "media_title": "5. \"80 egunean\", Ane Gabarain",
-    "media_desc": "Hogeita hamar saritik gora eskuratu ditu 2009an argitaratu zenetik  Joxe Mari Goenaga eta Jon Gara\u00f1oren \u201c80 egunean\u201d filmak. 70 urteko bi emakumeren arteko harremanean oinarritzen da, eta begiradek, keinuek eta isiluneek garrantzi handia hartzen dute. Ane Gabarain da filmaren protagonistetako bat eta berak azaldu dizkigu filmaren ingurukoak \u201cKlaketa\u201d podcastaren atal honetan. Bide batez, 2025ko Goya saridunarekin bere aktore ibilbidean sakondu du Gaizka Izagirrek. ",
+    "media_title": "6. \u201cMuga deitzen da pausoa\u201d, Izaskun Arandia",
+    "media_desc": "Maider Oleagak zuzendutako \u201cMuga deitzen da pausoa\u201d, Elbira Zipitria andere\u00f1oaren nondik norakoak kontatzen dituen film dokumentala da \u201cKlaketa\u201dren atal honetako hizpidea. Izaskun Arandia izan zen dokumentalaren ekoizlea eta bere kontakizunaren bitartez, xehatuko ditugu proiektuan izandako gorabeherak, Arandiaren lana, ibilbidea eta ekoizleen zeregina nolako izaten den ekoizpenetan.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8c4e9ce-2814-4d27-849d-69c28fe0ddea.jpg"
@@ -66,8 +66,8 @@
     "title": "Egia gordinetik",
     "description": "\"Egia gordinetik\" soinu-fikzioak Mari Sagarzazu neska gaztearen bizitzaren pasarte bat kontatzen du. Marik bere baserri munduko mugak zabaltzeko beharra sentitzen du eta aktoresa izatea du amets. Helburu hori lortzeko asmoz eraikitako bidean, oztopo eta amildegi latzak bizi beharko ditu. Baina baita une zirraragarri eta gozo askoak ere, ibilera horretan gurutzatuko zaizkion lagun zintzoei esker. \nIkasketak, lana, inbidiak, estutasunak, laguntasuna\u2026 Banbalina arteko amodio istorioa eta gehiago!\n",
     "media_type": "audio",
-    "media_title": "4. Fitxajea",
-    "media_desc": "Joxeluis Altolagirre antzerki-enpresari entzutetsuak protagonista papera eskaini dio Mariri, laster taularatzeko asmoa duen ikuskizunean.",
+    "media_title": "5. Protagonista",
+    "media_desc": "Ama pozez gainezka dago alabaren lanarekin. Joxeluis aspaldidanik miresten duen idoloa da berarentzat. Aitari, ordea, ez dio grazia handirik egiten alabari egin dion eskaintzak. ",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b7faec-2f74-4e9a-8a8f-7a6055b776eb.jpg"
@@ -79,7 +79,9 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/7d179f13-3bc7-4365-9bca-98649f9c7bcf.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/7d179f13-3bc7-4365-9bca-98649f9c7bcf.jpg",
+    "media_title": "146. Envenenadoras en serie",
+    "media_desc": "Giulia Toffana perfumista eta zientzialari italiarrak sortutako pozoia da accqua toffana, eta haren bizitza bizia Vanessa Montfort eleberrigileak berreskuratzen du. Bere eleberrian Betiereko Hirira bidaiatu genuen eta 1658ko otsailean egin genuen. Diotenez, ehunka senar erori ziren apurka-apurka egiten ari zen pozoi horren biktima, susmorik ez sortzeko, ordurako autopsiak egiten ari zirelako eta pozoiak detekta zitezkeelako. Ganbara beltzaren atal berri honetan, pozoien eta pozoitzaileen istorioei buruz hitz egingo dugu Vanessa Montfort idazlearekin eta Marisol Doni \"Envenenadoras\" liburuaren egile eta kriminologoarekin."
   },
   "1301": {
     "rss": "https://guau.eus/series/1301/rss.xml",
@@ -115,7 +117,9 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/b75198ca-2d6c-4c76-82d1-e8742ffc67f4.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/b75198ca-2d6c-4c76-82d1-e8742ffc67f4.jpg",
+    "media_title": "As\u00ed es la nueva iluminaci\u00f3n del p\u00f3rtico de la Catedral de Santa Mar\u00eda",
+    "media_desc": "Santa Maria Katedralaren elizpeak argiztapen berria du. Portaden eta eskulturen gainean argi xeheak jartzea ahalbidetuko du, bisitariek xehetasun artistikoa hobeto ikusi ahal izan dezaten."
   },
   "1684": {
     "rss": "https://guau.eus/series/1684/rss.xml",
@@ -146,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Ixone Fernandez de Labastida, vicerrectora del Campus de \u00c1lava",
-    "media_desc": "Ixone Fernandez de Labastida, Euskal Herriko Unibertsitateko Arabako Campuseko errektoreordea",
+    "media_title": "Ramiro Gonz\u00e1lez, Diputado General de \u00c1lava",
+    "media_desc": "Ramiro Gonz\u00e1lez, Arabako Diputatu Nagusia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -157,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Sindikalgintza eta gazteak. Bada atxikimendurik?",
-    "media_desc": "Amaiur Renteriak eta Unai Alavak 28 urtena dituzte eta zuzendaritza ardurak, LABn eta CCOOen, hurrenez hurren. Gazte belaunaldietan duten ordezkaritzaz eta indarraz aritu dira",
+    "media_title": "Eraikin industrializatuak, areagotzen ari den eraikuntza joera",
+    "media_desc": "Azken 5 urteetan asko handitu dira eraikuntza zati bat industrializatuta duten etxe-promozioak: balkoiak, komuna osorik edo etxeak ia osorik lantegitik eginda etortzen dira. Sopelan eraikitzen ari diren babes ofizialeko 33 etxeak horren adibide dira. Faktorian bisitatu ditugu",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -468,8 +472,8 @@
     "title": "Benetan zabiz? ",
     "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana ",
     "media_type": "video",
-    "media_title": "29. Lur Errekondo, sakrifizioak",
-    "media_desc": "Usurbildarra \u201cEl conquistador del fin del mundo\u201d ETB-2ko saioko kamera atzeko kontuez aritu zaie benetan-zabiztarrei. Bertan egiten duen aurkezle lanaz eta partaideekin duen harremanaz. \nNola sentitzen da Lur astez-aste partaideak kaleratzen dituztenean? Nola suertatu zitzaion aurkezle izateko aukera? Realityan parte hartuko luke berak? \nBestalde, kirolaz, sakrifizioaz eta Lurrek honekiko duen pasioaz ere aritu dira. Eskubaloia, harri-jasotzea\u2026 nola kudeatu ditu emozionalki sufritu izan dituen lesio ugariak? Sakrifizio asko egin behar izan ditu? Zein da egin duen handiena? \nMaria Blanco kolaboratzailea, ebakuntza estetikoez aritu da eta honek gaur egun gizartean sortzen duen presioaz.",
+    "media_title": "33. Ane Rot, \u201cElite\u201d telesaila eta mendekua",
+    "media_desc": "Txiki txikia zenetik artista izan nahi zuela bazekien; hori eta gauza gehiago deskubritu dituzte atal honetan Aitziber Grados  eta Malen Altunak. \nAne Rot arrasatearra ezagutu dute: ETB-1eko \u201cKantugiro\u201d saioan irabazten hasi, gero \u201cBagoaz\u201d musika saiotik igaro, kriminologia gradua ikasten hasi, Madrilera abentura berriak probatzera joan eta 4 hilabetera \u201cMickey Mouse Squad\u201d saioa aurkezten hasi zen. Geroztik, hainbat film eta \u201cElite\u201d telesaileko 8. denboraldian ikusi dugu. \n\nAnek \u201cBenetan Zabiz?\u201den atal honetan aitortu du Emiliaren pertsonaia interpretatu eta gero, haren izaera dela eta, jendeak gorrotatuko zuela. Nola bizi zuen \"Elite\"ko arrakasta? Zerikusia du Anek bere pertsonaiarekin? Hori aprobetxatuz, \u201cmendekuaz\u201d aritu dira. Zein izan da neskek hartu duten mendekurik handiena? \n\nArrosaliren tartean joko batera jolastu dira: Anek, bere mugikorreko sekretuak erakutsi ote dizkigu? \n",
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg"
@@ -578,8 +582,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Insultos de otra \u00e9poca: m\u00e1s elaborados pero ofenden igual!",
-    "media_desc": "Aintzineko irainak: landuagoak, baina oraingoak bezain mingarriak!\n\nEuskarazko irainak, adibidez...puta ordia apez alaba, adaburu adarra, axari, gaisto andurra, ordi zarra... gaztalaniazkoak ere bai : tranca del infierno (gaiztoa), badaj\u00f3n con panza malsonada (ergela), hocicos de cepa de Baru\u00e9s (mozkorra), boca de esportizos (ahozabala), pantierno (tuntuna), pisiacamas (zikina, txizatia), chismindero (kuxkuxeroa), mandilona (koldarra),  bachillerejo, bellacaz\u2026\n\n Nafarroako artxiboan jaso dituzte aintzineko irain hauek, XVI-XVII. mendekoak \"Beste garai bateko irainak\" izeneko erakusketan. Irain hauek, bere testuingurua, irantzaileam eta irainduak nortzuk ziren hobeto ezagutu ditugu erakusketaren komisarioei esker: Jes\u00fas Mar\u00eda Usun\u00e1riz, Nafarroako Unibertsitateko Historia Modernoko katedraduna, eta Cristina Tabernero, Nafarroako Unibertsitateko Gaztelaniako katedraduna.",
+    "media_title": "Donato Goyeneche: \u201cEs un sue\u00f1o que el Orfe\u00f3n Donostiarra interprete '\u00c1frica' en el Kursaal\"",
+    "media_desc": "Donato Goyeneche, konpositore nafarrak, aspaldiko ametsa beteko du: Donostiako Orfeoiak osotasunean interpretatuko bait du 1996-an konposatu zuen \u2018Afrika\u2019 kantata",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -589,8 +593,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"Ser\u00eda un retroceso no apostar por un papa del estilo de Francisco\"",
-    "media_desc": "Espainiak Vatikanoaren aurrean duen enbaxadoreak Frantzisko Aita Santu zena gizon afektiboa dela esan du, umore handikoa, eta agintari handi gisa izan duen alderdia nabarmendu du, aita santu berri gisa aukeratua izango denak jarraipen ildo bat izan dezan baikortasuna erakutsiz",
+    "media_title": "As\u00ed ser\u00e1 la previa de la final de Europa League en Bilbao",
+    "media_desc": "Areatza, kaia eta Arriaga Antzokia dira 'Fan Festival' jaialdirako izendatutako guneak, futbolzaleentzako hainbat hainbat jarduerekin. Maiatzaren 21ean UEFA Europa Leagueko finala jokatuko da, Bilbon ospatutako futbol ekitaldi handienetako bat. Sektoreek espero dute hitzordu horrek eragin ekonomikoa izatea hiriburuan. H\u00e9ctor S\u00e1nchez, Bizkaiko Ostalaritza Elkarteko gerentea elkarrizketatu dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -648,8 +652,8 @@
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
-    "media_title": "7. Aner Peritz: Eraberritzea eta disidentzia",
-    "media_desc": "Aner Peritzek bere bizitzaren ibilbidea errepasatu du \u201cEneagrama\u201dren atal honetan. Xabier Euzkitzeren semea izatearen, bertsolaritzaren munduaren eta genero disidentziaren ikuspegitik egin du.\nJokinek 3. eneatipoan sartu du, bat egingo du Anerrek bere buruaz duen irudiarekin?",
+    "media_title": "9. Galder Perez: Maskarak eta bakardadea",
+    "media_desc": "Galder Perezek bakardadea eta eguneroko bizitzan jazten ditugun maskarei buruzko erreflexioa egin du, antzerki munduaren inguruko esperimentazioak azaldu ditu eta antzerki sortzaile eta irrati esatariaren atzean dagoen pertsona ezagutzera eman digu \u201cEneagrama\u201dn.\nJokin Ameztoi adituak zaila izan du, baina 2. eneatipoaren barruan kokatu ditu Galderren jokabideak. Erratu al da oraingoan?",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -659,8 +663,8 @@
   },
   "1296": {
     "rss": "https://guau.eus/series/1296/rss.xml",
-    "media_title": "5. Ligatzeaz, Albina Stardust ",
-    "media_desc": "Atal honetako mintzagaia, ligatzea da. Gonbidatua berriz Albina Stardust  drag queena izan da, eta berarekin hitz egingo dute ligatzeko teknikei buruz eta pertsona bat erakargarria egiten duten ezaugarriei buruz, besteak beste.\n \nBarre egin eta tarte dibertigarri bat pasa nahi baldin baduzu, ez galdu \"Harpa jotzen\" pozkasta. Mirari Martiarena eta Idoia Torregararai umoregileek txorakeriak eta fundamentu gabeko gauzei eskaintzen dioten txokoa da.",
+    "media_title": "6. Haurtzaroaz, Aitziber Zapiain ",
+    "media_desc": "Zein zen txikitako zuen jolas gogokoena? Zer moduz eramaten zineten anai arrebekin? \n\nAitziber Zapiain kazetaria da, gai interesgarri honi heltzeko Idoia Torregarai eta Mirari Martiarenak \"Harpa  jotzen\" pozkastera gonbidatu dute.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -692,8 +696,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "4. PS5 Pro eta Duck Detective",
-    "media_desc": "Sony-ren kontsola berriaren gako guztiak aztertu ditugu \u201cJokutopia\u201dren atal honetan. Zenbat hobetzen dira jokoak gailu berriari esker? Zer aukera berri ematen ditu? Eta batez ere... benetan al da hori prezioa? \nBukatzeko, Duck Detective komentatu dugu, abentura ahaztezina eskaintzen duen joko txiki bezain dibertigarria.",
+    "media_title": "5. Switch 2 Direct ",
+    "media_desc": "Nintendoren kontsola berriaren xehetasun guztiak dakizkigu!  Data, kaleratuko diren jokoak, prezioa... hori guztia eta gehiago komentatu dugu \u201cJokutopia\u201dko atal honetan.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -703,8 +707,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "44. Komuneko ur salatariak",
-    "media_desc": "Ur beltzak gutaz informazio asko ematen dute. Hain zuzen, droga-kontsumoari jarraipena egiteko balio dute komunetatik araztegietara eta erreketara joaten diren urek, baita gaixotasun batzuk detektatzeko ere populazio jakin batean. Ur salatarien bidea egin dute Alaitz Ochoa de Eribe  eta Ana Galarragak \"Uhin Ultramoreak\"en atal honetan. \n\n \n\n",
+    "media_title": "45. Bakardadea",
+    "media_desc": "Europar Batasunak osasun publikoko arazotzat jo du bakardadea. Izan ere, gero eta gehiago dira bakarrik sentitzen direnak, eta horrek ondorio fisikoak, psikikoak eta sozialak sortzen ditu. Bakardadearen eta osasunaren arteko erlazioa, gainera, bi noranzkoetakoa da. Gaiari heldu diote Elhuyarreko Alaitz Ochoa de Eribe Agirrek eta Ana Galarraga Aiestaranek, eta garbi diote: \u201cGera zaitez gurekin\u201d\nHorrez gain, albisteek, \u201cDenboraren kapsula\u201d, \u201cEgunero ikasten da zerbait\u201d, eta mito zientifikoen baieztapen edo ezeztapenekin osatu dute atala.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -736,8 +740,8 @@
   },
   "1328": {
     "rss": "https://guau.eus/series/1328/rss.xml",
-    "media_title": "101. Andoni Ollokiegi: \u201cBatzuetan alai nago, beste batzuetan alaitasuna inpostatu egiten da\u201d",
-    "media_desc": "XXI. mendeko euskal trobadore edo juglare moduan defini genezake Andoni Ollokiegi (Pasai Donibane,1992). Herriz-herri, plaza-plaza ibili ohi da bere gitarraren laguntzaz, euskal kantutegiko entziklopedia moduko bat izango balitz bezalaxe. Halaber, bere kantu propioekin bakarlari eta talde formatuan ere ibili ohi da Olloki izenpean eta alderdi edo ikuspegi ezberdin horiek uztartu nahi genituzke. \nEkain Perezek gidatutako \"Lore Hostoak\" podcastaren atal honetan, Ollokiegiren pentsamendu eta doinuetan barrena bidaiatuko dugu.\n\nPlaylista:\n\u2022 Olloki - Minutu T\u2019erdi (Alienatuta // 2024)\n\u2022 Olloki - Euskarria (Alienatuta // 2024)\n\u2022 Alaitz eta Maider \u2013 Inshala (Inshala // 1999)\n\u2022 Su ta gar - Mari (Jaiotze Basatia // 1991)\n\u2022 Koldo eta Arantxa - Gure Hitza (1996)\n\u2022 Xiberoots \u2013 Aska (Honki Jina // 2021)\n\u2022Andoni Ollokiegi \u2013 Satandango (Bekataria // 2023)\n\u2022 Olloki - Hutsa (Alienatuta // 2024)\n\u2022 Akaleia (feat. Olaia Inziarte) - Nire Etxeko Artista (Ondoloin // 2023)\n\u2022 Errobi - Xileko langileria (1977 // Gure Lekukotasuna)\n\u2022 Itoiz \u2013 Errotaberri (Alkolea // 1982)\n\u2022 Urko - Gure lagunei (2005 // Urko zuzenean: La Trini, Donostia)\n\u2022 Olloki - Alienatuta (Alienatuta // 2024)",
+    "media_title": "102. Koska/Alguillo & Alkimistak. Alfonso Guill\u00f3: \u201cKoska hegoaldean, Errobi iparraldean, gizarte guztia mugitu zen\u201d",
+    "media_desc": "Denboran zehar zubi bat eraikiko dugu, ertz banatan 70eko eta 2020ko hamarkadak jarrita. Alde batetik Koska, euskal rockaren lehen belaunaldiko taldea eta bestetik Alguillo & Alkimistak, rocketik abiatuta R&B, funk, latin eta gospel kutsuekin jolasten duen taldea. Bi proiektuen erdigunean bada artista bat, elgoibartarra bera, eta noski gurera gonbidatu dugu zubi azpiko urak eramandakoaz eta dakarrenaz bustitzeko.\n\n\"Lore Hostoak\" podcastaren atal honetan, Alfonso Guill\u00f3 abeslari eta baxu-jolea hostokatu du Ekain Perezek.\n\nPlaylista:\n\n. Koska \u2013 Garraztasuna (Koska // 1976) \n. Koska \u2013 Beldurrez (Koska // 1976) \n. Koska - Otaloreen antzera (Koska // 1976)\n. Koska \u2013 Bizitzaren Poema 2 (Koska // 1976)\n. Koska \u2013 Ehun Urte (Bihozkadak // 1979)\n. Alguillo&Alkimistak - Ur gaineko bitsetan (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak \u2013 Tuneletik (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak - Gesala eta argitasuna (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak - Iluna nitaz jabetu da (Burua Makurtu Gabe // 2024)",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1445,8 +1449,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "VOST Euskadi ayuda sobre desapariciones y bulos en redes sociales",
-    "media_desc": "Alazne Villar VOST Euskadiko presidentearekin, 2012an sareko iruzurrari aurre egiteko, babes eta segurtasun aholkuak eskaintzeko eta desagerpen baten ondorengo prozesuan laguntzeko sortu zen larrialdi egoeretan boluntario digitalen elkartearen lana ezagutuko dugu.",
+    "media_title": "Txistuman colecciona juguetes I Parte",
+    "media_desc": "Ivan All\u00fae, \"Txistuman\" ezizenez ezaguna, jostailuen bildumagilea dela aurkitu genuen... airgam boys, famobil, lego... sorta zabala du, eta horien berri ematen digu, beti zuzeneko musikarekin lagunduta.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/58cf06e6-1968-4e6a-a05e-8b994b6313c3.jpg"
   },
   "1645": {
@@ -1485,8 +1489,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Derrumbe del tejado de la iglesia de Saseta tras un a\u00f1o a la espera de inicio de obra",
-    "media_desc": "Sasetako San Esteban eliza (Trebi\u00f1uko Konderria) hondatuta dago eta Hispania Nostrako Zerrenda Gorritik Beltzera igarotzeko zorian. 2024. urtearen amaieran, ganga eta erdiko gurutzadurako teilatua kolapsatu egin ziren. Tenpluaren teilatuak ahokoa du, duela urtebetetik Burgosko Diputazio Probintzialak eta Gasteizko Elizbarrutiak adostutako teilatua berritzeko proiektua zeukanean: 140.000 euro. Sasetako bizilagunen arabera, burokrazia-arazoengatik egin ez diren obrak.",
+    "media_title": "Lalastra, la puerta de entrada al Parque Natural de Valderejo",
+    "media_desc": "Naturagune hori Arabako lehen eremu babestua izan zen 1992an. Sai arrea Valderejoko Parke Naturaleko animalia ikonoa da, eta, gainera, Lahoz, Lalastra, Ribera eta Villamardones erakundeek osatzen duten kontzejuaren izena da. Gure argazkilariak, Borja Trivi\u00f1ok, Puron ibaiko ur-jauzietako irudia hartzea erabaki du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1556,7 +1560,7 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "Carmen Velasco, vicedecana del Colegio Notarial de Euskadi: \"Se renuncia al 10% de las herencias\"",
+    "media_title": "Aingeru Mayor ( NAIZEN): \"Estan resurgiendo los discursos de odio y los casos de bullying y negaci\u00f3n\" ",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
@@ -1612,7 +1616,9 @@
     "title": "Radio Vitoria gaur 2",
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
+    "media_title": "Zabalgana pone en marcha un espacio de relajaci\u00f3n",
+    "media_desc": "\u201cIsildu zurrunbiloa\", hori da Gasteizko Udalak Zabalgana gizarte-etxean esperientzia berri hau abian jartzeko erabili duen premisa. Erlaxazio eta meditazio gune bat 18 urtetik gorakoentzat."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2704,7 +2710,7 @@
     "description": "Radio Vitoriak Arabako herrietako jaien berri ematen dizu\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/533a1465-c7f4-4ff4-b794-0c7459fd0aa6.jpg",
-    "media_title": "Fiesta de San Isidro en Loza este s\u00e1bado",
+    "media_title": "Fiestas en Retana este s\u00e1bado 17 de mayo",
     "media_desc": ""
   },
   "1495": {
