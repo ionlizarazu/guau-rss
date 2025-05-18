@@ -855,8 +855,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/81acb24a-40ad-450b-9b1e-fed01986b62f.jpg",
-    "media_title": "Vespa velutina",
-    "media_desc": "Liztor asiarra espezie inbaditzailea da, eta Europan antzeman zen lehenengo, eta Nafarroan gero, 2010ean. Ordutik, kostaldetik hasi eta barnealdeko eremuetara hedatu da lurralde osoan. Haien presentziak erlezaintzan duen eraginagatik kezkatzen du batez ere zeren gogora dezagun oso garrantzitsua dela polinizaziorako.\n"
+    "media_title": "Plagas ante la falta de cuidados de los jardines",
+    "media_desc": "Gasteizko lorategietako zerbitzuen grebaren ondorioz, lorategiak abandonatuta eta modu basatian hazten ari dira. Horrek guztiak erraztu egiten du gure maskotei eragiten dieten eta arriskuan jartzen dituzten intsektuak ugaritzea, hala nola eltxoak eta kaparrak.\n"
   },
   "1779": {
     "rss": "https://guau.eus/series/1779/rss.xml",
@@ -1473,7 +1473,9 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/0d0f5d87-0150-4e6c-8d9a-5852a2e9eb60.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/0d0f5d87-0150-4e6c-8d9a-5852a2e9eb60.jpg",
+    "media_title": "Palacio Augustin - Zulueta , de residencia familiar a Museo de Bellas artes de Alava",
+    "media_desc": "Gasteizko paseotan galdu eta Senda aldera iritsi ginen, Augustin Zuluetaren jauregia aurkitzeko, Arte Ederren Museoa hartzen duen jauregia. 2016an, jauregiaren mendeurrenarekin bat eginez, Ana Arregui Barandiaran eta Edurne Mart\u00edn Ibarraran historialariek eraikin honen historia argitaratu zuten. Hiriaren eremu pribilegiatuenetako batean altxatutako familia-etxea, trenbidearen beste aldean. Elvira Zuluetak urtebetez bakarrik gozatu ahal izan zuen jauregi hura."
   },
   "1448": {
     "rss": "https://guau.eus/series/1448/rss.xml",
@@ -1493,8 +1495,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Los centros de recuperaci\u00f3n son los hospitales de la fauna silvestre",
-    "media_desc": "Mikel Mart\u00ednez de Leceak, abeltzaintzan eta animalien osasunean goi mailako graduak, fauna basatia berreskuratzeko zentroetan jartzen du arreta. Animaliak tratatzeko, errehabilitatzeko eta birgizarteratzeko ezinbesteko baliabidea da, hainbat arrazoirengatik giza laguntza behar baitute aurrera ateratzeko eta beren ekosistema naturalera baldintza ezin hobeetan itzultzeko.",
+    "media_title": "Mi\u00f1ano Menor muestra sus pinturas murales al vecindario",
+    "media_desc": "Mi\u00f1ao Gutxiko (Vitoria-Gasteiz) Administrazio Batzarrak San Bizente Martiriaren elizako ateak ireki ditu, Erdi Aroko 70 metro karratuko horma-pinturak berreskuratu direla ezagutarazteko. Pintura horiek eta erdiko aldarearen gaineko gangan errenazentista garaikoak partekatzen dituzte. Arabako Foru Aldundiak iragarri du bigarren fase batean jardungo duela, tenpluaren erdiko gurutzaduraren zatian esku hartzeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
