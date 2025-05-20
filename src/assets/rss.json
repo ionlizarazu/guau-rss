@@ -3,9 +3,9 @@
     "rss": "https://guau.eus/series/1751/rss.xml",
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. \n",
-    "media_type": "video",
-    "media_title": "3. \"Irati\", Paul Urkijo",
-    "media_desc": "Euskaraz egindako filmen artean, mugarria izan da \u201cIrati\u201d, 2022an ekoitzitako pelikula. Besteak beste, euskaraz ekoitzitako filmen artean ikusiena eta aurrekontu handienekoa delako. Ez da bide erraza izan, ordea, eta arrakasta horren atzean dagoen lan eskergaz aritu da Gaizka Izagirre Paul Urkijo, zuzendariarekin solasean \u201cKlaketa\u201dren atal honetan.   ",
+    "media_type": "audio",
+    "media_title": "10.\"Amama\", Maite Arroitajauregi",
+    "media_desc": "Amama filma da \u201cKlaketa\u201dren 10. ataleko hizketa gaia. Bi mundu ezberdinen arteko talka agerian utzi nahi du filmak. Hitz gutxiko filma da eta garrantzia berezia du musikak eta soinu bandak, horrexegatik da gonbidatua Maite Arroitajauregi musikaria. Filmetarako musikaren sormenaz, bidean topatzen diren zailtasunez eta hauek gainditzeko bideaz ere aritu gara.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8c4e9ce-2814-4d27-849d-69c28fe0ddea.jpg"
@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg",
-    "media_title": "31. Iban Garcia, influencerra eta kotilla ",
-    "media_desc": "Telecinco telebista kateko \u201cLos vecinos de la casa de al lado\u201d realityko aurkezlea delako pozez txoratzen dago eta orain arte egindako ibilbideaz, harro. Iban Garcia influencerra horretarako jaio da, bai eta kotilleoa eta salseorako! \n\nZenbat egi aitortuko dizkie Malen eta Aitziberri? Zein realitytan proposatu diote parte hartzea? \u201cSupervivientes\u201d saioan adibidez? Jende askok gelditzen ote du kalean? Kale-inkestak egiten dituenean poliziari ikuskizun-baimena eskatu behar dio? Zer pentsatzen du Ibanek, Aitziberrek eta Malenek influencer zenbaiten inguruan dituzten aurreiritziez? \nAtal honetan, gai hauetan sakondu dute: Madrileko egunerokotasuna, ekitaldietako FOMO-a (Fear of missing out), \u201cOperaci\u00f3n Triunfo\u201d saioko kotilleoak eta alfonbra gorrietan pasatzen diren salseoak. \n\nPoligrafo zaharra eskuratu dute eta \u201cegiaren testa\u201d egin diote! Harreman ona du Twin Melodyrekin? Publizitatea egiteagatik   15.000 euro kobratzera heldu da? Harreman ona du \u201cEn todas las salsas\u201d saioko kolaboratzaileekin?"
+    "media_title": "32. Aitor Nieto, polimaitasun harremanak",
+    "media_desc": "Aitziber eta Malenek podcastera gonbidatzen duten laugarren Markina-Xemeindarra da. Aitor Nieto polimaitasunaz hitz egitera gonbidatu dute.\n\nZer da polimaitasuna? Nola bizi du Nietok? Zer desberdintasun dago polimaitasuna eta harreman irekien artean? Zer iritzi du harreman monogamoen inguruan? Zer uste du polimaitasuna ligatzeko erabiltzen dutenez? Zer da \u201cpolifake\u201d? \nPolimaitasun harremanetako akordioez eta komunikazioaren garrantziaz aritu dira, besteak beste."
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -66,8 +66,8 @@
     "title": "Egia gordinetik",
     "description": "\"Egia gordinetik\" soinu-fikzioak Mari Sagarzazu neska gaztearen bizitzaren pasarte bat kontatzen du. Marik bere baserri munduko mugak zabaltzeko beharra sentitzen du eta aktoresa izatea du amets. Helburu hori lortzeko asmoz eraikitako bidean, oztopo eta amildegi latzak bizi beharko ditu. Baina baita une zirraragarri eta gozo askoak ere, ibilera horretan gurutzatuko zaizkion lagun zintzoei esker. \nIkasketak, lana, inbidiak, estutasunak, laguntasuna\u2026 Banbalina arteko amodio istorioa eta gehiago!\n",
     "media_type": "audio",
-    "media_title": "5. Protagonista",
-    "media_desc": "Ama pozez gainezka dago alabaren lanarekin. Joxeluis aspaldidanik miresten duen idoloa da berarentzat. Aitari, ordea, ez dio grazia handirik egiten alabari egin dion eskaintzak. ",
+    "media_title": "6. Gela polita",
+    "media_desc": "Antzerki konpainia berriko aktore ezagunekin lan egitea erronka handia da Marirentzat. Oihaneren pisuan gela bat libratu daiteke\u2026",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b7faec-2f74-4e9a-8a8f-7a6055b776eb.jpg"
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Izaro, belaunaldi berriari ateak zabaltzen",
-    "media_desc": "Helduarora iritsita, kontatu digu orain hasi dela konturatzen gazte musikari berrien belaunaldi bat badatorrela atzetik, hein handi batean, berak urratutako bidetik",
+    "media_title": "Lore Bilbao: \"Familia medikuen eskasia areagotu egingo da\"",
+    "media_desc": "Eusko Jaurlaritzako Administrazio eta Finantzaketa Sanitarioko Sailburuordeak  salatu du Espainiako Gobernuko Osasun Ministerioak ez diela inolako erantzunik ematen mediku eskasiari aurre egiteko. Era brean, Itxaron zerrendak murrizteko Jaurlaritzaren talka plana defendatu du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -139,8 +139,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Especial Euskaraldia: \u201cHemos vuelto a tomar las calles\u201d",
-    "media_desc": "Jon Kobeaga koordinatzaileak azaldu digunez, Euskaraldiaren laugarren edizioak \"ilusioa berreskuratzen\" du. Helburuetako bat errealitate soziolinguistiko guztiak batuko dituen esparru bat \"planteatzea\" eta \"proposatzea\" da. Edizio honetan parte hartzen duen Gasteizko Mamia okindegira joan gara. Euskara irakasle eta ikasle batekin egin dugu berba euren esperientziak ezagutzeko.",
+    "media_title": "\u201cOrganizaciones de izquierda y algunos sindicatos han olvidado la defensa de los intereses de clase\u201d",
+    "media_desc": "Arantxa Tirado politologoa eta \u201cLa clase obrera no va al para\u00edso: cr\u00f3nica de una desaparici\u00f3n forzada\u201d liburuaren egilekideak dio denok bizi garela langile-klasearen interesen aurkako balioak dituzten gizarteetan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Eva L\u00f3pez de Arroyabe",
-    "media_desc": "Eva L\u00f3pez de Arroyabe, EHBildu batzarkide taldeko bozeramailea Araban",
+    "media_title": "Ruben Gonz\u00e1lez Bengoa.",
+    "media_desc": "Ruben Gonz\u00e1lez Bengoa, Vitoria-Gasteizko UNEDeko zuzendaria",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -584,8 +584,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Olfato y recuerdo de nuestros seres queridos",
-    "media_desc": "Usainak gure oroimenean markatuta geratzen dira, batzuetan betiko, eta pertsona bat argi eta garbi gogoratzera garamatzate. Laura L\u00f3pez Mascaraquek, Instituto Cajal-CSICeko ikertzaile nagusiak eta Perfume Akademiako kidea, iragazkirik gabeko zentzumenaz azaldu digu.",
+    "media_title": "Guitarrica de la Fuente, talento y estilo propio",
+    "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -595,8 +595,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Feliz Viernes...\u00a1Radio Euskadi a pilas!",
-    "media_desc": "Feliz Viernes aurkezten du Aritz Agirrek. Gaurkotasunari eskainitako beste begirada bat, Radio Euskadiko\"Boulevard\" albiste saioaren baitan. Eguneko albisteei kontrapuntua jartzeko tartea, Aritz Agirreren eskutik, ostiralero 09:45ean zuzenean, Boulevard saioko asteko azken tertulia bere punturik gorenean bukatzeko. Lehenago goizeko 07:00etako aurrerapenean, eta ondoren entzungai GUAU plataforman edo zeure podcast gune egokienean.",
+    "media_title": "Aitor, el que cruz\u00f3 la r\u00eda a nado: \"tuve una bonita cagalera\"",
+    "media_desc": "Itzalaldiak Bizkaiko zubia geldiarazi zuen. &#x7F;Betidanik egin nahi izan zuen zerbait egiteko aprobetxatu zuen orduan pertsona batek. Arropa erantzi, motxilan gorde eta uretara bota zen, itsasadarra igeri egiten gurutzatzeko asmoarekin. &#x7F;Pertsonaiak Aitor &#x7F;du izena eta Boulevard-en izan da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -637,8 +637,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra del lunes 12 de mayo",
-    "media_desc": "Euskal derbiak Deportivo Alavesen porrota jaso du, 01, Athleticen aurka. Mart\u00edn Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin Emilio Pascualekin izandako topaketaren anasisia entzun dezakezue..",
+    "media_title": "La c\u00e1tedra del lunes 19 de mayo",
+    "media_desc": "Alavesen garaipenak lehen mailan jarraitzea ziurtatzen du. Gure katedradunentzako garaia da, Martin Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valentin Carlos de Vergara, Emilio Pascualekin batera.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -665,8 +665,8 @@
   },
   "1296": {
     "rss": "https://guau.eus/series/1296/rss.xml",
-    "media_title": "6. Haurtzaroaz, Aitziber Zapiain ",
-    "media_desc": "Zein zen txikitako zuen jolas gogokoena? Zer moduz eramaten zineten anai arrebekin? \n\nAitziber Zapiain kazetaria da, gai interesgarri honi heltzeko Idoia Torregarai eta Mirari Martiarenak \"Harpa  jotzen\" pozkastera gonbidatu dute.",
+    "media_title": "7. Komunikazioaz, Ibon Fernandez ",
+    "media_desc": "Komunikazioa da atal honetako aztergaia. Norekin solastu diren Mirari Martiarena eta Idoia Torregarai? Ba, komunikazioan aritzen den Ibon Fernadezekin. \nEsparru guztietan aztertu dute komunikazioa, larrua jo osteko egoeran ere bai! Barre piloa egiteko aukera duzu, klik xume bat eginez, \"Harpa jotzen\" poZkastaren atal hau entzunez.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1380,8 +1380,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Labezomorro esnea super-elikagai berria izan liteke",
-    "media_desc": "Zenbat labezomorro behar ditugu litro bat esne lortzeko? Proteina iturri handia omen da labezomorroa.",
+    "media_title": "Zuri\u00f1e Hidalgo ordeztua izan al da?",
+    "media_desc": "Irati Erauskin 'Pantoi'k teoria bat jarri du mahai gainean. Honekin batera, 2015eko jurru moda berpiztearen beharraz aritu da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b947ea12-0f7a-4708-8f7e-845fcedf35e7.jpg"
   },
   "1413": {
@@ -1495,8 +1495,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Mi\u00f1ano Menor muestra sus pinturas murales al vecindario",
-    "media_desc": "Mi\u00f1ao Gutxiko (Vitoria-Gasteiz) Administrazio Batzarrak San Bizente Martiriaren elizako ateak ireki ditu, Erdi Aroko 70 metro karratuko horma-pinturak berreskuratu direla ezagutarazteko. Pintura horiek eta erdiko aldarearen gaineko gangan errenazentista garaikoak partekatzen dituzte. Arabako Foru Aldundiak iragarri du bigarren fase batean jardungo duela, tenpluaren erdiko gurutzaduraren zatian esku hartzeko.",
+    "media_title": "Convivir con el castor europeo, el nuevo habitante en ocho r\u00edos alaveses",
+    "media_desc": "Kastor europarrak Arabako hegoaldeko ibaien ertzetan duen presentzia errealitate bat da 2010etik. 2003an Nafarroan berriz sartu zen belarjalea da, eta Arabako isurialde mediterraneoko zortzi ibairaino iritsi da. Arabako Foru Aldundiko Iraunkortasun Departamentuak herritarrei zuzendutako informazio-liburuxka bat argitaratu du, babestutako animalia hori ezagutzeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1623,8 +1623,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "El Combinado: LGTBIfobia, \u00bfen qu\u00e9 punto estamos?",
-    "media_desc": "Gasteizen lgtbifobiarekin zerikusia duen gertakari kopuruak bere horretan jarraitzen du baina gorroto diskurtsoek gora egin dute. Zein puntutan gaude orain? Klaudia Ugarte, Andoni Mutiloa eta Elisa Coll-ekin aztertu dugu egoera."
+    "media_title": "D\u00eda mundial del m\u00e9dico de cabecera",
+    "media_desc": "Medikuek nola egiten dute lan landa-ingurunean? Alde handiak al daude hiriguneekin alderatuta? Nerea Agirre lanbidean urte gutxi daramatzan medikuarekin eta Eukene Azpiazu, duela ia bi urte erretiratutako medikuarekin aztertu dugu."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1634,8 +1634,8 @@
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
-    "media_title": "7. \u201cKalabaza tripontzia\", Imanol Zinkunegi",
-    "media_desc": "Lau hamarkada joan dira \u201cKalabaza Tripontzia\u201d (1985) estreinatu zela, euskarazko lehen animaziozko film luzea. Euskal kondairak, mitoak eta istorioak oso presente daude filmean, eta bertako pasarteetan oinarrituz, film aitzindari hori sakon ezagutuko dugu. Imanol Zinkunegi animazio zuzendaria du atal honetan solaskidea Gaizka Izagirrek, marrazki animatu horien xehetasun guztiak arakatzeko. Filma bera ez ezik, euskal animazioaren egungo egoera aztergai dute, adimen artifizialaren eragina nabarmentzen ari denean."
+    "media_title": "8. \u201cHondar ahoak\u201d, Koldo Almandoz ",
+    "media_desc": "Covid garai latzean izan genuen albiste on gutxitako bat izango dugu hizpide \"Klaketa\" podcastaren atal honetan, lau ataletan osatu zen \u201cHondar ahoak\u201d seriea. Solaskidea, Koldo Almandoz, ibilbide oparoko zinegilea du Gaizka Izagirrek. Bera izan zen seriearen zuzendari eta gidoilaria. Euskal kostaldeko arrantza portu batean gertatzen den intrigazko istorioa da eta bigarren denboraldia izango du."
   },
   "1319": {
     "rss": "https://guau.eus/series/1319/rss.xml",
@@ -2256,7 +2256,9 @@
     "title": "Katedra",
     "description": "Pilotari buruzko informazioa, Kepa Iribarren eskutik.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/2388d29c-07f1-499c-ab8a-379d8c38cdeb.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2388d29c-07f1-499c-ab8a-379d8c38cdeb.jpg",
+    "media_title": "Elaia Gojenola: \"Laugarren finala dut, txapela gustatuko litzaidake\"",
+    "media_desc": "Iron Cup txapelketako finalera sailkatu da puntista berritxuarra. Laugarren finala du, txapela eskuratu nahi luke oraingoan. Bestalde, Nazioen Ligako euskal selekzioarekin ere entrenatzen dabil."
   },
   "1619": {
     "rss": "https://guau.eus/series/1619/rss.xml",
@@ -2799,7 +2801,9 @@
     "title": "Historias de robinsones",
     "description": "Sinesten zaila den arren, benetan gertatu zen. Muturreko egoeratatik onik atera ziren bizirauleen istorioak, Julian Diaz Alonsoren eskutik. ",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/afa09700-e9a8-4696-8e12-fcf6d82ea26a.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/afa09700-e9a8-4696-8e12-fcf6d82ea26a.jpg",
+    "media_title": "El Essex: La verdadera historia de Moby Dick",
+    "media_desc": "Aste honetan, Julian Diaz Alonsok Essex baleontzi amerikarraren eta Moby Dicken erasoaren benetako istorioaren berri eman digu."
   },
   "1842": {
     "rss": "https://guau.eus/series/1842/rss.xml",
@@ -2832,10 +2836,17 @@
   "1776": {
     "rss": "https://guau.eus/series/1776/rss.xml",
     "title": "Ahalaken",
-    "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak (eta sekretuetara askotxo gerturatzen direnak) kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podkast batean kontatuko du misterio hau, Irulegiko Eskuko inskripzioen eta euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.",
+    "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta Euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak -eta sekretuetara askotxo gerturatzen direnak- kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podcast batean kontatuko du intrigaz eta azpikeriaz beteriko soinu-fikzio misteriotsu hau, Irulegiko Eskuko inskripizioen eta Euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.\n\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6ff99942-4377-48b6-b360-6f622caafe6a.jpg",
-    "media_title": "0. Trailerra: Ahalaken, Irulegiko egia jakiteko garaia da",
-    "media_desc": "Euskaraldiarekin bat etorriz, \u201cAhalaken\u201d soinu fikzioa eskainiko dizu GUAU plataformak maiatzaren 20tik aurrera.\nIrulegiko Eskuaren misteriotik abiatuta, \u201cHistoria Unibertsalaren sekreturik handiena\u201d argitzea helburu duen fikziozko podcast saila. \nIratxe Malkorra, Irulegiko Eskua aurkitu duen arkeologoa desagertu da, eta haren alaba Jone abiatu da amaren bila. Euskal museotan gordetako pista eta sinboloek laguntzen diote. \n\u201cAhalaken\u201d podcasta zortzi audio ataletan banatua dago eta adimen artifizialez sortutako beste horrenbeste bideok osatzen dute. Ekoizpena, Arteman komunikazioak egin du EITB Mediarentzat."
+    "media_title": "1. Etxe zuri, teila gorriak",
+    "media_desc": "Euskal Herria Irulegiko Eskuarekin txundituta zegoen bitartean, Jone protagonistak beste misterio bat izango du argitzeko: ama non dagoen jakitea. Irulegiko indusketa-eremura joango da Jone, eta han jakingo du amaren desagerpenak zerbait askoz ilunagoa ezkutatzen duela."
+  },
+  "1860": {
+    "rss": "https://guau.eus/series/1860/rss.xml",
+    "title": "Tres runners...o cuatro",
+    "description": "III. Carlos P\u00e9rez Uralde irrati-antzerki lehiaketa, Radio Vitoriak eta EITBk ekoizten duten Nazioarteko Antzerki Jaialdiak antolatua. Bigarren saria.\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/6aac3d78-7da4-4604-96f7-f87438736398.jpg"
   }
 }
