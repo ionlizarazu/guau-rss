@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Manuel Lezertua",
-    "media_desc": "Manuel Lezertua, Ararteko",
+    "media_title": "Batxi Aranburu. AMVISA",
+    "media_desc": "Batxi Aranburu, AMVISAko gerentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -584,8 +584,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Guitarrica de la Fuente, talento y estilo propio",
-    "media_desc": "",
+    "media_title": "La ropa tendida sanferminera que anunciar\u00e1 las fiestas",
+    "media_desc": "Eskegitako Sanferminetako arropak iragarriko ditu aurtengo jaiak. \n\n2025-eko Sanferminak iragarriko dituen kartel irabazlearen egilea elkarrizketatu dugu, Sandra Nadal Vital artista plastiko iruindarra. \"Hogar Pamplonica\" izeneko bere kartelak botoen %40 jaso du, Iru\u00f1eko herritarrek guztira emandako 10.000 botoetatik, orain arteko bigarren parte-hartzerik handiena izan duen herri bozketan. \n\nKartelak etxekoa eta  Sanferminetako egunerokoa islatzen duen irudi adierazgarria erakusten digu, oso ikonikoa aldi berean. Sandra Nadalek azaldu duenez, karteleko balkoie ateak zabalik dituen gure etxea islatzen dute, eta Sanferminetako arropak geure nortasuna, mundu guztiari adierazteko geure festetara ongi etorria dela, etxean balego bezala. Nadalek bere amonaren etxeko fatxada margotu du, Uztailaren 14an ikusi ohi duen eran, eta bere pinturarekin artisautza, lan pausatua, ikasitako teknika eta xumetasuna aldarrikatu nahi izan ditu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -595,8 +595,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Aitor, el que cruz\u00f3 la r\u00eda a nado: \"tuve una bonita cagalera\"",
-    "media_desc": "Itzalaldiak Bizkaiko zubia geldiarazi zuen. &#x7F;Betidanik egin nahi izan zuen zerbait egiteko aprobetxatu zuen orduan pertsona batek. Arropa erantzi, motxilan gorde eta uretara bota zen, itsasadarra igeri egiten gurutzatzeko asmoarekin. &#x7F;Pertsonaiak Aitor &#x7F;du izena eta Boulevard-en izan da.",
+    "media_title": "\u00bfQu\u00e9 Papa le gustar\u00eda a la Iglesia vasca? \u00bfQu\u00e9 candidatos con posibilidades han tenido relaci\u00f3n con Euskadi?",
+    "media_desc": "Dani Alvarez, 'Pisando chacos' saioan, konkableaz aritu da eta Euskadirelkin historian izan duen harremanaz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -648,8 +648,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Otro modo es posible: La supervivencia de los comercios tradicionales",
-    "media_desc": "Azken 10 urteetan, Euskal Herriak 6.000 saltoki txiki baino gehiago galdu ditu. Eta nazio mailan zentratzen bagara, Espainiar Estatu osoan egunero 25 saltoki ixten dira. Itxiera hauek gehien pairatzen dituztenak  betiko dendak dira: mertzeria, janari-dendak, burdindegiak, liburu-denda independenteak...\n\nHorregatik, aste honetan zonaldeko hainbat saltokirekin harremanetan jarri gara, haien egoeraren berri eman diezaguten.",
+    "media_title": "Movimientos vecinales de la transici\u00f3n",
+    "media_desc": "Datorren ostegunean, hilak 22, ekitaldi bat egingo da Bilboko Azkuna Zentroan, auzo-mugimenduak trantsizioan izan zuen garrantzia aitortzeko. Julia Manzanera Bilboko auzo-mugimenduko kidea izan zen (1971-1974). Pepe Molinak, berriz, 50 urte baino gehiago daramatza auzo-mugimenduan, eta Madrilgo Hego-ekialdeko Palomeraseko Auzo Elkarteko presidentea da. Haiek izan dira gure gaurko gonbidatuak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/74b88559-1738-45c7-888c-3aa663fad464.png"
   },
   "1744": {
@@ -972,7 +972,9 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/365372a3-13e6-43f0-a2f8-29a60521a9bf.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/365372a3-13e6-43f0-a2f8-29a60521a9bf.jpg",
+    "media_title": "\u00a1Qu\u00e9 gozada! Caf\u00e9 y pintxo por 4,70 \u20ac en Bilbao",
+    "media_desc": ""
   },
   "1644": {
     "rss": "https://guau.eus/series/1644/rss.xml",
@@ -1274,8 +1276,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Konklabea eta gure kontraesanak",
-    "media_desc": "Sare-inhibitzialerik gabe aritu gara konklabeaz Faktoriako 'Bigarren Laurdena' solasaldian. Zer dio Aita Santua aukeratzeko prozesuak bizi dugun aldiaz? Justifikatuta al dago komunikabideek eman dioten arreta? Garbi\u00f1e Manterola BRTAko transferentzia arduraduna eta Aurken Sierra Nafarroako Unibertsitateko irakasleek aztertu dituzte konklabearen bueltakoak. Atzetik, diskriminazioari buruz Ikuspegik egin duen txostena izan dugu hizpide Julia Shershneva zuzendariarekin.",
+    "media_title": "Pause: Harreman sanoa al duzu denborarekin?",
+    "media_desc": "Ze harreman duzu denborarekin? Nola bizi zara? Noiz egon zinen azken aldiz ezer egin gabe? Eta.. zer dio gizarteaz bizi dugun aldi azeleratuak? Bigarren Laurdenean denboraz, ordulariaren tiraniaz eta ihesbideez aritu gara Garbi\u00f1e Manterola BRTAko transferentzia arduradunarekin, Juan Garibi Fiareko operazio-zuzendariarekin eta Markel Pe\u00f1alba Mondragon Unibertsitateko irakaslearekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1486,7 +1488,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Ekain Elorza, bater\u00eda de Morgan, nos habla sobre el disco Hotel Morgan",
+    "media_title": "'Gaua' de Arima Soul, homenaje a la noche musical",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b1013c6f-cad3-4dcd-95c6-55c8dc99e84d.jpg"
   },
@@ -1497,8 +1499,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Reconect\u00e1ndonos en comunidad",
-    "media_desc": "2025eko Landa Munduaren Egunerako Arabako lurraldean lan egiten duten sei erakundeek aukeratu duten leloa da berriz konektatzea. AKEk, Caritasek, Arabako Nekazari Kristauek, Arabako Nekazaritza eta Abeltzaintza Batasunak, Gure Soroak eta Arabako Landa Inguruneko Emakumeen Sareak elkarrekin lan egitearen aldeko apustua egin dute, sareak ehuntzeko eta herrien arteko loturak hobetzeko.",
+    "media_title": "Animales que almacenan como las hormigas",
+    "media_desc": "Mikel Mart\u00ednez de Lecea abeltzaintzan eta animalien osasunean goi mailako gradua da, baina, horrez gain, fauna basatia berreskuratzen espezializatuta dago. Elikagaiak biltzen dituen animalien zerrenda bat egiten digu, eta elikagaiak bere ingurune naturalean gordetzen ditu: katagorriak, igokari urdina, urrakak, azeria, inurriak...",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1568,7 +1570,7 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "Aingeru Mayor ( NAIZEN): \"Estan resurgiendo los discursos de odio y los casos de bullying y negaci\u00f3n\" ",
+    "media_title": "Salir del tensionamiento significar\u00eda que se ha equlibrado la oferta y la demanda",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
@@ -1625,8 +1627,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Unidad m\u00f3vil: Jito analiza la permanencia del Alav\u00e9s",
-    "media_desc": "Jito Alaveseko jokalari ohiarekin aztertu dugu Valladoliden irabazi ondoren lortutako mailari eustea."
+    "media_title": "La danza que alivia a las personas con Parkinson",
+    "media_desc": "ASOPARA eta Las cuatro Torres elkarteek bat egin dute astero parkinsona duten pertsonentzat dantza tailer bat eskaintzeko."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2841,8 +2843,8 @@
     "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta Euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak -eta sekretuetara askotxo gerturatzen direnak- kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podcast batean kontatuko du intrigaz eta azpikeriaz beteriko soinu-fikzio misteriotsu hau, Irulegiko Eskuko inskripizioen eta Euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.\n\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6ff99942-4377-48b6-b360-6f622caafe6a.jpg",
-    "media_title": "2. Sekretu handiak",
-    "media_desc": "Bere amaren koadernoan dagoen arrasto bakarrari jarraituz iritsiko da Jone Donostiako San Telmo Museora. Bertan hasiko da, Oihana lagunarekin, Iratxek utzitako arrastoak argitzen eta Irulegiko Eskuarekin zerikusia duten beste altxor batzuk aurkitzen."
+    "media_title": "3. Sabeluneak bidean",
+    "media_desc": "Jone ez da Iratxe Malkorra aurkitzeko helburua duen bakarra. Basoa Fundazioa atzetik duela, bere amak utzitako arrastoari jarraituko dio Aitor taxilariarekin batera, eta oraingoan Bilboko Euskal Museora iritsiko dira. Iratxe aurkitzeko beste pista garrantzitsu bat aurkituko dute bertan."
   },
   "1860": {
     "rss": "https://guau.eus/series/1860/rss.xml",
