@@ -1438,8 +1438,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "\" En Mal\u00ed sent\u00ed peligro pero con el Ebola la situaci\u00f3n era m\u00e1s complicada porque no lo ve\u00edas venir \" ",
-    "media_desc": "2011z geroztik, Jose Naranjo freelance kazetari honek Mali-ko gerra, Afrikako hainbat herrialdetako Ebolaren agerraldiak, Boko Haram-en gatazka Txad, Niger eta Nigerian, Afrikako emigrazio ibilbideak eta Gambian izandako trantsizio politikoa jarraitu ditu gertutik. 14 urte daramatza Senegalen bizitzen, egun batean inguruko herrialde batera bidaiatzea eta kontinente honetako biztanleen kultura eta bizimodua lehen eskutik ezagutzea erabaki zuenetik. Maiatzaren 22an, ostegunean, Vitorian izango da, Afrikako kontinentean dagoen egoera sozio-politikoaz hitz egiteko."
+    "media_title": "50 a\u00f1os dan para mucho",
+    "media_desc": "Hau da Arabako lehen emakume arkitektoa, arkitekto gisa 50 urte betetzen dituena. Urte hauetan guztietan, guztizko lanak egin ditu: eraikuntza, urbanismo pixka bat, eta eraikin txiki asko eta handiren bat. Arkitektura ikasteko emakume gutxi zeuden garaian, 1500 ikasletik 16 ziren neskak. Gasteizen, 10 urte baino gehiago egon zen, gizonezkoen profesio batean emakume bakarra izanik."
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -1499,8 +1499,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Los anacronismos de las b\u00f3vedas de la iglesia de Artziniega",
-    "media_desc": "Herriko parrokia-tenpluak 1999tik 2007ra bitarteko pintura garaikide batzuk ditu, besteak beste, telefono mugikor bat, kutxazain automatiko bat edo garagardo-botilatxo bat. Artziniegako eszena eta gertakari historikoekin nahasten diren motiboak.",
+    "media_title": "Mina Luc\u00eda de Atauri y su men\u00fa tur\u00edstico-gastron\u00f3mico",
+    "media_desc": "Meatzearen Eguna Europan bakarra den meatze-ustiategi hau bisitaldi gidatu batean ezagutzeko aukera izan da. Ustiategi horretatik ateratzen zen hormetako asfalto naturala. Gainera, Arabako Mendialdeko Kuadrillako Km 0 produktuez gozatzeko aukera izan da. Jardunaldiarekin batera, 'trenikoaren' Bide Berdetik Anto\u00f1anara joateko txangoa eta Udaberriaren XXIX. Azoka antolatu ziren.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -2857,6 +2857,12 @@
     "rss": "https://guau.eus/series/1876/rss.xml",
     "media_title": "Goazen: Iritsi gara",
     "media_desc": "Jasone Osorok idatzitako \"Go!azen\" unibertsoko lehen liburu, hemen audioliburu gisa aurkeztuta, dugu hau. Kamioi bat gurutzatu da errepidean eta auto-ilarak sortu ditu. Uste baino gehiago luzatuko da itxaronaldia eta dozenaka autobus eta kotxek zain egon beharko dute.\n\nAutoan doaz Zuri, Eli, Garieta eta Julen. Autobusez Danel, Eider, Eneko, Maddi, June eta Igor. Aimar amarekin doa autoz. Gabo desesperatzen hasi da gasolindegian atzeratzen ari direlako. Era batera edo bestera, guztien bizitzak gurutzatuko dira errepidean. Familia hippy bat ezagutuko dute, auto-stop egiten duen jendea, ezkutatuta dagoen laku bat... Hainbat abentura igaro ondoren, azkenean bai, azkenean iritsiko dira Basakabira.",
+    "media_type": "audio"
+  },
+  "1875": {
+    "rss": "https://guau.eus/series/1875/rss.xml",
+    "media_title": "0. Trailer: \"Se llamaba como yo\"",
+    "media_desc": "Denboraldi berriari ekitera gatoz, gustukoen duguna egiten jarraitzeko: isiltasuna hautsi. \nEkainaren lehenean, igandez, abiatuko dugu,  \u201cSe llamaba como yo\u201d,  izen baten inguruko serie dokumentala. Familia baten isiltasunaz eta isiltasuna hautsi zuen zarata biltzen ditu. \n\nSe Habla Producciones-en seriea, EITB Mediarekin elkarlanean ekoitzi da, Espainiako Kultura Ministerioaren diru laguntza tarteko. \n",
     "media_type": "audio"
   }
 }
