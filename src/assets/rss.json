@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg",
-    "media_title": "32. Aitor Nieto, polimaitasun harremanak",
-    "media_desc": "Aitziber eta Malenek podcastera gonbidatzen duten laugarren Markina-Xemeindarra da. Aitor Nieto polimaitasunaz hitz egitera gonbidatu dute.\n\nZer da polimaitasuna? Nola bizi du Nietok? Zer desberdintasun dago polimaitasuna eta harreman irekien artean? Zer iritzi du harreman monogamoen inguruan? Zer uste du polimaitasuna ligatzeko erabiltzen dutenez? Zer da \u201cpolifake\u201d? \nPolimaitasun harremanetako akordioez eta komunikazioaren garrantziaz aritu dira, besteak beste."
+    "media_title": "33. Ane Rot, \u201cElite\u201d telesaila eta mendekua",
+    "media_desc": "Txiki txikia zenetik artista izan nahi zuela bazekien; hori eta gauza gehiago deskubritu dituzte atal honetan Aitziber Grados  eta Malen Altunak. \nAne Rot arrasatearra ezagutu dute: ETB-1eko \u201cKantugiro\u201d saioan irabazten hasi, gero \u201cBagoaz\u201d musika saiotik igaro, kriminologia gradua ikasten hasi, Madrilera abentura berriak probatzera joan eta 4 hilabetera \u201cMickey Mouse Squad\u201d saioa aurkezten hasi zen. Geroztik, hainbat film eta \u201cElite\u201d telesaileko 8. denboraldian ikusi dugu. \n\nAnek \u201cBenetan Zabiz?\u201den atal honetan aitortu du Emiliaren pertsonaia interpretatu eta gero, haren izaera dela eta, jendeak gorrotatuko zuela. Nola bizi zuen \"Elite\"ko arrakasta? Zerikusia du Anek bere pertsonaiarekin? Hori aprobetxatuz, \u201cmendekuaz\u201d aritu dira. Zein izan da neskek hartu duten mendekurik handiena? \n\nArrosaliren tartean joko batera jolastu dira: Anek, bere mugikorreko sekretuak erakutsiko dizkigu?"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -66,8 +66,8 @@
     "title": "Egia gordinetik",
     "description": "\"Egia gordinetik\" soinu-fikzioak Mari Sagarzazu neska gaztearen bizitzaren pasarte bat kontatzen du. Marik bere baserri munduko mugak zabaltzeko beharra sentitzen du eta aktoresa izatea du amets. Helburu hori lortzeko asmoz eraikitako bidean, oztopo eta amildegi latzak bizi beharko ditu. Baina baita une zirraragarri eta gozo askoak ere, ibilera horretan gurutzatuko zaizkion lagun zintzoei esker. \nIkasketak, lana, inbidiak, estutasunak, laguntasuna\u2026 Banbalina arteko amodio istorioa eta gehiago!\n",
     "media_type": "audio",
-    "media_title": "6. Gela polita",
-    "media_desc": "Antzerki konpainia berriko aktore ezagunekin lan egitea erronka handia da Marirentzat. Oihaneren pisuan gela bat libratu daiteke\u2026",
+    "media_title": "7. ...Kaixo, Mari",
+    "media_desc": "Aktore taldean ez dira denak ezpal berekoak, jakina.\nMari, Oihaneren pisuan hasi da bizitzen. Pello ezagutu du, hirugarren pisukidea\u2026",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b7faec-2f74-4e9a-8a8f-7a6055b776eb.jpg"
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Jon Lasa, director Fundacion Catedral Santa Mar\u00eda",
-    "media_desc": "Gaur gurekin Jon Lasa,  Santa Maria Katedrala Fundazioaren zuzendaria",
+    "media_title": "Ainize Gastaka, alcaldesa de Laudio",
+    "media_desc": "Ainize Gastaka, Laudioko alkatea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -654,8 +654,8 @@
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
-    "media_title": "9. Galder Perez: Maskarak eta bakardadea",
-    "media_desc": "Galder Perezek bakardadea eta eguneroko bizitzan jazten ditugun maskarei buruzko erreflexioa egin du, antzerki munduaren inguruko esperimentazioak azaldu ditu eta antzerki sortzaile eta irrati esatariaren atzean dagoen pertsona ezagutzera eman digu \u201cEneagrama\u201dn.\nJokin Ameztoi adituak zaila izan du, baina 2. eneatipoaren barruan kokatu ditu Galderren jokabideak. Erratu al da oraingoan?",
+    "media_title": "10. Ainara Azpiazu \u201cAxpi\u201d: Natura eta edertasuna",
+    "media_desc": "Axpik eta Katixak edertasunaren inguruko solasaldia izan dute, \"Eneagrama\"ren lehen denboraldia amaitzeko atalean. Ilustrazioaren eta literaturaren munduak jorratzen dituzten bitartean, artistaren ibilbide profesional eta pertsonala errepasatu dute, bide batez.\nJokinek 6. eneatipoaren jokaerak identifikatu ditu Axpirengan, ados egongo da artista?",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -698,8 +698,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "6. Naiad",
-    "media_desc": "Europar Batasunak neurri berriak proposatu ditu bideojokoak lagungarriagoak izan daitezen. Arruntak izaten diren prezio praktika maltzurrak mugatzen saiatuko dira. \nAtal honetan pertsona bakarrak sortutako bideojoko bati buruz ere hitz egingo dugu, Naiad du izena eta errekan behera igerian egitera animatuko gaituen esperientzia lasaigarria  da.",
+    "media_title": "7. Supermassive Games",
+    "media_desc": "Beldurrezko bideojokoetan espezializatutako estudio bati buruz aritu gara berriketan \u201cJokutopia\u201dren 7. atalean. Ziurrenik ezagutuko dituzue Until Dawn eta The Quarry bezalako jokoak, baina horiek baino gehiago egin ditu estudio honek, besteak beste errealitate birtualerako hainbat bideojoko.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -709,8 +709,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "46. Iraganean dena ez zen hobea",
-    "media_desc": "Oso zabalduta dago iraganean dena garbia eta osasungarria zelako ustea. Alabaina, historia arakatu dugu Uhin Ultramorez, eta ikusi dugu Erromatar Inperioaren garaian airea erabat kutsatuta zegoela, ur kutsatuak milaka heriotza eragin zituela Atenasen, eta elikagaien bidezko kutsadurak ohikoak zirela, mende batzuk geroago ere. Eta medikuntza? Batzuetan, kalte handiagoa egiten zuen medikuak, gaitzak berak baino.\n\nDenboraren kapsulan, BBC kateak duela 30 urte egindako iragarpen teknologikoak aztertu dituzte. Asmatu ote zuten?",
+    "media_title": "47. Miniaturazko laborategiak",
+    "media_desc": "Haurdunaldi-testei, alkoholimetroei eta COVID-19aren eta gripearen test diagnostikoei buruz hitz egingo dugu atal honetan. Hain dira erabilerrazak, hain ohikoak, merkeak eta eraginkorrak, ez garela ohartu ere egiten, izatez, miniaturazko laborategiak direla. Nola funtzionatzen duten azalduko dugu \"Uhin ultramoreak\" atal honetan. \nBide batez, egia al da asuna hartzean, arnasari eusten badiozu, ez duela erretzen?",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -731,8 +731,8 @@
   },
   "1837": {
     "rss": "https://guau.eus/series/1837/rss.xml",
-    "media_title": "3. Aitziber Garmendia, la fiesta",
-    "media_desc": "\u201cZeinek esan du honekin juergarik ezin dela egin???\u201d Aitziber Garmendiaren hitzak dira horiek Jacques Offenbachek \u201cInfernuko Orfeo\u201d operetarako idatzi zuen \u201cGalop infernal\u201d (Can-Can) abesti saltokari eta animatua entzuten ari dela. \u201cBi ahotsetan\u201d podcastaren atal honetan festaz eta bere ibilbideaz aritu da Aitziber Joseina Etxeberriarekin. \nEuren solasaldian tartekatuta, Piotr Ilich Tchaikovskyren eta Offenbachen beraren musika entzungai da.",
+    "media_title": "4. I\u00f1aki Pe\u00f1a, como suena un adi\u00f3s",
+    "media_desc": "\u201cHiltzen denak dena galtzen du; gelditzen garenok, dolua egiten dugunok hutsune hori daukagu, aulki huts hori; aulki hori beti egongo da hutsa, baina nolabait gure bihotza betetzen da beste bide batetik [\u2026]. Nik uste dut galdu dugula helduleku espiritual handi bat, eta hutsune hori bete egin behar dugu nolabait\u201d.\nI\u00f1aki Pe\u00f1a mediku paliatibistarekin heriotzaz hitz egin du Joseina Etxeberriak. Eta tartekatuta, Mozarten \u201dRequiem\u201daren zatiak entzungo ditugu.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -742,8 +742,8 @@
   },
   "1328": {
     "rss": "https://guau.eus/series/1328/rss.xml",
-    "media_title": "102. Koska/Alguillo & Alkimistak. Alfonso Guill\u00f3: \u201cKoska hegoaldean, Errobi iparraldean, gizarte guztia mugitu zen\u201d",
-    "media_desc": "Denboran zehar zubi bat eraikiko dugu, ertz banatan 70eko eta 2020ko hamarkadak jarrita. Alde batetik Koska, euskal rockaren lehen belaunaldiko taldea eta bestetik Alguillo & Alkimistak, rocketik abiatuta R&B, funk, latin eta gospel kutsuekin jolasten duen taldea. Bi proiektuen erdigunean bada artista bat, elgoibartarra bera, eta noski gurera gonbidatu dugu zubi azpiko urak eramandakoaz eta dakarrenaz bustitzeko.\n\n\"Lore Hostoak\" podcastaren atal honetan, Alfonso Guill\u00f3 abeslari eta baxu-jolea hostokatu du Ekain Perezek.\n\nPlaylista:\n\n. Koska \u2013 Garraztasuna (Koska // 1976) \n. Koska \u2013 Beldurrez (Koska // 1976) \n. Koska - Otaloreen antzera (Koska // 1976)\n. Koska \u2013 Bizitzaren Poema 2 (Koska // 1976)\n. Koska \u2013 Ehun Urte (Bihozkadak // 1979)\n. Alguillo&Alkimistak - Ur gaineko bitsetan (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak \u2013 Tuneletik (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak - Gesala eta argitasuna (Burua Makurtu Gabe // 2024)\n. Alguillo&Alkimistak - Iluna nitaz jabetu da (Burua Makurtu Gabe // 2024)",
+    "media_title": "103. Martin de Marte, Martin Murua: \"Zeozeren bila nabil, adrenalina puntu bat dago kantu bat egitean\"",
+    "media_desc": "Kostaldetik barrena, olatuak hartuaz, Zarautzera bidean jarriko gara chorus gitarrez nahiz erritmo groovy-ez erakarrita. Mac Demarco kanadarraren soinutik gertu, Martin Muruak, \u201cDIY\u201d edo \u201cEgin Ezazu Zerorrek\u201d formulatik eraiki zuen bere soinu unibertsoa.  Denboraren poderioz, talde izaera hartu du Ion Ferrera, Xabier Aramendi, Nikolas Eizagirre edo Peru Zabalaren konpainian osatutako proiektuak. Sintetizadore, baxu jostalari, eta azken finean, buruhausteetatik ihes egitera gonbidatzen gaituzten doinuak geureganatuta murgilduko gara Marterako bidaia edo odisea musikal honetan.\n\nEkain Perezek gidatutako \"Lore Hostoak\" podcastaren atal honetan, Martin de Marte hostokatu dugu.\n\n. Martin de Marte \u2013 \u201cEskolatik Kanpo\u201d (Nahiko Ondo // 2025)\n. Martin de Marte \u2013 \u201cPimientos A Lo Tigre\u201d (Nahiko Ondo // 2025)\n. Hertzainak - Si Vis Pacem, Parabelum (Hertzainak // 1984)\n. Kortatu - Don Vito Y La Revuelta En El Frenopatico (Kortatu // 1985)\n. Jexuxmai Lopetegi - Dantzari Bakartia (Barrakoian 25 urte // 2020)\n. Martin de Marte \u2013 \u201cYou Better Ulertu\u201d (Red River Ride // 2020)\n. Martin de Marte \u2013 \u201cBlue Bean Smile\u201d (Kaixo Lagun // 2019)\n. Martin de Marte \u2013 \u201cAmellukas\u201d (Nahiko Ondo // 2025)\n. Itoiz - Berandu Da (Espaloian // 1985)\n. TikTara - Fracking Ez! (Hariak // 2015)\n. EZEZEZ \u2013 Dutxita (Katuzaldia // 2023)\n. Martin de Marte \u2013 \u201c2030\u201d (Nahiko Ondo // 2025",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1638,8 +1638,8 @@
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
-    "media_title": "8. \u201cHondar ahoak\u201d, Koldo Almandoz ",
-    "media_desc": "Covid garai latzean izan genuen albiste on gutxitako bat izango dugu hizpide \"Klaketa\" podcastaren atal honetan, lau ataletan osatu zen \u201cHondar ahoak\u201d seriea. Solaskidea, Koldo Almandoz, ibilbide oparoko zinegilea du Gaizka Izagirrek. Bera izan zen seriearen zuzendari eta gidoilaria. Euskal kostaldeko arrantza portu batean gertatzen den intrigazko istorioa da eta bigarren denboraldia izango du."
+    "media_title": "9. \u201cAupa Etxebeste\u201d eta \u201cAgur Etxebeste\u201d, Asier Altuna",
+    "media_desc": "Asier Altuna, zine zuzendari eta gidoilaria, dugu \u201cKlaketa\u201dren atal honetako gonbidatua. \u201cAupa Etxebeste\u201d eta \u201cAgur Etxebeste\u201d filmak hartuko ditugu hizpide, bakarka eta Telmo Esnalekin batera egindako ibilbidea luzea jorratzeko. Bi filma horietan gertatutako hainbat pasarte errepasatu ditugu, aldi berean, euskal umorea pantailan zer nolako sasoian dagoen aztertuz."
   },
   "1319": {
     "rss": "https://guau.eus/series/1319/rss.xml",
@@ -1705,8 +1705,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": " Itziarko eta Ordiziako afalostekoak",
-    "media_desc": "Afalosteko bi bertso saiorekin osatu dugu \u201cHitza Jolas\u201den atal hau. Itziarko auzo-udalaren urteurrenekoa bata, Ordiziako Emaneurre taldearen urteroko hitzordua bestea. Biak ere umore kutsu handiko saioak izan zirela jabetuko zara."
+    "media_title": "Euskaraldia dela eta, Ibarrako saioa",
+    "media_desc": null
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2843,8 +2843,8 @@
     "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta Euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak -eta sekretuetara askotxo gerturatzen direnak- kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podcast batean kontatuko du intrigaz eta azpikeriaz beteriko soinu-fikzio misteriotsu hau, Irulegiko Eskuko inskripizioen eta Euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.\n\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6ff99942-4377-48b6-b360-6f622caafe6a.jpg",
-    "media_title": "4. Eguzkilore beltza",
-    "media_desc": "Jone autobusez joango da Gasteizera, Xabier Beraza Hizkuntzalaritzan Doktore eta Irulegiko Eskuko ikertzailearekin biltzeko. Berazak bere sekretuak erakutsiko dizkio, piezak euskararen jatorriarekin zerikusia duen misterio handi baten parte direla esanez. Fournier Karta Museoan brontzezko beste pieza bat aurkituko du Jonek, baina Aitor taxilariak jarraitzen dio, Gorrotxategi izeneko pertsona ilun batekin lanean."
+    "media_title": "5. Hamairu ate hamairu giltzekin",
+    "media_desc": "Baionako Euskal Museora eraman dute Jone azken pistek. Bertan, misterioa argitzeko pieza gehiago aurkituko ditu, eta elkarrizketa batean, ama bizirik dagoela eta Basoa Fundazioaren egiaz jakingo du. Enekok, berriz, Iratxeren koadernoan aurkikuntza berria egingo du."
   },
   "1860": {
     "rss": "https://guau.eus/series/1860/rss.xml",
