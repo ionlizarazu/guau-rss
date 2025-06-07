@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Boiseko Jaialdirako prest",
-    "media_desc": "Bi hilabete falta dira Boiseko Jaialdirako, euskal diasporaren hitzordu garrantzitsuenerako. Duela hamar urte egin zuten azkena, eta aspaldiko gogorik handiena nabari da itsasoaren bi aldeetako euskaldunen artean. Prestaketa-lanez hitz egin dugu Ana Mendiola antolatzailearekin, eta bertaratzekoak direnetako batzuekin: Gari Otamendi dantzaria, Amaia Urberuaga bidaia-antolatzailea eta Ander Caballero Eusko Jaurlaritzako Kanpo Harremanen idazkari nagusia.",
+    "media_title": "Gabriel arestiren Bilbon, paseoan, poesiaz eta musikaz",
+    "media_desc": "Xabier Monasterio eta Karmelo Landa Gabriel Aresti elkarteko kideekin egin dugu kulturgile haundiaren bizileku eta bizitzaren errepasoa",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -1278,8 +1278,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nolako zahartzaroa nahi duzu?",
-    "media_desc": "Zahartzaroa eta zahar izateko modu eta moldeak izan ditugu hizpide Faktoriako 'Bigarren Laurdena' solasaldian. Fermin Alvarez, Maria Loro\u00f1o eta Markel Pe\u00f1albarekin irudikatu ditugu zahartzaroa bizitzeko aukerak, adinekoek gizartean behar luketen tokia eta 'co-housing'-a bezalako aukerak.",
+    "media_title": "Xabier Artetxe: Carlos Sainz, Bat Formulako pilotuaren prestatzailea",
+    "media_desc": "Eliteko txirrindularien prestatzaile ezaguna izatetik, aldaketa egitea erabaki du Artetxek, Carlos Sainz pilotuaren prestketa fisikoaz arduratzeko. Txirrindulariak erabat utzi gabe, hori bai. Bat Formulako pilotuen exigentzia fisikoetara egokitzeko ari da lanean eta oraingoz, harreman zuzena eta ona dute pilotuak eta Artetxek. Bere ustez, kirolariekin izan beharreko tratu garbian dago arrakastaren gakoetako bat. Gauzak okertzen direnean ere, kirolariaren alboan egotean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -2901,5 +2901,12 @@
     "description": "Carlos P\u00e9rez Uralde irrati-antzerkirako gidoien I. lehiaketa\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d871d50c-50e9-4375-ae78-491af25eb04b.jpg"
+  },
+  "1879": {
+    "rss": "https://guau.eus/series/1879/rss.xml",
+    "title": "Azkena rock",
+    "description": "Azkena Rock Jaialdiari buruzko programa, elkarrizketak eta zuzeneko kontzertuak Gasteizko Mendizabalatik\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/ad0281a2-0102-45ad-b07e-a44e285c4328.jpg"
   }
 }
