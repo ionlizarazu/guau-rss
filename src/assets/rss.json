@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg",
-    "media_title": "35. Josune Arakistain, S\u00fcne, eta \u201cAmaineman\u201d ",
-    "media_desc": "Azkeneko urtean aldaketa asko bizi izan dituela aitortu du atal honetako gonbidatuak, Josune Arakistain Itziartarrak.\nS\u00fcneren azken lanak dioen bezala, \u201cAmaineman\u201d, alegia, amain ematen ikasten ari da eta horretaz aritu dira Josune, Aitziber eta Malen solasean. \nNolakoa da Josune eta nolakoa S\u00fcne? Nola izan ohi da, gogorik edo indarrik ez dagoenean, publikoaren espektatibak bete behar izatea? Nola eramaten da ikusleen ilusioaren arduraduna izatea? \nMusikariak, kontzertu bira hasi berria du eta kirol berezi bateko munduko lehiaketan sailkatu da. Egia ote da? Zer da haientzat \u201camain ematea\u201d? Terminoa erromantizatu egin ohi da?"
+    "media_title": "36. Alex Padilla eta EHko \u201csalba nazazu\u201d",
+    "media_desc": "Txutxu-mutxu eta saio saltseroak aldarrikatzeko, Alex Padilla kazetaria gonbidatu dute Malenek eta  Aitziberrek \u201cBenetan zabiz?\u201d podcastera. Horretan aditua da eta farandulako artista zein famatu asko ezagutzen ditu. Bai eta \u201cpop kultura\u201dko erreferentzia guztiak ere! \nArrosaliren tartean famatuak protagonista diren jokoan aritu dira eta \u201cSalvame\u201d saioko pertsonaia guztien inguruko informazio pribatua ezagutu dute.  \nEuskal Herritarrei kotilleo saio bat gustatuko litzaiekeela uste dute? Euskal famatuak haien inguruko istorio pribatuak publiko bihurtzeko beldur lirateke edo prest leudeke? Haien  inguruko edukia egon, badago? Malen izango da EHko Marta Riesco? Nor ezkonduko da datorren urtean? Aitortu dizkien ezusteko guztiak ezagutzeko prest? Ba, entzun atala. "
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -66,8 +66,8 @@
     "title": "Egia gordinetik",
     "description": "\"Egia gordinetik\" soinu-fikzioak Mari Sagarzazu neska gaztearen bizitzaren pasarte bat kontatzen du. Marik bere baserri munduko mugak zabaltzeko beharra sentitzen du eta aktoresa izatea du amets. Helburu hori lortzeko asmoz eraikitako bidean, oztopo eta amildegi latzak bizi beharko ditu. Baina baita une zirraragarri eta gozo askoak ere, ibilera horretan gurutzatuko zaizkion lagun zintzoei esker. \nIkasketak, lana, inbidiak, estutasunak, laguntasuna\u2026 Banbalina arteko amodio istorioa eta gehiago!\n",
     "media_type": "audio",
-    "media_title": "9. Zeeeeer?",
-    "media_desc": "Itziarrekin lan egitea ez da inondik inora Joxeluisekin lan egitea bezalakoa. Lankideen babesa ere ez da berdina. \n\nEtxean, gauzak gaiztotu egin dira Pellorekin.",
+    "media_title": "10. Deitu anbulantziari!",
+    "media_desc": "Tentsioak eta estresak eragin lazgarria izan dute Marirengan. \u201cGaztelu osoa erori da\u201d goitik behera. Neurriak hartu behar izan ditu!",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b7faec-2f74-4e9a-8a8f-7a6055b776eb.jpg"
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Edurne Calvo, presidenta de Gizarterako",
-    "media_desc": "Edurne Calvo, Gizarterako elkartearen presidenta",
+    "media_title": "Santi Mart\u00ednez, secretario general de CCOO Euskadi",
+    "media_desc": "Santi Mart\u00ednez, Euskadiko CCOOko idazkari nagusia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Lagundutako ernalketa: \"Identitatea galdu eta bizitza badaezpadez bete nuen\"",
-    "media_desc": "Isilpean, tabu bihurtutako gaia da haurdun geratzearen ezina eta ernalketa lagunduaren prezioa. Hitz egitearen beharrak elkartu ditu Faktorian Naroa Onandia, Garbi\u00f1e Aizpuru eta Olatz Perez de Vi\u00f1aspre. Ahaleginaz eta ezinaz, minaz eta isilpean gordetakoaz, porrotaz eta arrakastaz, norbere gorputzarekiko gatazkaz. Lagundutako ernalketa prozesuen argilunez.",
+    "media_title": "Gaskon Ibarretxe:\"Bulkada hori ikustea nire Eureka momentua izan zen\"",
+    "media_desc": "Hortz muineko zelula amak gaurneko neuronekin interakzioa izan dezaketela frogatu du EHUko ikerketa talde batek. Bertako arduraduna da Gaskon Ibarretxe biologoa eta aurkikuntza horren xehetasunak eta izan dezakeen erabilera azaldu digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -515,8 +515,8 @@
     "page": "Kultura",
     "page_id": 63,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "1. Ray Loriga, TIM su \u00faltima novela ",
-    "media_desc": "\u201cCaf\u00e9 Valpara\u00edso\u201d podcastaren hirugarren denboraldia \u201cTIM\u201d nobelarekin abiatu dugu, Ray Lorigaren lanik berriena. Ezezaguna zaigun gela batean hasten da eleberria; ez altzaririk, ezta leihotik sartzen den argirik ere ez dugu ezagutzen bertan\u2026 Proposamen aberatsa da, identitateaz ari dena, identitatea aurrez aurre topatzeaz, eta teknologiari gure bizitzaren gidaritza hartzen uzten badiogu izan ditzakegun arazoetaz. Jai girotik noiz alde egin behar den jakitearen garrantziaz ere hitz egin dugu aurreneko atalean. "
+    "media_title": "2. Noem\u00ed Casquet, \"Pir\u00f3manas\" y libres ",
+    "media_desc": "Noem\u00ed Casquet, kazetaria eta sexualitateari buruzko dibulgatzailea da.  \u201cCaf\u00e9 Valpara\u00edso\u201d podcastean izan da eztanda bat sortzeko moduko liburu eta proposamena aurkezten:  \u201cPir\u00f3manas, c\u00f3mo incendiar tu vida y despertar tu poder\u201d. Sutsua da Noem\u00ed, eta, pospoloak hartuta etorri da, nortasunaz, botereaz, plazeraz eta maitasunari buruz hitz egiteko. Kontuz! Orgasmoak indartzeaz bezala aritu baita zure diruak kontrolatzearen garrantziaz."
   },
   "1382": {
     "rss": "https://guau.eus/series/1382/rss.xml",
@@ -641,8 +641,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra de lunes 2 de junio",
-    "media_desc": "Denboraldiko azken solasaldia Martin Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valentin Carlos de Vergararekin, Eneko Aldecoa, Igor Galarza eta Jon MIkel Praderarekin.",
+    "media_title": "Baskonia y Alav\u00e9s, juntos en el Rugby Mix Ability",
+    "media_desc": "Ekainaren 22tik 27ra MAGIC eta IMART, Mix Ability Nazioarteko Errugbi Txapelketaren 4. edizioa ospatuko da Iru\u00f1ean. Bertan, desgaitasunen bat duten eta ez duten pertsonek elkarrekin parte hartuko dute talde berean, hamar kirol-modalitatetan. Baskoniak eta Deportivo Alavesek Araba ordezkatuko dute. Lehenengoa asteartean jokatuko da eta bigarrena asteazkenean.\n\nGai honi buruz hitz egiteko, honako hauek ditugu: David Izquierdo Gonz\u00e1lez, MAGIC eta IMARTeko Batzorde Antolatzaileko kidea; Nuria Zapatero Elorrieta, gizarte integratzailea eta Baskoniako proiektu sozialen koordinatzailea: Osana Saenz de Adana Fernandez de Mendia, gizonezkoen bi taldeetako baten entrenatzailea eta emakumezkoen jokalaria; Arkaitz Crespo Sande, desgaitasuna duen jokalaria; eta Maider Alonso Marquez, desgaitasuna duen jokalaria.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -669,8 +669,8 @@
   },
   "1296": {
     "rss": "https://guau.eus/series/1296/rss.xml",
-    "media_title": "8. Bizitzaren ondorengo bizitzaz, Dorleta Kortazar",
-    "media_desc": "Sinesten duzue hil ondorengo bizitzan? Mamurik ikusi al duzue? Gai honetan sakontzeko Dorleta Kortazar  ipuin kontalaria gonbidatu dute Mirari Martirena eta Idoia Torregaraik  eta beti bezala, galdera xelebreak egingo dizkiote. \n\nDagoeneko entzuteko gogoz zaude, ezta? Bat egin harpa-jotzaile komunitatearekin!\n\n\"Harpa jotzen\", txorakeriak eta fundamentu gabeko gauzei eskainitako pozkasta da.",
+    "media_title": "9. Elkarbizitzaz, Lide Hernando ",
+    "media_desc": "Etxea txukun mantentzen duzue? Dutxan abesten duzue? Atal honetako gonbidatua Lide Hernando  musikaria izango da. Jakin nahi duzue ea inoiz kantarik konposatu duen elkarbizitzak inspiratuta? \nGehiago jakin nahi baldin baduzu, entzun arretaz \"Harpa jotzen\" pozkastaren atal hau. dakizun bezala txoko hau Idoia Torregarai eta Mirari Martiarena umoregileek txorakeriak eta fundamentu gabeko gauzei eskaintzeko baliatzen dute.\n\nEgin ezazu harpa-jotzaile komunitatearekin bat!",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -702,8 +702,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "9. Assassin's Creed Shadows    ",
-    "media_desc": "Ubisoften joko berri eta garrantzitsuena da \u201cAssassin's Creed Shadows\u201d, Frantziako estudioak asko baitu jokoan abentura berri honekin eta. Ordu askotan zehar jokatu ondoren, \u201cJokutopia\u201dren 9. atalean analisi sakona egin dugu jokoak eskaintzeko duen guztiaren inguruan.",
+    "media_title": "10. \u201cUntil Dawn\u201d eta \u201cMinecraft Film Bat\u201d",
+    "media_desc": "Zinemara sartuko gara! Azken ataletan aipatutako bideojoekotan oinarritutako bi pelikula estreinatu dira eta \u201cJokutopia\" ren 10.ean tarte egin diegu.  \u201cUntil Dawn\u201dek izen bereko beldurrezko bideojokoaren unibertsoa zabaltzeko helburua dauka. Gehiago kosta zaigu, \u201cMinecraft Film Bat\u201dek zer lortu nahi duen ulertzea.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -713,8 +713,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "49. Emakumeen gutxiespen \u201czientifikoa\u201d ",
-    "media_desc": "Historian, zientzia aitzakia modura erabili izan da emakumeen adimena eta gaitasun fisikoak gutxiesteko, eta gaitzak asmatzeko, adibidez, histeria. Emakumeei buruzko gezur \u201czientifikoak\u201d ugari, beraz, zientziaren berezko ezaugarritzat hartzen dira objektibotasuna eta neutraltasuna ahaztuta. \n\u201cUhin ultramoreak\u201d podcastaren atal honetan, ordea, tesi hori ezeztatzen duten hamaika adibide jaso dituzte Alaitz Ochoa de Eribek eta Ana Galarragak. Horren atzean dagoen arrazoia patriarkatua da eta zientziak emakumeei buruz kontatutako gezur \u201czientifikoak\u201d aletu dituzte. \nHorrez gain, egia ote da Marie Curiek erabili zituen koadernoak oraindik erradioaktiboak direla?",
+    "media_title": "51. Hilezkortasunaren ametsa",
+    "media_desc": "Zuk zer duzu nahiago, hil arte gazte bizi edo hilezkorra izan? Ba dago izaki hilezkorrik? Gizakia bihur liteke noizbait hilezkorra? Ari aldira esperimentuak egiten helburu horrekin? Badago emaitzarik? Hilezkortasunaren ametsari heldu diote \u201cUhin Ultramoreak\u201den atal honetan Alaitz Ochoa de Eribek eta Ana Galarragak, ikuspegi zientifiko eta kritikoarekin.\n\nBeste kontu jakingarri asko ere azaldu dituzte. Adibidez, Estatu Batuetako multimilioidunek beren espermatozoideen arteko lasterketak egiten dituztela, ustez, osasun sexuala bultzatzeko asmoarekin.\n\n",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -724,8 +724,8 @@
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
-    "media_title": "Eric Clapton (I): \"Musika, sendatzaile bihurtu zen niretzat\"",
-    "media_desc": "Eric Claptonen bizitza ez da arrosa kolorekoa izan. Adikzioak, tragedia eta nerbioetako gaitza; muturreko egoerei aurre egin behar izan die. Baina gorabehera horiek ez dute musikatik desbideratu eta historiako gitarristarik onena jotzen dute, Jimi Hendrixen ondoren. \nIrantzu Karrerak bi ataletan laburbilduko digu \u201cSlowhand\u201d ezizenez ezagutzen dugun musikariaren ibilbidea.",
+    "media_title": "Eric Clapton (II): Gitarraren azken heroia",
+    "media_desc": "Chicagoko bluesaren eta Buddy Guy, Freddie King edota B.B. King moduko gitarristen ereduak sintetizatuz sortu zuen bere estiloa Eric Claptonek. \u201cPasaiak\u201d podcastak musikariari eskaintzen dion bigarren atalean Irantzu Karrerak gogoratzen digun bezala, munduan izan den bigarren gitarristarik onena aukeratu zuen Rolling Stone aldizkariak, Jimi Hendrixen atzetik.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1098,9 +1098,9 @@
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/6436f6e6-6e7b-4641-b5e1-3cd6cbae0e88.jpg",
-    "media_title": "0. Trailerra: \"Eden\", bigarren denboraldia",
-    "media_desc": "Ekainaren 16tik aurrera \u201cEden\u201d soinu-fikzio podcastaren bigarren denboraldia eskainiko dizu GUAU plataformak; hau ere sei ataletan banatuta.  \nGexan askatzen saiatzean jaso zuen dardoaren ondoren, Naroa ez da lehen bezala sentitzen: bere gorputza eta senak animalia baten modura itxuraldatzen hasi dira. Beca eta Oier gertatzen ari dena ulertzen eta Naroari laguntzen saiatuko dira, baina Naroak beraiekin duen harremana ere aldatu egin da, onerako eta txarrerako. Bitartean, Jingko enpresaren itzala gero eta handiagoa bihurtzen hasi da, baita institutuan bertan ere."
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/5b7c9971-95d0-4c4c-8f8a-75aae4d0a7a0.jpg",
+    "media_title": "3. Erabakia",
+    "media_desc": "Naroak barrutik bitan banatzen ari dela sentitzen du: katu edo neska, aldaketaren aurka borroka egin ala amore eman. Gexan agertu da berriz, baina aldatua dago. Hibridoa da orain: ez pertsona, ez animalia. Naroak ere aukeratu egin beharko du nor izan nahi duen\u2026 eta nori lagundu nahi dion."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1507,8 +1507,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Patioko Benta abrir\u00e1 a mediados de junio",
-    "media_desc": "La Venta del Patio aro digitalean sartzen da Patioko Bentaren gisa, baina Arabako Lautadako Kuadrillako produktuei eta ekoizleei leial, eta Barrundiako bidegurutze horretan betiko elkargune izatera itzultzen da. Zentro berri honek hainbat espazio hartuko ditu, hala nola: showroom bat, KM0 produktuarekin egindako zaharberritzea, leihatila adimendunak, turismoari buruzko informazio-gunea eta eskualdeko sozializazio-gunea izan nahi duena, bai eta kultura-jardueren gunea ere.",
+    "media_title": "Alegr\u00eda-Dulantzi, la dama de Llanada Alavesa",
+    "media_desc": "Arabako Lautadako Kuadrillako udalerri hau bere geografiako hainbat tokitatik ikusten den parrokia-dorre lirainarengatik nabarmentzen da. Argazkilariak, Borja Trivi\u00f1ok, Castro de Henaiotik tiratzen du argazkia, Arabako Lautadaren zati honetako puntu garai eta antzinakotik.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1578,7 +1578,7 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "\"Sin confrontaci\u00f3n y contrapoder, no hay avances para la clase trabajadora y esa es nuestra apuesta\" ",
+    "media_title": "Eneko Goia, alcalde de Donostia: \"Est\u00e1 muy cerca el acuerdo sobre la tasa tur\u00edstica\"",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
@@ -1646,8 +1646,8 @@
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
-    "media_title": "11. \u201cUrte berri on, Amona!\u201d, Xabier Berzosa  ",
-    "media_desc": "Xabier Berzosa ekoizlearekin solastu da Gaizka Izagirre, \u201cUrte berri on, Amona!\" Filmaz \"Klaketa\"ren atal honetan. Haren ibilbide luzean emandako urratsak, egin dituen lan ezberdinak eta ekoizle baten lan egiteko modua azaldu dizkigu gonbidatuak."
+    "media_title": "12. \"Brinkola\", Mikel Laskurain",
+    "media_desc": "\u201cBrinkola\u201d telesail entzutetsua hamabigarren \u201cKlaketa\u201d ataleko edukia dugu. Horretarako, antzerkian, telebistan eta zineman bide luzea egin duen Mikel Laskurain aktorea da Gaizka Izagirreren gonbidatua. Kultuzko seriea bilakatu zen askorentzat, 2009an estreinatutako telesaila, eta halaxe jarraitzen du."
   },
   "1319": {
     "rss": "https://guau.eus/series/1319/rss.xml",
@@ -2593,8 +2593,8 @@
     "description": "Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Datorkigunaren aurrean zer egin dezakegun ezagutzera eman nahi dugu, Guillermo Roak gidatutako saioan. Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Venezia, alderantzizko baso baten gaineko hiria",
-    "media_desc": "Biolurreko Leire Ibarretxerekin arituko gara nekazaritza ekologikoan erabiltzen diren pestiziden ordezkoei buruz;\neta Veneziara joango gara, alderantzizko baso baten gaineko hirira."
+    "media_title": "Itsasoko animalien erreskatea",
+    "media_desc": "Plentziako itsas estazioko Denis Benito gonbidatu dugu eta itsasoko animalien  erreskatean aritzen den SAREUS sarea ezagutuko dugu: nola egiten duten lan zetazeo bat, dortoka bat, itsas zakur bat edo marrazo bat lehorreratzen denean. Eta, mundura begira, Trump-en murrizketek atmosferako CO2aren neurketan zer ondorio izan duten aztertuko dugu."
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
