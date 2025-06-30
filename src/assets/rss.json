@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Miren Leiceaga, responsable de ACCEM Euskadi",
-    "media_desc": "Miren Leiceaga, ACCEM Euskadiko arduraduna",
+    "media_title": "Gorka Urtaran, diputado foral de politicas sociales",
+    "media_desc": "Gorka Urtaran, Arabako Gizarte Politiken saileko foru diputatua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Elizabeth Olaskoaga: \"Txikitatik joan nahi nuen itsasora, baina arazo bat neukan... neska nintzen!\"",
-    "media_desc": "Sexu-hezitzailea da ofizioz, baina arrantzan ere aritu zen gaztetan. Dozenaka bafore eta ziento bat itsas-gizonen artean bera izan ohi zen itsas-andre bakarra. Hondarribikoa da eta alarde parekidearen aldeko jarrera ez zioten barkatu zenbaitek, horrek galarazi zion arrantzan kanpaina gehiago egitea. Itsasoan murgilaldia egin ostean etorri da irrati-estudiora eta aritu da arrantzaz eta sexuaz, iragana eta oraina lotuz.",
+    "media_title": "Ane Olabarria: \"Eskola indarkeriaren aurrean ez dakigu nola jokatu\"",
+    "media_desc": "Psikodidaktikan doktorea da Ane Olabarria eta berriki \"Espainiako Ikaskuntza Komunitateen Nazioarteko Topaketa\" n parte hartu du. Gaztetan indarkeria jasan zuen eskolan eta ordutik horri aurre hartzeko lanean dabil. Horretarako \"Indarkeria 0 Ausarten Kluba\" eredua aurkeztu digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -515,8 +515,8 @@
     "page": "Kultura",
     "page_id": 63,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "3. Fernando Le\u00f3n de Aranoa, la \"Leonera\" de las prosas ap\u00e1tridas",
-    "media_desc": "\u201cLeonera\u201d gaztelaniaz, haurtzaroko gela da, jostailuz, kaxaz, aldizkari zaharrez,  bizikletaz\u2026 trastez betetako gela hori da. Helduentzako kaosa, eta haurrentzat askatasun gunea. Anabasa zoragarri horretaz eta denboraren joanak sortzen duenaz hitz egin dugu \u201cCafe Valpara\u00edso\u201d podcastaren atal honetan Fernando Le\u00f3n de Aranoarekin. "
+    "media_title": "4. Maite Esparza,  \u201cEl verano que aprend\u00ed a disparar\u201d",
+    "media_desc": "Diana da eleberri honetako protagonista, eta Maite Esparzak herrietako bizitza eta udak ditu hizpide. Garai axolagabea, lagunekin pasatako arratsaldeak, bizikletatik erorita belaunetan egindako zauriak eta baita sexu esnaera ere. Eleberriak, Nafarroa eta Bartzelona arteko pasarteak biltzen ditu. Aldi berean, gure memoriako bi esparrutan;  70-80 hamarkadatan haur izan ginenon nortasuna ezarri zuen memoria eta Alzheimerraren erruz galtzen duguna."
   },
   "1382": {
     "rss": "https://guau.eus/series/1382/rss.xml",
@@ -1636,7 +1636,7 @@
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
     "media_title": "Unidad m\u00f3vil",
-    "media_desc": ""
+    "media_desc": "Veronica Werckmeisterren tailerra bisitatu dugu, non martxoaren 3ko horma-irudi berria oihalez erreproduzitzen ari diren"
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2593,8 +2593,8 @@
     "description": "Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Datorkigunaren aurrean zer egin dezakegun ezagutzera eman nahi dugu, Guillermo Roak gidatutako saioan. Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Zer inpaktu du unibertsitateak ingurumenean?",
-    "media_desc": "Gorka Bueno Mendieta eta Maite de Blas Martin EHUko ingeniaritza eskolako ikerlariak dira. EHU osoaren aztarna neurtu dute, alegia, unibertsitatearen inpaktua kuantifikatu dute. InpAkta aldikarian argitaratu berri dute, 1. zenbakian. "
+    "media_title": "Artilea arazo denean",
+    "media_desc": "Cristina Pe\u00f1a, EHUko ikerlariak, biopolimeroez eta ekonomia zirkularraz hitz egingo digu; besteak-beste, Euskal Herrian, artileak sortzen duen arazoaz."
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
