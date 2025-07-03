@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg",
-    "media_title": "38. Brigade Loco, erabakien politikaz",
-    "media_desc": "Atal honetan Brigade Loco taldeko Alex Arteaga eta Manex Ega\u00f1a izan dituzte! Taldeko lehen entsegua desastre bat izan zela aitortu duten arren, \u201cBide baten esanahia\u201d azken laneko birarekin dabiltza aretoak betetzen eta arrakastatsu. \n\nOfizioz irakasleak diren Ega\u00f1a eta Arteaga, oholtza atzeko kontuez, egiten duten musikaren aldarrikapenez, punk- rock-az, letra eta esanahi hutsalez, taldean hartzen diren erabakien politikaz, koherentzia mantendu edo kontraesanez\u2026 aritu dira \u201cBenetan zabiz?\u201d podcastean. \n\nNolakoak dira Manex eta Alex? Haien musikak zerbaiterako balio duela uste dute? Zer diote aldarrikapenik ez duen musikaz? Eta ideologia politikoa argi erakusten ez duenaz? Erabaki guztiak dira politikoak? Galdera horien guztien erantzunak eta, gainera, Zea Mays taldearekin kolaborazioa dutela kontatu dute esklusiban! Eta Iggy Pop handiaren kamerinoan nola bukatu omen zuten ere bai!"
+    "media_title": "39. Jone Laspiur, eskapistak eta mugak ",
+    "media_desc": "Jone Laspiur aktore donostiarra gonbidatu dute atal honetara! Intxaurrondokoak Goya batekin saritzean \u201czer sentitzen den\u201d azaldu die Aitziber eta Maleni. Aitortu du, Goyaren oroigarria, Nakar taldearen diskoen ondoan daukala, amaren etxean. Laspiur gehiago ezagutu dute eta haren ibilbideari lotuta anekdota ugari kontatu dizkie. Gai gehiago ere aipatu dituzte: arrakastaren albo kalteak, lan eremuetan espazio seguruak sortzeko garrantzia, aktorea eta abeslaria, aldi berean, izatearen arteko desberdintasunak\u2026\nBestetik, \u201cmugak jartzearen\u201d gaia hartu dute eta filmaketetan gertatzen diren egoera mugatzaileak ere aipatu dituzte. Eta ohi bezala, esklusiba bat! Pamela Anderson aktoreak daukan dortoka santutegira gonbidatuta omen dago\u2026 Zergatik ote dira dortokak eskapistak? \nEz galdu Jone Laspiurren atala!"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Josu Etxaburu: \"Erabakitzeko eskubidea inoiz baino presenteago dago gure bizitzetan\"",
-    "media_desc": "Larunbatean Bilboko Autonomia kalea ikurrinez beteta erakutsi nahi dute pultso subiranista agenda politikoaren lehen lerroan jartzeko indarra badagoela.",
+    "media_title": "Eneko Andueza: \"HIzkuntz eskubideen eta lan eskubideen artean, beti egingo dugu guk lanaren alde\"",
+    "media_desc": "Euskadiko sozialisten idazkari nagusiak adierazi du horretan dagoela talka. Autogobernua berritzeko negoziazioetan, berriz, \"portzentaia haundi bat adostuta\" dagoela adierazi du",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Eduardo Ruiz de Loizaga, presidente de la Cuadrilla de Mendialdea",
-    "media_desc": "Eduardo Ruiz de Loizaga, Mendialdeko Koadrilako presidentea",
+    "media_title": "Alfonso Gurpegi, viceonsejero de empleo",
+    "media_desc": "Alfonso Gurpegi, enplegu sailburuordea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -702,8 +702,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "12. Summer Games Fest",
-    "media_desc": "Summer Game Fest  gamerren bilkura bideojoko berriak ezagutzeko ekitaldi ezin hobea da beti. Bertako aurkezpen guztiak laburbilduko ditugu \u201cJokutopia\u201d podcastaren  atal honetan: State of Play, Xbox Games Showcase eta abar.",
+    "media_title": "13. Mario Kart World",
+    "media_desc": "Nintendoren joko berriak proposamen interesgarria luzatu digu: ohiko lasterketa zirkuituen ordez, mundu konektatu bat eskaintzen du Mario Kart World jokoak. Emaitza interesgarria da, baina baditu bere alde txarrak ere. Hau guztia eta gehiago aztertuko ditugu \u201cJokutopia\u201dren atal honetan!",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -746,8 +746,8 @@
   },
   "1328": {
     "rss": "https://guau.eus/series/1328/rss.xml",
-    "media_title": "105. Haritz Harreguy: \u201cAbesti bat ona bada, soinua ez da hain inportantea\u201d",
-    "media_desc": "Usurbilen, 1974an jaio zen Haritz Harreguy,  Euskal Herriko soinu alkimista handietako bat. Bolumena, espazioa, dinamika, harmonia eta elementu soniko ezberdinei leku egokia ematea izan da bere erronka urteetan zehar, soinu bakoitzak besterik zapaldu gabe gure belarri edo azalerainoko bidea oztoporik gabe egin dezan. Azken finean, musika da bere mundua, artisten sentimenduak ahalik eta egokien transmititzea eta horretarako,  halaber, artista izan beharra dago. Soinu teknikari eta ekoizle izate horren atzean dagoen ezagutza, zaintza eta trebezian oinarrituta sormen eta adierazkortasunaren distira ikuskatu nahi genuke bere kantutegi pertsonala entzunez.\nEkain Perezek gidatutako \u201cLore Hostoak\u201d podcastaren atal honetan Haritz Harreguy hostokatu dugu.\n\nPlaylista:\n\n\u2022\teMe \u2013 2+2 Lau (Beleak Elurretan // 2017)\n\u2022\tMikel Labora / Xabier Lete - Izarren Hautsa (Lau Bost // 1980 -\u2013 Kantatzera Noazu //1976)\n\u2022\tItoiz -  To Alice (Musikaz Blai // 1983)\n\u2022\tEskorbuto \u2013 Las Multitudes Son un Estorbo (Los demenciales chicos acelerados // 1987)\n\u2022\tLatzen \u2013 Indarra (Kontzientzia Ala Infernua // 1996)\n\u2022\tBerri Txarrak \u2013 Ikasten (Ikasten // 1999)\n\u2022\tS.A. \u2013 Pauso Bat  (Polvo en los ojos // 2000)\n\u2022\tE\u00f1aut Elorrieta \u2013 Zaldia Eta Behelainoa (Irteera Argiak // 2019)\n\u2022\tSen \u2013 Zure Askatasunarengatik  (Gaizki Esanak\u2026 // 2002)\n\u2022\tKuraia -  Egunsentian (Kuraia // 2001)\n\u2022\tMarte Lasarte \u2013 Marte Lasarte (Ez Da Besterik // 2024)\n\u2022\tDelirium Tremens \u2013 Aio (Hordago // 2022)",
+    "media_title": "106. Naxker, Karmele Gurbindo: \u201cEmakumezko talde gehiago behar dira, baina oso polita dago Iru\u00f1a\u201d",
+    "media_desc": "Nafarroan, konkretuki Iru\u00f1errian, azken urteetan sortu den musika olatu berriaren parte da Atarrabiako Naxker boskote gaztea. Pop, punk edo post-punkaren ildotik konposatu dituzte euren kantuak eta \u201cMatxenia II\u201d izeneko lehen lanarekin harrera ezin hobea izan du Karmele Gurbindo, Ainhoa Garc\u00eda, Nerea Arrasate, Jaione Baraibar eta Aritz Martinek osatutako taldeak. Ez daramate denbora asko musikaren munduan, baina transmititzen duten indarra ikusirik etorkizun oparoa iragarri diezaiekegu.\n\nPlaylista: \n\u2022\tNaxker \u2013 Bidelagun (Matxenia II // 2024)\n\u2022\tNaxker \u2013 Pista Bat (Pista Bat // 2025)\n\u2022\tItoiz \u2013 Ezekielen Prophezia (Ezekiel // 1980)\n\u2022\tItoiz- Phuntzionariat (Itoiz // 1978)\n\u2022\tHertzainak \u2013 Esaiok (Salda Badago // 1988)\n\u2022\tLukiek \u2013 SnK (Lukiek#2 // 2021)\n\u2022\tNaxker - Ezin Dut Sinetsi (Matxenia II // 2024)\n\u2022\tNiko Etxart -Euskadi Jator goxo eta puta hontan (Baikor // 1990)\n\u2022\tGu ta Gutarrak - Noiz hasi ote zen dena (Bertso berriak eta lagun zaharrak// 2007)\n\u2022\tBelako - Orein Orain (Sigo Regando // 2023)\n\u2022\tVerde Prato - Ez zinen (Adoretua // 2023)",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -850,8 +850,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/452c8f9c-2c69-45db-a768-a66ca0029572.jpg",
-    "media_title": "Nomada digitalen turismoa",
-    "media_desc": "BuleGo programak langile ibiltariak erakarri nahi ditu lan egin eta aisialdiaz gozatzeko eta WorkFromAlava atarian jarri ditu ostatu eta coworkingeko guneak bateratuta. Jone Otxoa Donostiarra Gasteizera lanera joaten denean bilerak egin ahal izateko egongela duen gela bat hartzen du Jardines de Uleta hotelean. Jabi Manzano Gasteiztarra berriz Parisen bizi da eta familia ikustera Arabara joan denean, coworking gunera joan da lanera. Japonian bizi izan zen garaian ere jardun zuen urrutitik lanean Singapurretik eta Tailandiatik. Jardines de Uletako harreragilea, Asier Morales, Cocubo Coworkingeko nagusia, I\u00f1aki Saldias eta Elena Martinez de Madina filologo erabiltzaileak aurkeztu dizkigute euren zerbitzuak. Pobeseko Elai Etxea ere prestatuta daukate bidaiari langileak hartzeko. Joseba Markinezek azaldu digu zein den beren errezeta. Arabako Foru Aldundiko turismo teknikaria da Jabi Durana, eta hark eman dizkigu datuak. Nomada digitalen merkatua hazten ari da eta nitxo erakargarria da, batez ere turistak urte guztian jasotzeko."
+    "media_title": "Arraultzak musika instrumentu ",
+    "media_desc": "San Martin egoitzako adinekoak Azpeitiko Antxieta Musika eskolara joaten dira asteazkenetan klaseetara Gurutze Gorrikoen laguntzarekin. Garaguneko erabiltzaileak ere bai, urritasun intelektuala duten pertsonak eta autismoa dutenak ere joaten dira musikaz gozatzera. Arraultza zaratasuak eta atabalak ez ezik, pilateseko baloia, eta musikaren erritmoan astindu behar duten paratxut bat ere erabili dute saioan. Felipe Morillo irakaslearekin joan gara klaseetara geu ere."
   },
   "1765": {
     "rss": "https://guau.eus/series/1765/rss.xml",
@@ -1099,8 +1099,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5b7c9971-95d0-4c4c-8f8a-75aae4d0a7a0.jpg",
-    "media_title": "3. Erabakia",
-    "media_desc": "Naroak barrutik bitan banatzen ari dela sentitzen du: katu edo neska, aldaketaren aurka borroka egin ala amore eman. Gexan agertu da berriz, baina aldatua dago. Hibridoa da orain: ez pertsona, ez animalia. Naroak ere aukeratu egin beharko du nor izan nahi duen\u2026 eta nori lagundu nahi dion."
+    "media_title": "2. Gosea",
+    "media_desc": "Naroa eta Beca elkarrengana hurbiltzen hasi dira, baina Naroak ezin ditu bere bulkadak kontrolatu. Bestalde, jangelako zerbitzu berriak arrakasta handia du, eta institutuan giroa baretzen ari dela dirudi. Baina gauzak ez dira beti diruditen modukoak. Eta gosea ere\u2026 ez da beti otorduekin soilik asebetetzen."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1315,8 +1315,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Rockaren historian emakumezkoz osaturiko hainbat proiektu ",
-    "media_desc": "Joseina Etxeberriak emakumezkoz osaturiko hainbat proiektu ekarri ditu: The Gogo\u2019s, Haim, The Bangles, Naxker\u2026 eta izan duten garrantziaren inguruan hitz egin dugu.",
+    "media_title": "Soundcloud Trapa Kattalin Barcenarekin",
+    "media_desc": "Kattalin Barcenak Soundcloud Trap mugimenduaren inguruan hitz egin du. BB Trickz artistatik abiatuta, raparen adiera honen bilakaeraren zergatiak eta testuinguru soziopolitikoa aztertu ditu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e596b5c7-33b0-4154-88e6-d3844d668048.jpg"
   },
   "1582": {
@@ -1327,8 +1327,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/40b4d5f3-dd73-4c94-b689-710f70102789.jpg",
-    "media_title": "Bullying-az gazteekin",
-    "media_desc": "Jakintza Ikastolako gazteekin egon da Maialen Otermin, bullying-az hitz egiten. Bertan jasotakoak Izar Arregi psikologoarekin komentatu eta zabaldu ditu."
+    "media_title": "Kirola, hobeto bizitzeko",
+    "media_desc": ""
   },
   "1539": {
     "rss": "https://guau.eus/series/1539/rss.xml",
@@ -1338,8 +1338,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "Arrisku psikosozialei lotutako arazoek eragiten dituzte bajen laurdena, Izaro Mujikak esan digunez",
-    "media_desc": "ELAren Arabako lan osasuneko ordezkariarekin aztertu dugu sindikatuak egindako salaketa, enpresek ez dutela langileen buru osasuna zaintzen eta erakundeek ez dituztela behar beste kontrolatzen enpresak. Osalaneko Ines Alvarezekin azterketa hauek egiteko derrigortasunaz eta garrantziaz hiz egin dugu"
+    "media_title": "Amiantoak gaixotu du Jesus Uzkudun. Urte luzeak daramatza amiantoaren aurkako borrokan",
+    "media_desc": "Osasun egoeratik abiatuta, biktimen elkartetik bizi duten egoerara egin dugu berarekin osatutako elkarrizketan. Epaitegiek aitortu berri duten Carlos Orbegozoren kasuaz, semearekin, Unairekin, hitz egin dugu eta Beasaingo alkateak amiantoa duten eraikinen zentsoari buruzkoak argitu dizkigu"
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1348,8 +1348,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Haurren poertaera zailei buruz",
-    "media_desc": "Mugak jarri eta haurrei entzun. Oreka zail horri buruz Felix Zubia. ",
+    "media_title": "Terapia inmunoablatiboa, etorkizunean minbizia sendatzeko",
+    "media_desc": "Terapia  horren xehetasunak eman dizkigu Felix Zubiak eta horrez gainera, espirulinaren onurez eta kalteez jardun dugu. ",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1677,8 +1677,8 @@
     "description": "\"Caf\u00e9 Valpara\u00edso\" liburuen eta jende argiaren podcasta da. Irakurketa-klub honetan liburu bat eta bere egilea testuinguru sozial eta musikalean jartzen dira. Miriam Duquek zuzendua, Char-Lee Mitok komentatua eta Ibon Belandiak bere gitarra eta burutazioekin musikatua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "2. Noem\u00ed Casquet, \"Pir\u00f3manas\" y libres",
-    "media_desc": "Noem\u00ed Casquet, kazetaria eta sexualitateari buruzko dibulgatzailea da. \u201cCaf\u00e9 Valpara\u00edso\u201d podcastean izan da eztanda bat sortzeko moduko liburu eta proposamena aurkezten:  \u201cPir\u00f3manas, c\u00f3mo incendiar tu vida y despertar tu poder\u201d. Sutsua da Noem\u00ed, eta, pospoloak hartuta etorri da, nortasunaz, botereaz, plazeraz eta maitasunari buruz hitz egiteko. Kontuz! Orgasmoak indartzeaz bezala aritu baita zure diruak kontrolatzearen garrantziaz.  "
+    "media_title": "3. Fernando Le\u00f3n de Aranoa, la \"Leonera\" de las prosas ap\u00e1tridas",
+    "media_desc": "\u201cLeonera\u201d gaztelaniaz, haurtzaroko gela da, jostailuz, kaxaz, aldizkari zaharrez,  bizikletaz\u2026 trastez betetako gela hori da. Helduentzako kaosa, eta haurrentzat askatasun gunea. Anabasa zoragarri horretaz eta denboraren joanak sortzen duenaz hitz egin dugu \u201cCafe Valpara\u00edso\u201d podcastaren atal honetan Fernando Le\u00f3n de Aranoarekin."
   },
   "1372": {
     "rss": "https://guau.eus/series/1372/rss.xml",
@@ -1715,8 +1715,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Gernika-Lumon izandako \u201cGaztetxeak Bertsotan\u201d sariketako finala",
-    "media_desc": "\u201cGaztetxeak Bertsotan\u201d sariketaren finala jokatu zuten Gernika-Lumon 2025eko maiatzaren hasieran. Hiru bikote iritsi ziren finalera eta lagun giroko saioan, umore kutsu betean ariketa berritzaileak eta denetariko gaiak jorratu zituzten. Entzun!"
+    "media_title": "1985eko Pernando Amezketarra txapelketako finaleko bertsoaldiak",
+    "media_desc": "2025eko martxoan, Joxerra Gartziarekin eta Pello Zabaletarekin aletu genituen Pernando Amezketarra herri arteko txapelketaren kontuak. Bada, 1985eko txapelketa hartako finaleko bertsoaldiak hartuta gatoz atal honetan. Segura eta Zestoa izan ziren Tolosan jokatutako finalean kantari. Gozatu gure fonotekako altxor hauekin."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2873,8 +2873,8 @@
   },
   "1875": {
     "rss": "https://guau.eus/series/1875/rss.xml",
-    "media_title": "6. Las versiones",
-    "media_desc": "Nola idazten da historia? \n\nLuzaro, urte askotan zehar, Bego\u00f1a Urrozen izena, ekitaldi ofizialetan ahoz aho ibili zen, lerro buruetan, Diputatuen Kongresuko hitzaldietan. Historia publikoa zen, ahots goran azaltzen zena. Bitartean, beste maila bateko historia ere ari zen saretzen: geldoagoa, zatituagoa, historia ofizialaren alboetan idazten ari zena. \n\nAtal honek, bi sare horiek aztertzen ditu: noiz aipatzen den bata eta noiz bestea, noiz gurutzatzen diren, noiz elkar osatzen duten. Eta erakusten du, batzuetan data bat aldatzea ez dela keinu sinbolikoa, baizik eta gure lehena irakurtzeko lekua aldatzea.",
+    "media_title": "7. La cocina",
+    "media_desc": "Non hasten da isiltasuna?  eta non amaitzen da? \nBatzuetan, historia ez da data batean hasten edo datu bati segika, ez eta ohar batean jasotakotik. Agian abiapuntu soilagoa dauka, txikiagoa, itsasteko zailagoa: norbaitek ahopeka esandakotik, mahai baten inguruan, sukalde batean. Bat-batean esandakotik. Edo zurrumurru baten ondorioz. \nAtal hau hasitako lekura itzultzen da, orduan inork antzeman ezin bazuen ere. Eta geratu eta entzutera behartuta zaude: isiltasunak historia duelako atzean, eta ulertzeko berriz entzun beharra dago, hasieratik abiatuta. \nEta beste leku batetatik. Begok ere bai.",
     "media_type": "audio",
     "title": "Se llamaba como yo",
     "description": "\"Se llamaba como yo\", ahizparen izena jarri zioten emakumearen historia da. Ahizpa zuena, Donostian, Amarako tren geltokian jarritako bonbaren biktima izan zen. Haurra, leherketak hil zuen emakumea jaio baina bi urte lehenago. \nIsiltasunaren historia da, hildako haurraren dolua ezkutuan eta isilik gorde behar izan duen familiarena. Isiltasun sakona, egunerokoa eta ikertu ezina. \nEta aldi berean, berrogeita hamar urte geroago, isiltasun hori hautsi zuen zarataren historia ere bada. Horrek herri osoarentzat esan nahi duenarekin. \n\n\u201cSe llamaba como yo\u201d sail dokumentala, De eso no se habla-k EITB Mediarekin elkarlanean ekoitzi du, Espainiako Kultura Ministerioko dirulaguntza tarteko.\n",
