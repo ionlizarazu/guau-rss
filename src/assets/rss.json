@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "ML Garcia Gurrutxaga: \"Ahulago dago Sanchez baina ez duela iraungo esatea asko esatea da\"",
-    "media_desc": "PSOEko Espainiako Kongresuko ordezkari gipuzkoarrak esan du lotsatuta eta ezinengon haundiarekin daudela talde parlamentarioan baina, bazkideen babes esplizitoa baldin badago, aurerra segituko dutela",
+    "media_title": "Jose Ignacio Asensio: \"Aurrekontuak ateratzen ahaleginduko da Sanchez\"",
+    "media_desc": "PSOEk zuzendaritza batzarra batu ondoren Gipuzkoako idazkari nagusiak dio Sanchezek baduela aukera agintaldia amaitzeko eta bazkideekin negoziatzen hasita dagoela",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Jon Urresti, presidente de la Fundaci\u00f3n Vital",
-    "media_desc": "Jon Urresti, Vital Fundazioko presidentea",
+    "media_title": "Mar Dab\u00e1n, subdelegada del gobierno en Araba",
+    "media_desc": "Mar Dab\u00e1n, Gobernuaren Ordezkariordea Araban",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Fouad Baker, jurista palestinarra: \"Ezin da zalantzan jarri genozidioa denik\"",
-    "media_desc": "Euskal Herrian bizi da errefuxiatu Baker eta Nazioarteko Zigor Auzitegirako ari da lanean, Israelen kontra auzibidetik egin nahian. Rem Damdan jatorri palestinarreko euskalduna berriz, gizarte zibiletik ari da. Kairotik Rafahra egingo den martxan parte hartuko du",
+    "media_title": "Ospitaletako medikuak, guardia luzeen kontra borrokan",
+    "media_desc": "Euskal ospitaleetan antolatzen hasi dira profesionalak. Osasun ministerioa lantzen ari den estatutu markoak guardia sistema okertu egiten duela salatzen dute eta, mediku falta haundia izanik, are eta gehiago zamatuko dituztela aurrerantzean",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Txema Pitarke: \"Euskara maila onean arlo guztietan egon behar da, zientzian ere bai\"",
-    "media_desc": "CIC nanoGUNE ko zuzendari nagusia eta Elhuyar Fundazioko presidentea da Txema Pitarke. Donostian eraiki behar duten dorre berriaz eta Unibertsitate garaiez hitz egin dugu Pitarkerekin.",
+    "media_title": "Fina Salegi:\"Produkzioan denetik egin dut; baita oilarrak hipnotizatu ere\"",
+    "media_desc": "Euskadiko Filmategiak 80ko hamarkadako 4 filma zaharberrituko ditu eta Fina Salegik horietako hirutan parte hartu zuen: \"Hamaisegarrenean, aidanez,\" \"Zergatik Panpox\" eta \"Ehun metro\"n. Ziortza -Bolibar-en egin dugu hitzordua berekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -564,8 +564,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Espaloiko koskatik Martin Ciriza",
-    "media_desc": "Tatxers eta Borla taldeetako musikaria da Martin Ciriza eta bideopodcast bat ere badu orain: Espaloian Koska.",
+    "media_title": "Larru beganozko poltsak",
+    "media_desc": "Inge Jimenez eta Irati Andresek Sinedy marka sortu dute. Izaer abereziko poltsoak egiten dituzte, edizio mugatuan. Larru beganoz egindako poltsak dira, sinadura gisara bi gerezi dituztenak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3ab9e950-4e27-4b9a-8c4c-f43239cc85ec.jpg"
   },
   "1438": {
@@ -582,7 +582,7 @@
   "1440": {
     "rss": "https://guau.eus/series/1440/rss.xml",
     "title": "Boulevard 2",
-    "description": "Hiru orduko zuzenekoan gidatuko zaitu I\u00f1aki Espigak. Aktualitatea, entretenimendua eta ezusteko batzuk ditu zuretzat Radio Euskadiko goizeko magazinak.",
+    "description": "Hiru orduko zuzenekoa. Aktualitatea, entretenimendua eta ezusteko batzuk ditu zuretzat Radio Euskadiko goizeko magazinak.",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -593,7 +593,7 @@
   "1437": {
     "rss": "https://guau.eus/series/1437/rss.xml",
     "title": "Boulevard 1",
-    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu Eider Hurtadok Radio Euskadiko lehen albistegian.",
+    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu I\u00f1aki Larra\u00f1agak Radio Euskadiko lehen albistegian.",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -615,7 +615,7 @@
   "1439": {
     "rss": "https://guau.eus/series/1439/rss.xml",
     "title": "Distrito Euskadi",
-    "description": "Radio Euskadiko arratsaldeek hiru osagai nagusi dituzte: aktualitatea, umorea eta zer pentsatua emango dizuten gonbidatuak. Xabier Garcia Ramsden eta bere lantaldearen eskutik. ",
+    "description": "Radio Euskadiko arratsaldeek hiru osagai nagusi dituzte: aktualitatea, umorea eta zer pentsatua emango dizuten gonbidatuak. Itsaso G\u00fcemes eta bere lantaldearen eskutik. ",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -641,8 +641,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Mix Hability IMART",
-    "media_desc": "Baskonia eta Alaveseko taldeek Iru\u00f1eko Mix Habiliteko IMARTen parte hartu dute, eta bi mila pertsonak baino gehiagok hartu dute parte. Modalitate honetan, desgaitasunen bat duten eta ez duten pertsonek elkarrekin jokatzen dute talde berean, hainbat kiroletan. David Izquierdo, IMART erakundeko kidea eta Baskoniako hezitzailea, Nuria Zapatero, gizarte integratzailea eta Baskoniako taldeen koordinatzailea, Leire Jim\u00e9nez Ruiz de Azua jokalariarekin eta Cristian Garc\u00eda Ome\u00f1aca jokalariarekin batera, Radio Vitorian",
+    "media_title": "Homenaje a Xabier A\u00f1ua",
+    "media_desc": "Xabier A\u00f1ua, Arabako saskibaloiaren erreferentea, uztailaren 4an hil zen 90 urte zituela. Bere garaian saskibaloiaren munduan aitzindari izan zen. Besteak beste, Europako txapelketan aritu zen Kas, Bartzelona eta Baskonia entrenatu zituen. Azken honekin Elkarte Kopa irabazi zuen 84-85 denboraldian, katalanen historiako lehen titulua.\nBetiereko irribarrea zuen gizona zen, Radio Vitoriako oso pertsona maitagarria. Gogoratzen dudanez, Jos\u00e9 Luis S\u00e1nchez Erauskin, Baskoniako presidente eta jokalari ohia, Aito Garc\u00eda Reneses, Europako saskibaloiaren legenda-entrenatzailea, I\u00f1aki Garayalde, Baskoniako jokalari ohia eta Rafa Muntionekin batera denboraldi askotan Zurbanok jokatutako partiden komentarista, eta Jes\u00fas Barredo, 84-85 denboraldian Baskoniari jarraitu zion kazetaria, Xabier A\u00f1ua entrenatzailea izan zena. Saskipeko kirola eta jazza izan ziren bere pasio nagusietako bi",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -702,8 +702,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "13. Mario Kart World",
-    "media_desc": "Nintendoren joko berriak proposamen interesgarria luzatu digu: ohiko lasterketa zirkuituen ordez, mundu konektatu bat eskaintzen du Mario Kart World jokoak. Emaitza interesgarria da, baina baditu bere alde txarrak ere. Hau guztia eta gehiago aztertuko ditugu \u201cJokutopia\u201dren atal honetan!",
+    "media_title": "14. Life is strange, Double Exposure",
+    "media_desc": "\"Life is Strange\" hainbat jokorekin osatutako unibertsoa da, baina jokoaren aurreneko sekuela zuzena, Double Exposure da.\nBestalde, Max Caulfield itzuli da, botere eta misterio berriz jantzita. Jatorrizko jokoaren zaleak pozik geratzeko, nahikoa izango al da aukera hori? Joko honek eskaintzen duena osotasunean aztertu dugu \"Jokutopia\"ren atal honetan.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -713,8 +713,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "53. Txertoen negazionismoaren jatorria",
-    "media_desc": "Bereziki, Donald Trump AEBko agintera iritsi denetik, indarra hartzen ari da txertoen aurkako mugimendua. Eta beste leku batzuetara ere ari da zabaltzen, batez ere, pentsamendu konspiratzaileei eta alternatiboei lotuta. \nUste oker horien arabera, txertoen ondorio kaltegarrietako bat autismoa da. Teoria horren atzean ordea,1998ko artikulu bat eta zientzialari baten jokabide iruzurtia dago. Alaitz Ochoa de Eribek eta Ana Galarragak garbi utzi nahi izan dute atal honetan, txertoek milioika bizitza salbatzen dituztela urtero. \nZientzia fikziozkoak diruditen lentilla batzuk ere aipatu dituzte albisteen artean. Hain zuzen, haiei esker, argi infragorria ikus daiteke, baita begiak itxita ere!",
+    "media_title": "54. Ahizpatasuna zientzian",
+    "media_desc": "Zientzialari batzuek lan nabarmena egin dute atzetik zetozen emakumeei eta baztertuei bidea leuntzeko. Ahizpatasunaren adibide ederra dira eta horietako kasu esanguratsu batzuk azaleratu nahi dituzte \u201cUhin ultramoreak\u201d podcastaren hirugarren denboraldiko azken atal honetan Alaitz Ochoa de Eribek eta Ana Galarragak. \n\nIzan ere, oso eremu lehiakorra den arren, badira bestelako jokabideak eta balioak erakutsi dituzten zientzialariak. Haietako lau aukeratu dituzte: Marie Curie fisikaria eta Nobel sariduna, Poppy Northcutt ingeniaria eta aktibista feminista, Jocelyn Bell Barnell astrofisikaria eta Ben Barres neurozientzialari transa.\n\u201cEgunero ikasten da zerbait\u201d sekzioan, berriz, AAk diseinatutako Karmela autoa aurkeztu dute. Ez zaitu epel utziko!",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -829,8 +829,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nazio Batuen Ozeanoen biltzarra",
-    "media_desc": "Nizan egiten ari dira Nazio Batuen Ozeanoen inguruko biltzarra. Montrealgo ituna gogora ekarri du Lander Eizagirrek. 2022an sinatu zen eta haren arabera, 2030. urterako, ozeanoen %30k nazioarteko babesa behar luke. 195 herrialdek sinatu zuten, baina 20k besterik ez dute berretsi. 60 herrialderen berrespena behar du itunak indarrean sartzeko eta hori da Nizako konferentziaren helburuetako bat, konpromisoa hartu zuten herrialdeak ekintzara bideratzea.",
+    "media_title": "Dalai Lamaren ordezkoaren bila",
+    "media_desc": "Tibeten, budismoaren agintari nagusiak 90. urte betetzen ditu aste honetan. Ospakizun honen bueltan, bere oinordeko izan daitekeenaren inguruko seinaleak ematea espero da. Lan Eizagirrek eman dizkigu Baipasan oinordekotza hori ulertzeko pistak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7f789197-b284-4b5e-ad72-e88a7c003214.jpg"
   },
   "1764": {
@@ -1099,8 +1099,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5b7c9971-95d0-4c4c-8f8a-75aae4d0a7a0.jpg",
-    "media_title": "2. Gosea",
-    "media_desc": "Naroa eta Beca elkarrengana hurbiltzen hasi dira, baina Naroak ezin ditu bere bulkadak kontrolatu. Bestalde, jangelako zerbitzu berriak arrakasta handia du, eta institutuan giroa baretzen ari dela dirudi. Baina gauzak ez dira beti diruditen modukoak. Eta gosea ere\u2026 ez da beti otorduekin soilik asebetetzen."
+    "media_title": "6. Berri  txarrak",
+    "media_desc": "Denek galdu dute zerbait. Ama, konfiantza, bakea. Baina hirukoteak elkartzea erabaki du. Azken borroka gertu dago eta institutura itzuliko dira Jingkoren planak gera arazten saiatzera. Honek eta Gorkak beste ustekabe bat prestatua dute ordea. Naroak, Becak eta Oierrek, beste behin, dena jokoan jarri beharko dute."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1282,8 +1282,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bikote terapia bi sukaldarirekin",
-    "media_desc": "Tolosako Ama jatetxeko sukaldariak dira Javi Rivero eta Gorka Rico. Bazkideak dira, eta denbora asko pasatzen dute batera. Hori dela eta, terapia egin nahi izan dugu beraiekin. Olatz Berastegi psikoterapeuta eta Harremanak zentroko kideak gidatu du terapia-saioa.",
+    "media_title": "Udako koadernoa",
+    "media_desc": "Junkal Lertxundi  Ikaselkar hezkuntza-argitaletxeko kidea da eta Kilimak oporretako koadernoen sortzailea. Ane Aierbe eta Uxue Urdangarinek, berriz, Gure Zirkuan oinarritutako udako koadernoa sortu dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/415f9a93-df75-4363-bc2a-d17dcf242432.jpg"
   },
   "1389": {
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Brucen \"The river\" eta Pettiren \"erreka\"",
-    "media_desc": "",
+    "media_title": "Obesitatearen tasak jaiolekuak ere baldintzatzen ditu",
+    "media_desc": "Bilboko hiru auzo diferentetan egindako ikerketa partehartzaileak erakutsi du baldintza sozioekonomikoek eta kulturalek eragin haundia dutela elikadura ohituretan. Amets Jauregik egin du azterketa aurten EHUn aurkeztutako tesian",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1404,8 +1404,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Zientziaren Giltzak 10 urte!",
-    "media_desc": "Edu Zabala, Lara Burgoa, Mario Feijoo, Joseba Goikoetxea eta Leire Arantzamendi. Zientziaren Giltzak izeneko taldearekin izan gara. Zientzia dibulgatzeko ekitaldiak antolatzen dituzte Ondarroan. Hamargarren urteurrena dute, eta ospatzen ari dira!"
+    "media_title": "Kolore sintetikoak ",
+    "media_desc": "Oskar Gonzalez, EHUko kimikaria, artearen kimikan espezializatuta dago. Pigmentu sintetikoez, kolore sintetikoez hitz egin digu. Naturala ez delako beti onena; ala bai?"
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1635,8 +1635,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Unidad m\u00f3vil",
-    "media_desc": "Veronica Werckmeisterren tailerra bisitatu dugu, non martxoaren 3ko horma-irudi berria oihalez erreproduzitzen ari diren"
+    "media_title": "Gariaraba: trigo local para recuperar la biodiversidad de nuestros campos",
+    "media_desc": "Salcedok informazio-jardunaldi bat hartu du Arabako gari zaharren barietateak ezagutarazteko, tokiko zereal mota hori duen lursail bat bisitatuz."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2091,8 +2091,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Aristerrazun esan nion: \"Ingo al deu?\"",
-    "media_desc": "Xabat Irastorza eta Miren Zumeta gazteak  Aristerrazuko erromeriaren zale amorratuak dira. Andatzako plaza horretan ezagutu zuten elkar eta, geroztik, ez dute hutsik egiten. Azaldu digute, beraien antzera, gero eta gazte gehiago ari direla betiko dantzaleku horretara gerturatzen.",
+    "media_title": "Lo egiteko tenperaturarik onena",
+    "media_desc": "Miren Altuna, Azkargorta Osakidetzako eta CITA-Alzheimer fundazioko neurologoa, astero izango dugu gure saioan, eta ondo lo egiteko hainbat gomendio emango dizkigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2564,8 +2564,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Ahuakateondoak lorontzitik lurrera noiz eta nola",
-    "media_desc": "Lapaitza galarazteko galarazteko aholkuak eta Amillubiko udaberriko festa"
+    "media_title": "Hazia nolako, ereinketa halako",
+    "media_desc": "Haziaren tamaina oso inportantea da lurrean zenbat sartu erabakitzeko."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -3007,5 +3007,19 @@
     "media_title": "Al Di Meola el viernes 18 de julio",
     "media_desc": "",
     "media_type": "audio"
+  },
+  "2049": {
+    "rss": "https://guau.eus/series/2049/rss.xml",
+    "title": "Gaztea BBK Live jaialdian",
+    "description": "Bilbao BBK Live-etik zuzenean egindako saio berezia. Jaialdiko hainbat artista, talde eta eragileekin bat egingo dugu, eta Kobetamendiko giroaren berri emango dizugu. Betiere musika eta konpainia onenarekin.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/dbe535a7-7943-465c-a78e-c3584eb0b7e2.jpg"
+  },
+  "1892": {
+    "rss": "https://guau.eus/series/1892/rss.xml",
+    "title": "Hiru, bi, Bach!",
+    "description": "\u201cHiru, bi, Bach!\u201d podcastak, Ludwig van Beethovenen (Bonn, 1770 - Viena 1827) \u201cZazpigarren Sinfonia\u201d aztertu eta xehetuko du, modu berritzaile eta erakargarrian. Atal bakoitzean, musikaren maisu-lan hau puzzle bat bezala zatitzen joango da, piezaz pieza. Obraren atzean ezkutatzen dena eta berau osatzeko prozesua nolakoa izan zen ezagutzeko aukera eskainiz.\nPodcast honen helburua, musika klasikoa gazteengana modu berri eta berritzaileaz hurbiltzea da. Gazteek kontsumitzen dituzten formatuak eta kanalak erabiliz, beren playlist kuttunean, musika klasikoa ere sartzeko xedez.\nEuskadiko Gazte Orkestrak, EGOk, 2024ko neguko programan eskaini zuen Beethovenen \u201cZazpigarren Sinfonia\u201d eta bertako musikariek, berariaz, podcast honetarako grabatutako piezak entzun ahal izango dira bide batez.\nBost atalek osatzen dute podcasta eta bi gidari nagusi  ditu, Felix Etxeberria eta Oihana Etxebeste,  EGOko musikari gazteak biak, Iker Sanchez, musika aditu eta EGOko Topaketen zuzendariaren laguntzaz ariko direlarik.\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/416b0e0e-15d0-4492-a8bd-b68122332f65.jpg"
   }
 }
