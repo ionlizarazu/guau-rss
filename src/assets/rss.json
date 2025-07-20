@@ -588,7 +588,7 @@
     "page_id": 68,
     "media_title": "Los f\u00e1rmacos contra el SIDA avanzan, pero el estigma de la enfermedad se mantiene",
     "media_desc": "Hainbat hamarkada igaro dira HIESak komunikabideetan lehen titularrak bereganatu zituenetik. Medikuntzan aurrerapauso garrantzitsuak eman diren arren, oraindik ere gaixotasuna eta GIBa duten gaixoen inguruko estigmak bere horretan dirau. Gai honi buruz hitz egin dugu Paqui Lucha, Gipuzkoako Hiesaren Aurkako Herritarren Elkarteko lehendakariarekin; Asier Orcajo, Bizkaiko Hiesaren Aurkako Batzordeko Aniztasun eta Osasun Komunitarioko Programako mediku eta koordinatzailearekin eta Trenton M. White, Barcelona Institute for Global Health-eko Osasunari buruzko ikertzailearekin.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/f44e5282-8431-4b56-9182-2b58c146601b.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/e22104bc-b50a-4fd4-8e3b-1a467dbf1204.jpg"
   },
   "1437": {
     "rss": "https://guau.eus/series/1437/rss.xml",
@@ -2604,8 +2604,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Benito Lertxundi: ondare bizia",
-    "media_desc": "Benito Lertxundik erabaki du 60 urteko kantagintzari amaiera ematea. Sei hamarkadatan etenik izan ez duen ibilbide oparoan, hark idatzi eta sortutakoekin batera, garai guztietako bertsolaririk eta euskal idazlerik onenen ikuspegia eta sentimendua zabaldu ditu bere kantuen bidez, besteak beste, Bilintx, Xalbador, Lizardi, Artze, Jose Anjel Irigarai, Lete, Anjel Lertxundi, Gaztelu, Pako Aristi, Jon Maia edota Kirmen Uriberen hitzetan oinarrituta. \nHaren abesti asko ereserki bihurtu dira milaka euskaldunentzat. 60 urteotan egindako lanaren lagin txiki bat dago bilduta saio honetan.\n"
+    "media_title": "'Galbahea', entzuteko eran",
+    "media_desc": "2024ko maiatzean Gotzon Barandiaran idazleak Galbahea poema-liburua kaleratu zuen. Oraingoan, lan horren audio-liburua kaleratu du Susa argitaletxeak. Egilearekin batera, kulturgintzako hainbat pertsona ezagunak aritu dira poemak errezitatzen: Juanra Madariaga, Uxue Alberdi, Harkaitz Cano, Itziar Ugarte, Itxaro Borda edota Gorka Urbizu, besteak beste. Horrez gain, Lander Bilbaok zenbait melodia sortu ditu, liburuaren soinu-banda gisa. Azken poema, berriz, Imanol Ubedak kantatu du.\n"
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3070,5 +3070,12 @@
     "description": "\u00b4Zein da memorian arrasto sakonena utzi dizun iraganeko udaldia?\u00b4 Galdera hori egin diegu zortzi sortzaileri. Zortzi istorio ahaztezin kontatu dizkigute. Udako oroitzapenak dira. Udatekoak. Faktoria magazineko edukia.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2658034e-3cd6-4db6-8cc8-591b9a6da465.jpg"
+  },
+  "2051": {
+    "rss": "https://guau.eus/series/2051/rss.xml",
+    "title": "Gasteiz jaietan",
+    "description": "Andre Maria Zuriaren jaiei eskainitako Radio Vitoriako saio bereziak\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/dd4e44f3-91ab-4906-bcf0-0f747b9b7821.jpg"
   }
 }
