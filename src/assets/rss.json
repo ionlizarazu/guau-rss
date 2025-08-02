@@ -139,8 +139,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "C\u00e1ndido Ibar sobre su hijo: \u201cParece que est\u00e1 motivado, la noticia animado\u201d",
-    "media_desc": "Kontatu duenez, Pablok espetxean jakin izan du lekuko batek aurkeztutako frogek errugabetu dezaketela. Ibar duela 31 urte sartu zuten kartzelan \"Miramarreko krimenengatik\". Andres Krankenberger 'Pablo Ibar - Epaiketa justua' plataformako bozeramailea elkarrizketatu dugu. Lekuko berriak \"xehetasunez\" kontatzen du kontu-garbitze bat zela.",
+    "media_title": "\u00bfHa sido una agresi\u00f3n con connotaciones pol\u00edticas de derechas?: \u201cPor supuesto\u201d",
+    "media_desc": "Joseba Asiron Iru\u00f1eko alkatearen esanetan, konnotazio politikoko eraso \"eskuindarrak\" dira San Fermin eguneko prozesioan San Saturnino parean jasotako irainak eta mehatxuak. Alkateak gaineratu du berari edo \"korporazioko edozein kideri\" zuzendutako irainek traba egiten diotela.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -575,8 +575,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Entrevista a Lorea Agirre, directora de la revista Jakin",
-    "media_desc": "Ganbara irratsaioan egindako elkarrizketan, Lorea Agirrek, Jakin aldizkariko zuzendariak, Jose Azurmendi idazle, poeta eta filosofoa gogoratu du uztailaren bian hil ostean",
+    "media_title": "Entrevista al portavoz del PNV en el Parlamento Vasco, Joseba D\u00edez Antxustegi",
+    "media_desc": "Radio Euskadiko Ganbara irratsaioan egindako elkarrizketa, Joseba Diez Antxustegik, EAJko Eusko Legebiltzarreko bozeramaileak, \"mugarritzat\" jo du Gizarte Segurantzaren eskualdatzeko aukera ireki izana, baina SUMAR salatu du oztopoak jartzeagatik; \"eskuina baino jakobinoagoak\" direla uste du",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/463ab6a0-3839-4096-9778-f0378bdf621a.png"
   },
   "1440": {
@@ -599,7 +599,7 @@
     "page_id": 68,
     "media_title": "Fuente Ymbro estrenan los encierros de San Ferm\u00edn 2025",
     "media_desc": "",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/6b5f46b0-1242-4bd8-a1a7-47819bea1e03.png"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/60c85edc-52c1-4770-879c-6e1e63921f57.png"
   },
   "1447": {
     "rss": "https://guau.eus/series/1447/rss.xml",
@@ -1359,8 +1359,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Zer gertatzen ari da Bad Bunny-ren kontzertuekin?",
-    "media_desc": "Bad Bunnyk Espainiar estatuan iragarritako kontzertuak zeresan handia ematen ari dira... Andrea Aranbururen eskutik, kontzertu masiboen tiktek salmentetan gertatzen ari dena kontatzen dugu gaur DIDAn.",
+    "media_title": "English Magic akademia ireki dugu gaurkoan ere",
+    "media_desc": "Maiatzak 14a, Orion egun garrantzitsua. Honek ez du esan nahi Euskal Herri osoak honen berri izan behar duenik. English Magic ingeles akademia ireki dugu, bertan gure Pastore Angel John-ek, azaldutako egoeren aurrean erabili ditzazkegun esamoldeak azaltzeko. Bertso eta guzti!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1436,7 +1436,7 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/9f087145-59bf-4787-9098-952aa515dff7.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/be4ccef2-aada-4322-918e-7b6eb92278d6.jpg"
   },
   "1473": {
     "rss": "https://guau.eus/series/1473/rss.xml",
@@ -1635,8 +1635,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Robos en verano",
-    "media_desc": "Udako oporretan, pertsona askok ohiko bizilekuak uzten dituzte beste leku batzuetara joateko. Urbanizazioak, pisuak, inguruko etxeak ere jende gutxiagorekin geratzen dira, eta lapurrek egoera hori balia dezakete lapurretak, ebasketa txikiak... egiteko. Horregatik, garrantzitsua da neurriak hartzea gertatu aurretik, eta prozedura ezagutzea, ezin izan badugu saihestu, baita ere."
+    "media_title": "La vuelta al mundo en avioneta",
+    "media_desc": "Normalena udan leku gutxi-asko urrunetara bidaiatzea da, hegazkinez, autoz, trenez edo itsasontziz, eta lagunekin, familiarekin, bikotekidearekin edo bakarrik atseden hartzeko egun horietaz gozatzea. Gaur bidaiatzeko beste modu bat ezagutuko dugu. Munduari bira eman hegazkinez"
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2651,9 +2651,9 @@
     "rss": "https://guau.eus/series/1694/rss.xml",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Leivaren \"Gigante\" diskoa aletzen",
+    "media_title": "Xerka: argazki erakusketa bat baino gehiago.",
     "media_type": "audio",
-    "media_desc": "Astero moduan, Sara Alonsok disko baten barruan murgildu gaitu. Oraingoan, labetik atera berri den \"Gigante\". Oraindik entzun ez baldin baduzu hau da diskoa laburbiltzen duen aurkezpen txartela.",
+    "media_desc": "Aste honetan, Andoni Lopezek Martxel Larrazaren \"Xerka\" erakusketa berria gomendatu digu. \nEuskal-landa eremuko pertsona queerren nortasuna eta bizitpenak batzen dira Irudi eta solasaldien bitartez.",
     "title": "Bitan",
     "description": "Gazteako asteburuetako magazina. Zineaz, literaturaz, antzerkiaz eta, batez ere, musikaz osatuko ditugu larunbat eta igandeetako goizak. 09:00etatik 11:00etara, Ainhoa Vitoria eta Sara Alonsoren eskutik, Bitan!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e8818160-4f0c-498e-ab99-5937758449ee.jpg"
