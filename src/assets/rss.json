@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b0cdb6e5-3c4f-4efb-9aa7-931b15e35849.jpg",
-    "media_title": "40. Mutiko & Tatta, \u201citsatsita\u201d egotea",
-    "media_desc": "Atal honetako gonbidatuak Arrasatetik etorri dira eta musika urbanoan ezagunak dira oso. Musika sortzeko duten egoeraz hitz egin dute eta musikarien artean sortzen duten kuadrillaz: Denso, Fane, Axeri, Etxepe\u2026 \nNorekin dute beef-a? Nor uste dute dagoela gain-baloratua? Zer eskatzen dute kamerinoan daudenean? Nor jo zuen Densok, eta zergatik? \nJuergaz eta parrandaz ere aritu dira eta anekdota ugari kontatu dituzte. Zer artistak harrapatu zuen Mutiko gaizki-esaka? Nolakoak dira intimitatean? \n\nEz galdu atala!"
+    "media_title": "41. Jon Kareaga, sareekin harreman toxikoa",
+    "media_desc": "Une honetan ondo dagoela dio baina bolada gorabeheratsua igaro duela aitortu du atal honetako gonbidatuak, Jon Kareagak. Sare sozialekin, batzuetan izaten duten harreman toxikoaz aritu dira solasean: eduki sortzaileek jarraitzaileak lortzeko egin dezaketenaz, horren albo kalteaz, arropa marka askoren gardentasun faltsuaz eta alfonbra gorri, zein sari banaketetan gertatzen direnez.\n\nAipatu duten beste gaietako bat: \u201cAdimen handiko pertsonak\u201d izan dira. Zarauztarrak ondo daki zer den hori. Nola sentitzen da adimen handiko pertsona izanez? Zertan desberdintzen da, besteokin? Nola jakin zuen gaitasun hori zeukala?\n\nMaria Blanco kolaboratzailea batu da gainera! Zergatik utzi zion Jon jarraitzeari?\n\nEz galdu atala!"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "In\u00e9s Alvarez:\"Lan istripu gehienak erorketak eta makina harrapaketak dira\"",
-    "media_desc": "OSALANeko zuzendari teknikoaren hitzetan gero eta kontzientziazio gehiago dago arrisku siko-sozialen inguruan.",
+    "media_title": "Mikel Irujo:\"Sei enpresak aurkeztu dute interesa BSHren lantokia erosteko\"",
+    "media_desc": "Nafarroako industria kontseilariak zehaztu du energia  berriztagarriak, defentsa eta autogintza alorreko enpresak direla.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Cristina Gonz\u00e1lez, primera teniente de diputado general",
-    "media_desc": "Cristina Gonz\u00e1lez, Lehen diputatu nagusiordea eta Enplegu, Merkataritza eta Turismo Sustapenaren eta Foru Administrazioaren saileko foru diputatua",
+    "media_title": "Ixone Fern\u00e1ndez de Labastida, vicerrectora EHU",
+    "media_desc": "Ixone Fern\u00e1ndez de Labastida, Araabako kanpuseko EHUko errektoreordea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -238,8 +238,8 @@
     "title": "Opera prima ABAO (eus)",
     "description": "\"Opera prima ABAO\" soinu-libretoa da, eta Enrique Berten eskutik operaren munduan sartzea du helburu. Opera maite duenari zuzenduta dago, eta, batez ere, mundu liluragarri honetan sartu nahi duenari. Kapitulu bakoitzak obra bakoitzaren testuinguru historikoa eta musika-berezitasunak modu atseginean islatzen ditu.",
     "media_type": "audio",
-    "media_title": "6. Amodioa eta heriotza",
-    "media_desc": "Drama da ABAO Bilbao Operaren 2025-2026 denboraldiko aukeraketaren adierazgarria. Hala azpimarratu du Enrique Bert operan adituak \u201cOpera prima ABAO\u201d podcastaren hirugarren denboraldiko seigarren eta azken atalean.\nHurrengo denboraldiko bost operak xehetuz osatu du atala. Maitasunarekin eta heriotzarekin lotutako bost obra tragiko dira, hain zuzen ere: Verdiren \"La forza del destino\", Cilearen \"Adriana Lecouvreur\", Masseneten \"Werther\", Donizettiren \"Maria Estuarda\" eta Giordanoren \"Andrea Ch\u00e9nier\".  \n\n\u201cOpera prima ABAO\u201d, ULU Mediak EITB Mediarentzat ekoitzitako podcasta da, ABAO Bilbao Operarekin lankidetzan.",
+    "media_title": "5. ''Il Trovatore\": Istorio txarrak ez dezala musika ona zapuztu",
+    "media_desc": "Musika onak argumentuaren edozein aldrebeskeria zuritzen du. Eta \"Opera prima ABAO\"ren kapitulu honetan Enrique Bertek horren adibide on bat erakutsiko digu, \"Il trovatore\" (Trobalaria) operarekin, \"Rigoletto\" eta \"La Traviatta\"rekin batera Giuseppe Verdiren opera trilogia ezaguna osatzen duen obra.\n\n\"Il Trovatore\"ren istorioak maitasuna, mendekua, zeloak eta suntsipena uztartzen ditu.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a237c23b-3bea-45b5-8839-87af7d75bb9b.jpg"
@@ -621,7 +621,7 @@
     "page_id": 68,
     "media_title": "Karpin Fauna: santuario y protecci\u00f3n de animales",
     "media_desc": "Ander Iribarrek eta Jon Irigoyenek, F\u00e9lix Rodr\u00edguez de la Fuentek, Karrantzako BBK Karp\u00edn Fauna abere zentroa bisitatu dute, Bizkaiko Foru Aldundiak eman dion ia milioi bat euro aprobetxatuz animaliak hartzen eta berreskuratzen hain beharrezkoa den lanarekin jarraitzeko.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/8cb09a0c-f17d-45b3-aa3c-cb8d25fa4c00.png"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/61a113c1-6276-4d94-b152-8daeaad591b7.jpg"
   },
   "1782": {
     "rss": "https://guau.eus/series/1782/rss.xml",
@@ -850,8 +850,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/452c8f9c-2c69-45db-a768-a66ca0029572.jpg",
-    "media_title": "Arraultzak musika instrumentu ",
-    "media_desc": "San Martin egoitzako adinekoak Azpeitiko Antxieta Musika eskolara joaten dira asteazkenetan klaseetara Gurutze Gorrikoen laguntzarekin. Garaguneko erabiltzaileak ere bai, urritasun intelektuala duten pertsonak eta autismoa dutenak ere joaten dira musikaz gozatzera. Arraultza zaratasuak eta atabalak ez ezik, pilateseko baloia, eta musikaren erritmoan astindu behar duten paratxut bat ere erabili dute saioan. Felipe Morillo irakaslearekin joan gara klaseetara geu ere."
+    "media_title": "Abeltzain gazteak, erreleborako ",
+    "media_desc": "Egun erdia fabrikan eta beste erdia baserrian egiten du lan Joseba Arrijuriak Iruritan. 36 urte ditu eta Gartxeneako arkumeak eta txahalak zuzenean saltzen hasi nahi luke aurki. Irati Usandizaga berriz, Lekarozko Kortarian aitaginarrebaren lekua hartzeko paperak zuzentzen ari da. Bost lagunek egiten dute lan gaztandegian eta Eneko ikasten ari da. Berak ere amonak zuen gaztandegia martxan jarri nahi du. Nafarroan lehen sektoreko belaunaldi aldaketa bultatzeko neurriez hitz egin digu INTIA, Nekazaritza, elikagai, teknologien eta azpiegituren Nafarroako Institutuko Aitziber Pagolak. Nafarroan diren 19000 ustiategietan, hamar hamabost urtean nekazarien erdiak erretiratuko dira eta erdiak ez dute erreleborik aurreikusten"
   },
   "1765": {
     "rss": "https://guau.eus/series/1765/rss.xml",
@@ -1282,9 +1282,9 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zinemaldiko lehen ereserkia",
-    "media_desc": "Irati Crespo, Zinemaldiaren artxibo historikoko arduradunak azaldu digu duela astebete topatu dutela lehenengo Zinemaldiko ereserkiaren partitura originala, oso egoera onean. 1953an konposatu zuen Juan Urteagak, makinaz idatzita dago, eta gainera, letra ere badu: Donostiako ikonografiaz dihardu, eta estiloz bals bat da. Grabaziorik ez dute oraindik aurkitu, baina doinua laster entzungai izatea espero dute.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/415f9a93-df75-4363-bc2a-d17dcf242432.jpg"
+    "media_title": "Orkestra zooragarriak Etxepare saria",
+    "media_desc": "Gotzone Butron idazlearen eta Aitziber Raya ilustratzailearen Orkestra zooragarria album ilustratuak irabazi du Etxepare saria. Musika klasikoa haurrei eta familiei hurbiltzeko modu berezia eskaintzen du lanak.",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2c4992d5-5161-48a1-8bd4-15e05c64dcca.jpg"
   },
   "1389": {
     "rss": "https://guau.eus/series/1389/rss.xml",
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Silizioa, disprosioa eta zerioa, eguzki paneletarako material arraroak",
-    "media_desc": "Fotoboltaikoen eraginkortasuna eta iraunkortasuna hobetzeko erabiltzen dira. Haiek erauzketa eta prozesamenduaz aritu zaigu Iker Agirrezabal EHUko irakaslea",
+    "media_title": "Borja Iriziar: \"Euskara indartzeko, gure bertsiorik onena zabaltzeko kontzientzia zabaldu behar dugu enpresarioen artean\"",
+    "media_desc": "Ex3, enpresari euskaldunen elkartearen sustatzailea da Borja Irizar",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1540,7 +1540,7 @@
     "media_type": "audio",
     "media_title": "Martin Aramendi UEMAko presidentea:  Arazorik ez zegoen toki batean arazoak sortzera dator Gorenaren epaia",
     "media_desc": "Udalerri euskaldunak dira hizkuntza eskubide guztiak errespetatzen dituzten erakunde bakarrak. Oso ondo dago kalera ateratzea baina babes juridikoa behar du euskarak eta alderdi abertzaleek eskutik joan behar dute aurrera egiteko estrategiak bultzatuz.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/c6a2c691-d733-42de-8705-cc3145b5d55f.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/af4440a7-eeae-4de7-8b26-d6f59b0d0c6e.jpg"
   },
   "1405": {
     "rss": "https://guau.eus/series/1405/rss.xml",
@@ -1635,8 +1635,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Menos pl\u00e1stico, m\u00e1s fiesta",
-    "media_desc": "Egibideko ingurumen-arloko dozena erdi boluntariok Andre Maria Zuriaren plazako kaleko ekintza batean parte hartu dute, 2026ko Andre Maria Zuriaren jaietan erabilera bakarreko plastikoaren kalteaz herritarrak sentsibilizatzeko. Ekimen horren helburua, gainera, edalontzi berrerabilgarriak erabiltzea da."
+    "media_title": "Labox, premiada por su publicidad  y aportaci\u00f3n social",
+    "media_desc": "Labox agentziak, sormen-kooperatiba batek, publizitate-kanpainak bultzatzen ditu eta diseinu grafikoa egiten du gizarteari zuzendutako ikuspegiarekin mezu arduratsuak sortzeko helburuarekin. 15 urteko esperientzia duen enpresa gasteiztar honek hiru sari jaso ditu Publifestival Publizitate Sozialaren Nazioarteko Jaialdian"
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1677,8 +1677,8 @@
     "description": "\"Caf\u00e9 Valpara\u00edso\" liburuen eta jende argiaren podcasta da. Irakurketa-klub honetan liburu bat eta bere egilea testuinguru sozial eta musikalean jartzen dira. Miriam Duquek zuzendua, Char-Lee Mitok komentatua eta Ibon Belandiak bere gitarra eta burutazioekin musikatua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "4. Maite Esparza,  \u201cEl verano que aprend\u00ed a disparar\u201d",
-    "media_desc": "Diana da eleberri honetako protagonista, eta Maite Esparzak herrietako bizitza eta udak ditu hizpide. Garai axolagabea, lagunekin pasatako arratsaldeak, bizikletatik erorita belaunetan egindako zauriak eta baita sexu esnaera ere. Eleberriak, Nafarroa eta Bartzelona arteko pasarteak biltzen ditu. Aldi berean, gure memoriako bi esparrutan;  70-80 hamarkadatan haur izan ginenon nortasuna ezarri zuen memoria eta Alzheimerraren erruz galtzen duguna."
+    "media_title": "5. Ebbaba Hameida, en el desierto crecen flores y personas",
+    "media_desc": "Ebbaba Hameida kazetariak bere lanik pertsonalena azaldu digu \u201cCaf\u00e9 Valpara\u00edso\u201d podcastaren atal honetan, \u201cFlores de papel\u201d eleberria. Saharako hiru emakumeren  testigantzak bilduz berreraikitzen du Saharako herriaren historia, bere historia. \nEbbaba, Tindufeko errefuxiatuen kanpalekuetan jaio zen. Hazi, aurrena Italian eta ostean Estatu Espainiarrean hazi zen. Bizi izan duen kultura talkak, zaildu egin dio nortasuna osatzea. Egoera zaila azaltzen du, edertasunetik ere badu ordea. Areago, basamortuko argiak eta hondarrak inguratzen badu, Afrikako usaina oroimenera ekarri arte."
   },
   "1372": {
     "rss": "https://guau.eus/series/1372/rss.xml",
@@ -2593,8 +2593,8 @@
     "description": "Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Datorkigunaren aurrean zer egin dezakegun ezagutzera eman nahi dugu, Guillermo Roak gidatutako saioan. Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Nola jakin zure etxearen egoera energetikoa",
-    "media_desc": "Goienerreko Oier Etxebarriak azaldu digu zer diren eta nola egiten diren auditoria energetikoak etxeetan. Eraikin baten egoera energetikoa zehazgten eta ezagutzen laguntzen digute."
+    "media_title": "Mahastiak hobetzeko proiektuak",
+    "media_desc": "AZTIko Maite Cidad eta NEIKEReko Ana Aizpurua gonbidatu ditugu, mahastiei buruz hitz egiteko. AZTIn, Artoma\u00f1a txakolindegiaren jarduera nola hobetu aztertu dute,  ingurumenean inpaktu gutxiago izateko. Neikerrek, berriz, klima-aldaketaren eragina ikertu du Bastidako mahasti batzuetan."
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
@@ -2738,7 +2738,7 @@
     "description": "Radio Vitoriak Arabako herrietako jaien berri ematen dizu\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/533a1465-c7f4-4ff4-b794-0c7459fd0aa6.jpg",
-    "media_title": "Fiestas en Zalduondo del 1 al 3 de agosto",
+    "media_title": "Romer\u00eda de San Lorenzo en Valderejo el domingo 10 de agosto",
     "media_desc": ""
   },
   "1495": {
@@ -2976,8 +2976,8 @@
     "description": "Sara, Paul, Izar eta Marioren arteko harremana aldatu egin da ikasturte honetan. Sarak eta Izarrek, eskola berean jarraitzen dute, eta jakina, lagunak dira. Baina mutilekiko harremana aldatu egin da. Mariok, herrian jarraitzen du, baina eskola aldatu du eta lagunak ere bai. Nola nahi, Paulena da aldaketa handiena. Aragoiko herri txiki batera joan behar izan du bizitzera, amak eta haren bikotekideak jatetxea zabaldu dutelako bertan. \nPaul ez dago gustura aldaketarekin. Amarekin haserre, eskolakideekin haserre, amaren bikotekidearekin haserre; bere buruarekin haserre bizi da. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e36b5979-da72-4d03-b658-3da0b8e53e54.jpg",
-    "media_title": "1. Banaketa",
-    "media_desc": "Paulek Zaragozako herri txiki batera joan behar izan du bizitzera, amak eta bere nobio berriak jatetxea zabaldu dutelako bertan. Egun osoa bakarrik pasatzen du. Eskolan arazoak ditu ikaskideekin eta bullyingaren ondorioz borroka pare bat izan du.\nMario bere kasa dabil herriko institutuan hasi denetik eta orain Instagrama eta kulturismoa dira bere helduleku bakarra.\n\u201cTransformerrak\u201d bananduta dabiltza\u2026 Sara eta Izar dira elkarrekin dabiltzan bakarrak."
+    "media_title": "2. Paulen borroka",
+    "media_desc": "Sara eta Izar bunker zaharrera joan dira. Ongi pasatzen dute elkarrekin. Paulek beste borroka bat izan du eskolan eta egurtu ostean erietxera eraman behar izan dute anbulantzian."
   },
   "2048": {
     "rss": "https://guau.eus/series/2048/rss.xml",
@@ -3091,5 +3091,21 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b466170f-5c7b-4864-91f0-5e025242462f.jpg"
+  },
+  "2066": {
+    "rss": "https://guau.eus/series/2066/rss.xml",
+    "title": "Munduenea ",
+    "description": "\"Munduenea\", Munduko Ipuinen Etxean, hogei ipuin batzen dira, gure artean bizi diren hogei kultura ezberdinetako hiztunei jasotakoak. Inguruko kultura eta hizkuntza aniztasunak dakarren aberastasuna ipuinen bidez erakustea da helburua. Bilduma 6-10 urte bitarteko haurrei zuzenduta dago. Ipuinak euskaraz eskaintzen dizkizugu Labayru Fundazioari esker. Nola nahi, guzti hauek dira bildumak oinarrian jasotzen dituen hizkuntzak: arabiera, errumaniera, frantsesa, galegoa, katalana, portugesa, txinera, urdua, jorubera, wolofera, gaztelania, persiera, ingelesa, kukama, tagaloa, ukrainera, poloniera, japoniera, turkiera eta hassania.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/bb906427-a2c2-451f-b6b0-2a7bd746dbe7.jpg",
+    "media_title": "2. Deabruaren zubia",
+    "media_desc": "Aspaldi, Is\u00f2vol herrian, iturrira joateko errekaren bestaldera joan behar zuten, baina zubirik ez. Egun batean, deabruak zubia eraikitzea eskainiko dio Ponetari, arimaren truke. Onartuko ote du tratua Ponetak?\n\nCatalanera jatorria duen ipuina."
+  },
+  "1881": {
+    "rss": "https://guau.eus/series/1881/rss.xml",
+    "title": "Aqu\u00ed se investiga",
+    "description": "\"Aqu\u00ed se investiga\" Radio Vitorian zientzia zabaltzeko programa bat da. Hainbat arlotako ikerketa zehatzak ezagutzen ditugu: medikuntza, arkeologia, paleontologia, robotika, farmazia, soziologia... Euskal Herriko Unibertsitatearen eskutik Arabatik munduko hainbat lekutara eta gure lurraldean errotutako enpresetara garamatzaten ikerketak.\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/66008a93-24a6-4821-a644-0dbc52d3fdb8.jpg"
   }
 }
