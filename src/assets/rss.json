@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Kirmen Uribe: \"Karmele filma pasada bat da, flipatu egingo duzue\"",
-    "media_desc": "Kirmen Uribe idazlearen \"Elkarrekin esnatzeko ordua\" eleberrian oinarritutako filma zuzendu du Asier Altunak. Zinemaldian estrenatuko dute, baina idazleak ikusi du eta zoragarria iruditu zaio, \"euskaraz egindako filmerik ederrenetakoa. Euskaldunok geuk geure buruari kontatutako historia da Karmele, film nazional bat\". New York-etik idazteko erabakiaz eta hango bizitzaz aritu zaigu Kirmen Uribe. Esan digu idazle gisa hobetu nahi zuelako eta bere karrera berrasmatu nahi zuelako joan zela. Baina argitu digu \"benetan ez dela joan, Euskal Herritik atera dela, baina euskal komunitatetik ez\". Nobela berria idazten daramatza lau urte eta aurreratu digu \"pop nobela izango dela, barnean hizkuntza, irudi eta garai asko dituena\"",
+    "media_title": "Erik Isasmendi: \"Dinosauroak liluragarriak dira. Jurassic Park ikusita konturatu nintzen orain ez dauden arren, izan zirela. Eta harrez gero, dinosauroak ikertzen\"",
+    "media_desc": "Erik Isasmendi geologo eta paleontologo eskoriatzarrak Behe Kretazeoko eta Goi Kretazeoko dinosauro haragijaleak ikertu ditu doktore tesirako. Besteak beste Sorian aurkitutako Espinosauro erraldoia aztertu du eta ondorio berriak atera ere bai",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -412,12 +412,12 @@
   "1713": {
     "rss": "https://guau.eus/series/1713/rss.xml",
     "title": "Goazen: Amona influencerra",
-    "description": "Covid19 malapartatuak mundu osoa astindu duen garaian kokatzen gaitu Jasone Osorok idatzitako testuak.",
+    "description": "COVID-19 malapartatuak mundu osoa astindu duen garaian kokatzen gaitu Jasone Osorok idatzitako testuak.",
     "media_type": "audio",
     "page": "Audioliburuak",
     "page_id": 75,
     "media_title": "Goazen: Amona influenzerra",
-    "media_desc": "Covid19 malapartatuak \"Go!azene\"ko Maddiren gurasoak oporretan, Maldiva irletan, harrapatu ditu eta etxera itzuli ezinik daude. Ondorioz, Maddik amonaren etxean pasa beharko du itxialdia. Aspergarria zirudien plana, sorpresaz eta abenturaz beterikoa bilakatu da azkenerako.\n\nMaddik Basakabiko lagunekin bideo-deiak egiteko aukera du eta bestetik, sare sozialetan trebatu du amona. Sareari esker, gazte garaiko mutil-lagunarekin topo egin du. Ustekabean, Maddiren amona influencer bihurtu da!",
+    "media_desc": "COVID-19 malapartatuak Go!azeneko Maddiren gurasoak Maldiva irletan oporretan harrapatu ditu eta etxera itzuli ezinik daude. Ondorioz, Maddik amonaren etxean pasa beharko du itxialdia. Aspergarria zirudien plana, sorpresaz eta abenturaz beterikoa bilakatu da azkenerako.\n\nMaddik Basakabiko lagunekin bideo-deiak egiteko aukera du eta bestetik, sare sozialetan trebatu du amona. Sareari esker, gazte garaiko mutil-lagunarekin topo egin du. Ustekabean, Maddiren amona influencer bihurtu da!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/642cbf29-9dc4-49e1-83b0-105fab276cb3.jpg"
   },
   "1714": {
@@ -428,7 +428,7 @@
     "page": "Audioliburuak",
     "page_id": 75,
     "media_title": "Goazen: Asteburu bat eskiatzen",
-    "media_desc": "\"Go!azen\"eko taldea berriz elkartzeko irrikitan dago, baina Basakabi eta uda lekutan daude oraindik! Asteburuan eskiatzera joatea erabaki dute. Zuri eta Maddi New Jerseyn daude, baina beste guztiek lo-zakuak hartu eta aterpetxe batean hartu dute ostatu. Batzuek primeran dakite eskiatzen; beste batzuk, ideiarik ez. Aldarte onean daude, baina ustekabeak izaten dira bizitzan.",
+    "media_desc": "Go!azeneko taldea berriz elkartzeko irrikitan dago, baina Basakabi eta uda lekutan daude oraindik! Asteburuan eskiatzera joatea erabaki dute. Zuri eta Maddi New Jerseyn daude, baina beste guztiek lo-zakuak hartu eta aterpetxe batean hartu dute ostatu. Batzuek primeran dakite eskiatzen; beste batzuk, ideiarik ez. Aldarte onean daude, baina ustekabeak izaten dira bizitzan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d5847f61-02af-4b76-a8d0-336c640a29aa.jpg"
   },
   "1279": {
@@ -560,13 +560,13 @@
   "1392": {
     "rss": "https://guau.eus/series/1392/rss.xml",
     "title": "Baipasa",
-    "description": "Olaia Urtiaga eta bere taldea lagun izango dituzu entretenimendutik informaziorako bidean. Baipasa duzu, arratsaldero, munduko aktualitatea jarraitzeko saihesbiderik onena. ",
+    "description": "Olatz Balda eta bere taldea lagun izango dituzu entretenimendutik informaziorako bidean. Baipasa duzu, arratsaldero, munduko aktualitatea jarraitzeko saihesbiderik onena. ",
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Hegel eta Beethoven ",
-    "media_desc": "Musikak pentsatzen al du? Filosofiak hunkitzen al du?\nAinara Zubizarreta musikologoak XIX. mendeko Alemaniara bidaia proposatzen digu, Georg Wilhelm Friedrich Hegel filosofoa eta Ludwig van Beethoven konpositorea aurrez aurre jarriz. Idealismoaren eta mendebaldeko soinu-hizkuntza betiko eraldatu zuen musika-jenioaren arteko elkarrizketa bat da, garai baten bihotzean. Bi erraldoi hauek \u2014batek hitzen bidez, besteak soinuaren bidez\u2014 oraindik ere zer esan handia ote duten aztertzen du Zubizarretak: nola lagun diezagukete egungo mundu konplexua hobeto ulertzen?",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/3ab9e950-4e27-4b9a-8c4c-f43239cc85ec.jpg"
+    "media_title": "Odiken Bonjour tour martxan da",
+    "media_desc": "Odei Markotegi Zubillaga artista gazte legazpiarrak bere hastapenen berri eman digu Baipasan. Carl Watermark ekoizlea nola ezagutu zuen kontatu digu. Izan ere, 14 urterekin hasi zen sorkuntzan eta 16 urterekin kaleratu zuen bere lehenengo kantua.",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2afa0aa2-fa27-4d15-a055-c7b9ffb98133.jpg"
   },
   "1438": {
     "rss": "https://guau.eus/series/1438/rss.xml",
@@ -593,7 +593,7 @@
   "1437": {
     "rss": "https://guau.eus/series/1437/rss.xml",
     "title": "Boulevard 1",
-    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu I\u00f1aki Larra\u00f1agak Radio Euskadiko lehen albistegian.",
+    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu Maria Ruizek Radio Euskadiko lehen albistegian.",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -615,7 +615,7 @@
   "1439": {
     "rss": "https://guau.eus/series/1439/rss.xml",
     "title": "Distrito Euskadi",
-    "description": "Radio Euskadiko arratsaldeek hiru osagai nagusi dituzte: aktualitatea, umorea eta zer pentsatua emango dizuten gonbidatuak. Itsaso G\u00fcemes eta bere lantaldearen eskutik. ",
+    "description": "Radio Euskadiko arratsaldeek hiru osagai nagusi dituzte: aktualitatea, umorea eta zer pentsatua emango dizuten gonbidatuak. Xabier Garc\u00eda Ramsden eta bere lantaldearen eskutik. ",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -1094,7 +1094,7 @@
   "1271": {
     "rss": "https://guau.eus/series/1271/rss.xml",
     "title": "Eden",
-    "description": "Naroa Gasteiztik herri txiki batera joan da bizitzera gurasoak banatu eta amak lana aldatu duelako. Haserre dago, institutuan berria da. Biologiako lan bat egitera joan da Beca eta Oierrekin fabrika zahar batera, eta han, animalia itxura hartzeko dohaia duen mutil bat ezagutu dute. ",
+    "description": "Naroa Gasteiztik herri txiki batera joan da bizitzera gurasoak banatu eta amak lanaz aldatu duelako. Haserre dago, institutuan berria da. Biologiako lan bat egitera joan da Beca eta Oierrekin fabrika zahar batera, eta han, animalia itxura hartzeko dohaia duen mutil bat ezagutu dute. ",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1105,7 +1105,7 @@
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
     "title": "Sara eta Paul: Abenturak",
-    "description": "Sara eta Paul Lehen Hezkuntzako bi lagun dira. Sara, neska itsua, adimen handikoa, eta Paul, bulling-aren biktima; hitz totela, hortzeria itsusikoa, aita dibortziatuen seme bakarra, baina, mutil dibertitu eta baikorra. Bizikidetza inklusiboa sustatzen dute, gizarteak eskaintzen duen \"arrakasta\" ereduetatik urrunduz. \nBernando Atxagaren \"Logalea zeukan ekilibristaren kasua\" oinarri. ",
+    "description": "Sara eta Paul Lehen Hezkuntzako bi lagun dira. Sara, neska itsua, adimen handikoa, eta Paul, bullyingaren biktima; hitz totela, hortzeria itsusikoa, guraso dibortziatuen seme bakarra, baina, mutil dibertigarri eta baikorra. Bizikidetza inklusiboa sustatzen dute, gizarteak eskaintzen duen \"arrakasta\" ereduetatik urrunduz. \nBernando Atxagaren \"Logalea zeukan ekilibristaren kasua\" oinarri. ",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1233,7 +1233,7 @@
   "1270": {
     "rss": "https://guau.eus/series/1270/rss.xml",
     "title": "Dodoa",
-    "description": "\"Dodoa\" podcasta haurren gozagarria da, I\u00f1igo Astizen letra eta Jabier Muguruzaren musikaren bidez, 2021ean sortu zituzten abestien osagarria. Bikoari Mikel Azpiroz musikaria batu zaio, pianoa eta soinu teknikari gisa. Hiruen arteko elkarrizketaren bidez ezagutuko ditugu behia, ardia, lehoia, edo eta boa konstriktorra nor diren, \"Dodoak\" duda-mudak argitzen dituen bitartean. ",
+    "description": "\"Dodoa\" podcasta haurren gozagarria da, I\u00f1igo Astizen letra eta Jabier Muguruzaren musikaren bidez, 2021ean sortu zituzten abestien osagarria. Bikoari Mikel Azpiroz musikaria batu zaio, pianoa eta soinu teknikari gisa. Hiruen arteko elkarrizketaren bidez ezagutuko ditugu behia, ardia, lehoia, edo eta boa konstriktorra nor diren, \"Dodoak\" duda-mudak argitzen dituen bitartean.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1242,7 +1242,7 @@
   "1307": {
     "rss": "https://guau.eus/series/1307/rss.xml",
     "title": "Ipuinkadaka",
-    "description": "\"Ipuinkadaka\" irudimena pizteko helburua duten ipuinak dira. Getxon daude kokatuta, hango txokoetan kokatzen dira protagonistak. Aitor Borobia eta Aitor Fernandinok sortutakoak dira. Haurrekin batera entzuteko pentsatuta daude, autoan edo nonahi entzun ahal izateko. \n",
+    "description": "\"Ipuinkadaka\" irudimena pizteko helburua duten ipuinak dira. Getxoko txokoetan kokatzen dira protagonistak. Aitor Borobia eta Aitor Fernandinok sortutakoak dira. Haurrekin batera entzuteko pentsatuta daude, autoan edo nonahi entzun ahal izateko. \n",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1260,7 +1260,7 @@
   "1318": {
     "rss": "https://guau.eus/series/1318/rss.xml",
     "title": "Kuku!",
-    "description": "\"Kuku!\" etxeko txikienei eskainitako ipuin bilduma da, entzun eta ikusiz, haurrari pentsatzeko bidea jarri nahi dien ipuin bilduma. Haurrak aniztasunean eta baloreetan hezteko tresna bat, entzumena landuz irudimena martxan jartzeko bideak eskura jarriz.",
+    "description": "\"Kuku!\" etxeko txikienei eskainitako ipuin bilduma da, entzun eta ikusiz, haurrari pentsatzeko bidea jarri nahi diena. Haurrak aniztasunean eta baloreetan hezteko tresna bat, entzumena landuz irudimena martxan jartzeko bideak eskura jarriz.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1278,12 +1278,12 @@
   "1390": {
     "rss": "https://guau.eus/series/1390/rss.xml",
     "title": "Faktoria 2",
-    "description": "Jon Artanok eta bere taldeak hartzen dute Faktoriaren lekukoa: testigantza, elkarrizketa, entretenimendu eta umorez osatzen dute ordubatera arteko bidea.",
+    "description": "Mikel Rotaetxek eta bere taldeak hartzen dute Faktoriaren lekukoa: testigantza, elkarrizketa, entretenimendu eta umorez osatzen dute ordubatera arteko bidea.",
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Orkestra zooragarriak Etxepare saria",
-    "media_desc": "Gotzone Butron idazlearen eta Aitziber Raya ilustratzailearen Orkestra zooragarria album ilustratuak irabazi du Etxepare saria. Musika klasikoa haurrei eta familiei hurbiltzeko modu berezia eskaintzen du lanak.",
+    "media_title": "\"Lorategi bat soinean\" erakusketa ezagutu dugu",
+    "media_desc": "Barrokoaren eta Ilustrazioaren artean ehungintzaren arloan sortu ziren lore motiboen bilakaera aztertzen du \"Lorategi bat soinean\" erakusketak. Irailaren 28rarte egongo da ikusgai Donostiako San Telmo museoan. Josune Uribe, museoko denbora baterako erakusketen teknikariarekin egin dugu bisita Udako Faktorian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2c4992d5-5161-48a1-8bd4-15e05c64dcca.jpg"
   },
   "1389": {
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Borja Iriziar: \"Euskara indartzeko, gure bertsiorik onena zabaltzeko kontzientzia zabaldu behar dugu enpresarioen artean\"",
-    "media_desc": "Ex3, enpresari euskaldunen elkartearen sustatzailea da Borja Irizar",
+    "media_title": "ETAko militantzia abandonoak, tesian bilduta",
+    "media_desc": "Epe diferentetako ETAkide ohiak elkarrizketatu ditu Eider Nafarrate ikerlariak eta ondorioztatu du abandonoak \"pragmatikoak\" izan direla batez ere, dimentsio etikoak garrantzia gutxiago izan duela.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1359,8 +1359,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "English Magic akademia ireki dugu gaurkoan ere",
-    "media_desc": "Maiatzak 14a, Orion egun garrantzitsua. Honek ez du esan nahi Euskal Herri osoak honen berri izan behar duenik. English Magic ingeles akademia ireki dugu, bertan gure Pastore Angel John-ek, azaldutako egoeren aurrean erabili ditzazkegun esamoldeak azaltzeko. Bertso eta guzti!",
+    "media_title": "Maixa artistaren ibilbidean sakondu dugu Maialen Goirizelaiaren eskutik",
+    "media_desc": "Asteartero bezala, Maialen Goirizelaia izan dugu DIDA saioan musika urbanoan dauden proiektuak ezagutzen. Euskal Herrian jarri du fokua, Durangon, Maixa artistaren ibilbidean sakontzeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1446,8 +1446,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "San Ignacio en Araba ",
-    "media_desc": "Gaur, uztailaren 31n, Erroman hil zen, Kristautasunaren sorlekuan, I\u00f1igo, Eneko Loiolakoa ere deitua, hau da, San Inazio Loiolakoa. 1556ko egun berean hil zen, 65 urte zituela.\nHaren heriotzaren 34 urte lehenago, 1522an, etxetik abiatu zen etorkizuneko Loiolako Inazio Azpeititik Jerusalemerako bidean. Erromesaldi horren lehen zatia Montserrateko oinetaraino egin zuen, zehazki Manresa herriraino.\n\nHorrela jaio zen Bide Inaziano izenekoa, eta 2022an 500 urte bete zituen; 2025 honetan, 503 urte."
+    "media_title": "Bajada de Zuridonna. ",
+    "media_desc": "Zuridonna hiriko pertsonaia jaiezaleetako bat da, eta bere agerpena Celedonen Jaitsiera baino ordu batzuk lehenago izaten da. Gasteizko jaien ikuskizunik bihurri eta dibertigarrienetako batean bihurtu da. Duela zortzi urte sortu zen emakumeen papera jaietan aldarrikatzeko eta La Blanca berdintasunean bizitzeko deia egiteko, eta ordutik zale ugari batu zaizkio, umorea, satira eta kritika uztartzen dituen ekitaldi honi."
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -2760,7 +2760,7 @@
   "1241": {
     "rss": "https://guau.eus/series/1241/rss.xml",
     "title": "Potx eta Lotx, bai esan?",
-    "description": "Potx eta Lotx pailazoek, badute haurren kuriositatearen berri. Horregatik, haien jakin mina asetzeko helburuz eta batez ere izaten dituzten galdera ugariei erantzunak topatzeko ofizio ezberdinetako pertsonak gonbidatu dituzte beren txokora. \n\nAtal bakoitzari lotuta unitate didaktikoak prestatu dira, ikasgelan lantzeko, eta karta didaktikoak MAKUSIren webgunean egongo dira eskuragarri, helbide honetan: https://makusi.eus/potxetalotx",
+    "description": "Potx eta Lotx pailazoek badute haurren kuriositatearen berri. Horregatik, haien jakin mina asetzeko helburuz eta batez ere izaten dituzten galdera ugariei erantzunak topatzeko ofizio ezberdinetako pertsonak gonbidatu dituzte beren txokora. \n\nAtal bakoitzari lotuta unitate didaktikoak prestatu dira, ikasgelan lantzeko, eta karta didaktikoak MAKUSIren webgunean egongo dira eskuragarri, helbide honetan: https://makusi.eus/potxetalotx",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6fd9e7c2-d9a3-43d5-a943-4eeef2d43443.jpg"
   },
@@ -2973,7 +2973,7 @@
   "1890": {
     "rss": "https://guau.eus/series/1890/rss.xml",
     "title": "Sara eta Paul: Denok elkarrekin!",
-    "description": "Sara, Paul, Izar eta Marioren arteko harremana aldatu egin da ikasturte honetan. Sarak eta Izarrek, eskola berean jarraitzen dute, eta jakina, lagunak dira. Baina mutilekiko harremana aldatu egin da. Mariok, herrian jarraitzen du, baina eskola aldatu du eta lagunak ere bai. Nola nahi, Paulena da aldaketa handiena. Aragoiko herri txiki batera joan behar izan du bizitzera, amak eta haren bikotekideak jatetxea zabaldu dutelako bertan. \nPaul ez dago gustura aldaketarekin. Amarekin haserre, eskolakideekin haserre, amaren bikotekidearekin haserre; bere buruarekin haserre bizi da. \n",
+    "description": "Sara, Paul, Izar eta Marioren arteko harremana aldatu egin da ikasturte honetan. Sarak eta Izarrek, eskola berean jarraitzen dute, eta jakina, lagunak dira. Baina mutilekiko harremana aldatu egin da. Mariok, herrian jarraitzen du, baina eskolaz aldatu da eta lagunez ere bai. Nola nahi, Paulena da aldaketa handiena. Aragoiko herri txiki batera joan behar izan du bizitzera, amak eta haren bikotekideak jatetxea zabaldu dutelako bertan. \nPaul ez dago gustura aldaketarekin. Amarekin haserre, eskolakideekin haserre, amaren bikotekidearekin haserre; bere buruarekin haserre bizi da. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e36b5979-da72-4d03-b658-3da0b8e53e54.jpg",
     "media_title": "2. Paulen borroka",
@@ -3098,8 +3098,8 @@
     "description": "\"Munduenea\", Munduko Ipuinen Etxean, hogei ipuin batzen dira, gure artean bizi diren hogei kultura ezberdinetako hiztunei jasotakoak. Inguruko kultura eta hizkuntza aniztasunak dakarren aberastasuna ipuinen bidez erakustea da helburua. Bilduma 6-10 urte bitarteko haurrei zuzenduta dago. Ipuinak euskaraz eskaintzen dizkizugu Labayru Fundazioari esker. Nola nahi, guzti hauek dira bildumak oinarrian jasotzen dituen hizkuntzak: arabiera, errumaniera, frantsesa, galegoa, katalana, portugesa, txinera, urdua, jorubera, wolofera, gaztelania, persiera, ingelesa, kukama, tagaloa, ukrainera, poloniera, japoniera, turkiera eta hassania.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/bb906427-a2c2-451f-b6b0-2a7bd746dbe7.jpg",
-    "media_title": "2. Deabruaren zubia",
-    "media_desc": "Aspaldi, Is\u00f2vol herrian, iturrira joateko errekaren bestaldera joan behar zuten, baina zubirik ez. Egun batean, deabruak zubia eraikitzea eskainiko dio Ponetari, arimaren truke. Onartuko ote du tratua Ponetak?\n\nCatalanera jatorria duen ipuina."
+    "media_title": "10. Waweleko herensugea",
+    "media_desc": "Duela asko, Polonian, Krak erregea bizi zen Wawel muinoan. Herritarrak pozik bizi ziren, harik eta gazteluaren azpian zegoen piztia, jendea eramaten hasi zen arte. Nor ausartuko da piztiari aurre egiten?\n \nPolonierazko jatorria duen ipuina."
   },
   "1881": {
     "rss": "https://guau.eus/series/1881/rss.xml",
@@ -3107,5 +3107,12 @@
     "description": "\"Aqu\u00ed se investiga\" Radio Vitorian zientzia zabaltzeko programa bat da. Hainbat arlotako ikerketa zehatzak ezagutzen ditugu: medikuntza, arkeologia, paleontologia, robotika, farmazia, soziologia... Euskal Herriko Unibertsitatearen eskutik Arabatik munduko hainbat lekutara eta gure lurraldean errotutako enpresetara garamatzaten ikerketak.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/66008a93-24a6-4821-a644-0dbc52d3fdb8.jpg"
+  },
+  "1404": {
+    "rss": "https://guau.eus/series/1404/rss.xml",
+    "title": "Bihotzeko Fonoteka",
+    "description": "Gure gonbidatuak bere fonoteka kuttunena irekiko du guretzat, egunero.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/71b02394-0384-4b9e-9773-fbc2d1073202.jpg"
   }
 }
