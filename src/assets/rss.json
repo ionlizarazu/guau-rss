@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Ixone Fern\u00e1ndez de Labastida, vicerrectora EHU",
-    "media_desc": "Ixone Fern\u00e1ndez de Labastida, Araabako kanpuseko EHUko errektoreordea",
+    "media_title": "Maider Etxebarria, alcaldesa de Vitoria",
+    "media_desc": "Maider Etxebarria, Vitoria-Gasteizko alkatesa",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -741,7 +741,7 @@
     "page": "Musika",
     "page_id": 60,
     "title": "A dos voces ",
-    "description": "Zein doinu du maitasunak? Nola abesten zaio heriotzari? eta nostalgiari?... Donostiako Musika Hamabostaldiaren podcast sailaren atal bakoitzean, musika klasikoa aitzaki hartuta, horren inspirazio iturri izan diren gai unibertsalei buruz solasean ariko dira Joseina Etxeberria, kazetaria, eta euskal gizartean eremu jakin batean bere jardunagatik (kultura, kirola\u2026) ezaguna den gonbidatu bat. Musika klasikoa eta solasaldia uztartuta, lasai entzun eta gogoeta egiteko saioa.",
+    "description": "Zein doinu du maitasunak? Nola abesten zaio heriotzari? eta nostalgiari? Donostiako Musika Hamabostaldiaren podcast sailaren atal bakoitzean, musika klasikoa aitzaki hartuta, horren inspirazio iturri izan diren gai unibertsalei buruz solasean ariko dira Joseina Etxeberria, kazetaria, eta euskal gizartean eremu jakin batean bere jardunagatik (kultura, kirola\u2026) ezaguna den gonbidatu bat. Musika klasikoa eta solasaldia uztartuta, lasai entzun eta gogoeta egiteko saioa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1f83444a-a824-43f6-9579-43c86f3b9b7a.jpg"
   },
   "1328": {
@@ -1085,7 +1085,7 @@
   "1249": {
     "rss": "https://guau.eus/series/1249/rss.xml",
     "title": "#10garrena",
-    "description": "\"#10garrena\" fikziozko serie distopikoa da Bertsolaritza ardatz hartuta. Bederatzi izan dira orain arteko bertsolari txapeldunak. Hamargarrenaren bila, zortzi final bitxi, zortzi etorkizun\u2026 batzuk errealagoak, besteak utopikoagoak.",
+    "description": "\"#10garrena\" fikziozko serie distopikoa da Bertsolaritza ardatz hartuta. Bederatzi izan dira orain arteko bertsolari txapeldunak. Hamargarrenaren bila, zortzi final bitxi, zortzi etorkizun; batzuk errealagoak, besteak utopikoagoak.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1359,8 +1359,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Maixa artistaren ibilbidean sakondu dugu Maialen Goirizelaiaren eskutik",
-    "media_desc": "Asteartero bezala, Maialen Goirizelaia izan dugu DIDA saioan musika urbanoan dauden proiektuak ezagutzen. Euskal Herrian jarri du fokua, Durangon, Maixa artistaren ibilbidean sakontzeko.",
+    "media_title": "Alusauriorik ez dago inon Aitz!",
+    "media_desc": "Bi euskaldunek egindako deskubrimendu arkeologikoaren harira, gure kanpo ministerioko ordezkaria, Aitz Errazkin, bidali dugu dei bat egitera deskubrimendua egin den tokira. Nola ez, komunikazioa ezinezkoa bihurtzen da, beti bezala...",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1452,7 +1452,7 @@
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
     "title": "Aldapeko ",
-    "description": "Musika-aukeraketa bikaina eta askotarikoa, eta hiztun onentzako denbora\n",
+    "description": "Musika-aukeraketa bikaina eta askotarikoa, eta hiztun onentzako denbora.\n",
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
@@ -1481,7 +1481,7 @@
   "1600": {
     "rss": "https://guau.eus/series/1600/rss.xml",
     "title": "Ama lur",
-    "description": "Begirada bat Arabako lurren historiei",
+    "description": "Begirada bat Arabako lurren historiei.",
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
@@ -1635,8 +1635,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Labox, premiada por su publicidad  y aportaci\u00f3n social",
-    "media_desc": "Labox agentziak, sormen-kooperatiba batek, publizitate-kanpainak bultzatzen ditu eta diseinu grafikoa egiten du gizarteari zuzendutako ikuspegiarekin mezu arduratsuak sortzeko helburuarekin. 15 urteko esperientzia duen enpresa gasteiztar honek hiru sari jaso ditu Publifestival Publizitate Sozialaren Nazioarteko Jaialdian"
+    "media_title": "La alegr\u00eda baja del cielo",
+    "media_desc": "Gasteiz hiria eta bertako jendea eraldatzen duen mugarri bat da. Ia zazpi hamarkada -68 urte- Zalduondoko baserritarra San Migel dorretik jaisten denetik. Eta... 55 urte dira Andre Maria Zuriaren plazako Posta kaleko bere balkoiraino jaisten denetik... Badator Zeledon!!!! Abuztuaren 4a, arratsaldeko 6ak... memoria kolektiboan grabatutako ordua da Gasteizentzat eta lurralde osoko jendearentzat. Gure inguruko jai hasierarik leherkorrena da."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2091,8 +2091,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Filosofia eta zoriontasuna",
-    "media_desc": "Zer da zoriontasuna? Nola izan zoriontsu? Historian zehar hamaika filosofo saiatu da galdera horiei erantzun aproposak ematen. Saul Kurto filosofia irakasleak hausnarketaeta ahollku horien bilduma egin digu Amarauna saioko Filo-sofan eserita.",
+    "media_title": "Xabier Perurena: \"Aitak eskuak burura ekartzen ditu azpizun zatiak hanburgesetara botatzen ditudanean\"",
+    "media_desc": "Xabier Perurenaren Food Trucka ezagutu dugu Amarauna saioan. Ibilgailuaren txoko guztiak erakutsi dizkigu Xabier Perurenak: \"Nire hanburgesak janez jendeak gozatzea eta gustura sentitzea nahiko nuke\".",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/30f49de0-79d1-40c6-b9b1-d5cbd35410bd.jpg"
   },
   "1506": {
@@ -2852,7 +2852,7 @@
   "1776": {
     "rss": "https://guau.eus/series/1776/rss.xml",
     "title": "Ahalaken",
-    "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta Euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak -eta sekretuetara askotxo gerturatzen direnak- kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podcast batean kontatuko du intrigaz eta azpikeriaz beteriko soinu-fikzio misteriotsu hau, Irulegiko Eskuko inskripizioen eta Euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.\n\n\n",
+    "description": "Desagerpen batek eta euskal museotan gordetako pista eta sinboloek dardarka jar ditzakete Irulegiko Eskuaren eta Euskararen inguruko oinarri guztiak. \n\nIratxe Malkorra, Irulegiko Eskua aurkitu zuen arkeologoa desagertu egin da, arrastorik utzi gabe. Ikerketa ahalegin guztiak antzuak izan direla ikusita, bere alaba Jonek ekingo dio bilaketa lanari, amak eman zituen azken pausoei jarraituz. Hari bati tiraka hasita, mataza osoa askatzera iritsiko da, amaren desagerpenaz, Irulegiko Eskuaren idatzi ezkutuaz eta euskararen jatorriaren inguruko misterioaz \u201cgehiegi\u201d deskubritzeraino. Jakin-mina, ordea, garesti atera dakioke; bai baitago sekretuak -eta sekretuetara askotxo gerturatzen direnak- kate motzean lotzeaz arduratzen den jendea\u2026\n\nJonek podcast batean kontatuko du intrigaz eta azpikeriaz beteriko soinu-fikzio misteriotsu hau, Irulegiko Eskuko inskripizioen eta Euskararen jatorriaren inguruko orain arteko hipotesi guztiak hankaz gora jarri ditzakeena.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6ff99942-4377-48b6-b360-6f622caafe6a.jpg",
     "media_title": "8. Isil ala hil",
