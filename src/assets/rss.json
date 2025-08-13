@@ -13,7 +13,7 @@
   "1259": {
     "rss": "https://guau.eus/series/1259/rss.xml",
     "title": "Benetan zabiz?",
-    "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak aurkezten duten podcasta da.  Umoretik abiatutako, entretenimendurako podcast gaztea da.  Gaien aldetik mugarik ez dago. Istorio pertsonaletik abiatuta, gonbidatuaren sekretu ilunenak argitara ateratzen dituzte bi kazetari gazteek. Arrosaliren laguntza dute ez egokia den hori gonbidatuari galdetzeko. \n\nOihane Alonsori dagokio produkzioa eta beste guztia. ",
+    "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak aurkezten duten podcasta da. Umoretik abiatutako entretenimendurako podcast gaztea da. Gaien aldetik mugarik ez dago. Istorio pertsonaletik abiatuta, gonbidatuaren sekretu ilunenak argitara ateratzen dituzte bi kazetari gazteek. Arrosaliren laguntza dute ez egokia den hori gonbidatuari galdetzeko.\n\nOihane Alonsori dagokio produkzioa eta beste guztia. ",
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bingen Zupiria: \u201cErtzain izateko ikasi egin behar da, batzuek ez dute behar beste ikasi\u201d",
-    "media_desc": "Bingen Zupiria Segurtasun sailburuak azalpenak eman ditu Faktoria Albistegian azken Lan Eskaintza Publikoan azterketarien %90-ek suspenditu ostean. Bestalde, EH Bilduren kontra ere gogor egin du Ertzaintzaren inguruan egindako adierazpenengatik.",
+    "media_title": "Miguel Angel Arozena: \"Fisika eta kimikan ez ezik, neurozientzietan eta matematiketan ere puntako zentroak ditugu\"",
+    "media_desc": "Ikerbasque-ko zuzendari nagusiak dio ikerlariak gurera ekartzeko oztopo nagusia etxebizitza dela",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -139,8 +139,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Jauregi sobre Talgo: \u201cYa se pueden cerrar acuerdos de financiaci\u00f3n con los bancos\u201d",
-    "media_desc": "Mikel Jauregi Industria sailburuak azaldu du konpainiak behar dituen akordioak lor daitezkeela \"proiektu industriala etorkizunean garatzeko\". Jauregik ziurtatu du orain akziodunen batzarrak, azken urrats gisa, SEPIk eta euskal partzuergoak kapitala handitzea eta mailegu bihurgarriak jaulkitzea onartu behar duela, \"eragiketa amaitutzat emateko\".",
+    "media_title": "\u201cEH Bildu da ox\u00edgeno a GKS y busca deslegitimar a la Ertzaintza: me parece un error\u201d",
+    "media_desc": "Maider Etxebarria Gasteizko alkatearen ustez, subiranistek \"barne kristoa\" dute. Gasteizko lehen zinegotziak subiranisten jarrera kritikatu du, uztailaren 23an GKSren baimenik gabeko kanpaldia uzteari buruz galdetu diotenean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Mattin I\u00f1iguez: \"Ekaitzak harrapatuta, tximista artean egin dut lasterketa\"",
-    "media_desc": "Mattin Iba\u00f1ez parapentelari zegamarrak Red Bull X-Alps-en hartu du parte, munduko parapente lasterketarik gogorrenean. Hamaika egunez, milatik gora kilometro egin ditu airez eta lurrez, Alpeetako zeru eta larreetan. Faktorian kontatu dizkigu bizitakoak.",
+    "media_title": "Kirmen Uribe: \"Karmele filma pasada bat da, flipatu egingo duzue\"",
+    "media_desc": "Kirmen Uribe idazlearen \"Elkarrekin esnatzeko ordua\" eleberrian oinarritutako filma zuzendu du Asier Altunak. Zinemaldian estrenatuko dute, baina idazleak ikusi du eta zoragarria iruditu zaio, \"euskaraz egindako filmerik ederrenetakoa. Euskaldunok geuk geure buruari kontatutako historia da Karmele, film nazional bat\". New York-etik idazteko erabakiaz eta hango bizitzaz aritu zaigu Kirmen Uribe. Esan digu idazle gisa hobetu nahi zuelako eta bere karrera berrasmatu nahi zuelako joan zela. Baina argitu digu \"benetan ez dela joan, Euskal Herritik atera dela, baina euskal komunitatetik ez\". Nobela berria idazten daramatza lau urte eta aurreratu digu \"pop nobela izango dela, barnean hizkuntza, irudi eta garai asko dituena\"",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -470,7 +470,7 @@
   "1686": {
     "rss": "https://guau.eus/series/1686/rss.xml",
     "title": "Benetan zabiz? ",
-    "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana ",
+    "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana.",
     "media_type": "video",
     "media_title": "44 . Mingainak berotuta, azkena eta etxera",
     "media_desc": "Denboraldiko azken atala bero-bero bukatu dute Aitziber, Malen eta Oihanek! Lan urtean zehar jazo diren gertaera eta kotilleo guztien informazioa eman dute, kamera atzerako ezer gorde gabe\u2026 Jaialdietako batean, nor ibili zen neskekin ligatu nahian? Nork eman zuen gau osoa ingurukoak kritikatzen?\nMaria Blanco kolaboratzailearekin batera \u201cZuzendariari gutuna\u201d tartea egin dute, neskak aztoratzen dituzten kexei lekua zabalduz! Atala amaitzeko, hiruek, haien \u201cnazio ideala\u201d zein izango litzatekeen azaldu dute. Nazio isiltasuna bermatzea? Egun bakoitzean kolore desberdin batez janztea? Atal hunkigarria izan da neskentzat, jarraitzaile maitagarri batzuen konpainian grabatu baitute gainera!\nEz galdu atala, eta galtzen baduzu\u2026 EHko kotilleo onenak jakin gabe geldituko zara! Benetan zabiz hori nahi duzula?\n",
@@ -565,7 +565,7 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "media_title": "Guztion Alarderako sinadura bilketa",
-    "media_desc": "Leire Mendizabal eta Eneko Gonzalez Guztion Alardea taldeko kideak izan ditugu gurean eta 'Jaiak elkarrekin' egitasmoaren nondik norakoak azaldu dituzte. Helburua argia da: edozein emakumek aukera izan dezan bere konapinian atera ahal izateko. Sinadura bilketa abian da.",
+    "media_desc": "Leire Mendizabal eta Eneko Gonzalez Guztion Alardea taldeko kideak izan ditugu gurean eta 'Jaiak elkarrekin' egitasmoaren nondik norakoak azaldu dituzte. Helburua argia da: edozein emakumek aukera izan dezan bere konpainian atera ahal izateko. Sinadura bilketa abian da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f9ab426-5b6d-4d37-aade-3e828300fc5a.png"
   },
   "1438": {
@@ -586,8 +586,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Concepci\u00f3n Musical: canciones 'inteligentes'",
-    "media_desc": "Alain Concepcionek IAk musikan duen presentziaz galdetu zuen entzule batek botatako eskularrua jasotzen du: noraino iristen da? Adimen artifizialetik osorik jaiotako azken taldeaz ari gara, The Velvet Sundown-ez eta makinek musikan duten presentziaz.",
+    "media_title": "Klaudio Landa, Premio Joan Ram\u00f3n Mainat en el FesTVal",
+    "media_desc": "Joan Ramon Mainat Saria jasoko du Klaudio Landak aurtengo FesTValen, Gasteizen. \"Lanbiderako grina agortezina\" goraipatu du FesTValeko lantaldeak eta, aldi berean, Landaren ibilbidea eta talentua aitortu dituzte saria iragartzeko garaian. Gaurkotasuna zein entretenimendu saioetan aurkezle gisa sortu duen \"gidoi perfektua\" ere nabarmendu du FesTValek.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -652,8 +652,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Cocina de verano: tartita de manzana",
-    "media_desc": "Xabier Gutierrez gure sukaldariak gonbidatuak harritzeko moduko postrea prestatu digu gaur",
+    "media_title": "Paellas de Aixerrota 2025",
+    "media_desc": "Marisa Ozalla eta Alex Peral dira erredakzioko lagunik beteranoena eta gazteena. Eta gaur Aixerrotako paelletan elkartu dira. Getxoko festa jendetsua 1956an hasi zen, lagunen arteko paella lehiaketa soil gisa, eta hamarkada batzuk geroago, Bizkaiko egutegiko jai handietako bat bihurtu da. Bi belaunaldi elkarrekin festa bizitzen. Horrela hasi da gure gaurko programa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/74b88559-1738-45c7-888c-3aa663fad464.png"
   },
   "1744": {
@@ -851,7 +851,7 @@
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/452c8f9c-2c69-45db-a768-a66ca0029572.jpg",
     "media_title": "Abeltzain gazteak, erreleborako ",
-    "media_desc": "Egun erdia fabrikan eta beste erdia baserrian egiten du lan Joseba Arrijuriak Iruritan. 36 urte ditu eta Gartxeneako arkumeak eta txahalak zuzenean saltzen hasi nahi luke aurki. Irati Usandizaga berriz, Lekarozko Kortarian aitaginarrebaren lekua hartzeko paperak zuzentzen ari da. Bost lagunek egiten dute lan gaztandegian eta Eneko ikasten ari da. Berak ere amonak zuen gaztandegia martxan jarri nahi du. Nafarroan lehen sektoreko belaunaldi aldaketa bultatzeko neurriez hitz egin digu INTIA, Nekazaritza, elikagai, teknologien eta azpiegituren Nafarroako Institutuko Aitziber Pagolak. Nafarroan diren 19000 ustiategietan, hamar hamabost urtean nekazarien erdiak erretiratuko dira eta erdiak ez dute erreleborik aurreikusten"
+    "media_desc": "Egun erdia fabrikan eta beste erdia baserrian egiten du lan Joseba Arrijuriak Iruritan. 36 urte ditu eta Gartxeneako arkumeak eta txahalak zuzenean saltzen hasi nahi luke aurki. Irati Usandizaga berriz, Lekarozko Kortarian aitaginarrebaren lekua hartzeko paperak zuzentzen ari da. Bost lagunek egiten dute lan gaztandegian eta Eneko ikasten ari da. Berak ere amonak zuen gaztandegia martxan jarri nahi du. Nafarroan lehen sektoreko belaunaldi aldaketa bultatzeko neurriez hitz egin digu INTIA, Nekazaritza, elikagai, teknologien eta azpiegituren Nafarroako Institutuko Aitziber Pagolak. Nafarroan diren 19000 ustiategietan, hamar hamabost urtean nekazarien erdiak erretiratuko dira eta erdiak ez dute erreleborik aurreikusten."
   },
   "1765": {
     "rss": "https://guau.eus/series/1765/rss.xml",
@@ -1282,8 +1282,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Maider Yabar, elkar ukituz komunikatzeaz",
-    "media_desc": "Ukipenezko zeinu hizkuntzan eta hizkuntza daktilologikoan espezializatu da Maider Yabar artista. Zeinu-hizkuntzan murgilduta, ikusmen- eta entzumen-urritasunak dituzten pertsonekin komunikatzea lortu du. Zirkuko eta antzerkiko lanez ere aritu zaigu Euskadi Irratiko 'Faktoria'-n.",
+    "media_title": "Udako Faktoriako pilota egin digu Garikoitz Agirrezabalak",
+    "media_desc": "Garikoitz Agirrezabala, pilota egile, pilota epaile eta palistak bere ibilbideari buruz hitz egin digu, eta saioan zehar neurrira egindako pilota egin digu zuzenean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2c4992d5-5161-48a1-8bd4-15e05c64dcca.jpg"
   },
   "1389": {
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zein oztopo dituzte emakumeek kirol zaletasuna garatzeko?",
-    "media_desc": "Aisialdiko kirol jarduerako andreek dituzten joerak eta oztopoak aztertu ditu Olaia Eizagirre ikerlariak. Dio, kirol politikak diseinatzerakoan ezin direla denak zaku berean sartu; inguru eta bizitokia eta amatasuna hartu behar dira kontutan, besteak beste",
+    "media_title": "Zahartzaroari aurrea hartu, zahartzaro hauskorra izan ez dadin",
+    "media_desc": "Joanes Lameri\u00f1asek zahartzaroa eta hauskortasunari buruzko tesia egin du eta estrategia gerontologiko berriak ahalbidetuko dituen tresnak proposatu ditu. Irati Mogollon soziologoak zahartzaroaz aktibismotik hausnartzeko beharra azpimaratu digu",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1404,8 +1404,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Txorien izenak nola erabakitzen dira?",
-    "media_desc": "Asier Sarasua gonbidatu dugu. Txoriak.eus-ekoa. Europako espezieen euskarazko izen arruntak nola erabakitzen diren kontatu digu.\n\n"
+    "media_title": "Ordenagailu kuantikoaren komunikazioa",
+    "media_desc": "Saioa gogoeta batekin hasi dugu: Nola komunikatzen dira ordenagailu kuantikoaren inguruko albisteak? Bestalde, Josu Lopez Gazpio, UEUko kidearekin historiako serie-hiltzailerik emankorrena aztertu dugu: Harold Frederick Shipman. "
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1578,7 +1578,7 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "\"No hay que perder el pensamiento cr\u00edtico con la inteligencia artificial\" ",
+    "media_title": "\"Es preocupante la no deslegitimaci\u00f3n de la violencia pol\u00edtica\"",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
@@ -2091,8 +2091,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Miren Altuna: \"Ametsen %95 ahaztu egiten dugu\u201d",
-    "media_desc": "Miren Altuna neurologoak azaldu digu gauean gure pentsamendu ilogikoa agertzen dela, eta horrek eramaten gaituela errealitatean gertatuko ez liratekeen egoerak sortzera.",
+    "media_title": "Ogitartekoa ala kebaba",
+    "media_desc": "Edozer onartzen du lehenak, otomandarren inperioan sortua bigarrena. Zer dute nahiago, Aiora Enparantza eta Jone Bengoak?",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/30f49de0-79d1-40c6-b9b1-d5cbd35410bd.jpg"
   },
   "1506": {
@@ -2340,7 +2340,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Deportivo Alav\u00e9s - Levante este s\u00e1bado a las cuatro y media",
+    "media_title": "Deportivo Alav\u00e9s - Levante este s\u00e1bado a las nueve de la noche",
     "media_desc": ""
   },
   "1574": {
@@ -2564,8 +2564,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Intsignis pinuarekin egindako altzariak",
-    "media_desc": "Aste honetan Aizarnazabalgo Lufe fabrikan izan gara intsignis pinuarekin egiten dituzten altzariak ezagutzen. Horrez gain, Donostiako Herrera auzoko Boilur azoka eta entzuleen hamaika galdera izan ditugu saioan. "
+    "media_title": "Idiak eta belar lanak",
+    "media_desc": "Mugarrietako baserriko idiak ezagutu ditugu eta udako sasoian egin beharreko lanen inguruan hitz egin dugu Jakoba Errekondorekin."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -2651,9 +2651,9 @@
     "rss": "https://guau.eus/series/1694/rss.xml",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Nor demontre ote da Jai Paul?",
+    "media_title": "Olaia Inziarteren \"Zerrautsa\" diskoa aletzen",
     "media_type": "audio",
-    "media_desc": "Tipo misteriotsua da Jai Paul. 2007an,Myspace-n abiatu zuen bere ibilbide profesionala, biral bilakatuta. Ondoren, urteak eman zituen desagertuta, batek daki zergatik. Eta, bat-batean, 2023an, inork espero ez zuenean, Coachella-ko eszenatokian egin zuen agerraldia. Nor ote da artista enigmatiko eta misteriotsu hau? Entzun Ekain Perezek Jai Paul artista misteriotsuari buruz kontatu dizkigunak.",
+    "media_desc": "Oraindik diskoa entzun ez baduzu, tarte hau entzun ostean egingo duzun lehengo gauza izango da.",
     "title": "Bitan",
     "description": "Gazteako asteburuetako magazina. Zineaz, literaturaz, antzerkiaz eta, batez ere, musikaz osatuko ditugu larunbat eta igandeetako goizak. 09:00etatik 11:00etara, Ainhoa Vitoria eta Sara Alonsoren eskutik, Bitan!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e8818160-4f0c-498e-ab99-5937758449ee.jpg"
@@ -3118,7 +3118,7 @@
   "2099": {
     "rss": "https://guau.eus/series/2099/rss.xml",
     "title": "Bajo sospecha",
-    "description": "Podcast honen helburua kriminologia publiko orokorrarengana hurbiltzea da, hizkuntza ulergarri, atsegin eta zorrotz baten bidez. Delituaren azterketaren oinarriak azaltzea, ohiko mitoak desmuntatzea eta denok krimenari buruz egiten ditugun galdera handiei erantzutea. Dibulgazio-saila, Jos\u00e9 Antonio Varela Gonz\u00e1lezen eskutik, Kriminologiako irakaslea\n",
+    "description": "Podcast honen helburua kriminologia publiko orokorrarengana hurbiltzea da, hizkuntza ulergarri, atsegin eta zorrotz baten bidez. Delituaren azterketaren oinarriak azaltzea, ohiko mitoak desmuntatzea eta denok krimenari buruz egiten ditugun galdera handiei erantzutea. Dibulgazio-saila, Jos\u00e9 Antonio Varela Gonz\u00e1lezen eskutik, Kriminologiako irakaslea.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c9e73cd2-c8fb-481e-be88-279d9023d734.jpg"
   },
