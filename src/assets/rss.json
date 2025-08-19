@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Miguel Angel Arozena: \"Fisika eta kimikan ez ezik, neurozientzietan eta matematiketan ere puntako zentroak ditugu\"",
-    "media_desc": "Ikerbasque-ko zuzendari nagusiak dio ikerlariak gurera ekartzeko oztopo nagusia etxebizitza dela",
+    "media_title": "Leandro Azkue: \"Jubilatuko diren patroiek ez dute erreleboa eta familiakoa ez den teknikaria hartu beharko dute\"",
+    "media_desc": "Leandro Azkue arrantza sailburuordeak Faktorian azaldu du ez dela langile faltarik sektorean, baina lanpostu teknikoetarako behar da jendea. Horregatik 5-10 urtera jubilatuko diren patroiek ez dute erreleborik izango etxean, eta familiarra izan den enpresan ez dute inor izango buru.\nKuotak kudeatzeko aukera izan dute lehen aldiz arrantzaleek, eta datozen urteetara begira kudeaketa propioaren sistema egonkortzea nahi du sailak. \nHegaluzearen kostera ondo doala nabarmendu du Azkuek, eta antxoarena ere ongi amaitu da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\"180 metroko sakoneran ere topatu dut plastikoa\" ",
-    "media_desc": "Ander Congil urpekari-ikerlaria da, itsas biologoa. Udako Faktorian eskainitako elkarrizketan jendearen konzientzia falta salatu nahi izan du, itsasora zaborra botatzen jarraitzen dugu, ondorioetan pentsatu gabe. \nGaur egun Granadan bizi da eta Ceutako itsas-museoan lan egiten du gazte tolosarrak.",
+    "media_title": "Koldo Goitia: \"Bateragarriak dira Urdaibai eta Guggenheim museoa. Alderdi moduan ez dugu egingo herritarrek nahi ez duten ezer\"",
+    "media_desc": "Koldo Goitia, Euskadiko Itsasertzaren Garapenaren, Portuen eta Itsas Gaien zuzendariak uste du \"Guggenheim museoak aukera politak ekar diezaizkiokeela eskualdeari. Busturialdeak bultzada bat behar du eta lur kutsatuak garbitzeko ere aukera polita litzateke\". Herritarren iritzia errespetatuko ote den galdetuta, esan digu, bere ustez alderdi modura ez dutela egingo herritarrek nahi ez duten ezer. Lekeitioko alkate izan zen garaiak ere aipatu ditugu Goitia-rekin, oporrak eta kargu berrian dituen lan eta lehentasunak ere aztertu ditugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -369,7 +369,10 @@
     "media_desc": "Tour\u00e9 sagako hirugarren audioliburua da \"Hutsaren itzalak\". Tour\u00e9 \"detektibe-igarle\"aren abentura hau ere Euskal Herrian kokatua du Jon Arretxek.\n\nHainbat urtez bizirik irauteko borrokan ibili ondoren, Tour\u00e9k Sira bere alabaren deia jaso du oraingoan. Hendaiara datorrela esan dio, egun batzuk elkarrekin pasatzea nahi duela eta. Paperik ezaren arazoak saihesteko, Tour\u00e9k Sa Kene bere amorantea bidaltzen du alaba autoz jasotzera. Baina Sira ez da hitzordura agertzen.\n\nArretxek koxka bat estuago egiten du, eta Saharaz hegoaldeko etorkinen egoera gordinean egiten du azpimarra.  Paradisuaren ateetaraino iristeko ibilbide nekezkoak, mafien esku-sartze ankerrak, giza legearen etengabeko urratzeak hartzen dute protagonismoa\u2026 Intrigarik ez da falta, ordea.",
     "media_type": "audio",
     "page": "Audioliburuak",
-    "page_id": 75
+    "page_id": 75,
+    "title": "Tour\u00e9 detektibearen saga",
+    "description": "Tour\u00e9, egoera irregularrean dagoen afrikarrak, iragarle gisa magiaren arlo guztietan zerbitzuak eskaintzen ditu. Bizilagun afrikarrentzat agurgarria da, emakume zurientzat desiragarria eta polizientzat aldiz mespretxagarria. Biziraupen-senak, detektibe inprobisatu bilakatzera darama. Patuak eraman du Bilboko gizartearen apalenak edota goi mailako jendeekin erlazionatzera. ",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/13cc5e76-0c82-4ee1-ab47-fa28b1473c64.jpg"
   },
   "1371": {
     "rss": "https://guau.eus/series/1371/rss.xml",
@@ -564,8 +567,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Guztion Alarderako sinadura bilketa",
-    "media_desc": "Leire Mendizabal eta Eneko Gonzalez Guztion Alardea taldeko kideak izan ditugu gurean eta 'Jaiak elkarrekin' egitasmoaren nondik norakoak azaldu dituzte. Helburua argia da: edozein emakumek aukera izan dezan bere konpainian atera ahal izateko. Sinadura bilketa abian da.",
+    "media_title": "Mikel Pikatza: \"Zirku eskolak beteta daude\"",
+    "media_desc": "Mikel PIkatza, Euskal Zirku Elkarteko kidea, Zirkomotrizitateaz aritu da Baipasan eta zirkua eskolatan txertatzeko material didaktikoa ekarri digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f9ab426-5b6d-4d37-aade-3e828300fc5a.png"
   },
   "1438": {
@@ -586,14 +589,14 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "XUMEL Band",
-    "media_desc": "\"Abisu barik\" diskoan lanean ari den XUMEL taldea hartu dugu, udazken honetarako egindako apustua. Premia gutxiko eta kalitate handiko proiektua da, xehetasun guztiak kontuan hartzen ari baitira. 70eko hamarkadako soinuaren bila dabiltza, Itoiz bezalako taldeen ondarea jarraituz.",
+    "media_title": "Voces vascas en la Quincena Musical",
+    "media_desc": "Miren Urbieta eta Marif\u00e9 Nogales elkarrizketatu dituzte Radio Euskadiko Boulevard saioan Musika Hamabostaldian parte hartzen ari direlako: Nogales ikusiko digu Jesus Guridiren 'Amaya' Operan eta, Urbieta, 'West Side Story' musikalean. Biek ala biek azpimarratu dute musika klasikoaren inguruko festibal horrek duen garrantzia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
     "rss": "https://guau.eus/series/1437/rss.xml",
     "title": "Boulevard 1",
-    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu Maria Ruizek Radio Euskadiko lehen albistegian.",
+    "description": "Euskadi eta mundu osoko albisteak, eguneko protagonistak eta analisia dakarzkizu I\u00f1aki Larra\u00f1agak Radio Euskadiko lehen albistegian.",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
@@ -1003,7 +1006,7 @@
   "1646": {
     "rss": "https://guau.eus/series/1646/rss.xml",
     "title": "defenDATU",
-    "description": "\"Datuen\" erabileraren eta abusuaren artean. Nola zaindu gure datuen pribatutasuna. Gune bat Datuak Babesteko Euskal Agintaritzarekin\n",
+    "description": "Datuen erabileraren eta abusuaren artean. Nola zaindu gure datuen pribatutasuna? Gune bat Datuak Babesteko Euskal Agintaritzarekin.\n",
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
@@ -1076,7 +1079,7 @@
   "1633": {
     "rss": "https://guau.eus/series/1633/rss.xml",
     "title": "De Rigor Mortis",
-    "description": "Xabi Payak idatzitako soinu fikzio bat da \"De Rigor Mortis\".  \n\nGertakariak Asier Apaolaza mediku forentsearen autopsia gelan burutzen dira. Bertara hilotz misteriotsuak iristen dira egunero. ",
+    "description": "Xabi Payak idatzitako soinu-fikzio bat da \"De Rigor Mortis\".  \n\nGertakariak Asier Apaolaza mediku forentsearen autopsia-gelan burutzen dira. Bertara hilotz misteriotsuak iristen dira egunero. ",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1282,8 +1285,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\"Lorategi bat soinean\" erakusketa ezagutu dugu",
-    "media_desc": "Barrokoaren eta Ilustrazioaren artean ehungintzaren arloan sortu ziren lore motiboen bilakaera aztertzen du \"Lorategi bat soinean\" erakusketak. Irailaren 28rarte egongo da ikusgai Donostiako San Telmo museoan. Josune Uribe, museoko denbora baterako erakusketen teknikariarekin egin dugu bisita Udako Faktorian.",
+    "media_title": "Guillaume Fauveauren \"Pausa\" lanaz",
+    "media_desc": "Camille Chopinek Guillaume Fauveau prentsa-argazkilari baionarraren \"Pausa\" lana ekarri du Udako Faktoriara. Pausa, Baionako herriko etxeak abian jarritako harrera gunea da, bertan migranteek geldialdia egiteko lekua dute, eta bertan egin du erreportajea Fauveauk.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2c4992d5-5161-48a1-8bd4-15e05c64dcca.jpg"
   },
   "1389": {
@@ -1410,7 +1413,7 @@
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
     "title": "D\u00e9jate llevar",
-    "description": "Asteburuak hitz egiteko eta entzuteko aukera ematen digu. Une onak gozatzeko. Eramaten uztekoa. Gaurkotasuneko, dibulgazioko eta entretenimenduko programa, Arabari eta munduari begira",
+    "description": "Asteburuak hitz egiteko eta entzuteko aukera ematen digu. Une onak gozatzeko. Eramaten uzteko. Gaurkotasuneko, dibulgazioko eta entretenimenduko programa, Arabari eta munduari begira.",
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
@@ -1786,7 +1789,7 @@
     "page": "Sakontzeko",
     "page_id": 71,
     "title": "Cookie eta kafea",
-    "description": "Internetik gabeko bizitzarik ez dago XXI. mendean. \"Cookie eta kafea\" podcastean, saretik arrantzatutako teknologia albiste, istorio eta gadget-ak landuko dituzte Asier Errasti eta Sara Lanzek. Teknologia, pedagogia eta umorea protagonista ditugu bertan. Gure bizitzaren esparru guztietan sartuta dagoen internet sareari buruz modu errazean ikasteko eta edukiak erraz barneratzeko.",
+    "description": "Internetik gabeko bizitzarik ez dago XXI. mendean. \"Cookie eta kafea\" podcastean, saretik arrantzatutako teknologia albiste, istorio eta tresnak landuko dituzte Asier Errasti eta Sara Lanzek. Teknologia, pedagogia eta umorea protagonista ditugu bertan. Gure bizitzaren esparru guztietan sartuta dagoen internet sareari buruz modu errazean ikasteko eta edukiak erraz barneratzeko.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/aaf4f912-0491-4e34-9f2e-1b389cecbc0e.jpg"
   },
@@ -2042,7 +2045,7 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "title": "C\u00f3mo como",
-    "description": "Nutrizioarekin lotutako gaiak Aitor S\u00e1nchezekin\n",
+    "description": "Nutrizioarekin lotutako gaiak Aitor S\u00e1nchezekin.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a7138745-da8d-46ab-8831-ac2a9d388fe1.jpg",
     "media_title": "Utraprocesados. Una epidemia del siglo XXI",
@@ -2091,8 +2094,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Nafarroako kotxerik zaharrenean paseoan",
-    "media_desc": "1923ko kotxea, gaur egun Nafarroan martxan dagoen kotxerik zaharrena; hantxe ibili da Olatz Balda  Gorka Arbizu kotxearen jabearekin Nafarroako Iturmendin.",
+    "media_title": "Lo hobeto egiteko gomendioak",
+    "media_desc": "Miren Altuna neurologoak loaren gaineko gomendioak eman dizkigu beste aste batez.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/30f49de0-79d1-40c6-b9b1-d5cbd35410bd.jpg"
   },
   "1506": {
@@ -2109,7 +2112,7 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "title": "Consumidores",
-    "description": "Gehiegizko kontsumoa duen gizarte batean bizi gara. Planetako baliabideen erabilera gainditzen ari zaigu. Horregatik, Consumidores saioan kontsumo arduratsu, etiko eta solidarioaren alde egiten dugu. Programa honek zure zalantzak argitu eta horien berri ematen dizu, eta zure ondorioak ateratzeko tresnak eskaintzen dizkizu.",
+    "description": "Gehiegizko kontsumoa duen gizarte batean bizi gara. Planetako baliabideen erabilera gainditzen ari gara. Horregatik, \"Consumidores\" saioan kontsumo arduratsu, etiko eta solidarioaren alde egiten dugu. Programa honek zure zalantzak argitu eta horien berri eman, eta zure ondorioak ateratzeko tresnak eskaintzen dizkizu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f2453f72-f020-404a-b7ef-16f23fd7ae51.jpg"
   },
@@ -2442,7 +2445,7 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "title": "Cronopios y famas",
-    "description": "Zoragarria da ikustea musikak bizitzak, uneak eta egoerak lotu ditzakeela... baina oraindik hobe da bihotzak lotzen dituela pentsatzea... XX. mendeko musikari atzera begiratzea eta aparteko abesti eta musikari handiak ikustea.",
+    "description": "Zoragarria da ikustea musikak bizitzak, uneak eta egoerak lotu ditzakeela, baina oraindik hobea da bihotzak lotzen dituela pentsatzea. XX. mendeko musikari eta aparteko abesti eta musikari handiei egindako atzera begirakoa.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e659091f-724a-4ff3-a3e7-409711c651b5.jpg"
   },
@@ -2496,7 +2499,7 @@
     "page": "Musika",
     "page_id": 60,
     "title": "Del txistu a la Telecaster",
-    "description": "Euskal rockaren kronika zehatza, \"Potato\" ko gitarra-jotzailea izan zen Elena Lopez Aguirre kazetariak idatzi eta aurkeztua. ",
+    "description": "Euskal rockaren kronika zehatza. Potatoko gitarra-jotzailea izan zen Elena Lopez Aguirre kazetariak idatzi eta aurkeztua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2c2989f3-6ad5-4834-bc14-1af65dbaab3a.jpg"
   },
@@ -3128,5 +3131,12 @@
     "description": "Saio honek \"Nadie al volante\" izena hartu behar zuen. Osatu gabeko playlistarekin hasten den musika saioa, Xabier Doncelen eskutik. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cc3a5b97-c372-4438-9fe7-68049a005de6.jpg"
+  },
+  "1877": {
+    "rss": "https://guau.eus/series/1877/rss.xml",
+    "title": "Ate ostean",
+    "description": "Ezagutzen ditugun jarduera guztiek dute alderdi ezezagunen bat. Zirrikituetatik begiratu eta atzean zer gertatzen den erakutsiko digu Maitane Subijanak.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/343545b6-d15c-4777-8a96-4ab43bebdbf5.jpg"
   }
 }
