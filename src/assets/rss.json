@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Maribi Ugarteburu: \"Konpromisoa erakutsi didate emakume baserritarrek. Eta harrotasuna\u201d",
-    "media_desc": "Bizkaiko EHNE sindikatuaren enkarguz liburu bat ondu du Maribi Ugarteburu kazetariak: 'EREIN, BORROKATU, BIZI Hamar emakumeren arrastoak baserritarren mugimenduan'.",
+    "media_title": "\"Irudiak kontatzen ez duena indartzen du musikak\"",
+    "media_desc": "Joseba Beristain, musika konpositorea lanez lepo dabil baina tartea atera du Faktoriara etortzeko. 6 urterekin hasi zen musika munduan, zinema zalea ere bazen ordurako eta azkenean lortu ditu bere bi pasio horiek uztartzea. Soinu banden konposizioan ari da batez ere. Bere ibilbidearen errepasoa egin du gurekin eta esku artean dituen proiektuei buruz ere hitz egin digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -1541,8 +1541,8 @@
     "title": "Goizak gaur",
     "description": "Eguerdiko albistegi nagusia, I\u00f1igo Alustizaren eskutik, egunekoari neurria hartzeko. ",
     "media_type": "audio",
-    "media_title": "Martin Aramendi UEMAko presidentea:  Arazorik ez zegoen toki batean arazoak sortzera dator Gorenaren epaia",
-    "media_desc": "Udalerri euskaldunak dira hizkuntza eskubide guztiak errespetatzen dituzten erakunde bakarrak. Oso ondo dago kalera ateratzea baina babes juridikoa behar du euskarak eta alderdi abertzaleek eskutik joan behar dute aurrera egiteko estrategiak bultzatuz.",
+    "media_title": "Mikel Aramendiren analisia Gazako goseteaz ",
+    "media_desc": "Nazio Batuen Erakundeak ofizialki aitortu edo baieztatu du Gaza hirian eta inguruetan gosetea dagoela. Bada, izendapen horren inguruko gakoak eman eta analisi zorrotza egin du Mikel Aramendi Euskadi Irratiaren nazioarteko gaietako adituak Goizak Gaur albistegian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/af4440a7-eeae-4de7-8b26-d6f59b0d0c6e.jpg"
   },
   "1405": {
@@ -1816,7 +1816,7 @@
     "page": "Sakontzeko",
     "page_id": 71,
     "title": "Harresi ikusezina",
-    "description": "Azken lau urteotan, 20.000 bat pertsonak \u2013 gehienak Afrikatik etorriak\u2013 Irungo muga zeharkatu dute Frantziarako bidean. Gutxienez, horietako zazpi hil dira Bidasoa gurutzatu nahian. \"Harresi ikusezina\" sail dokumental bat da, sei atalekoa, Cristina Tapia Huici kazetariak zuzendua, eta migranteei, adituei eta boluntarioei ematen die ahotsa. Europako legeak, polizia kontrol arrazistak eta Bidasoako harrera mugimenduak aztertzen ditu.\n\n\n",
+    "description": "Azken lau urteotan, 20.000 bat pertsonak, gehienak Afrikatik etorriak, Irungo muga zeharkatu dute Frantziarako bidean. Gutxienez, horietako zazpi hil dira Bidasoa gurutzatu nahian. \"Harresi ikusezina\" sail dokumental bat da, sei atalekoa, Cristina Tapia Huici kazetariak zuzendua, eta migranteei, adituei eta boluntarioei ematen die ahotsa. Europako legeak, polizia kontrol arrazistak eta Bidasoako harrera mugimenduak aztertzen ditu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8c8d5e68-ec25-4646-8f54-f64d7b375fbf.jpg"
   },
@@ -2094,8 +2094,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Melatoninaren moda eta erabilera okerrak",
-    "media_desc": "Miren Altuna neurologoak nabarmendu du melatonina modan dagoen arren, ez duela loaren arazo guztietarako balio eta medikamentuaren erabilera okerraz ohartarazi du. Hortaz gain, lo egiten dugunean gorputzeko atal ezberdinetan zein eragin duen eta lo gaudenean buruak nola funtzionatzen duen azaldu du.",
+    "media_title": "Oihana Garatea, Lekeitioko azken saregina",
+    "media_desc": "Sareginen lana eta ondarea bizirik mantentzen aritzeagatik, Lekeitioko herriak txupinera izendatu du bozketa bidez. Horrenbestez, San Antolin jaietan berak piztuko du suziria, irailaren 1ean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/30f49de0-79d1-40c6-b9b1-d5cbd35410bd.jpg"
   },
   "1506": {
@@ -2148,7 +2148,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "title": "H\u00e1gase la luz",
-    "description": "Asteburuetako egunsentia, Goizalde Landabasorekin. Filosofiak, klima larrialdiak, geopolitikak eta hirigintzako azken joerek, denek dute tokia Hagase la luz saioan.",
+    "description": "Asteburuetako egunsentia, Goizalde Landabasorekin. Filosofiak, klima larrialdiak, geopolitikak eta hirigintzako azken joerek, denek dute tokia H\u00e1gase la luz saioan.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/753feb9c-918c-4148-9d8b-72b9769a121e.jpg"
   },
@@ -2871,7 +2871,7 @@
   "1876": {
     "rss": "https://guau.eus/series/1876/rss.xml",
     "media_title": "Goazen: Iritsi gara",
-    "media_desc": "Jasone Osorok idatzitako \"Go!azen\" unibertsoko lehen liburu, hemen audioliburu gisa aurkeztuta, dugu hau. Kamioi bat gurutzatu da errepidean eta auto-ilarak sortu ditu. Uste baino gehiago luzatuko da itxaronaldia eta dozenaka autobus eta kotxek zain egon beharko dute.\n\nAutoan doaz Zuri, Eli, Garieta eta Julen. Autobusez Danel, Eider, Eneko, Maddi, June eta Igor. Aimar amarekin doa autoz. Gabo desesperatzen hasi da gasolindegian atzeratzen ari direlako. Era batera edo bestera, guztien bizitzak gurutzatuko dira errepidean. Familia hippy bat ezagutuko dute, auto-stop egiten duen jendea, ezkutatuta dagoen laku bat... Hainbat abentura igaro ondoren, azkenean bai, azkenean iritsiko dira Basakabira.",
+    "media_desc": "Jasone Osorok idatzitako \"Go!azen\" unibertsoko lehen liburua, hemen audioliburu gisa aurkeztuta, dugu hau. Kamioi bat gurutzatu da errepidean eta auto-ilarak sortu ditu. Uste baino gehiago luzatuko da itxaronaldia eta dozenaka autobus eta kotxek zain egon beharko dute.\n\nAutoan doaz Zuri, Eli, Gari eta Julen. Autobusez Danel, Eider, Eneko, Maddi, June eta Igor. Aimar amarekin doa autoz. Gari desesperatzen hasi da gasolindegian atzeratzen ari direlako. Era batera edo bestera, guztien bizitzak gurutzatuko dira errepidean. Familia hippy bat ezagutuko dute, auto-stop egiten duen jendea, ezkutatuta dagoen laku bat... Hainbat abentura igaro ondoren, azkenean bai, azkenean iritsiko dira Basakabira.",
     "media_type": "audio"
   },
   "1875": {
