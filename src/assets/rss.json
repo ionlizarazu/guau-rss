@@ -2,7 +2,7 @@
   "1751": {
     "rss": "https://guau.eus/series/1751/rss.xml",
     "title": "Klaketa ",
-    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. \n",
+    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
     "media_type": "video",
     "media_title": "12. \"Brinkola\", Mikel Laskurain",
     "media_desc": "\u201cBrinkola\u201d telesail entzutetsua hamabigarren \u201cKlaketa\u201d ataleko edukia dugu. Horretarako, antzerkian, telebistan eta zineman bide luzea egin duen Mikel Laskurain aktorea da Gaizka Izagirreren gonbidatua. Kultuzko seriea bilakatu zen askorentzat, 2009an estreinatutako telesaila, eta halaxe jarraitzen du. Hamahiru ataletan banatuta dago. ",
@@ -44,7 +44,7 @@
   "1308": {
     "rss": "https://guau.eus/series/1308/rss.xml",
     "title": "Irabazi arte",
-    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podkast bat sortu dute emakumezko kirolari eta kirolzale erreferenteak bertatik bertara elkarrizketatzeko. Nora (Nahia Sillero) eta Olatz (Ainhoa Azpitarte) dira podkasterrak, Learoko jokalariak biak. Nerabezaroko atrebentziarekin luzatzen dizkiete galderak gonbidatuei. ",
+    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, Learoko jokalariak biak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
     "media_type": "audio",
     "page": "Kirola",
     "page_id": 64,
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Aitor Zabalgogeazkoa: \"Esperantza galduta daukate Gazan\"",
-    "media_desc": "Mugarik Gabeko Medikuen Larrialdi koordinatzaileak, Gazatik bueltan, han bizi den ezinaren berri eman digu, hunkituta. Tiroz eta granadaz ehundaka zauritu batera artatzeko baliabiderik ez dagoela dio. Dena falta dela, esperantza ere bai.",
+    "media_title": "Barkamena eskatu behar dut; espero dugu arazo gehiago ez izatea eta kontzertuak egitea",
+    "media_desc": "Juan Mari Aburto Bilboko alkateak, Abandoibarrako eszenatokiarekin izandako gorabeherez hitz egin du Faktorian, besteak beste. Era berean, barkamena eskatu du Espainia Hegoaldearekin lotuta egindako adierazpenengatik. Aste Nagusiaz ere hitz egin dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Aitor Urresti:\"Bero boladei aurre egiteko hiriak berdetu eta eraikinen isolamendua hobetu behar dira\"",
-    "media_desc": "Bero boladek osasunean duten ondorioez hitz egin dugu Faktorian, Miren Elortegi, Gurutzetako larrialdetako medikuarekin; aitor Urresti energia adituarekin hirietan eta eraikinentan hartu beharreko klimatitazio eta bestelako neurriez.",
+    "media_title": "Atxarte: \"Naturari berea itzultzea da helburua, baina kaltea egina dago\"",
+    "media_desc": "30 urte pasa dira Urkiolan, Atxarteko bi harrobien ustiaketa geratu zenetik. Babestutako inguru naturala berreskuratzeko ahaleginak antzuak izan dira harrez gero. Orain, Abadi\u00f1oko udalak eta EHUk hitzarmena egin dute, prozesu parte hartzaile zabal baten bidez, inguru horretan zer egin ebazteko. Mikel Urrutia, Abadi\u00f1oko alkateak eta Peio Lozano, EHUko Ekopol, transizio ekosozialerako ikerketa taldeko buruak kontatu digute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -207,7 +207,7 @@
   "1670": {
     "rss": "https://guau.eus/series/1670/rss.xml",
     "title": "Irabazi arte ",
-    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza), Nora (Nahia Sillero) eta Olatz (Ainhoa Azpitarte) dira podcasterrak, Learoko jokalariak hirurak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
+    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, Learoko jokalariak biak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
     "media_type": "video",
     "media_title": "9. Naroa Ruiz de Galarreta, izotz-hockey jokalaria",
     "media_desc": "Naroa Ruiz de Galarretak ez du gogoratzen irristagailuak jantzi zituen lehenengo aldia; 5 urterekin hasi zen izotz-hockeyan. 15 urte geroago, liga irabazi berri du hirugarren aldiz Txuri-Urdin taldearekin. Nora eta Olatzekin aritu da bere ibilbideari buruz, izotz-hockeyak azken urteetan izan duen eboluzioari buruz eta beste gauza askori buruz.",
@@ -589,8 +589,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Los carteles de Zinemaldia, obra de wallijai estudio de Donostia",
-    "media_desc": "",
+    "media_title": "El placer de vislumbrar y degustar las Perseidas",
+    "media_desc": "Pertseidak ikusteko eta dastatzeko plazera.\n\nZerura begira jartzeko eta pertseiden euria ikusteko urteko egunik aproposenean, Javier Armentia astrofisikari eta zientzia-dibulgatzailearekin hitz egin dugu gaur gauean Lerinen gidatuko duen Pertseiden behaketa bereziaz, herriko udalak eta ASTRONAVARRA sareak antolatuta. \n\nGainera, hitzordu berezi hori entsegu-saio gisa erabiliko dute heldu den urtean data berean gertatuko den \"Eklipse osoari\" begira. Hain zuzen ere datorren urtean ilargiak eguzkia ezkutatuko baitu eta bi aldiz ilunduko du, bi aldiz izanen da gaua. Duela 121 urtetik hona gertatu ez den fenomenoa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -622,8 +622,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Qu\u00e9 hacer con las mascotas cuando nos vamos de vacaciones",
-    "media_desc": "Nahiz eta gero eta kontzientzia handiagoa egon, uda iristen direnean \u2014oporraldiak, aisialdirako planak eta ohituretan aldaketak\u2014, oraindik badaude euren maskotak abandonatzen dituzten jabeak. Benetako amesgaiztoa da hori txakurarentzat, familia hori bere babes-leku eta maitasunaren iturri gisa zutenentzat. \"APA Puppy Bilbao\" elkartean abandonatutako eta galdutako txakurrak jasotzen dituzte. Txipa lagungarria da galdutako txakurren jabeak bilatzeko. Baina abandonatutakoak zentroan geratzen dira etxe berri bat aurkitu arte, merezi duten maitasuna eman ahal izango dien familia bat aurkitu arte. Andu Palomares, \u201cAPA Puppy Bilbao\u201d elkarteko kideak, kontatu digu hori guztia.\n\nOporretara goazenean eta gure txakurrak eraman ezin ditugunean, txakurrentzako zentro batean uztea da alternatibetako bat. Indartxu da horietako bat. Judit Castillo da zentroaren jabea eta tituludun txakur-hezitzailea, portaera-berrikuntza eta errehabilitazioan espezializatua.",
+    "media_title": "Mesa intergeneracional: los veranos, las fiestas y los trabajos de antes y ahora",
+    "media_desc": "Intza Errekalde eta Mikel Mart\u00ednez, Distrito Euskadiko gazteen mahaiko kideak, Bilboko La Misericordia zentroko egoiliarrekin elkartu ditugu: Bego Due\u00f1as, Kepa G\u00f3mez eta I\u00f1aki Tejero. Galdetu diegu haur zirela, uda nola izaten zuten, bizitzan zenbat herrialde bisitatu dituzten, lehen eta oraingo jaiak nolakoak diren, alkohola edaten zuten ala ez eta noiz hartu zuten lehen tragoa.\n\nHorrez gain, honako galdera hauei ere erantzun diete: \"Zer izan nahi zenuen handitan haurtzaroan?\" eta \"Nor izango litzateke zure nagusi ideala?\" ADECOren inkesta baten arabera, gazteek Lamine Yamal eta Carlos Alcaraz hautatu dituzte nagusitzat. Neskek, berriz, abeslari Aitana eta astronauta Sara Garc\u00eda.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/61a113c1-6276-4d94-b152-8daeaad591b7.jpg"
   },
   "1782": {
@@ -706,7 +706,7 @@
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
     "media_title": "17. Duck Detective: The Ghost of Glamping",
-    "media_desc": "Misteriozko istorioek oso ondo funtzionatu dute beti literaturan, zineman edota telesailetan. Baina nola moldatu da genero hau bideojokoetan? Hamaika joko saiatu dira jokalariok ikertzaile bilakatzen, eta horietako hainbat aztertuko ditugu \"Jokutopia\" podcastaren atal honetan. Gainera, Duck Detective sagako bigarren jokoaren analisi zehatza ere egin dugu, ahate detektibearen abentura berrian jokatzeko aukera izan baitugu.",
+    "media_desc": "Misteriozko istorioek oso ondo funtzionatu dute beti literaturan, zineman edota telesailetan. Baina nola moldatu da genero hau bideojokoetan? Hamaika joko saiatu dira jokalariok ikertzaile bilakatzen, eta horietako hainbat aztertuko ditugu \"Jokutopia\" podcastaren atal honetan. Gainera, \"Duck Detective\" sagako bigarren jokoaren analisi zehatza ere egin dugu, ahate detektibearen abentura berrian jokatzeko aukera izan baitugu.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1144,7 +1144,7 @@
   "1312": {
     "rss": "https://guau.eus/series/1312/rss.xml",
     "title": "Jon eta Jone",
-    "description": "\"Jon eta Jone\" irrati fikzioa Koldo Almandoz zinegileak zuzendutako lana dugu. Ehundik gora mikro saiotan maisuki ageri dira bikote gazte eta dinamiko honen eguneroko pasarteak.",
+    "description": "\"Jon eta Jone\" irrati fikzioa Koldo Almandoz zinegileak zuzendutako lana dugu. Ehundik gora mikrosaiotan maisuki ageri dira bikote gazte eta dinamiko honen eguneroko pasarteak.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1227,7 +1227,7 @@
   "1306": {
     "rss": "https://guau.eus/series/1306/rss.xml",
     "title": "Ipuin txiki soinu handi",
-    "description": "Aita-semeek egiten digute ipuin txiki eta soinu handien kontakizuna. Beraien etxeko sototik egiten digute kontakizuna, Danbor ezizena hartzen duen semeka eta Txor-txor esaten dioten aitak. ",
+    "description": "Aita-semeek egiten digute ipuin txiki eta soinu handien kontakizuna. Beraien etxeko sototik egiten digute, Danbor ezizena hartzen duen semea eta Txor-txor esaten dioten aitak. ",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1263,7 +1263,7 @@
   "1318": {
     "rss": "https://guau.eus/series/1318/rss.xml",
     "title": "Kuku!",
-    "description": "\"Kuku!\" etxeko txikienei eskainitako ipuin bilduma da, entzun eta ikusiz, haurrari pentsatzeko bidea jarri nahi diena. Haurrak aniztasunean eta baloreetan hezteko tresna bat, entzumena landuz irudimena martxan jartzeko bideak eskura jarriz.",
+    "description": "\"Kuku!\" etxeko txikienei eskainitako ipuin bilduma da, entzunez haurrari pentsatzeko bidea jarri nahi diona. Haurrak aniztasunean eta baloreetan hezteko tresna bat, entzumena landuz irudimena martxan jartzeko bideak eskura jarriz.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1296,8 +1296,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ipar Euskal Herriko bestak eta eskuin muturra",
-    "media_desc": "Polemika bizia da: Hendaiak, Hazparnek eta Ezpeletak \"Frantziako Festarik Ederrenak\" izendapena utzi dute, eskuin-muturra atzean dagoelakoan. Pierre-Edouard St\u00e9rin enpresari milioidunak balio tradizionalak bultzatzeko kanpaina handia diruztatu nahi du, eta beste inbertsioen artean, herriko festak bultzatzeko marka horretan ere dirua jarri du, Humanit\u00e9 hedabideak argitaratu duenez. Hori jakinda hartu dute erabakia hiru festek; Bidaxunek mantentzea erabaki du. Batzuen eta besteen argudioak bildu ditugu Faktorian.",
+    "media_title": "Litioa.",
+    "media_desc": "Baterietan, industria kimikoan eta medikuntzan erabiltzen da. Argentinako, Boliviako eta Txileko lurretan dago gehien, baina ekoizle nagusiak Australia eta Txina dira. Ur kopuru izugarria behar da materiala erauzteko eta hori da arazo nagusietako bat.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1646,7 +1646,7 @@
     "page": "Kultura",
     "page_id": 63,
     "title": "Klaketa ",
-    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea.  Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edo anekdotak. ",
+    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
     "media_title": "12. \"Brinkola\", Mikel Laskurain",
@@ -2427,7 +2427,7 @@
     "page": "Musika",
     "page_id": 60,
     "title": "Kantu bat gara",
-    "description": "Jon Maiaren musika eta gai aukera, podkast egina.",
+    "description": "Jon Maiaren musika eta gai aukera, podcast egina.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7a927944-286a-4ec7-8363-09c0d6a364ca.jpg"
   },
@@ -2567,8 +2567,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Baratzeko erreginaren kapritxoak",
-    "media_desc": "Marta Barbak tomatearen historia, bitxikeria, barietate eta gainerakoez hitz egin digu. Goizuetako Bego\u00f1a entzuleak berriz,  patatarekin egidako saiakeraren berri. "
+    "media_title": "Sarearen garrantzia baratzeetan",
+    "media_desc": "Letxuak, porruak... babesteko geroz eta gehiagotan ikusiko dugu sarea gure baratzeetan. "
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
