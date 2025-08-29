@@ -146,12 +146,12 @@
   "1543": {
     "rss": "https://guau.eus/series/1543/rss.xml",
     "title": "La entrevista de Radio Vitoria",
-    "description": "Eguneroko elkarrizketa goizeko saioan.",
+    "description": "Eguneroko elkarrizketak goizeko saioan.",
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
     "media_title": "Cristina Ortega, ingeniera aeron\u00e1utica y directora de la empresa AVS, situada en el parque tecnol\u00f3gico de \u00c1lava",
-    "media_desc": "Espero izatekoa zen LUR BAT edo LUR ONE lehen euskal satelitearen jaurtiketa. Hainbat atzerapenen ondoren, iazko abuztuan atera zen espaziora, datorren astean urtebete egingo baitu. Beraz, sektore aeroespazialarentzat eta euskal industria eta ikerketarentzat mugarri izan zen gertakari baten jarraipena egin nahi izan dugu.",
+    "media_desc": "Espero izatekoa zen LUR BAT edo LUR ONE lehen euskal satelitearen jaurtiketa. Hainbat atzerapenen ondoren, iazko abuztuan atera zen espaziora, eta datorren astean urtebete egingo du. Beraz, sektore aeroespazialarentzat eta euskal industria eta ikerketarentzat mugarri izan zen gertakari baten jarraipena egin nahi izan dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\u201cKalitatezko osasungintza emateko pazientearen hizkuntzan jardutea ez da garrantzitsua; ezinbestekoa da\u201d",
-    "media_desc": "Jon Zarate Sesma, EHUko farmazia fakultateko ikertzaile eta irakaslea da. Faktorian aritu zaigu\"Hizkuntza eta osasuna txirikordan\" ikerlanari buruz, Euskal Herrian Euskaraz erakundeak, EHUrekin batera egindako lanari buruz.",
+    "media_title": "\"Musika Hamabostaldian parte hartzea lorpen handia da\" ",
+    "media_desc": "Garazi Zabaleta musika konposatzailea gerturatu da Udako Faktoriara. Musika Hamabostaldian \"Oximoron\" bere konposizioa aurkeztu ostean bertara iritsi arteko bidaia azaldu digu, eta hemendik aurrerako proiektuei buruz aritu zaigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -567,8 +567,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Coctail-ero sagardozalea",
-    "media_desc": "Yon Pavon Cocktail-eroa izan da Baipasan udako coctail-a prestatzen",
+    "media_title": "\"Eliza bat egiteko enkargua oso interesgarria da arkitekto batentzat\"",
+    "media_desc": "Itziar Molinero, Sara Enriquez eta Xabi Artola, Euskal Arkitektura gaztearen Pe\u00f1a Ganchegi sarietako finalista dira. Haien lanaz hitz egiteko elkartu ditugu. Arkitekturan, inoiz ez zarela jakitun esan digute eta baita ere, janzkeragatik ezagutu daitekeela nor den arkitekto.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3ab9e950-4e27-4b9a-8c4c-f43239cc85ec.jpg"
   },
   "1438": {
@@ -1285,8 +1285,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\"Proiektu pertsonalak direnean saiatzen naiz denbora hartzen argazkia ateratzeko\" ",
-    "media_desc": "Guilleaume Fauveau fotokazetariak bere lanari buruz hitz egin digu Faktorian. Baionako \"Pausa\" zentroan ateratako argazkiei buruz hitz egin digu, proiektua gauzatzeko prozesua azaldu digu eta bide batez, horrelako proiektu pertsonalen eta eguneroko lan azkarraren arteko ezberdintasunak xehatu dizkigu.",
+    "media_title": "\"Argazkilari bat begiralerik gabe ez da existitzen\"",
+    "media_desc": "Camille Chopinek Gazako fotokazetarien lana aldarrikatu du eta Fatima Shbair eta Saher Alghorraren gazatarren lana aurkeztu digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2c4992d5-5161-48a1-8bd4-15e05c64dcca.jpg"
   },
   "1389": {
@@ -1296,8 +1296,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Litioa.",
-    "media_desc": "Baterietan, industria kimikoan eta medikuntzan erabiltzen da. Argentinako, Boliviako eta Txileko lurretan dago gehien, baina ekoizle nagusiak Australia eta Txina dira. Ur kopuru izugarria behar da materiala erauzteko eta hori da arazo nagusietako bat.",
+    "media_title": "\"Herri eta hiriek energia sortzaile izan behar dute\"",
+    "media_desc": "Xabier Barrutieta arkitekto eta energia positiboko eraikinen diseinuari buruzko tesiaren egileak dio eraikinek energia gutxiago kontsumitzea bezain beharrezkoa dela energia sortzen duten eraikinak egitea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d9b87d58-fccc-44fd-9842-80391fd7eab4.jpg"
   },
   "1412": {
@@ -1362,8 +1362,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Fruta ustela bota!",
-    "media_desc": "Jokin Pinatxo Doktorea etorri zaigu kimika lezio bat ematera. Frutan ikusitako orbain ustelaren inguruan dauden mitoak azaldu dizkigu eta horrekin egin beharreko erantzun zientifikoa.",
+    "media_title": "Sanferminetako txupinazoa aurten nork?",
+    "media_desc": "Urtero bezala, San Ferminetako txupinazoa nork botako duen aukeratzeko bozketa hasi da. Alain Ibarrak aurtengo hautagaiak ekarri dizkigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1428,7 +1428,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/d5fe3da8-264b-4215-b393-4b8ef7702200.jpg",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/8fd28be1-9d0a-445a-b972-b1e2bf499181.jpg",
     "media_title": "Apag\u00f3n general",
     "media_desc": ""
   },
@@ -1638,8 +1638,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Las garrapatas, \u00bfson tan feas como las pintan?",
-    "media_desc": ""
+    "media_title": "Sergi C\u00e1mara (fotodocumentalista): \"La fotograf\u00eda tiene el poder de concienciar'",
+    "media_desc": "Sergi Camara fotodokumentalistak mundu mailan dauden eta gero eta zailagoak bihurtzen ari diren migrazio-bideak erakusten dizkigu 'Exodoak' lanean. Argazkiak irailaren 14ra arte ikus daitezke Gasteiz Hiribidean, Kazetaritza kalean bertan jardunaldien barruan. Gainera, astelehenean, hilak 25, argazkilariak berak bisita gidatu bat egingo du irudi horiek hartu zituen tokiak eta inguruko istorioak azalduz."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2094,9 +2094,9 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Ikatzaren aztarnei segika",
-    "media_desc": "Ikatzaren aztarnak ikertuta, inguruan zer landareria zegoen jakin daitekela azaldu digu Jon Aldaiak. Bioarkeologoa eta artekeobotanikan aditua da. Bere ikerketa lanaz eta Aranzadi elkartearekin egiten dituen indusketez aritu zaigu Amaraunean.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/30f49de0-79d1-40c6-b9b1-d5cbd35410bd.jpg"
+    "media_title": "Udako ordutegi eroa ala errutina? ",
+    "media_desc": "Aiora Enparantza eta Jone Bengoa ordutegi finko eta malguaren arteko dikotomiaz aritu dira.",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
     "rss": "https://guau.eus/series/1506/rss.xml",
