@@ -139,8 +139,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Aierdi sobre la Comisi\u00f3n Koldo: \u201cLo afrontamos con la m\u00e1xima tranquilidad\u201d",
-    "media_desc": "Landa Garapeneko eta Ingurumeneko kontseilari Jos\u00e9 Mar\u00eda Aierdik adierazi du \"funtsezkoa\" dela landa-ingurunera bideratutako aurrekontua. Bere ustez, garrantzitsua da Espainiako estatuak aurrekontuaren murrizketaren aurkako jarrera \"irmoa\" planteatzea.",
+    "media_title": "\u201cLa Iglesia est\u00e1 comprometida con el migrante; debe hacerse de forma m\u00e1s ordenada\u201d",
+    "media_desc": "Juan Carlos Elizaldek, Vitoria-Gasteizko gotzainak, migrazio politikarekiko konpromisoan \"trabarik gabe\" daudela adierazi du. Elizaldek zehaztu du eredu izan behar dutela beren eskubideei arreta \"osoa\" bermatuko diena.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -366,12 +366,12 @@
   "1355": {
     "rss": "https://guau.eus/series/1355/rss.xml",
     "media_title": "3. Tour\u00e9 detektibearen saga: Hutsaren itzalak ",
-    "media_desc": "Tour\u00e9 sagako hirugarren audioliburua da \"Hutsaren itzalak\". Tour\u00e9 \"detektibe-igarle\"aren abentura hau ere Euskal Herrian kokatua du Jon Arretxek.\n\nHainbat urtez bizirik irauteko borrokan ibili ondoren, Tour\u00e9k Sira bere alabaren deia jaso du oraingoan. Hendaiara datorrela esan dio, egun batzuk elkarrekin pasatzea nahi duela eta. Paperik ezaren arazoak saihesteko, Tour\u00e9k Sa Kene bere amorantea bidaltzen du alaba autoz jasotzera. Baina Sira ez da hitzordura agertzen.\n\nArretxek koxka bat estuago egiten du, eta Saharaz hegoaldeko etorkinen egoera gordinean egiten du azpimarra.  Paradisuaren ateetaraino iristeko ibilbide nekezkoak, mafien esku-sartze ankerrak, giza legearen etengabeko urratzeak hartzen dute protagonismoa\u2026 Intrigarik ez da falta, ordea.",
+    "media_desc": "Tour\u00e9 sagako hirugarren audio-liburua da \"Hutsaren itzalak\". Tour\u00e9 detektibe-igarlearen abentura hau ere Euskal Herrian kokatua du Jon Arretxek.\n\nHainbat urtez bizirik irauteko borrokan ibili ondoren, Tour\u00e9k Sira bere alabaren deia jaso du oraingoan. Hendaiara datorrela esan dio, egun batzuk elkarrekin pasatzea nahi duela eta. Paperik ezaren arazoak saihesteko, Tour\u00e9k Sa Kene bere amorantea bidaltzen du alaba autoz jasotzera. Baina Sira ez da hitzordura agertzen.\n\nArretxek koxka bat estuago egiten du, eta Saharaz hegoaldeko etorkinen egoera gordinean egiten du azpimarra. Paradisuaren ateetaraino iristeko ibilbide nekezkoak, mafien esku-sartze ankerrak, giza legearen etengabeko urratzeak hartzen dute protagonismoa\u2026 Intrigarik ez da falta, ordea.",
     "media_type": "audio",
     "page": "Audioliburuak",
     "page_id": 75,
     "title": "Tour\u00e9 detektibearen saga",
-    "description": "Tour\u00e9, egoera irregularrean dagoen afrikarrak, iragarle gisa magiaren arlo guztietan zerbitzuak eskaintzen ditu. Bizilagun afrikarrentzat agurgarria da, emakume zurientzat desiragarria eta polizientzat aldiz mespretxagarria. Biziraupen-senak, detektibe inprobisatu bilakatzera darama. Patuak eraman du Bilboko gizartearen apalenak edota goi mailako jendeekin erlazionatzera. ",
+    "description": "Tour\u00e9, egoera irregularrean dagoen afrikarrak, iragarle gisa magiaren arlo guztietan zerbitzuak eskaintzen ditu. Bizilagun afrikarrentzat agurgarria da, emakume zurientzat desiragarria eta polizientzat aldiz mespretxagarria. Biziraupen-senak, detektibe inprobisatu bilakatzera darama. Patuak eraman du Bilboko gizartearen apalenekin edota goi mailako jendeekin erlazionatzera. ",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/13cc5e76-0c82-4ee1-ab47-fa28b1473c64.jpg"
   },
   "1371": {
@@ -446,7 +446,7 @@
   "1605": {
     "rss": "https://guau.eus/series/1605/rss.xml",
     "title": "Tras la huella de Elkano",
-    "description": "\"Juan Sebasti\u00e1n Elkano, biograf\u00eda de un Capit\u00e1n\" audio liburu bat da, munduari egindako lehen bira kontatzen duena, lekuko pribilegiatu baten ikuspuntua berreskuratuz, Elkano bera. Gizakiaren eraldaketa ere kontatzen du, parte hartu zuen bi espedizio ozeaniko handien bidez.",
+    "description": "\"Juan Sebasti\u00e1n Elkano, biograf\u00eda de un Capit\u00e1n\" audio-liburu bat da, munduari egindako lehen bira kontatzen duena, lekuko pribilegiatu baten ikuspuntua berreskuratuz, Elkano bera. Gizakiaren eraldaketa ere kontatzen du, parte hartu zuen bi espedizio ozeaniko handien bidez.",
     "media_type": "audio",
     "page": "Audioliburuak",
     "page_id": 75,
@@ -540,7 +540,7 @@
   "1677": {
     "rss": "https://guau.eus/series/1677/rss.xml",
     "title": "Urratsa",
-    "description": "Mindfulnessa eta auto laguntzarako podcasta da \"Urratsa\"  itxaropen eta baikortasun mezua zabaltzeko, osasuna modu integralean zaintzen ikasteko eta oreka emozionala berreskuratu eta mantentzeko. \n\nNaomi Mendizabalek lagunduko zaitu bide horretan. ",
+    "description": "Mindfulnessa eta autolaguntzarako podcasta da \"Urratsa\"; itxaropen eta baikortasun mezua zabaltzeko, osasuna modu integralean zaintzen ikasteko eta oreka emozionala berreskuratu eta mantentzeko. \n\nNaomi Mendizabalek lagunduko zaitu bide horretan. ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ae8244cf-c431-4ad4-8d5d-68b0b6844593.jpg"
   },
@@ -569,7 +569,7 @@
     "page_id": 67,
     "media_title": "Ian Ruiz marmarrian",
     "media_desc": "Zarauzko ileapaindegietako txutxu-mutxuak eta marmarrak asko gustatzen zaizkio Ian Ruizi, halaxe kontatu digu Baipasan. Izan ere, Marmarrian izeneko podcasta du Ruizek eta edonori bozgorailu bat eskaintzea da bere xedea.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/3ab9e950-4e27-4b9a-8c4c-f43239cc85ec.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
     "rss": "https://guau.eus/series/1438/rss.xml",
@@ -591,7 +591,7 @@
     "page_id": 68,
     "media_title": "Bibide: m\u00fasica en euskera y wolof ",
     "media_desc": "Bibide duela 5 urte jaio zen bikote musikala da, Arima Gernikako abeslari bizkaitarraren eta Brik Pako senegaldarraren eskutik. Distantzia geografikoa izan arren, Zubiberriak, Miresgarri eta Gueumulo abestien sorta bat argitaratu dute.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/f44e5282-8431-4b56-9182-2b58c146601b.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
     "rss": "https://guau.eus/series/1437/rss.xml",
@@ -622,8 +622,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Carlos Uriagereka: \u201cAtacamos el fuego de manera indirecta, incendiando en direcci\u00f3n contraria\u201d",
-    "media_desc": "Bizkaiko Foru Aldundiko 45 profesional eta baliabide tekniko Gaztela eta Leonera joan dira bertako suteen itzaltze lanetan laguntzeko, 18 ibilgailu, material espezifikoa, sastrakak kentzeko robot bat eta behaketa-dron bat barne. Bidali dituztenen artean da Carlos Uriagereka, Bizkaiko Foru Aldundiko baso-suhiltzailea. Jada bueltan da, han bizitakoa kontatzeko prest.",
+    "media_title": "Mastodophonika: el sue\u00f1o de Asier Etxeandia",
+    "media_desc": "Ametsik desiratuena arrazoia erabiltzen duenetik. Horrela definitzen du Asier Etxeandia MASTODOPHONIKA polifazetikoak. Baina muntaia bat baino gehiago da; Mastrodonteren potentzia sinfonikoa EGOrekin (Euskadiko Gazte Orkestra) eta Leioako San Juan Bautista Abesbatzaren ahotsekin uztartzea da. Eta egin, berak dioen bezala, bere lurrean, etxean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/61a113c1-6276-4d94-b152-8daeaad591b7.jpg"
   },
   "1782": {
@@ -1296,8 +1296,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Litioa psikiatrian eta material arraroen birziklatzea",
-    "media_desc": "Maiz bateriekin lotzen badugu ere, litioak eta beste material arraro batzuek gure animoa erregula dezakete. Julen Marin psikiatrak azaldu digu efektu \"egonkortzailea\" izan dezaketela, bereziki nahasmendu bipolarra tratatzeko eta eragina mantentzeko orduan. Bestalde, Iker Agirrezabal adituarekin material arraroen birziklatzea ere izan dugu aipagai: materialen hetereogeneitatea kontuan hartuta, birziklatzeko zailtasunak daude, eta sarritan enpresen interesen arabera egiten da.",
+    "media_title": "\"Telefono mugikorretako bateriek zaharkitze azeleratua gauez kargatzen ditugulako dute\"",
+    "media_desc": "Iker Lopetegik, Mondragon Unibertsitateko irakasleak, baterien zaharkitzeak izan ditu aztergai bere tesian. Mugikorren aldagaiak aztertuta ondorioztatu du, gauez eta denbora luzez kargatzen izanda bizkorrago zahartzen direla. Alegia, komenigarria da norberak behar duen neurrian kargatzea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1501,7 +1501,7 @@
     "page_id": 68,
     "media_title": "Tertulia con 4 de los presentantes de cortos de Zinegoak",
     "media_desc": "Zinegoak jaialdian beraien lanak erakutsiko dituzten 4 sortzailerekin hitzegin du Kultura.eus saioak: 'Skorpionika' aurkeztuko duen Petra Muguruza, 'Judoka' laburmetraiko arduraduna den Ander Iriarte, 'Incognita' lanaren egilearekin, Julen Gorosabelekin eta 'Donde estas' obrako Maria Morenorekin.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/b1013c6f-cad3-4dcd-95c6-55c8dc99e84d.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/9797dad6-1eb7-4c52-a2b5-834950b3d5cc.jpg"
   },
   "1477": {
     "rss": "https://guau.eus/series/1477/rss.xml",
@@ -1638,8 +1638,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Con Elvia, influencer de la naturaleza que engancha a los m\u00e1s j\u00f3venes",
-    "media_desc": "Elvia G\u00f3mez Troya, 13 urteko gazte naturalista (@elvialarastreadora  instagramen) naturaren mitoak desegiten laguntzen digu."
+    "media_title": "El impacto de los acontecimientos en la memoria",
+    "media_desc": "Zuen oroimenean murgiltzeko eskatuko dizuegu. Nolako argazki mentalak atera dizkiezue oroitzapen horiei? Ba al dago emozionalki biziak diren uneen oroitzapenik? Ziur baietz... Eta nolako argitasunez gogoratzen dituzue une horiek? Xehetasun asko daude? Gutxi? Pixka bat gehiago ezagutuko dugu gure memoriaren funtzionamendua: Euskal Herriko Unibertsitateko ikertzaile talde batek aztertu du COVID bidezko alarma-egoeraren deklarazioak memorian sortu zuen eragina. Inpaktua handia izan zen, ondorioztatu dutenez, baina adi, azterketak argi utzi baitu ez dela beharrezkoa ekitaldi bat ustekabekoa izatea memorian arrastoa utz dezan. Hau da, espero den zerbaitek, bere garaian alarma-egoeraren deklarazioak eta ondorengo konfinamenduak eragin handia izan dezake memorian, bat-batekoak diren beste gertaera batzuek bezala."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1973,7 +1973,7 @@
     "page": "Bizigiro eta gizartea",
     "page_id": 72,
     "title": "Tenemos que hablar",
-    "description": "Hitz egin behar dugu bizitza ulertzeko, hobea eraikitzeko. Hitzekin topo egitea premiazkoa da. Gauza eta pertsona arruntek garrantzia hartzen duten podcasta.",
+    "description": "Hitz egin behar dugu bizitza ulertzeko, bizitza hobea eraikitzeko. Hitzekin topo egitea premiazkoa da. Gauza eta pertsona arruntek garrantzia hartzen duten podcasta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8ff479d8-fe49-4cc0-ac8a-e9f224345cf6.jpg"
   },
@@ -2157,7 +2157,7 @@
     "page": "Bizigiro eta gizartea",
     "page_id": 72,
     "title": "Transintonia",
-    "description": "\"Transintonia\" transexualitatearen aniztasuna azaleratzeko podcasta da. Aitzole Araneta du gidari eta gizarteak gaiarekiko daukan ezjakitasuna asetzeko asmoz sortuta dago. ",
+    "description": "\"Transintonia\" transexualitatearen aniztasuna azaleratzeko podcasta da. Aitzole Araneta du gidari eta gizarteak gaiarekiko daukan ezjakitasuna asetzeko asmoz sortu da. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f7a3bed4-74b5-4ed4-b3cd-68e129fb943c.jpg"
   },
@@ -2175,7 +2175,7 @@
     "page": "Bizigiro eta gizartea",
     "page_id": 72,
     "title": "Urbex",
-    "description": "\"Urbex\" leku abandonatuetara eramaten zaituen bidaia-agentzia da. Bere gidariak Inko Martin eta Miriam Duque dira eta, entzungo duzunez, garrantzi berezia ematen diote bisitaldi gidatuetan zehar beraiekin doazen leku interesgarri hauetan aurkitzen diren historiari eta soinuei. Ibilbide berezi honetan izena ematea nahi duzu?",
+    "description": "\"Urbex\" leku abandonatuetara eramaten zaituen bidaia-agentzia da. Bere gidariak Inko Martin eta Miriam Duque dira eta, entzungo duzunez, garrantzi berezia ematen diote bisitaldi gidatuetan zehar beraiekin doazen leku interesgarri hauetan aurkitzen diren historiari eta soinuei. Ibilbide berezi honetan izena eman nahi duzu?",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d09c46ce-6136-44a9-b983-2dcf25928794.jpg"
   },
@@ -2675,7 +2675,7 @@
     "page": "Gaztea",
     "page_id": 70,
     "title": "Top Gaztea",
-    "description": "Gazteako sareetan zuen botoak jaso ostean, Top Gaztea zerrenda berria eguneratzen dute larunbatero  Oihan Vegak eta Oizeder Mayok 11:00etatik aurrera . Gainera, 688 60 50 50 whatsapp zenbakira idatzita, asteko kanta birala proposa dezakezu. Eskatu zure musika eta bozkatu zure artista gogokoenaren alde!",
+    "description": "Gazteako sareetan zuen botoak jaso ostean, Top Gaztea zerrenda berria eguneratzen dute larunbatero  Oihan Vegak eta Oizeder Mayok 11:00etatik aurrera. Gainera, 688 60 50 50 whatsapp zenbakira idatzita, asteko kanta birala proposa dezakezu. Eskatu zure musika eta bozkatu zure artista gogokoenaren alde!",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d93feb91-8929-4080-a5eb-63a1620636aa.jpg"
   },
@@ -3070,7 +3070,7 @@
   "2065": {
     "rss": "https://guau.eus/series/2065/rss.xml",
     "title": "Udatekoak",
-    "description": "\u00b4Zein da memorian arrasto sakonena utzi dizun iraganeko udaldia?\u00b4 Galdera hori egin diegu zortzi sortzaileri. Zortzi istorio ahaztezin kontatu dizkigute. Udako oroitzapenak dira. Udatekoak. Faktoria magazineko edukia.",
+    "description": "\"Zein da memorian arrasto sakonena utzi dizun iraganeko udaldia?\" Galdera hori egin diegu zortzi sortzaileri. Zortzi istorio ahaztezin kontatu dizkigute. Udako oroitzapenak dira. Udatekoak. Faktoria magazineko edukia.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2658034e-3cd6-4db6-8cc8-591b9a6da465.jpg"
   },
