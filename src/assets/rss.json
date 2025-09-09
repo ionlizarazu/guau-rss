@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Idurre Eskisabel: \"Guztiok euskaldun garen gizarte bat lortu behar da guztion hizkuntz eskubideak egiaz bete ahal izateko\"",
-    "media_desc": "Kontseiluaren idazkari nagusiaren hitzetan euskara berriro ere problematizatu eta politizatzeko garaia iritsi da hitzkuntz politiketan jauzia egiteko.",
+    "media_title": "Miren Elgarresta: \"Ez dugu zuzen ikusten Bakioko udalaren erabakia. Jai espazioak bete behar ditugu askatasunez eta segurtasunez\"",
+    "media_desc": "EMAKUNDEko zuzendariak baieztatu du aurten jaitsi egin direla sexu erasoak Gasteiz, Donostia eta Bilboko aste nagusietan, baina lanean jarraitu behar dela, hala ere.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -177,12 +177,12 @@
   "1671": {
     "rss": "https://guau.eus/series/1671/rss.xml",
     "title": "Zu etxerako",
-    "description": "Faktoria magazinean, zer esana duten pertsonak gonbidatzen ditugu egunero. Entzutea eta ikastea gustatzen zaigulako. Denak, etxerako modukoak. ",
+    "description": "Faktoria magazinean zer esana duten pertsonak gonbidatzen ditugu egunero. Entzutea eta ikastea gustatzen zaigulako. Denak, etxerako modukoak. ",
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Asier Illarramendi: \"Munduko geografia inoiz baino gehiago estudiatzen ari naiz\"",
-    "media_desc": "Realeko kapitain izan zena Mutrikun ari da bere kasara entrenatzen sasoiari eusteko. Dallasen (AEB) aritu ostean, atzerriko beste herrialderen batean jokatzeko talde bila ari da, eta atlasari errepaso on bat eman omen dio.",
+    "media_title": "Pello Reparaz:\"Zaila da kontraesanik gabe, ikuskizun erraldoi bat antolatzea\"",
+    "media_desc": "Palestinaren aldeko oihuak oholtzan enzuten ziren bitartean kamerinoetan Coca Colak edan zirela, eta Spotifyko zerrendak inoizko daturik onena eman zuela azaldu digu Pello Reparazek. Kontraesanak kontraesan, etorkizun hurbilean dituen asmoei buruz galdetuta, Argentinan kontzertu batzuk emango ditu orain, abenduan kantu oso berezi bat kaleratuko duela iragarri du eta ekainaren 20an, San Mames betetzeko ahalegina egingo dutela ere aurreratu du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -258,7 +258,7 @@
   "1374": {
     "rss": "https://guau.eus/series/1374/rss.xml",
     "title": "Zutunik",
-    "description": "\"Zutunik\" taberna zuloetako \"stand up\"a da. Euskal umoregile zenbaiten ekarpena da, Karkar ekimenarekin batera sortua. Antton Telleria gidari, umoregile zenbaiti tartea utzi zaie, beraiek umorezko emankizuna egiten duten artean zu,\u00a0taberna zuloan bezala senti zaitezen podcast formatuan. ",
+    "description": "\"Zutunik\" taberna zuloetako \"stand up\"a da. Euskal umoregile zenbaiten ekarpena da, Karkar ekimenarekin batera sortua. \n\nAntton Telleria gidari, umoregile zenbaiti tartea utzi zaie, beraiek umorezko emankizuna egiten duten artean, zu,\u00a0taberna zuloan bezala senti zaitezen podcast formatuan. ",
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
@@ -267,7 +267,7 @@
   "1366": {
     "rss": "https://guau.eus/series/1366/rss.xml",
     "title": "Yoko Ona",
-    "description": "\"Yoko Ona\" podcastean Olatz Salvador eta Lore Nekane Billelabeitia (Belako) musikariek beren bizipenak eta anekdotak aztertzen dituzte, Ainhoa Vitoriak gidatuta. Musikak egin dizkien ekarpenak eta bizi izandako egoera eta pasadizoak, modu atseginean aztertuz.",
+    "description": "\"Yoko Ona\" podcastean Olatz Salvador eta Lore Nekane Billelabeitia (Belako) musikariek beren bizipenak eta anekdotak aztertzen dituzte, Ainhoa Vitoriak gidatuta. Musikak egin dizkien ekarpenak eta bizi izandako egoera eta pasadizoak modu atseginean aztertuz.",
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
@@ -502,7 +502,7 @@
   "1689": {
     "rss": "https://guau.eus/series/1689/rss.xml",
     "title": "Yoko Ona ",
-    "description": "\"Yoko Ona\" podcastean Olatz Salvador eta Lore Nekane Billelabeitia (Belako) musikariek beren bizipenak eta anekdotak aztertzen dituzte, Ainhoa Vitoriak gidatuta. Musikak egin dizkien ekarpenak eta bizi izandako egoera eta pasadizoak, modu atseginean aztertuz.",
+    "description": "\"Yoko Ona\" podcastean Olatz Salvador eta Lore Nekane Billelabeitia (Belako) musikariek beren bizipenak eta anekdotak aztertzen dituzte, Ainhoa Vitoriak gidatuta. Musikak egin dizkien ekarpenak eta bizi izandako egoera eta pasadizoak modu atseginean aztertuz.",
     "media_type": "video",
     "page": "Gaztea",
     "page_id": 70,
@@ -547,14 +547,14 @@
   "1717": {
     "rss": "https://guau.eus/series/1717/rss.xml",
     "title": "Zulora",
-    "description": "Etxabeak, lonjak, lokalak, txokoak, bajerak, sotoak. Zuloak, finean. Horrelako tokietan biltzen gara egunero Euskal Herriko gazte asko. Bertan aurkitzen dugu espazioa gure kideekin egon eta gure kezkez, ezinez, pozez eta arazoez hitz egiteko.  \nAne Zuazubiskar da zulo hoietan sortzen denaren inguruko solasaldien gidari.  ",
+    "description": "Etxabeak, lonjak, lokalak, txokoak, bajerak, sotoak. Zuloak, finean. Horrelako tokietan biltzen gara egunero Euskal Herriko gazte asko. Bertan aurkitzen dugu espazioa gure kideekin egon eta gure kezkez, ezinez, pozez eta arazoez hitz egiteko.  \nAne Zuazubiskar da zulo horietan sortzen denaren inguruko solasaldien gidari.  ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f830fc7c-d2cd-4a58-8488-3139f843d1f7.jpg"
   },
   "1688": {
     "rss": "https://guau.eus/series/1688/rss.xml",
     "title": "Zutunik",
-    "description": "\"Zutunik\" taberna zuloetako \"stand up\"a da. Euskal umoregile zenbaiten ekarpena da, Karkar ekimenarekin batera sortua. \nAntton Telleria gidari, umoregile zenbaiti tartea utzi zaie, beraiek umorezko emankizuna egiten duten artean, zu, taberna zuloan bezala senti zaitezen podcast honen bidez.\n",
+    "description": "\"Zutunik\" taberna zuloetako \"stand up\"a da. Euskal umoregile zenbaiten ekarpena da, Karkar ekimenarekin batera sortua. \n\nAntton Telleria gidari, umoregile zenbaiti tartea utzi zaie, beraiek umorezko emankizuna egiten duten artean, zu, taberna zuloan bezala senti zaitezen podcast honen bidez.\n",
     "media_type": "video",
     "page": "Gaztea",
     "page_id": 70,
@@ -589,8 +589,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Bibide: m\u00fasica en euskera y wolof ",
-    "media_desc": "Bibide duela 5 urte jaio zen bikote musikala da, Arima Gernikako abeslari bizkaitarraren eta Brik Pako senegaldarraren eskutik. Distantzia geografikoa izan arren, Zubiberriak, Miresgarri eta Gueumulo abestien sorta bat argitaratu dute.",
+    "media_title": "Vivir sin prisa, vivir el campo",
+    "media_desc": "Presarik gabe bizi, landa bizi\n\nZelaiak hainbat hamarkadatako abandonua dakar; hala sentitzen dute Sergio Cobok, behi eta ahuntz artzain gazteak, Otsakainen, Nafarroako herri txiki batean, pastaz bazkatzen duen artalde baten esnearekin egindako gaztak egiten ditu. Sergiok hirusta ereiten du, atmosferako nitrogenoa finkatzen duen lekaduna, eta baita ray-grass ere, kontsumitzen duen graminea baita. Horrela, urearik bota gabe, zoruetarako ongarri naturala lortzen du. Ahuntzek 0 KM-KO belarra jaten dute, eta kontsumitzaileei gauza bera egiteko eskatzen die, horrela bakarrik bermatuko baita landetan bizitzea, sustraitzea eta, horrekin, soroak eta basoak babestea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1a6e81d1-fdcc-463e-88f2-ff0a10af4d28.png"
   },
   "1437": {
@@ -644,8 +644,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra del lunes 1 de septiembre",
-    "media_desc": "Jon MIkel Pradera, Martin Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valentin Carlos de Vergararekin Alavesak Atleticoren aurka lortutako berdinketa aztertu dugu.",
+    "media_title": "La c\u00e1tedra del lunes 8 de septiembre",
+    "media_desc": "Emilio Pascual, Mart\u00edn Herrea, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin Alavesi buruz hitz egin dugu, 2025-2026 denboraldiko lehen geldialdi honetan",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -1126,7 +1126,7 @@
   "1367": {
     "rss": "https://guau.eus/series/1367/rss.xml",
     "title": "Zaldi urdina",
-    "description": "Fikziozko podcast seriea. Tekno jai baten ostean 17 urteko gazte bat hil da. Zaldi urdina drogaren ondorioz nonbait. Polizia droga saltzailearen bila dabil, trapitxeroa Aingeru delakoan. Amets arrebak, ikerketa hasi du amona eta Ximon udaltzainarekin batera. Unai Iturriagak eta Igor Elortzak idatzita.",
+    "description": "Fikziozko podcast saila. Tekno jai baten ostean 17 urteko gazte bat hil da, zaldi urdina drogaren ondorioz nonbait. Polizia droga saltzailearen bila dabil, trapitxeroa Aingeru delakoan. Amets arrebak, ikerketa hasi du amona eta Ximon udaltzainarekin batera. Unai Iturriagak eta Igor Elortzak idatzita.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1253,8 +1253,8 @@
   },
   "1349": {
     "rss": "https://guau.eus/series/1349/rss.xml",
-    "title": "Sara eta Paul Transformerrak",
-    "description": "Sara eta Paul nerabezaroan murgildu dira. Bizi esperientzia berriak, erronka berriak, lagun berriak\u2026 Mario, brasildar mutiko beltza, eta Izar, gitarrista eta abeslaria, ezagutuko dituzte. Udako oporretan, elkartu eta musika taldea sortuko dute. Eta bidean, jakina, makina bat buruhauste eta komeria biziko dituzte. Amodio historioak tarteko. Aniztasun eta berdintasunean, beti. ",
+    "title": "Sara eta Paul: Transformerrak",
+    "description": "Sara eta Paul nerabezaroan murgildu dira. Bizi esperientzia berriak, erronka berriak, lagun berriak\u2026 Mario, brasildar mutiko beltza, eta Izar, gitarra jole eta abeslaria, ezagutuko dituzte. Udako oporretan, elkartu eta musika taldea sortuko dute. Eta bidean, jakina, makina bat buruhauste eta komeria biziko dituzte. Amodio istorioak tarteko. Aniztasun eta berdintasunean, beti. ",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -1285,8 +1285,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Hau ez da sexuari buruzko tertulia bat",
-    "media_desc": "Ostegunetan sexuaz hitz egingo dugu Faktorian. Sexuaz, sexualitateaz, gorputzez eta harremanez. Generoaz eta genero-eskubideez. Esaten direnez eta ez direnez. Garenaz. Aurrez aurre jarri ditugu Aitziber Argote Emaize zentroko psikologoa eta Amaiur Macias aktore, antzerkigile eta irakaslea. Lehen solasaldian sexua ohetik ateratzearen eta gorputzen aldeko aldarria egin dute eta Sexu Osasunaren Mundu egunaz hausnartu dute.",
+    "media_title": "Smart Eye: plastikoa sailkatzen duen robota",
+    "media_desc": "Prozesu industrialetan birziklapena bultzatu dezakeen robota ezagutu dugu Teknikerren. Ander Iriondo ikerlariak erakutsi digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1341,8 +1341,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "Tenperaturaren igoerak gure osasunean duen eragina aztertu dugu",
-    "media_desc": "Elisa Sainz de Murieta, EHUko eta BC3ko ikertzailea Europa mailan egiten ari den azterketa batean parte hartzen ari da eta zertan ari diren kontatu digu. Koldo Cambra osasun publiko eta adikzioen zuzendari ordeari berriz berotik babesteko aholkuak eskatu dizkiogu."
+    "media_title": "Arnasten dugun airearen kalitatea ona da, baina  kutsaduraren eragina aztertzen egindako urteek erakutsi dute oraindik zer egina badugula",
+    "media_desc": "Estibaliz Saez de Camara eta Eduardo De la Torre, EHUko irakasleak dira, ingeniaritza eskolako irakasleak, eta atmosfera ikertzen duen taldeko partaide ere badira. Kutsadura eragileez, eta horiek gure airearen kalitatean bezala gure osasunean duten eraginaz aritu gara beraiekin. Eta O\u00f1atin azken ikasturtean airearen kalitatea neurtzeko ikastetxeetan egindako lanketaren berri ere jaso dugu, Izaro Elorza alkatearekin hitz eginda."
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1638,8 +1638,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "El impacto de los acontecimientos en la memoria",
-    "media_desc": "Zuen oroimenean murgiltzeko eskatuko dizuegu. Nolako argazki mentalak atera dizkiezue oroitzapen horiei? Ba al dago emozionalki biziak diren uneen oroitzapenik? Ziur baietz... Eta nolako argitasunez gogoratzen dituzue une horiek? Xehetasun asko daude? Gutxi? Pixka bat gehiago ezagutuko dugu gure memoriaren funtzionamendua: Euskal Herriko Unibertsitateko ikertzaile talde batek aztertu du COVID bidezko alarma-egoeraren deklarazioak memorian sortu zuen eragina. Inpaktua handia izan zen, ondorioztatu dutenez, baina adi, azterketak argi utzi baitu ez dela beharrezkoa ekitaldi bat ustekabekoa izatea memorian arrastoa utz dezan. Hau da, espero den zerbaitek, bere garaian alarma-egoeraren deklarazioak eta ondorengo konfinamenduak eragin handia izan dezake memorian, bat-batekoak diren beste gertaera batzuek bezala."
+    "media_title": "La cuesta de septiembre en la cesta de la compra",
+    "media_desc": "Iraila da itzulien hilabete nagusia. Oporretatik etxera itzultzea, eskolara itzultzea, lanera, errutinara itzultzea. Kontua da erosketa saskia ere badatorrela. Izan ere, aitor dezagun, oporretan gaudenean, gure elikadura aldatu egiten da, eta erosteari eta prestatzeari ere uzten diogu, agian dena eginda emango digutelako. Baina, esan bezala, itzulera-eragiketak ohiko merkatura itzultzea ere badakar, ohiko erosketetara, eta... sorpresa! prezioen aldaketekin egiten dugu topo. Aldaketa horiek goranzkoa izan ohi dira. 'Despensa' operazioa abian da eta kartera irekitzea ere bai: supermerkatuetako elikagai gehienak duela urtebete baino garestiagoak dira: INEk KPI kalkulatzeko kontuan hartzen dituen 52 elikagaietatik 44k prezioa igo dute. Garestitzearen top 3an txokolatea, kafea eta arrautzak daude. Gaur Radio Vitorian gurekin erosketak egitera gonbidatzen zaituztegu."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2166,7 +2166,7 @@
     "page": "Gaztea",
     "page_id": 70,
     "title": "Zulora",
-    "description": "Etxabeak, lonjak, lokalak, txokoak, bajerak, sotoak. Zuloak, finean. Horrelako tokietan biltzen gara egunero Euskal Herriko gazte asko. Bertan aurkitzen dugu espazioa gure kideekin egon eta gure kezkez, ezinez, pozez eta arazoez hitz egiteko. ",
+    "description": "Etxabeak, lonjak, lokalak, txokoak, bajerak, sotoak. Zuloak, finean. Horrelako tokietan biltzen gara egunero Euskal Herriko gazte asko. Bertan aurkitzen dugu espazioa gure kideekin egon eta gure kezkez, ezinez, pozez eta arazoez hitz egiteko.  \nAne Zuazubiskar da zulo horietan sortzen denaren inguruko solasaldien gidari.  ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f830fc7c-d2cd-4a58-8488-3139f843d1f7.jpg"
   },
@@ -3147,5 +3147,21 @@
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9eb13134-771c-4fe0-bbe2-ffbfc68bcb1f.jpg",
     "media_title": "1. BasQ - Estrategia Basque Quantum: La revoluci\u00f3n cu\u00e1ntica llega a Euskadi",
     "media_desc": "IBM Quantum System Twoo ordenagailu kuantikoa da euskal erakundeek Euskadi inpaktu soziala duen ikerketa-gune bihurtzeko eta teknologia kuantikoetan talentua erakartzeko ezarri duten estrategiaren oinarrizko zutabea. Javier Aizpurua, BasQ-eko zuzendari zientifikoa eta DIPCko ikertzailea, Juan Ignacio P\u00e9rez Iglesias, Zientzia, Unibertsitate eta Berrikuntzako sailburua, eta Eduardo S\u00e1enz de Cabez\u00f3nek parte hartu dute Misi\u00f3n Quantica podcastaren lehen atalean, unibertso liluragarri hau aztertzen dugun podcastean."
+  },
+  "2106": {
+    "rss": "https://guau.eus/series/2106/rss.xml",
+    "title": "Cococonsejos",
+    "description": "Elena Garc\u00eda Ozores psikologoak bizitzari jarrera positibo eta errealistarekin aurre egiteko aholku praktikoak proposatzen ditu. Emozioak onartzearen eta muga argiak ezartzearen garrantzia nabarmentzen digu. Autonomia indartuko duten errutina sinpleak iradokitzen ditu, irizpiderik gabeko behaketa, pentsamendu katastrofikoen berregituraketa eta babes sozialaren bilaketa azpimarratzen ditu. Tonu hurbil batean, erresilientzia lantzeko eta erronken aurrean ikuspegi malguagoa izateko egunerokoan aplika daitezkeen tresnak eskaintzen dizkigu.\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/5fb57a7d-6b34-4747-83b2-92540c01cef5.jpg",
+    "media_title": " La salud mental juvenil redefine la curva de la felicidad",
+    "media_desc": "Gazteen osasun mentalak okerrera egiten du eta zoriontasunaren kurba eraldatzen du. Ongizatearen kurbaren eredua aldatu egin da urteekin; orain, bizitzako arazo handienak gaztaroan gertatzen dira, eta ez adin ertainean. Dartmouth Collegeak AEBn egindako ikerketa baten ondorioa da, eta atentzioa eman digu.\nHorrek zera galdetzera garamatza: zer gertatzen ari da gazteak zoriontsu ez izateko, zerk kezkatzen ditu?"
+  },
+  "2035": {
+    "rss": "https://guau.eus/series/2035/rss.xml",
+    "title": "Objetivo Pitbull",
+    "description": "Carlos P\u00e9rez Uralde IV. Irrati-antzerki Lehiaketaren gidoi irabazlea\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/10cf2871-7b2c-45b1-8395-a8b7fadc015a.jpg"
   }
 }
