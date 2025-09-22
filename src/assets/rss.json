@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Jaione Lopez: \"Fedea eta justizia sozialarekiko grinagatik joan naiz misiotan\"",
-    "media_desc": "Filipinetan bi urte egin ditu misiolari Elorrioko irakasle gazteak. Kenyan egin zituen pare bat egonaldi aurretik. Etxera itzuli berritan, kolkoan ekarri dituen irakaspenez aritu zaigu.",
+    "media_title": "Guillermo Zubiaga:\"Joanes ez da autobiografikoa baina niretik asko du\"",
+    "media_desc": "\"Joanes edo euskal baleazalea\"ren abenturen komikigilea da Guillermo Zubiaga. Dagoeneko seigarren atala argitaratu du, eta New Yorketik Euskal Herrirako bisita aprobetxatu dugu berarekin hitz egiteko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -1296,8 +1296,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Itzi, Flotillako kidea: 'Suzko bola bat erori da zerutik, Israeleke eraso egin dio flotillari modu zehatzean'",
-    "media_desc": "Flotillan dagoen Euskal Herriko ordezkaritzaren arabera, 'Israelek flotilla dagoen tokian jarri nahi du fokoa', Gazan egin nahi duten operazioa ezkutatzeko.",
+    "media_title": "Edurne Ormazabal: \"Erronka gizarteko talde guztietara iristea dugu\"",
+    "media_desc": "Tabakalerak 10 urte bete dituen honetan, Edurne Ormazabal zuzendariak adierazi du erronkatzat dutela kultura gizarteko talde guztietara heltzea. Era beran, jakinarazi du Eureka Zientzia Museoaren alternatibaren lanak urrian hasi eta datorren urte amaieran irekitzea dela asmoa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -2094,8 +2094,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Lo bakarrik ala norbaitekin?",
-    "media_desc": "Ondo deskantsatzeko zer da hobeto, bakarrik lo egitea ala norbaitekin lo egitea? Aiora Enparantza eta Jone Bengoa ez dira ados jartzen oraingoan ere ez.",
+    "media_title": "Lo, bakarrik ala konpainian?",
+    "media_desc": "Ondo deskantsatzeko, zer da hobea, bakarrik lo egitea ala konpainian? Beste behin, Aiora Enparantza eta Jone Bengoa ez dira ados jarri.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -3237,5 +3237,14 @@
     "media_title": "Inaugurazio eguna",
     "media_desc": "'27 noches' filmak zabaldu du Zinemaldia. Lara Izagirrek eta Bego\u00f1a del Tesok, Sail Ofizialeko film guztiak eta beste sailetako hainbat aletu dituzte: `Bad apples\u00b4,'Nouvelle vague\u00b4, Esther Garciaren Donostia Saria eta Lurdes Iriondori buruzko dokumentala, `Lurdes Iriondo, es gera alferrik pasako`.",
     "media_type": "audio"
+  },
+  "2109": {
+    "rss": "https://guau.eus/series/2109/rss.xml",
+    "title": "Hondar ahoak soinu-banda",
+    "description": "Koldo Almandozek zuzenduta, \u201cHondar ahoak\u201d telesaila 2021ean ekoitzi zuen Txintxua Films-ek EITB Mediarentzat. Aitor Etxebarria musikariak sortu zuen, berariaz, telesailerako soinu-banda eta GUAUn osorik entzun dezakezu. ",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2d9774b1-b3f9-4793-9971-063c4713781d.jpg",
+    "media_title": "1. Paisaiak ",
+    "media_desc": " "
   }
 }
