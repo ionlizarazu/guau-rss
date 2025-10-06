@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Elixabete Etxanobe: \"Ez dago inongo presarik Urdaibaiko erabakia hartzeko\"",
-    "media_desc": "Bizkaiko ahaldun nagusiak adierazi du entzuketa prozesua ondo osatuta eta bidergarritasunaren ondorioak eduki ostean hartu beharko duela erabakia Fundazioak",
+    "media_title": "Eneko Andueza: \"Euskararen dekretua aldatzeak epaitegietan errekurtso gehiago ekarriko lituzke\"",
+    "media_desc": "Enplegu publikoan hizkuntza blindatzeko EAJ eta EHBilduk Legebiltzarrean aurkeztuko dituzten ekimenen kontra bozkatuko dutela berretsi du PSEko idazkari nagusiak",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Laura Gonz\u00e1lez de Batekin",
-    "media_desc": "Laura Gonz\u00e1lezekin hitz egin dugu. BATEKIN Arabako Boluntariotza eta Gizarte Partaidetzarako Agentziako kidea da. Azken 10 urteetan, BATEKINek boluntariotza egin nahi duten pertsonak eta boluntarioak behar dituzten elkarteak konektatu ditu.",
+    "media_title": "Javier Hurtado, secretario general de los socialistas alaveses y Consejero de Turismo, Comercio y Consumo",
+    "media_desc": "Javier Hurtado, Arabako sozialisten idazkari nagusia eta Turismo, Merkataritza eta Kontsumo sailburua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ez da ahaztu historia ",
-    "media_desc": "Txiki eta Otaegiren azken orduak gureganaino ekarri dituztenen ahotsak bildu ditu Faktoriak Frankoren azken fusilamenduen 50. urteurrenean",
+    "media_title": "Gehiegizko burokratizazioaz",
+    "media_desc": "Gero eta gehiago dira gehiegizko burokratizazioaz hainbat sektoretatik datozen kezka eta kexak. Horietako batzuk bildu ditugu, eta  Sabino San Vicente, Herritarrak Hartzeko eta Administrazio Berrikuntzarako zuzendariak azaldu digu Jaurlaritza nola ari den lanean burokrazia maila hori jaisteko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -567,8 +567,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Rauxa: Asier eta Agina",
-    "media_desc": "Asier eta Agina, gure bikote berria ezagutu dugu Rauxan. Trapu zaharrak mahai gainena jarrita, euren intimitateak aireratu dituzte.",
+    "media_title": "Maritxu Kajoi dotore eta jasangarria",
+    "media_desc": "Emaus Fundazioak Maritxu Kajoi modu jasangarriago batean bizitzeko ekimena martxan jarri du, bigarren eskuko jantzien azoka bat antolatuta. Arrasateko jai handirako jantzi apropos aukeratu eta prezio erakargarrietan jartzeaz gain, Maialen Uranga irudiaren aholkularitza ere jarri dute bezeroen eskura.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -814,7 +814,9 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/00e79b63-6226-46da-a4eb-f7edf9dcc9b1.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/00e79b63-6226-46da-a4eb-f7edf9dcc9b1.jpg",
+    "media_title": "Nola lehertzen da gerra bat? Stefan Zweig",
+    "media_desc": "Bi mundu gerrak lehertzeko agintariek, intelektualek eta kazetariek jokatu zuten papera agerian geratzen da Stefan Zweig idazle eta biografo austriarraren lanetan. XX. mende hasierako Europa odoltsua, berak \"Atzoko mundua\" deitzen duen hori, hain ezberdina al da gaurkoarekiko? Juan Aldaz soziologoarekin aztertu dugu"
   },
   "1781": {
     "rss": "https://guau.eus/series/1781/rss.xml",
@@ -1407,8 +1409,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Euskal industria eta espaziorako produkzioa",
-    "media_desc": "Tolosako Paper Eskolako Mentxu Aiertzarekin hasi dugu saioa, esparatraputik papera nola egiten den azalduz. Ondoren, gogoeta sakon batean murgildu gara: nolakoa da euskal industria eta espaziorako produkzioa? Solasaldia izan dugu Tecnaliako Garbi\u00f1e Atxagarekin, Teknikerreko Iban Arriolarekin eta BRTAko Garbi\u00f1e Manterolarekin.\n\n"
+    "media_title": "Inmunoterapia minbiziari aurre egiteko",
+    "media_desc": "CIC-bioGUNEko Jasone Auzmendi Iriarte biokimikariarekin aritu gara. Minbizia eta gure inmunitate-sistema nola lotzen diren azaldu digu eta inmunoterapiaren gaurko egoera. "
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1638,8 +1640,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "La juventud queer",
-    "media_desc": "Queer gazteek hainbat sexu-orientaziorekin eta genero-identitaterekin identifikatzen diren gazteen belaunaldiari egiten diote erreferentzia. Gasteizen egin den proiektu apal, txiki, baina garrantzitsu baten berri ematen dugu. Proiektuko gazteek Ania S\u00e1enz de Buruaga ilustratzailearen laguntzarekin sortutako kamisetak dira. Proiektuak auzoko queer gazteek erresistentzia-kutxa bat sortzeko dituzten beharrak asetzea du helburu, hala nola: binder-ak (bularra konprimatzeko eta bularren itxura disimulatzeko barruko jantziak), bidaiak, bakoitzaren generora egokitutako arropa, liburuak... S eta XXL tailen arteko kamisetak 10 euroan jarri dira salgai. Gazteen arteko lankidetzatik abiatzen diren proiektuez ari gara, lgtbiq kolektiboaren behar zehatzei erantzutera datozenez; agian, Gasteizen eta Araban oraindik ez dira betetzen edo zailtasunak daude. Gazteen arteko beharrizan, konplikazio, laguntza eta aktibismoaz hitz egingo dugu Konbinatu honetan..."
+    "media_title": "La desafecci\u00f3n pol\u00edtica",
+    "media_desc": "Hamar urte pasatxoan, Espainiako gizartea \u2014 eta beste era batera Europakoa \u2014 suminduratik etsipenera igaro da. Desafekzio politikoa, 2011n plazak betez haserre eta protesta gisa adierazi zena, gaur egun etsipen sentsazio orokortu bihurtu da."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2345,8 +2347,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Alav\u00e9s - Elche, este domingo a las 13:45",
-    "media_desc": ""
+    "media_title": "Promoci\u00f3n la C\u00e1tedra",
+    "media_desc": null
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
