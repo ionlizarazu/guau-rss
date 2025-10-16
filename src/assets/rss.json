@@ -86,7 +86,7 @@
   "1301": {
     "rss": "https://guau.eus/series/1301/rss.xml",
     "title": "Holobiontea",
-    "description": "Zurriolako hondartzan izenik ez duen espezie bateko izakia azaldu da hilda, sarean kateatua. \n\nKomunitate zientifikoaren arreta piztu du aurkikuntzak eta Eusko Jaurlaritzak, Idurre Aldazabal, EHUko ikerlariari eta bere taldeari eskatu dio ikerketa abiatzeko. Sarean ordea, ikerlariak erori dira. Nazioarteko arreta sortzen du gertaerak.\n\nThriller psikologikoa.",
+    "description": "Zurriolako hondartzan, izenik ez duen espezie bateko izakia azaldu da hilda, sarean kateatua. \n\nKomunitate zientifikoaren arreta piztu du aurkikuntzak eta Eusko Jaurlaritzak, Idurre Aldazabal, EHUko ikerlariari eta bere taldeari eskatu dio ikerketa abiatzeko. Sarean ordea, ikerlariak erori dira. Nazioarteko arreta sortzen du gertaerak.\n\nThriller psikologikoa.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -128,8 +128,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bingen Zupiria: \"Ez dut ezer ezkutatu nahi eta ez dut inor estigmatizatu nahi\"",
-    "media_desc": "Aurtengo segurtasun arazo haundiena 10 hilketak izan direla dio sailburuak eta ez direla izan inmigrazioarekin lotutako kasuak. Bernedoko salaketak 17ra igo direla ere jakinarazi du",
+    "media_title": "Eider Mendoza: \"Pasaiako portuarena adostuta zegoen PSOErekin Espainian\"",
+    "media_desc": "Portuari interes orokorreko izendapena kentzeko eskariari buruz Jose Ignacio Asensio bere gobernukide sozilistak egindako kritikei erantzun die Gipuzkoako Diputatu nagusiak: \"Berak esan beharko du zergaitik Madrilen adostutakoa ez zuen ezagutzen edo, ezagututa ere, jarrera hori finkatu duten\"",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Carlos Egea, Unidad del sue\u00f1o",
-    "media_desc": "Carlos Egea elkarrizketatu dugu, Loaren aldeko Aliantzaren koordinatzailea, Arabako ESIko pneumologiako eta loaren unitateko burua eta Loaren Medikuntzako Elkarteen Espainiako Federazioko presidentea",
+    "media_title": "Jone Berrioz\u00e1bal, presidenta del ABB",
+    "media_desc": "Gaur Gurekin Jone Berriozabal, Araba buru batzarreko presidentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Dror Mishani: \"Biolentziari biolentziaz erantzuteak beti dakar tragedia haundiagoa\"",
-    "media_desc": "Hamasek Israelen erasoa egin zuenetik bi urtera mintzatu gara idazle israeldarrarekin, bahituen senideekin eta bertan bizi diren euskaldunekin. Ordutik Netanyahuren gobernuak izan duen estrategiaz eta orain dauden bake aukerez analisia gehitu digute Mikel Reparazek eta Arantxa Elizegik",
+    "media_title": "Zer ekarriko du Israel eta Hamasen arteko akordioak?",
+    "media_desc": "Egipton bi aldeek lortutako adostasunari ongietorria eman diote Israelen eta Palestinan ez ezik, baita nazioartean ere. Mikel Aramendi nazioarteko adituak eman dizkigu akordioari buruzko gakoak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -600,8 +600,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Feliz viernes...\u00a1ENTZUN, euskaraldia en Octubre!",
-    "media_desc": "Feliz Viernes aurkezten du Aritz Agirrek. Gaurkotasunari eskainitako beste begirada bat, \"Boulevard\" albiste saioaren baitan. Eguneko albisteei kontrapuntua jartzeko tartea, Aritz Agirreren eskutik, ostiralero 09:45ean zuzenean, Boulevard saioko asteko azken tertulia bere punturik gorenean bukatzeko... lehenago aurrerapena 07:00etako albistegiko sarreran, eta ondoren entzungai GUAU plataforman edo zeure podcast gune egokienean.",
+    "media_title": "Mariano Aguirre: 'Ha habido premiados muy controvertidos'",
+    "media_desc": "Gaur jakinaraziko da nori emango dioten aurtengo Bakearen Nobel saria. Erabaki hori hartu behar duen Batzordeak nola lan egiten duen jakin nahi izan dugu, eta horretarako Mariano Aguirre izan dugu gure mikrofonoetan; bera CIDOBeko ikerlari ez egoiliarra da eta Deustuko Unibertsitateko Giza Eskubideen institutuko aholkularia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
   "1447": {
@@ -1287,8 +1287,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bizitza 50\u00baC-tan",
-    "media_desc": "Zer egingo zenuke 50\u00baC-tan? Gai izango al zinateke oinez pasieran ibiltzeko? Eta logika jolas bat egiteko? Orduerdi muturreko berotan pasatzeko esperimentua egin dute Parisen. Herritarrak 50\u00baC-ko tenperatura eta %35eko hezetasuna duen ganbera klimatikoan sartu dituzte, orduerdiz, ataza zehatzak egiera. Berotze globalak lekarkeena larruan bizitzeko aukera eman diete, kontzientzietan eragiteko asmoz. Egitasmoaz hitz egin dugu 'Bigarren Laurdena' tartean Maria Loro\u00f1o BC3ko ikerlariarekin, Maria Navarro DIPCko ikerlariarekin eta Markel Pe\u00f1alba Mondragon Unibertsitateko irakasle eta ikerlariarekin.",
+    "media_title": "Unai Fernandez de Beto\u00f1o: \"Etxebizitzaren auzia hamarkada batean bidera liteke\"",
+    "media_desc": "\"Etxearen korapiloa nola askatu\" liburua aurkeztu du Faktorian Unai Fernandez de Beto\u00f1o EHUko irakasleak. Etxebizitza-politika justuagoa lortzeko bideorri \"pragmatiko eta egingarria\" dela nabarmendu du, diskurtso onberetatik urrunduta. Europa iparraldeko ereduak inportatuta, alokairu sozialeko etxe-parke publiko unibertsala aldarrikatu du, etxebizitzen prezioan esku hartzea eta \"etengabe eraikitzearen\" logika berrikustea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -3191,8 +3191,8 @@
   },
   "1854": {
     "rss": "https://guau.eus/series/1854/rss.xml",
-    "media_title": "5. Ansiedad y depresi\u00f3n",
-    "media_desc": "Antsietatea eta depresioa dira gaur egun osasun mentaleko arazo nagusiak, azken urteotan egin dira ikusgarriago. Edurne Pasaban mendizalearekin egin dugu gogoeta \u201cLas voces del silencio\u201d podcastaren atal honetan. Hain zuzen ere, hamalau zortzimilakoak igotzea lortu zuen aurreneko emakumeak, mendi garaienak igotzen ari zen bitartean egin behar izan zion aurre depresioari.",
+    "media_title": "6. Autolesiones y suicidio",
+    "media_desc": "Auto-lesionatzea, nork bere burua zauritzea, pertsonak bakardadean bizi duen sufrimendu emozionalari irtenbidea jartzeko modua izaten da sarri. \u201cLas voces del silencio\" podcastaren atal honetan Alberto Ruiz de Alegriarekin aztertu dugu gaia. Luzaro lan egin du psikologo gisa eta bere eskarmentua baliatuko dugu irtenbide bila.",
     "media_type": "video",
     "title": "Las voces del silencio",
     "description": "\"Las voces del Silencio\u201d, Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
