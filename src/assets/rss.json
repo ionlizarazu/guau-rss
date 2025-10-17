@@ -90,7 +90,7 @@
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/23b3883c-4266-4866-8f11-270fc9e43f29.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/e1350a90-d7c2-4851-829f-c5dbcf3c00ed.jpg"
   },
   "1678": {
     "rss": "https://guau.eus/series/1678/rss.xml",
@@ -150,8 +150,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Jone Berrioz\u00e1bal, presidenta del ABB",
-    "media_desc": "Gaur Gurekin Jone Berriozabal, Araba buru batzarreko presidentea",
+    "media_title": "Rocio Vitero, portavoz de EH Bildu en el ayuntamiento de Gasteiz",
+    "media_desc": "Rocio Vitero, EH Bilduren bozeramailea Gasteizko Udalean",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -161,8 +161,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zer ekarriko du Israel eta Hamasen arteko akordioak?",
-    "media_desc": "Egipton bi aldeek lortutako adostasunari ongietorria eman diote Israelen eta Palestinan ez ezik, baita nazioartean ere. Mikel Aramendi nazioarteko adituak eman dizkigu akordioari buruzko gakoak.",
+    "media_title": "Esku dirua edo txartela, zer gomendatzen du Europako Bankuak?",
+    "media_desc": "Europako Banku Zentralak esku dirutan 70 eta 100 euro artean edukitzea gomendatzen du, bat batean sortu litekeen egoera ezegonkor bati 72 orduz erantzun ahal izateko. Txostena xehetu eta herritarren iritzia jaso dugu, baita adituekin hitz egin ere.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -181,8 +181,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Estefi Etxebeste: \"Txikitan ez nuen inoiz pentsatuko goi mailako kirolaria izango nintzenik\"",
-    "media_desc": "Abuztuan 100 Kiloko Koparekin Idoia Etxeberria harrijasotzaile ohiak jarritako marka hautsi du Estefi Etxebeste iturendarrak. Urte gutxi behar izan ditu horretarako, eta oraindik ere buruan dituen helburuei buruz aritu da.",
+    "media_title": "Maia Azpiazu: \"Ezagutzen ez ziren bi taxon aurkitu ditugu A\u00f1anako Gatz Haranean\"",
+    "media_desc": "Euskal Herriko Unibertsitateko ikerlaria da Maia Azpiazu, eta MikroIker taldeko kidea ere bai. A\u00f1anako Gatz Haranaren azterketa mikrobiologikoa egin du doktorego tesian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -475,8 +475,8 @@
     "title": "Benetan zabiz? ",
     "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana.",
     "media_type": "video",
-    "media_title": "2. Julen eta Antton Telleria: Anaitasunak dakarrena ",
-    "media_desc": "Denboraldiko lehen gonbidatuak: Telleria anaiak! Julen eta Anttonek, txikitatik gaur egunera arte izan duten harremanaz hitz egin digute \u201cBenetan zabiz?\u201d bideopodcastean. Haien anaitasuna etxetik, lantokira ere eraman dute. Nola daramate egoera hori? Zer moduz daude? Nork jotzen zuen nor? Asko haserretzen dira? Zein anaiak eman zion besteari neskekin ligatzeko gomendioa?\nArrosali kolaboratzaileak eztabaidarako tartea zabaldu die, hiru minututan bakoitzak bere postura defendatu behar izan du: harreman irekien alde ala kontra? Umeak ezkontzetan bai edo ez?\nEz galdu atala!\n",
+    "media_title": "3. Zuri\u00f1e Hidalgo, neska* ekintzaileak",
+    "media_desc": "Lau urtez musika sortu gabe egon eta gero Zuri\u00f1e Hidalgo bueltan da! Kala Naiz musika proiektuaz, \u201cEnraizadas\u201d emakumeentzako* erretiro espiritualez eta feminismoari ustezko \u201cetekina\u201d ateratzeaz ere aritu dira hiru neskak \u201cBenetan zabiz?\u201d podcastaren atal honetan.\n \nAutotunea \u201cez zaiola gustatzen\u201d eta kanta berriak ateratzearena \u201clasaitasunez\u201d hartzen ari dela azaldu die Zuri\u00f1ek. Ekintzailetzaren gaia hartu dute eta negozioak egiteko garaian emakumeek topa ditzaketen mugetaz. Benetan zabiz galduko duzula?",
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg"
@@ -567,8 +567,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Hau ere gertatu zen: Backstreet Boys Donostian",
-    "media_desc": null,
+    "media_title": "\"A badakit!\" Danele Sarriugarterekin ",
+    "media_desc": "Plana hauxe izaten da: kaskoak jarri, eta guk propio aukeratutako kantuak bata bestearen atzetik asmatzea. Edo behintzat, asmatzen saiatzea. Tartearen izena da A BADAKIT! , eta Danele Sarriugarte idazlearekin egin dugu aste honetako hitzordua. Xabi Larrazabalek jarri dizkio kantuak, Zaldibarren.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -1287,8 +1287,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Unai Fernandez de Beto\u00f1o: \"Etxebizitzaren auzia hamarkada batean bidera liteke\"",
-    "media_desc": "\"Etxearen korapiloa nola askatu\" liburua aurkeztu du Faktorian Unai Fernandez de Beto\u00f1o EHUko irakasleak. Etxebizitza-politika justuagoa lortzeko bideorri \"pragmatiko eta egingarria\" dela nabarmendu du, diskurtso onberetatik urrunduta. Europa iparraldeko ereduak inportatuta, alokairu sozialeko etxe-parke publiko unibertsala aldarrikatu du, etxebizitzen prezioan esku hartzea eta \"etengabe eraikitzearen\" logika berrikustea.",
+    "media_title": "Miguel Okina; artea Bergarako etxeetara ekarri zuen gizona",
+    "media_desc": "Duela 4 urte hil zen Miguel Okina, eta horren ondoren idatzi du Miguel Angel Elkoroberezibarrek hari eskainitako liburua: \"Migel Okina, Beragarako margolaria\". Bertan bildutakoak azaldu dizkigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1451,8 +1451,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "'Las familias de acogida salvan vidas' en Di\u00e1logos sociales ",
-    "media_desc": "Gaur egun, Araban 86 familia-harrera daude... baina ez dira nahikoak, beti gehiago behar dira. Gaur egun, Elkarrizketa sozialetan elkartasunaren eta aberastasun pertsonalaren mundu honetan murgiltzen gara, non ezagutzen dutena baino bizitza zailagoa behar duten familiek eta adingabeek parte hartzen duten. Familia-harrerako programaz jordun gara, hau da, babesik gabeko adingabeei denbora eta maitasuna eskainiko dieten familiak bilatzen dituen programaz.\n"
+    "media_title": "Los concejos son un patrimonio a proteger, en Di\u00e1logos Forales",
+    "media_desc": "Biltzen ez duen baina saneamenduaren, horniduraren, kaleen eta mendien eskumenak dituen administrazio bakarra dira. Kontzejuak dira \"urbanitek\" ezagutzen ez duten erakunde hori, baina demokrazia zuzenaren oinarri direnak. Datorren azaroaren 23an, 30000 pertsona daude deituta Arabako kontzejuetarako hauteskundeetan parte hartzera, 333 dira toki entitateak. Gaur, kontzejuak, Finantzen Euskal Kontseiluari buruzko iruzkin bat duten foru elkarrizketetan.\n"
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -2080,7 +2080,9 @@
     "title": "La ruta slow en Radio Euskadi",
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/08f7c668-45c9-44fe-b55c-821ba162f03e.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/08f7c668-45c9-44fe-b55c-821ba162f03e.jpg",
+    "media_title": "Ecos de SS Gastronomika y proyecto \"De la Tierra al Plato\" en Navarra",
+    "media_desc": ""
   },
   "1456": {
     "rss": "https://guau.eus/series/1456/rss.xml",
@@ -2089,7 +2091,9 @@
     "title": "8 d\u00edas 7 noches",
     "description": "Bidaiatzeko helmugarik onenak, Euskadin eta munduan. I\u00f1igo Lejarzak egingo dizu bidaia-plana.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/9bf57a70-1323-4a4c-abef-37bb4bd557ed.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/9bf57a70-1323-4a4c-abef-37bb4bd557ed.jpg",
+    "media_title": "Volcanes tur\u00edsticos. Cuidades de Holanda. Resineros en Segovia",
+    "media_desc": "Sumendien jarduerak erakarpen turistikoa du Joseba Urquiolarekin topo egiten dugun leku askotan. Holandatik datozen hilabeteetan Rotterdam, Utrecht eta Eindhoven hiriak bisitatzeko arrazoiak helarazten dizkigute. I\u00f1aki Makazagarekin Navas de Oro bisitatu genuen Segovian, non erretxina Gaztelako zonalde honen motor ekonomikoa izan zen."
   },
   "1393": {
     "rss": "https://guau.eus/series/1393/rss.xml",
@@ -2109,7 +2113,9 @@
     "title": "Aventureros",
     "description": "Benetako abenturazaleak ezagutuko ditugun programa. Inguru zoragarriak, jende zoragarria edo ohitura bereziak aurkituko ditugu.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/0e8e0160-c04e-4dfd-8e7e-307aaa6f1b57.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/0e8e0160-c04e-4dfd-8e7e-307aaa6f1b57.jpg",
+    "media_title": "Noruega , Fronteras del mundo y Gambia en Aventureros ",
+    "media_desc": "Duela hamar urte, gure lehen gonbidatuek norabidea aldatzea erabaki zuten eta Arabako herri batetik Norvegiara abiatu ziren, bost hilabeteko bidai batean. Bidaia horrek Radio Vitoriara hurbiltzen gaitu; Xabier Ba\u00f1uelosekin munduko muga ezberdinak zeharkatzen ditugu eta Thiernok bere jaioterrira eramaten gaitu, Gambiara."
   },
   "1481": {
     "rss": "https://guau.eus/series/1481/rss.xml",
@@ -2145,7 +2151,9 @@
     "title": "Direcci\u00f3n asistida",
     "description": "Mugikortasunaren alderdi guztiak, Joserra Morejonen eskutik. ",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/9cb9376e-96f0-4496-806a-900a8ac80d73.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/9cb9376e-96f0-4496-806a-900a8ac80d73.jpg",
+    "media_title": "Direcci\u00f3n asistida",
+    "media_desc": ""
   },
   "1451": {
     "rss": "https://guau.eus/series/1451/rss.xml",
@@ -2204,8 +2212,8 @@
     "description": "Baliabide soziologiko, psikologiko edo estetiko hutsek forma eman diote modaren historiari eta herri-kulturari. Berezitasun kostunbristetan eta zoriontasun oharkabean. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b52ebb2f-3e69-4f96-9d7e-d8fb4e4311ad.jpg",
-    "media_title": "1813: el a\u00f1o en que Vitoria se gan\u00f3 un inesperado lugar en la Historia de la Moda",
-    "media_desc": "Gizarte-mugimendu guztiek, eta, bereziki, mugimendu kontrakulturalek edo iraultzaileek, estetika elkartua eta adierazpen-kode propioak dituzte. Kode horiek balio dute, bai besteei mezu bat bidaltzeko, bai militanteen pertenentzia-zentzua indartzeko. 1813an, Gasteizek izen bereko gudua izan zuen, Jos\u00e9 Bonaparteri ihesean lagundu zioten tropa frantsesak aurrez aurre jarri zituena, Wellingtongo dukea eta Alava jenerala izango zenaren agindupean zeuden espainiar, britainiar eta portugaldar tropen multzo batekin. Borroka horrek, bere ondorio politiko hutsetatik haratago, eragina izan zuen garaiko jantzietan."
+    "media_title": "Historia del cuello de cisne en la moda",
+    "media_desc": "Beltxarga lepoaren, lepo garaiaren, lepo itzuliaren, dortoka lepoaren edo dolcevita lepoaren jatorria eta bilakaera aztertuko ditugu gaur. Elementu estetiko horrek denboraz kanpoko erakargarritasunaren zati handi bat formaltasunaren eta axolagabekeriaren konbinazio trebean oinarritzen du. Armairu guztietan edo gehien-gehienetan dagoela esatera arriskatu gintezkeen pieza bati erreparatuko diogu. Edo, behintzat, klima epel edo hotzetan bizi direnenetan. Egia esan, lepo itzuliak ospe ona du \u2013 eta oso merezia \u2013, duela hamarkada batzuetatik dagoen bezala, dotorezia, sormena edo intelektualtasuna bezalako kontzeptuekin lotuta."
   },
   "1299": {
     "rss": "https://guau.eus/series/1299/rss.xml",
@@ -2371,7 +2379,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Paris - Baskonia, este mi\u00e9rcoles a las 20.30",
+    "media_title": "Baskonia - Partizan, este viernes a las 20.30",
     "media_desc": ""
   },
   "1305": {
@@ -2624,8 +2632,8 @@
     "description": "Radio Euskadiko literatur komunitatea.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/23ff43ba-7639-4b90-9e4d-a5a82c6db3fb.jpg",
-    "media_title": "Miren Amuriza: \"Manejamos un idioma digl\u00f3sico, pero eso no quiere decir que no haya margen de maniobra\"",
-    "media_desc": "Miren Amuriza bertsolari eta idazleak beste nobela bat kaleratu du Susa argitaletxearekin, \"Pleibak\".  Hizkuntzaren dekonstrukzioa oinarri, emakume biren historia kontatuko du."
+    "media_title": "Leonardo Padura: \"Los poderes esquilman la memoria y van dejando lo que justifica sus actitudes\"",
+    "media_desc": "Kubako idazlea da Leonardo Padura, eta berriki M\u00e1s Que Palabras saioan egon zen Almudena Cacho lankidearekin hizketan. \"Morir en la arena\" eleberriaz mintzatu ziren eta solasean sartu-irtena egin genuen."
   },
   "1454": {
     "rss": "https://guau.eus/series/1454/rss.xml",
@@ -3348,5 +3356,11 @@
     "description": "280 milioi pertsona bizi dira gaur, bere jatorrizko herrialdetik kanpo. Inoizko daturik altuena da, baina gizakiak betidanik mugitu gara batetik bestera. Migrazioei soseguz begiratzeko tartea da hau.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ae7ce344-5c51-490b-a091-7ab1e6f9e081.jpg"
+  },
+  "2135": {
+    "rss": "https://guau.eus/series/2135/rss.xml",
+    "media_title": "Feliz viernes...\u00a1ENTZUN, euskaraldia en Octubre!",
+    "media_desc": "Feliz Viernes aurkezten du Aritz Agirrek. Gaurkotasunari eskainitako beste begirada bat, \"Boulevard\" albiste saioaren baitan. Eguneko albisteei kontrapuntua jartzeko tartea, Aritz Agirreren eskutik, ostiralero 09:45ean zuzenean, Boulevard saioko asteko azken tertulia bere punturik gorenean bukatzeko... lehenago aurrerapena 07:00etako albistegiko sarreran, eta ondoren entzungai GUAU plataforman edo zeure podcast gune egokienean.",
+    "media_type": "audio"
   }
 }
