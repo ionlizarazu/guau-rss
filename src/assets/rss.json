@@ -90,7 +90,9 @@
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/e1350a90-d7c2-4851-829f-c5dbcf3c00ed.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/e1350a90-d7c2-4851-829f-c5dbcf3c00ed.jpg",
+    "media_title": "1. Eztei bidaia",
+    "media_desc": "Holobiontearen amaiera ospatu eta urtebetera, Idurreren taldeak lasaitasun faltsuan bizi du egunerokoa: Imanol diskoteka batean atezain moduan lanean ari da, Odei bideo-jokoetan murgilduta eta Idurre unibertsitatera itzuli da. Matthew unibertsitatean ustekabe agertzen denean dena aldrebestuko da ordea, mezu kezkagarri bat baitakar: holobiontea ez da hil."
   },
   "1678": {
     "rss": "https://guau.eus/series/1678/rss.xml",
