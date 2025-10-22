@@ -26,8 +26,8 @@
     "title": "Eneagrama ",
     "description": "\u00a8Eneagrama\" sortzaileen plaza da, baina ez edozein plaza, ez baita ohiko elkarrizketa podcast bat. \nPlaza berezi honetara datozen gonbidatuak Katixa Agirrerekin batera jolasteko prest datoz. \n\nKultur elkarrizketak dira, gertutasunez eginda, intimitate puntu batetik eta autoezagutzara bideratuak. Izan ere, Jokin Ameztoi jakintsuak, Andoni Mutiloa kazetari eta aktoreak gorpuzten duenak, gonbidatuari bere eneatipoa zein den zehazten laguntzen die test txiki baten erantzunei erreparatuz. ",
     "media_type": "video",
-    "media_title": "2. Amancay Gazta\u00f1aga: Sakon eta tropikal",
-    "media_desc": "Ekuadorren jaio eta bost urtera bizi izan zuen bere lehen \u201ctrasplantea\u201d Amancay Gazta\u00f1agak: Erdialdeko Amerikatik, Zestoara zuzen-zuzenean. Familiatik datorkio eneagramekiko zaletasuna, eta sarritan gidoigintzarako erabiltzen duen tresna da. Intrusaren sentsazioari aurre egiteko bikaintasunaren bidean aritzen da Amancay; dela musikan, sabel dantzan, interpretazioan edo idazketan. Ea oraingoan ere modu bikainean erantzuten dion!",
+    "media_title": "3. Jon Plazaola: Maskulinitatea eta barrea",
+    "media_desc": "Maskulinitateaz eta aitatasunaz aritu da Jon Plazaola aktore eta umoregilea, baina baita bere profesioaren gazi-gozoez eta ikus-entzunezkoetan euskalduntasuna irudikatzeko moduez ere. Entusiasmoaz, barrea eragitearen super-botereaz eta planeatu gabe iristen diren abenturez ere aritu da Katixa Agirrerekin, \"Eneagrama\" bideopodcastean. Modu argian, 7. eneatipoaren baitan kokatu du Jokin Ameztoik, entusiasten eneatipoan. Ados egongo ote da Jon?",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4497761c-6b9f-4e0b-a6e6-dd7535f9212a.jpg"
@@ -120,8 +120,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b75198ca-2d6c-4c76-82d1-e8742ffc67f4.jpg",
-    "media_title": "Los jardineros de Gasteiz vuelven al trabajo",
-    "media_desc": "Gaur goizeko lehen orduan, lorezainak Enviserren egoitzara joan dira lanera itzultzeko, urte erdiko grebaren ondoren. Enpresarekin soldata- eta lan-baldintzak hobetzeko akordioa lortu ondoren egin dute. Lankideen eta senideen txalo artean iritsi dira Enviserreko lorezainak euren lanpostuetara goizeko 7etan, historikotzat jo duten akordio baten ondoren. Atzean gelditu dira 6 hilabete baino gehiagoko greba"
+    "media_title": "El accidente m\u00e1s grave en la historia de Gasteiz",
+    "media_desc": "Gaurtik aurrera, plaka batek Gasteizko historian gertatutako zirkulazio-istripu larrienaren biktimak omenduko ditu. 1974ko uztailaren 26ko goizaldean izan zen, duela 51 urte; Petronorren bi zisterna-kamioik talka egin zuten Zaramaga auzoan, eta leherketa handi bat eta sute bat eragin zuten; ondorioz, 12-14 pertsona hil ziren."
   },
   "1684": {
     "rss": "https://guau.eus/series/1684/rss.xml",
@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Lore Bilbao: \"MIR osteko plazak fidelizatzeko planarekin lortu dugu 83 mediku berri ekartzea kanpotik\"",
-    "media_desc": "Espainiako gobernuak dioenaren kontra, Osakidetzako zuzendari nagusiak dio mediku egoliiarrak aukeratzeko azterketan euskara baloratzeak lege babesa baduela eta horrek lortuko lukeela medikuntzan graduatutako gehiago hemen geratzea",
+    "media_title": "Aitor Esteban: hauteskundeetarako \"terrenoa prestatzen ari da\" Sanchez",
+    "media_desc": "Aitor Esteban Eusko Buru Batzarreko presidentearen arabera, \"Sanchezek nahi duen arte iraungo du; berak dauka botoia\". Nolanahi ere \"itxurakeria\" asko ikusten du, eta \"terrenoa prestatzen\" ari dela iritzi dio. Adibidez, abortoa Konstituzioan blindatzeko egin duen proposamenarekin oso kritiko azaldu da. Estebanen arabera, PSOE-ren proposamena \"emakumeei burla egitea da\". Horregatik, argi dio: \"ez dugu erreforma babestuko. Guk argi eta garbi utzi genuen gure jarrera abortoaren legeari baietz esanda. Horrelako gauza garrantzitsuekin ezin da jolastu\".",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "C\u00e9sar Fern\u00e1ndez de Landa, concejal de seguridad del Ayuntamiento de Gasteiz",
-    "media_desc": "C\u00e9sar Fern\u00e1ndez de Landa, Gasteizko Udaleko segurtasun zinegotzia",
+    "media_title": "Miguel \u00c1ngel Montes, alcalde de Iru\u00f1a de Oka",
+    "media_desc": "Miguel Angel Montes, Iru\u00f1a Okako alkatea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -569,8 +569,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ilargi Arrizabalaga, doluaz",
-    "media_desc": "Ilargi musikagilea da eta doluaren ingurukoa da azaroan kaleratuko duen diska berria. Horren aurretik, ordea, doluaz hitz egingo duen podcasta sortu du.",
+    "media_title": "Luiginak: \"Zergatik dituzte 10 arrautza Alemaniako arrautza-kaxek?\"",
+    "media_desc": "Ane Irazabalek galdera honen bueltan azalpen interesgarria egin du Luiginak tartean, eta Nerea Sarriegi eta Amaia Uribek eurek ikusitakoa azaldu digute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -646,8 +646,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra de este lunes 13 de octubre",
-    "media_desc": "Emilio Pascualaren aurkezpenarekin, Mart\u00edn Herrerak, Ignacio Zulaicak, I\u00f1aki Ozendak eta Valent\u00edn Carlos de Vergarak Alaveseko aktualitatea aztertzen dute. Datorren astelehenean Valentziak Mendizorrotzara egingo duen bisitara begiratzen dute.",
+    "media_title": "La c\u00e1tedra del martes 21 de octubre",
+    "media_desc": "Emilio Pascual, Mart\u00edn Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin Valentziaren aurkako berdinketa aztertu dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -1289,8 +1289,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Miguel Okina; artea Bergarako etxeetara ekarri zuen gizona",
-    "media_desc": "Duela 4 urte hil zen Miguel Okina, eta horren ondoren idatzi du Miguel Angel Elkoroberezibarrek hari eskainitako liburua: \"Migel Okina, Beragarako margolaria\". Bertan bildutakoak azaldu dizkigu.",
+    "media_title": "Maite Solas: \"Alzheimerra sindrome metabolikoa dela frogatu nahi dut\"",
+    "media_desc": "Alzheimerraren jatorriaz hitz egin dugu Faktoriako \"Bigarren Laurdena\" solasaldian Maite Solas Zubiaurre Nafarroako Unibertsitateko neurozientzialariarekin. XXI. mendeko epidemiatzat dute Alzheimerra eta herritarrak zahartu ahala diagnostikoak hirukoiztea espero da. Horregatik, jatorria ikertzea \"ezinbesteko\" jo du Solasek, tratamendu egoki eta pertsonalizatuak egin ahal izateko: \"Alzheimerrak zerikusi handiagoa du bizi estiloarekin, genetikarekin baino\".",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1300,8 +1300,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Perez Iglesias: \"Hemen dugun potentzialak zientziaren munduko abanguardian kokatzen gaitu\"",
-    "media_desc": "Quantum System Two super-ordenagailuaren inaugurazio ekitaldiaren aurretik Jaurlaritzak sailburuak azpimarratu du herritarren ongizatean ikusiko direla apustu teknologiko horren emaitzak",
+    "media_title": "Administrazioen algoritmoak ezagutzea eskubide demokratikoa da",
+    "media_desc": "Hala ebatzi du Auzitegi Gorenak eta behartu du Espainiako Gobernua `Bosco' kodea zabaltzera. Itziar Alkorta EHUko zuzenbide irakasleak eta Borja Calvo informatikoek azaldu digute epaiaren garrantzia, administrazio guztiei eragingo dielako. Erabaki automatizatuen garaian herritarrek administrazioarekiko kontrola eta gardentasuna ez galtzearen beharra azpimarratu dute bi adituek",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1355,8 +1355,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Migra\u00f1a denerako aholkuak",
-    "media_desc": "Ebakuntzetarako prestaketa eta ondorena. ",
+    "media_title": "Duchenne gaisotasunaz ",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1514,8 +1514,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Primer torneo nocturno de golf de Euskadi en Izki",
-    "media_desc": "Kirol-ikuskizuna eta argia, irteera progresiboekin 19:30etik 20:50era. Argi falta konpontzeko 200 LED argi baino gehiago jarriko dira greens, bandera eta irteera-teetan, eta teknologia horrekin hornitutako bolekin jokatuko da, Urturiko (Bernedo) kontzejutik gertu dagoen golf-zelai horren gaua argiztatuko duena.",
+    "media_title": "Zurbano reclama una soluci\u00f3n definitiva para el cruce del Buesa Arena",
+    "media_desc": "Tokiko Administrazio Batzarrak urriaren 24rako auzo-batzarra deitu du, bere kontzejurako sarbidea ematen duen elkargunean ezbeharrak ugaritu egin direlako. Zurbaok (Arratzua-Ubarrundia) 2014 eta 2021 urteen arteko bidegurutzea pilatu duten hogei istripu salatu ditu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1642,8 +1642,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Semillero de empresas comercial",
-    "media_desc": "Gasteizko Udalak 'enpresa komertzialen lehen hazitegia' aurkeztu du gaur. Programa hiriko ekintzaileei zuzenduta dago, eta bi lokal ireki dira beren merkataritza baldintza abantailatsuekin ezartzeko, hori guztia Arabako hiriburuko merkataritza-sarea biziberritzeko helburuarekin."
+    "media_title": "La gordofobia y las imposiciones est\u00e9ticas",
+    "media_desc": "Arautik ateratzea. Hegemonikoa edo askotan 'natural' edo normaltzat jotzen duguna ez betetzea. Adibidez, gizakiaren gorputzarekin gertatzen den zerbait da. Munduan bizi diren gizaki adina gorputz mota daudela esan genezake. Baina gutxi batzuek baino ez dituzte betetzen \"gorputz arauemaileak\" deritzenak. Gorputz ez-arauemaileez ari gara, pertsona batzuek gordofobia eta inposizio estetikoak direla-eta jasaten duten indarkeriaz."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1722,8 +1722,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Sorabilla auzoko eta Gorlizko jaietako bertsoaldiak",
-    "media_desc": "Andoaingo Sorabilla auzoko jaietako bertsoaldiak eta Gorlizko jaietakoak hautatu ditugu denboraldiari hasiera emateko. Bederatzikoari ere berrekin diogu, 2025eko udazkenean izango dugunaren aurrerakina eskaintzeaz batera."
+    "media_title": "Bertsolariak, aktore ere ba ote dira? ",
+    "media_desc": "Galdera horretatik abiatuta, gure fonotekako artxibategian murgildu gara eta Donostiako Zinemaldiari, zinemari edota aktore lanari lotutako bertsoaldiak hautatu ditugu. Entzun eta gozatu izarrekin!"
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2583,8 +2583,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Kamamila biltzeko garaia",
-    "media_desc": "Sendabelarrak loretu eta hazia botatzen ari direnean hobe ez biltzea."
+    "media_title": "Uharte Arakilgo artzain eguna eta Nafarroako mahats bilketa ",
+    "media_desc": "Uharte Arakilgo artzain eguna, tomate lehiaketak, Nafarroako mahats bilketaren eguna eta Berriatuako txondorra izan ditugu hizpide siaoan. Entzuleen galderak ere erantzun ditu Jakoba Errekondo Landaberriko agronomo eta paisajistak. "
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -3196,8 +3196,8 @@
     "description": "\"Las voces del Silencio\u201d, Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3748d8c0-a7b7-4104-8ea0-cde8891a789d.jpg",
-    "media_title": "1. Redes Sociales sin filtro",
-    "media_desc": "Sare sozialek eraldatu egin dute pertsonen artean komunikatzeko modua eta eguneroko bizitzan eragiten digute.  \u201cLas voces del silencio\u201d podcastaren aurreneko atalera Jon Bustillo gonbidatu dugu, EHU irakaslea. Hezkuntzarako teknologiaren adituarekin aztertu dugu tresna hauek gizartean sortu duten eragina eta nola aldatu arazi duten pertsonen teknologiarekiko harremana."
+    "media_title": "3. Soledad y aislamiento",
+    "media_desc": "Teknologikoki konexio estuagoan bizi gara, sentimenduz nor bere ingurunetik urrunago sentitzen garen arren. Urrunekoekin harremanetan denbora gehiago erabiltzen dugu hurbilekoak ezagutzen baino. Aitor Aritzeta, EHUko irakasle eta Psikologian Doktore denarekin aztertu dugu harreman sakonak eraikitzearen garrantziaz."
   },
   "1854": {
     "rss": "https://guau.eus/series/1854/rss.xml",
@@ -3273,8 +3273,8 @@
     "description": "\u201cAgertokiak\u201d, gazteen gogoetak biltzeko elkargunea da. Gazteek, beren eskarmentutik, inguratzen dituzten eguneroko gai eta emozioak plazaratzeko gunea. Xabier Madariaga kazetariak bideratzen du solasaldia, gazte arruntek, gazteen gaien inguruan dituzten ikuspuntu eta gogoetak podcast ataletan banatzeko.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c84f670-2e1c-4b52-98ca-bc2e6e71f0a2.jpg",
-    "media_title": "Ongizate emozionala",
-    "media_desc": "Gazteriaren ardura nagusietakoa da ongizate emozionala. Alberto eta Aitorrek beren egoera pertsonalak azaldu dituzte \u201cAgertokiak\u201d podcastaren lehen atalean Xabier Madariagak gidatuta. Badute eskarmentua ongizate emozionalaren inguruan gogoeta eragiteko."
+    "media_title": "Emantzipatzea\u00a0",
+    "media_desc": "\u201cEmantzipatzea, munduan lekua hartzea da\u201d. Honela abiatzen da \u201cAgertokiak\u201d podcastaren bigarren atala. Haizea, Ander eta Asier elkartu ditugu beren eskarmentutik iritzia ematera. Lortu liteke emantzipazioa, edo inoiz lortuko ez duten ametsa izango da gaurko gazteentzat?"
   },
   "2116": {
     "rss": "https://guau.eus/series/2116/rss.xml",
@@ -3282,8 +3282,8 @@
     "description": "\u201cAgertokiak\u201d, gazteen gogoetak biltzeko elkargunea da. Gazteek, beren eskarmentutik, inguratzen dituzten eguneroko gai eta emozioak plazaratzeko gunea. Xabier Madariaga kazetariak bideratzen du solasaldia, gazte arruntek, gazteen gaien inguruan dituzten ikuspuntu eta gogoetak podcast ataletan banatzeko.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/963810db-319f-4207-8e7e-fc6cde201563.jpg",
-    "media_title": "Bienestar emocional",
-    "media_desc": "Gazteriaren ardura nagusietakoa da ongizate emozionala. Iraia, Alberto eta Aitorrek beren egoera pertsonalak azaldu dituzte \u201cAgertokiak\u201d podcastaren lehen atalean Xabier Madariagak gidatuta. Badute eskarmentua ongizate emozionalaren inguruan gogoeta eragiteko."
+    "media_title": "Emancipaci\u00f3n",
+    "media_desc": "\u201cEmantzipatzea, munduan lekua hartzea da\u201d. Honela abiatzen da \u201cAgertokiak\u201d podcastaren bigarren atala. Haizea, Ander eta Asier elkartu ditugu beren eskarmentutik iritzia ematera. Lortu liteke emantzipazioa, edo inoiz lortuko ez duten ametsa izango da gaurko gazteentzat?"
   },
   "2121": {
     "rss": "https://guau.eus/series/2121/rss.xml",
