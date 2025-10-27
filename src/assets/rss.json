@@ -569,8 +569,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Elkartasun bilketak arrazakeriari aurrea hartzeko",
-    "media_desc": "Asteak dira kale egoeran dauden asilo eskatzaile Maliarren konponbidea konpondutzat eman zenetik, baina Gasteizko Salburuan egoera larria da oraindik. Etxebizitza Sindikatu Sozialistako kideek elikagai bilketa abiatu dute pertsona horien egoera hobetzeko.",
+    "media_title": "Lourdes Iba\u00f1ez de Gauna ezagutu dugu",
+    "media_desc": "Lupe Calvo kazetari eta idazleak idatzi zuen \"Pertsona izatearen balioa\" liburuan Hondarribiko Lourdes Iba\u00f1ez de Gauna emakumearen historia eta lana bildu du. Omenaldi egin nahi izan dio guztiz ezezaguna den emakume honi. Arrasto nabarmena utzi du 70eko hamarkada erdialdian bere bizitza erosoa utzita Madrilgo auzorik txiroenera joan zenena bizitzera eta bere etxean kalean bizi ziren gazte heroinomanoak eta delitugileak jaso zituelako. \n\nUrriaren 24ean Hondarribian Lupe Calvo Elizazuren liburuaren irakurketa jarraitua eginen dute DBHko ikasleek. Ezagutu beharreko lana egin zuen Lourdes Iba\u00f1ez de Gaunak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -3380,5 +3380,12 @@
     "description": "Ardoa edari bat baino askoz gehiago da. Araban mendeetako tradizioa eta historia batzen dituen kulturaren zati da. \"En honor a Baco\" podcast bat da, adituak ez diren baina bitxiak diren pertsonei zuzendua, ardoaren munduari buruz gehiago jakin nahi dutenei. Atal bakoitzean, Yolanda Ortiz de Arri ardoetan aditua den kazetari eta dibulgatzailearekin hitz egiten dugu, gomendioak eta bitxikeriak modu atsegin eta hezitzailean azaltzeko.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f193c7e3-27f1-461a-a66e-71dcf2bf9f4b.jpg"
+  },
+  "2138": {
+    "rss": "https://guau.eus/series/2138/rss.xml",
+    "title": "Zeru ahoak soinu-banda",
+    "description": "Koldo Almandozek zuzenduta, \u201cZeru ahoak\u201d telesaila 2025ean ekoitzi dute Txintxua Films-ek eta Garabi Films-ek EITB Mediarentzat. Aitor Etxebarria musikariak sortu du, berariaz, telesailerako soinu-banda eta GUAUn osorik entzun dezakezu.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/6b7fede3-b6e8-4b3c-9e5c-d710998350d3.jpg"
   }
 }
