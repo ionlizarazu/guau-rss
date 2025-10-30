@@ -86,7 +86,7 @@
   "1301": {
     "rss": "https://guau.eus/series/1301/rss.xml",
     "title": "Holobiontea",
-    "description": "Zurriolako hondartzan, izenik ez duen espezie bateko izakia azaldu da hilda, sarean kateatua. \n\nKomunitate zientifikoaren arreta piztu du aurkikuntzak eta Eusko Jaurlaritzak, Idurre Aldazabal, EHUko ikerlariari eta bere taldeari eskatu dio ikerketa abiatzeko. Sarean ordea, ikerlariak erori dira. Nazioarteko arreta sortzen du gertaerak.\n\nThriller psikologikoa.",
+    "description": "Zurriolako hondartzan izenik ez duen espezie bateko izakia azaldu da hilda, sarean kateatua. \n\nKomunitate zientifikoaren arreta piztu du aurkikuntzak eta Eusko Jaurlaritzak, Idurre Aldazabal, EHUko ikerlariari eta bere taldeari eskatu dio ikerketa abiatzeko. Sarean ordea, ikerlariak erori dira. Nazioarteko arreta sortzen du gertaerak.\n\nThriller psikologikoa.",
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Lourdes Iscar, directora de Osalan, el Instituto Vasco de Seguridad y Salud Laboral",
-    "media_desc": "Lourdes Iscar, Osalaneko zuzendaria, Laneko Segurtasun eta Osasunerako Euskal Erakundea",
+    "media_title": "Isa Duque \"Psico Woman\", psic\u00f3loga, sex\u00f3loga y terapetua familiar",
+    "media_desc": "Isa Duque \"Psico Woman\", psikologoa, sexologoa eta familiako terapetua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -163,8 +163,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nora ekarri gaitu migrazioaz orain arte egin den pedagogiak?",
-    "media_desc": "Inflexio puntua eragin dute uda honetan izan diren istiluek. Tentsio hori baretuta, migrazioaren inguruko diskurtsoetan eta jarreretan izaten ari diren aldaketak aztertu ditugu Xabier Aierdi soziologoarekin eta Xabier Lertxundi eta Amaia Agirre Hernani eta Getxoko alkateekin. Marcillako adibidea eta Gasteizko Judimendukoa ere ekarri ditugu saio berezira",
+    "media_title": "Ordenagailu kuantikoa, zertarako? Erabiltzaileekin hitz egin dugu.",
+    "media_desc": "Biomedikuntzan, fabrikatan, aireportuetan edo zabor-bilketan: aldakortasuna duen edozer hobeto planfikatzeko erabil daiteke. 20 ikerketa talde ari dira Donostian kokatu berri duten ordenagailu kuantikoa erabiltzen eta enpresak hasiko dira aurki. Ordenagailua nola erabiltzen duen erakutsi digu Olatz Sanzek, gaitz arraroak ikertzen dituen ingeniariak eta beren eskarmentuaz aritu zaizkigu, Joxe Etxeberria, Global data Quantum enpresako arduraduna, Josu Etxezarreta, Tecnumeko ingeniaria eta Urko Aseginolaza, Mondragon Unibertsitateko ikerlaria. Javier Aizpurua, Basque quantumeko zuzendari zientifikoak erakundeetatik egin den apostua nabarmendu du, ordenagailua modu irekian erabili ahal izango dutelako, euskal sisteman ainguratutako talde edo enpresek.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -569,8 +569,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Onkologia 360",
-    "media_desc": "Hainbat Lanbide Heziketako zentrok batera egindako dokumentala da Onkologia 360. Proiektu honetan paziente onkologikoei eremu bakoitzetik ikuspegi integral bat eskaintzeko bat egin dute zentro horietako ikasleek.,",
+    "media_title": "Rauxa: Badago doako planik? ",
+    "media_desc": "Asier K eta Agina doako plan \"Rauxa\" bat antolatu nahian",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -580,8 +580,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Entrevista a la coordinadora de Sumar, Lara Hern\u00e1ndez",
-    "media_desc": "Ganbaran irratsaioan egindako elkarrizketan, Lara Hernandez SUMARreko koordinatzailea pozik agertu da EH Bildurekin izandako bileraren ostean, eta La Vueltako txirrindulari talde israeldarren aurkako protestak babestu ditu, \"euskal herriaren duintasunaren adibide\" direla azpimarratuz.",
+    "media_title": "Entrevista a Pilar Bernab\u00e9, delegada del Gobierno en la Comunitat Valenciana",
+    "media_desc": "GOIDIaren lehen urteurrenean, Pilar Bernabek, Gobernuak Valentzian duen ordezkariak, urtebete geroago egoera nolakoa den azaldu du Radio Euskadiko Ganbara irratsaioan",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/92350349-bc6b-4395-b44f-7148f17ad957.jpg"
   },
   "1440": {
@@ -1289,8 +1289,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Dryfing, neopreno busti eta usaintsuei konponbidea",
-    "media_desc": "Neopreno busti eta usaintsua janztea ez da batere atsegina eta horri konponbidea emateko sortu du Dryfing enpresa Naia Espinosa legutioarrak. Arabako Emakume Profesional eta Enpresarien Elkartearen saria jaso du enpresak berriki eta gaur gurean izan dira Naia bera eta enpresan lanean ari den Naroa Erbiti ingeniari leitzarra. Gailua, hozkailu baten modukoa da, ate gardenarekin barruan zintzilik jarritako neoprenoak ikusteko. Garbitu, desinfektatu eta lehortu egiten ditu. Asteburuan Sopelan egingo den Surf Business Meeting azokan erakutsiko dute nola egiten duen lana Dryfing gailuak.",
+    "media_title": "Joxefe Diaz de Tuesta:\"Heriotzaren atarian, baikortasuna darie istorio hauei\"",
+    "media_desc": "\"Bestaldetik etorriak\" izeneko liburua ondu du Joxefe Diaz de Tuesta argazkilari eta idazleak. Bertan, hilzorian egon diren 19 o\u00f1atiarren istorioak lehen pertsonan bildu eta bere argazkiekin osatuta argitaratu du lana.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1455,8 +1455,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "UTOPIA: prohibido el paso",
-    "media_desc": "Berlingo Harresia erori zenetik 36 urte igaro dira, baina hala ere, munduko hainbat lekutan hormak sortzen jarraitzen dute. Gai honen inguruan hausnartzeko asmoz, Sebastian Bayo artistak UTOPIA: Sarrera debekatua izeneko lana aurkezten du: lau metroko altuera duen instalazioa, duela egun batzuk Virgen Blanca plazan jarrita dagoena. Horma hau margotu eta esku hartzeko prest dagoen oihal irekia da, herritarren parte-hartzea sustatuz."
+    "media_title": "Los concejos son un patrimonio a proteger, en Di\u00e1logos Forales",
+    "media_desc": "Biltzen ez duen baina saneamenduaren, horniduraren, kaleen eta mendien eskumenak dituen administrazio bakarra dira. Kontzejuak dira \"urbanitek\" ezagutzen ez duten erakunde hori, baina demokrazia zuzenaren oinarri direnak. Datorren azaroaren 23an, 30000 pertsona daude deituta Arabako kontzejuetarako hauteskundeetan parte hartzera, 333 dira toki entitateak. Gaur, kontzejuak, Finantzen Euskal Kontseiluari buruzko iruzkin bat duten foru elkarrizketetan.\n"
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -1644,8 +1644,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "D\u00eda de las bibliotecas",
-    "media_desc": "Liburutegiak ezagutza-tenpluak, aisialdirako guneak, ideiak sortzeko guneak eta arimarentzako elikagaiak dira. Liburutegiak garrantzi ukaezineko eszenatokiak dira gizarte baten garapenerako, zerbitzu-bokazioagatik, komunitatearen ikuspegi argiagatik eta gizarte-konpromisoagatik. Gaur egun, nahiz eta eragin teknologikoa izan, liburutegiak garrantzitsuak dira oraindik."
+    "media_title": "Sesgo de g\u00e9nero en la medicina",
+    "media_desc": "Mediku Orokorren eta Familiaren Espainiako Elkarteak aurten egin duen azken kongresuan, gizonen eta emakumeen osasunean dagoen aldeari erreparatu zaio."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2108,8 +2108,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Janaria ala edaria?",
-    "media_desc": "Jone Bengoak eta Aiora Enparantzak barazki purearen bueltan eztabaidatu dute. Atziakia askorik ez dute behar.",
+    "media_title": "Komatik bizitzara musikaz itzultzea",
+    "media_desc": "Koma egoeran hilabete eman ondoren, Ane Goienetxe \"Anehan\" piano jotzaileak \"Itzulera\" proiektu musikala abian jarri du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2305,8 +2305,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/690eedc9-3070-48cb-a629-6bf6593262a8.jpg",
-    "media_title": "Araski - Gernika este domingo a las 11:45h",
-    "media_desc": ""
+    "media_title": "Araski - Cadi La Seu",
+    "media_desc": null
   },
   "1476": {
     "rss": "https://guau.eus/series/1476/rss.xml",
@@ -2363,7 +2363,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Promoci\u00f3n la C\u00e1tedra",
+    "media_title": "D. Alav\u00e9s - RCD Espanyol",
     "media_desc": null
   },
   "1574": {
@@ -2385,7 +2385,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Granada - Baskonia, este domingo a las 17:30",
+    "media_title": "Baskonia - Tenerife",
     "media_desc": null
   },
   "1305": {
@@ -2908,7 +2908,7 @@
   "1740": {
     "rss": "https://guau.eus/series/1740/rss.xml",
     "title": "Basque",
-    "description": "\"Basque\", Etxepare Euskal Institutuaren podcasta da, ingelesez ekoitzia. \nNazioarteko entzuleari espreski zuzendutako podcast honetan Oier Aranzabalek inspirazio-iturri diren hainbat euskal artista eta sortzaileren etxe eta lantokietaraino eramango gaitu. Gertu-gertutik solasean, euren ibilbide, bizipen eta gogoetetan murgilduz. \n",
+    "description": "\"Basque\" Etxepare Euskal Institutuaren podcasta da, ingelesez ekoitzia. \nNazioarteko entzuleari espreski zuzendutako podcast honetan Oier Aranzabalek inspirazio-iturri diren hainbat euskal artista eta sortzaileren etxe eta lantokietaraino eramango gaitu. Gertu-gertutik solasean, euren ibilbide, bizipen eta gogoetetan murgilduz. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9fcb8951-f173-4ade-98b1-012d33e8b60c.jpg",
     "media_title": "5. Itziar Itu\u00f1o: Euskal kulturaren bozeramaile",
@@ -3048,7 +3048,7 @@
   "1892": {
     "rss": "https://guau.eus/series/1892/rss.xml",
     "title": "Hiru, bi, Bach!",
-    "description": "\u201cHiru, bi, Bach!\u201d podcastak, Ludwig van Beethovenen (Bonn, 1770-Viena 1827) \u201cZazpigarren Sinfonia\u201d aztertu eta xehetuko du, modu berritzaile eta erakargarrian. Atal bakoitzean, musikaren maisu-lan hau puzzle bat bezala zatitzen joango da, piezaz pieza. Obraren atzean ezkutatzen dena eta berau osatzeko prozesua nolakoa izan zen ezagutzeko aukera eskainiz.\nPodcast honen helburua, musika klasikoa gazteengana modu berri eta berritzaileaz hurbiltzea da. Gazteek kontsumitzen dituzten formatuak eta kanalak erabiliz, beren playlist kuttunean, musika klasikoa ere sartzeko xedez.\nEuskal Herriko Gazte Orkestrak, EGOk, 2024ko neguko programan eskaini zuen Beethovenen \u201cZazpigarren Sinfonia\u201d eta bertako musikariek, berariaz, podcast honetarako grabatutako piezak entzun ahal izango dira bide batez.\nBost atalek osatzen dute podcasta eta bi gidari nagusi ditu, Felix Etxeberria eta Oihana Etxebeste,  EGOko musikari gazteak biak, Iker Sanchez, musika aditua eta EGOko Topaketen zuzendariaren laguntzaz ariko direlarik.",
+    "description": "\u201cHiru, bi, Bach!\u201d podcastak Ludwig van Beethovenen (Bonn, 1770-Viena 1827) \u201cZazpigarren Sinfonia\u201d aztertu eta xehetuko du, modu berritzaile eta erakargarrian. Atal bakoitzean, musikaren maisu-lan hau puzzle bat bezala zatitzen joango da, piezaz pieza. Obraren atzean ezkutatzen dena eta berau osatzeko prozesua nolakoa izan zen ezagutzeko aukera eskainiz.\nPodcast honen helburua, musika klasikoa gazteengana modu berri eta berritzaileaz hurbiltzea da. Gazteek kontsumitzen dituzten formatuak eta kanalak erabiliz, beren playlist kuttunean, musika klasikoa ere sartzeko xedez.\nEuskal Herriko Gazte Orkestrak, EGOk, 2024ko neguko programan eskaini zuen Beethovenen \u201cZazpigarren Sinfonia\u201d eta bertako musikariek, berariaz, podcast honetarako grabatutako piezak entzun ahal izango dira bide batez.\nBost atalek osatzen dute podcasta eta bi gidari nagusi ditu, Felix Etxeberria eta Oihana Etxebeste,  EGOko musikari gazteak biak, Iker Sanchez, musika aditua eta EGOko Topaketen zuzendariaren laguntzaz ariko direlarik.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/416b0e0e-15d0-4492-a8bd-b68122332f65.jpg",
     "media_title": "5. Zergatik jarraitzen du sinfonia honek bizirik?",
@@ -3197,7 +3197,7 @@
   "1853": {
     "rss": "https://guau.eus/series/1853/rss.xml",
     "title": "Las voces del silencio",
-    "description": "\"Las voces del Silencio\u201d, Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
+    "description": "\"Las voces del Silencio\u201d Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3748d8c0-a7b7-4104-8ea0-cde8891a789d.jpg",
     "media_title": "3. Soledad y aislamiento",
@@ -3209,7 +3209,7 @@
     "media_desc": "Gure buruan dauden helburuak betetzeak ez du esan nahi horrek zoriontsu izatea ekarriko digunik. Zuhaitz Gurrutxagak futbol jokalaria izan nahi zuen eta Realean Lehen Mailako jokalari izatea lortu zuen. Hortik aurrera amets gaiztoa sortu zitzaion ordea, bizitza eta buruko osasuna aldatuko zion egoera bizi baitzuen. Denborarekin jakin du TOC edo nahasmendu obsesibo-konpultsiboa duela eta honek bera kontrolatu gabe, berak nahasmendua kontrolatzeko egin duen bidea azaldu digu \u201cLas voces del silencio\u201d podcastaren atal honetan.",
     "media_type": "video",
     "title": "Las voces del silencio",
-    "description": "\"Las voces del Silencio\u201d, Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
+    "description": "\"Las voces del Silencio\u201d Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/98b3d4db-877c-44ca-a24e-2567f7eb6d44.jpg"
   },
   "2110": {
@@ -3384,8 +3384,15 @@
   "2138": {
     "rss": "https://guau.eus/series/2138/rss.xml",
     "title": "Zeru ahoak soinu-banda",
-    "description": "Koldo Almandozek zuzenduta, \u201cZeru ahoak\u201d telesaila 2025ean ekoitzi dute Txintxua Films-ek eta Garabi Films-ek EITB Mediarentzat. Aitor Etxebarria musikariak sortu du, berariaz, telesailerako soinu-banda eta GUAUn osorik entzun dezakezu.",
+    "description": "Koldo Almandozek zuzenduta \u201cZeru ahoak\u201d telesaila 2025ean ekoitzi dute Txintxua Films-ek eta Garabi Films-ek EITB Mediarentzat. Aitor Etxebarria musikariak sortu du, berariaz, telesailerako soinu-banda eta GUAUn osorik entzun dezakezu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6b7fede3-b6e8-4b3c-9e5c-d710998350d3.jpg"
+  },
+  "2148": {
+    "rss": "https://guau.eus/series/2148/rss.xml",
+    "title": "Mesa de corresponsales",
+    "description": null,
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/891e56e0-6269-4ee7-84df-b0d0446488ee.jpg"
   }
 }
