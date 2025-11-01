@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Mertxe Aizpurua, EH Bildu: ''Gizartearen pertzepzioa zein izan da ba? Ertzainek faxistak babesten dituztela ikusten badute?",
-    "media_desc": "EH Bilduk Kongresuan duen bozeramaileak uste du Junts zentsura mozioa 'negoziazio estrategia gisa' erabitzen ari dela, 'antzeko saioak izan dira eta ez dira azken unerarte iritsi'.",
+    "media_title": "Eneko Zarraoa Garmendia: \u201cOso eskertuta nago, zoriontsu izan ginelako\u201d",
+    "media_desc": "Duela urtebete minbiziak eraman zuen Oihana, Enekoren emaztea. Hiru hilabetera gaitz berak aitaginarreba, eta orain minbiziari aurre egin nahian ari da lehengusina. \nHeriotzaz, alarguntasunaz eta bizitzaz hitz egin dugu Eneko Zarraoa Faktoriako bidelagunarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Juan Ignacio P\u00e9rez Iglesias, Consejero de Ciencia, Universidades e Innovaci\u00f3n",
-    "media_desc": "Juan Ignacio P\u00e9rez Iglesias, Zientzia, Unibertsitate eta Berrikuntzako sailburua",
+    "media_title": "Jos\u00e9 Manuel Villanueva, alcalde de Oion",
+    "media_desc": "Jos\u00e9 Manuel Villanueva, Oiongo alkatea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Iratxe Uriarte:\"Buru osasuna da euskal gazteen kezka nagusia eta horrek harritu gaitu\"",
-    "media_desc": "Euskadiko Gazteen Kontseiluko presidentea da Iratxe Uriarte, eta gaurkotasuneko hainbat arlo aztertu nahi izan ditugu berekin; Buru osasuna, enplegua, etxebizitza eta bizikidetza. Prentsa irakurketa egin dugu gai hauek jorratzeko.",
+    "media_title": "Markel Monta\u00f1o: \"Hilerriak korridore ekologikoak dira eta biodibertsitatearen ikuspuntutik gune interesgarriak.",
+    "media_desc": "Bilboko hilerriko faunaren inguruko liburua idatzi du Markel Monta\u00f1o EHUko biologoak Bilbao Zerbitzuaken lanean aritu den utebetean. Inguruko hiri eta herriak aldatu arren, hilerriak aldaketa horietatik kanpo geratezn dira eta horregatik korridore ekologiko bezala funtzionatzen dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -613,8 +613,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Ciencia, tecnolog\u00eda e historia",
-    "media_desc": "",
+    "media_title": " En busca de la vida fuera de la Tierra, con Miguel Angel Sabadell. Avances en el an\u00e1lisis de \u00f3leos",
+    "media_desc": "Gizateriaren misterio handienetako bat Lurrean bizitzaren jatorria da. Zerk ahalbidetu zuen lehen izaki bizidunen agerpena? Bizitza unibertsoaren beste leku batean sortu al zen? Zer baldintza bete beharko lituzkete planeta edo ilargi hauek aukera hori existitzeko? Miguel Angel Sabadell astrofisikariak galdera hauei buruz dakiguna azaltzen du *Lurretik haratagoko bizitzaren bila* liburuan, non beste gai batzuk ere aztertzen dituen, hala nola SETI proiektuaren zibilizazio estralurtarren bilaketa eta UFO fenomenoa. Oscar Gonz\u00e1lez eta Erika Talironte, EHUko Arte Ederren Fakultateko irakasleek, kontserbazio arazo ohiko bati aurre egiteko garatu duten metodologia aurkezten dute: olio-pinturetan esmalteen agerpena.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -2087,7 +2087,7 @@
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e67bdf7c-e5d6-476e-a95f-757e309d7d83.jpg",
-    "media_title": "Un programa de kil\u00f3metro cero",
+    "media_title": "XXXVIII Concurso de Quesos Ordizia y III Ruta Reyno Gourmet en Gasteiz",
     "media_desc": ""
   },
   "1456": {
@@ -2140,8 +2140,8 @@
     "description": "Eguna lasai amaitzeko, elkarrizketak eta musika hautaketa pertsonala. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/fb69549c-4743-4556-b1f5-099b81577cc4.jpg",
-    "media_title": "Candela Ant\u00f3n, tu antrop\u00f3loga de confianza",
-    "media_desc": "Candela Antonek ekarri digu \"\u00bfY ahora qu\u00e9?  Manual de primeros auxilios antropol\u00f3gicos para Homo sapiens modernos\"; Daniel Tollessonekin batera idatzi duen liburuak albo-ondorioak ditu,  badirudi pentsamendu kritikoarekiko mendekotasuna eta bat-bateko itxaropen-erasoak eragin ditzakeela."
+    "media_title": "\u00c9rica Rivas la Romina de Relatos Salvajes con obra en Euskadi",
+    "media_desc": "Atzerriko herrialde batean ama bihurtu den emakumea, berezkoa ez zaion hizkuntza duena, arrotza, sarerik gabea. Erica Rivasek,   \"Relatos salvajes\"filmearen  sarituen arteko Rominak, osasun mentala, amatasuna eta agindu sozialak proportzio berean gordinki eta umorez tratatzen diren lana dakarkigu."
   },
   "1533": {
     "rss": "https://guau.eus/series/1533/rss.xml",
