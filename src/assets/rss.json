@@ -18,16 +18,16 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "2. Julen eta Antton Telleria: Anaitasunak dakarrena",
-    "media_desc": "Denboraldiko lehen gonbidatuak: Telleria anaiak! Julen eta Anttonek, txikitatik gaur egunera arte izan duten harremanaz hitz egin digute \u201cBenetan zabiz?\u201d podcastean. Haien anaitasuna etxetik, lantokira ere eraman dute. Nola daramate egoera hori? Zer moduz daude? Nork jotzen zuen nor? Asko haserretzen dira? Zein anaiak eman zion besteari neskekin ligatzeko gomendioa?\nArrosali kolaboratzaileak eztabaidarako tartea zabaldu die, hiru minututan bakoitzak bere postura defendatu behar izan du: harreman irekien alde ala kontra? Umeak ezkontzetan bai edo ez?\nEz galdu atala!"
+    "media_title": "3. Zuri\u00f1e Hidalgo, neska* ekintzaileak",
+    "media_desc": "Lau urtez musika sortu gabe egon eta gero Zuri\u00f1e Hidalgo bueltan da! Kala Naiz musika proiektuaz, \u201cEnraizadas\u201d emakumeentzako* erretiro espiritualez eta feminismoari ustezko \u201cetekina\u201d ateratzeaz ere aritu dira hiru neskak \u201cBenetan zabiz?\u201d podcastaren atal honetan.\n \nAutotunea \u201cez zaiola gustatzen\u201d eta kanta berriak ateratzearena \u201clasaitasunez\u201d hartzen ari dela azaldu die Zuri\u00f1ek. Ekintzailetzaren gaia hartu dute eta negozioak egiteko garaian emakumeek topa ditzaketen mugetaz. Benetan zabiz galduko duzula?"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
     "title": "Eneagrama ",
     "description": "\u00a8Eneagrama\" sortzaileen plaza da, baina ez edozein plaza, ez baita ohiko elkarrizketa podcast bat. \nPlaza berezi honetara datozen gonbidatuak Katixa Agirrerekin batera jolasteko prest datoz. \n\nKultur elkarrizketak dira, gertutasunez eginda, intimitate puntu batetik eta autoezagutzara bideratuak. Izan ere, Jokin Ameztoi jakintsuak, Andoni Mutiloa kazetari eta aktoreak gorpuzten duenak, gonbidatuari bere eneatipoa zein den zehazten laguntzen die test txiki baten erantzunei erreparatuz. ",
     "media_type": "video",
-    "media_title": "4. Uxue Alberdi: Askatasuna eta insomnioa",
-    "media_desc": "Idazterakoan libre aritzen da Uxue Alberdi, baina horrek prezio bat ere ordainarazi dio. Herri txiki batean bizi den arren, hiri handiaren anonimotasuna botatzen du faltan batzuetan, eta bere aurkaririk latzena aurkeztu digu: insomnioa. Bertsolaritzaz eta literaturaz, kanpoaldeaz eta barrualdeaz hitz egin du \u201cEneagrama\u201d bideopodcastean. Hirugarren eneatipoaren ezaugarriak ikusi dizkio Jokinek, baina ez dakigu Uxue guztiz konforme geratuko ote den.",
+    "media_title": "5. Jurgi Ekiza: Frontmana eta intimitatea",
+    "media_desc": "\u201cEneagrama\u201d bideopodcastera Bidasoaren bestaldetik etorri zaigun lehen gonbidatua da Jurgi Ekiza. Rockstar bezala ez du bere burua irudikatzen, eta nahiz eta ezaguna egin zen 20 urtez zarata handiko talde baten frontmana izanagatik, bere alde intimoagoa erakutsi digu. Bi eneatipoen artean kokatuko du Jokin Ameztoik Jurgi, eta gainontzeko gonbidatuekin ez bezala, zalantza argiak izango ditu oraingo honetan.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4497761c-6b9f-4e0b-a6e6-dd7535f9212a.jpg"
@@ -616,7 +616,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "media_title": " Un estudio advierte de los riesgos para el coraz\u00f3n del uso prolongado de melatonina contra el insomnio. Llega Zientzia astea 2025",
-    "media_desc": "",
+    "media_desc": "Estatu Batuetan egindako ikerketa batek ondorioztatzen du urtebete baino gehiago melatonina osagarriak hartzeak bihotz-gutxiegitasuna izateko arriskua duela. Carlos Egeari, Arabako Osasun Erakunde Integratuko (OSI Araba) Loaren Unitateko buruari, galdetu diogu behaketa-ikerketa honi buruzko iruzkina egiteko, mugak dituena, baina ikerketa gehiago behar duen gai bati arreta jartzen diona. Nerea Jauregizar Zientzia Astearen programa aurkezten du, azaroaren 5etik 9ra bitartean izango dena.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -1539,7 +1539,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b72778c6-6c79-498a-82a2-5f2f4df4ac1d.jpg",
-    "media_title": "Giro | Real Sociedad-Girona | Valladolid-Alav\u00e9s | Osasuna-Espanyol | Valencia-Athletic",
+    "media_title": "Elche \u2013 Real Sociedad",
     "media_desc": null
   },
   "1394": {
@@ -1646,8 +1646,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "La plaza de Los Fueros tendr\u00e1 su libro",
-    "media_desc": "Duela ia 50 urte, 1976an, Gasteizko Udalak eta Arabako Foru Aldundiak asmo handiko proiektua eskatu zieten Eduardo Chillida eskultoreari eta Luis Pe\u00f1a Ganchegui arkitektoari: bi urte lehenago eraitsitako antzinako hornidura-plazak utzitako espazioa euskal herriaren ikur bihurtzea. Iritzi publikoa irauli zuen enkarguaren 50. urteurrena betetzear dela, gasteiztar talde batek Foruen plaza horri balioa eman nahi dio liburu baten bidez."
+    "media_title": "\u00bfCu\u00e1nto cuesta morirse?",
+    "media_desc": "Gizateriaren historian, hileta-errituak oso garrantzitsuak izan dira, eta, haiekin batera, erritual horiek ordaintzeko modua. Zalantzarik gabe, heriotza-aseguruek eta ehorztetxeek eskaintzen dituzten zerbitzuek bilakaera izan dute. Baina ez dira doakoak. Hiltzeak ere dirua balio du. Eta asko. Gaur jakingo dugu zenbat diru izan behar dugun gure ehorzketa ordaintzeko eta kostu hori senide eta lagunen esku ez uzteko."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1728,8 +1728,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Markinako organo jaialdikoak eta Donostiako Euskal Jaietakoak ",
-    "media_desc": "Donostiako euskal jaietako bertso-saioko aleak eta Markina Xemeingo Musika-Haizeak zikloaren barruan, organoarekin osatutako saio musikatukoak batu ditugu, gure bederatzikoarekin batera."
+    "media_title": "Bizkaiko Txapelketako lehenengo fasekoak",
+    "media_desc": "Urdulizen, Lekeition, Mungian, Galdakaon eta Getxon jokatu dira 2025eko Bizkaiko Bertsolari Txapelketako lehen faseko saioak. Hitzordu horietan entzundako hainbat bertsoaldi hartu ditugu \"Hitza jolas\"en atal honetan. Egin errepasoa gurekin!"
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2551,9 +2551,9 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Leticia Canales: \"Sustraietara itzulera baten modukoa izaten ari da\"",
+    "media_title": "Elx-Reala",
     "media_type": "audio",
-    "media_desc": "Euskal Herriko txapeldun izan berri da Leti Canales, pozik, berriz ere euskal zirkuitoan parte hartzen. Aldi berean, 20 urteko ibilbidearen ondoren, \"Laetitia\" dokumentala aurkezten ere badabil.",
+    "media_desc": null,
     "title": "Hiru Erregeen Mahaia",
     "description": "Kirola bere osotasunean. Futbola, pilota, arrauna, txirrindularitza etab. Kirola eta kirolariak. Gizonen eta emakumeen kirola. Emankizunak, erreportajeak, elkarrizketak, adituen iritzia. Kirol guztia, umorez jantzita.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/536ec854-5af6-4c7f-abbd-1b98eeef7387.jpg"
@@ -3014,8 +3014,8 @@
   },
   "2048": {
     "rss": "https://guau.eus/series/2048/rss.xml",
-    "media_title": "Gabriel Aresti: \u201cHarri eta herri\u201d",
-    "media_desc": "Gabriel Aresti Segurola (Bilbao,1933) euskal idazle eta poeta handienetakoa da. Urriaren 14arekin jaio zen idazle bizkaitarra, zendu berriz 1975 ekainaren 5ean Bilbon bertan eta bost hamarkada bete dira 2025ean.\nXX. mendeko euskal literaturaren berrikuntzan garrantzia handiko ekarpena egin zuen Arestik, Jose Luis Txillardegi eta Ramon Saizarbitoriarekin batera; bai formaren, bai edukien aldetik ere. 1960ko hamarkadan, Euskal Herriak Francoren diktadurapean bizi zuen egoerari aurre eginez, poesia sozial eta kritikoa egin zuen garaiko joerari jarraituz.\nGurasoak baserritar jatorrikoak ziren arren \u201ceuskaldun galduak\" izan ziren eta Gabriel, hamabi urterekin hasi zen euskalduntzen. 1954an, hogeitabat urte zituela, argitaratu zituen aurreneko poemak eta handik hamar urtera, bere lanik esanguratsuena, \u201dHarri eta Herri\u201d (1965, Itxaropena), GUAUk audioliburu gisa eskaintzen dizuna  \u201cPoesia ttanttak\u201d sailaren barruan.",
+    "media_title": "Nire ametsetan hogei urte duzu beti",
+    "media_desc": "\"Nire ametsetan hogei urte duzu beti\" Kirmen Uribek 1999-2024 urte artean idatzitako poesia bildumaren aukeraketa da. Ondarruko idazleak berak egindako aukeraketa eta egilearen ahotsean berean, audioliburu modura eskaintzen dizuguna.",
     "media_type": "audio",
     "title": "Poesia ttanttak",
     "description": "GUAU plataformak euskal poeta zenbaiten antologiak eskaintzen dizkizu. \nAutoreek beraiek, beren poesia lanen artetik egindako aukeraketako poemak, ahots goran irakurtzen  dituzte audioliburu formatuan eskainiz Euskarazko literaturarekin dugun konpromisoa areagotuz. ",
@@ -3296,8 +3296,8 @@
     "description": "\u201cAgertokiak\u201d, gazteen gogoetak biltzeko elkargunea da. Gazteek, beren eskarmentutik, inguratzen dituzten eguneroko gai eta emozioak plazaratzeko gunea. Xabier Madariaga kazetariak bideratzen du solasaldia, gazte arruntek, gazteen gaien inguruan dituzten ikuspuntu eta gogoetak podcast ataletan banatzeko.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/963810db-319f-4207-8e7e-fc6cde201563.jpg",
-    "media_title": "Generaci\u00f3n de cristal",
-    "media_desc": "Zilegi al da egungo gazteak kristalezkoak direla esatea? Maria, Mikel eta Iratxe dira gazte belaunaldiaren inguruko gogoeta egitera elkartu direnak atal honetan. Dituzten baloreak eta gizarteri egiten dioten ekarpenean jarri dute indarra, egoerara egokitzeko zailtasunak dituztela dioten iritziei aurre eginez."
+    "media_title": "Momentos de cambios",
+    "media_desc": "Oraina, lorpenak eta etorkizuna eraikitzeko bideak egonezina sortzen dute. Paula, Zouhair eta Jonek bide zail eta errazagoak izan dituzte orain arteko ibilbidean, baina ametsak dituzte eta partekatu egin dituzte \u201cAgertokiak\u201d podcastaren laugarren atalean. Helburua beti izango da eraikitako ametsa betetzea."
   },
   "2121": {
     "rss": "https://guau.eus/series/2121/rss.xml",
@@ -3401,7 +3401,7 @@
   "2148": {
     "rss": "https://guau.eus/series/2148/rss.xml",
     "title": "Mesa de corresponsales",
-    "description": null,
+    "description": "Nazioarteko aktualitatea aztertuko dugu Mikel Ayestaran, Yerai Diaz Ikaran eta Ane Irazabal kazetariekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/891e56e0-6269-4ee7-84df-b0d0446488ee.jpg"
   }
