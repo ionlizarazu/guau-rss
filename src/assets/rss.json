@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Julia Amaranta Garc\u00eda, neum\u00f3loga de la OSI Araba",
-    "media_desc": "Julia Amaranta Garc\u00eda, Arabako ESIko pneumologoa",
+    "media_title": "Kepa Arza, responsable municipal de Cementerios",
+    "media_desc": "Kepa Arza, Hilerrietako udal arduraduna",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -477,8 +477,8 @@
     "title": "Benetan zabiz? ",
     "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana.",
     "media_type": "video",
-    "media_title": "5. Aitziber Garmendia, armairutik kanpo",
-    "media_desc": "Aitziber Garmendia armairutik atera dute giltzapean egon eta gero, eta denbora luzez, \u201cBenetan zabiz?\u201d podcastera ez dutela gonbidatuko agindu diote neskek!\nAntsietateaz, gauzak perspektiba zehatz batekin ikustearen onurez, armairutik ateratzeaz, proposamenei beti baiezkoa emateaz\u2026 aritu dira, eta nola ez, umore askorekin! Jon Plazaolaren parte hartzea tartean. Benetan zabiz galduko duzula?\n",
+    "media_title": "6. Be\u00f1at Uribe-etxebarria, HOLAren azalean",
+    "media_desc": "Seigarren ataleko gonbidatua Be\u00f1at Uribe-etxebarria zinema zuzendaria da!\nBere lehenengo filma 2022an egin zuen baina, tamalez, ez du argia ikusiko. Hala ere, pelikula horri esker Hola aldizkari famatuan agertzea lortu zuen. Zergatik deitu zion atxilotuta zegoen aktore nagusiak komisaldegitik? Podcastera ez etortzeko aitzakiak, alferrikako zitak, HOLA aldizkarian agertu izana eta Zinemaldiko kotilleoak izan dituzte hizpide atal honetan. Maria Blanco kolaboratzaileak Nickelodeon katearen atzean dagoen ustelkeria aipatu du.  Benetan zabiz galdu egingo duzula?",
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg"
@@ -615,8 +615,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": " Primer trasplante en cerdos de ri\u00f1ones modificados con organoides renales humanos. Investigaci\u00f3n sobre la ELA. Historia mar\u00edtima vasca",
-    "media_desc": "Kataluniako Bioingeniaritza Institutuak (IBEC) zuzendutako ikerketa-talde batek, A Coru\u00f1ako Ikerketa Biomedikorako Institutu Nazionalarekin lankidetzan, teknologia aitzindari bat garatu du, giza giltzurrunetako organoideak sortzeko, gorputzetik kanpo txerri-giltzurrunekin konbinatzeko eta animalia berari berriro transplantatzeko aukera ematen duena. Kaliforniako Unibertsitateko (San Diego) Jone L\u00f3pez Erauzkin ikertzaileak Arrasaten egindako ELAri buruzko nazioarteko sinposio baten berrikuspena egin du. Gobernuak Anton Ugarte elkarrizketatu du, duela ia mende bat Atlantikoan zeharreko baso-nabigazioaren historia ikertu zuen Edmond Buron historialari kanadarraren lana ahanzturatik erreskatatu duena. Ugartek Edmond Buron historialari kanadarraren lana ahazturatik erreskatatu du. Ugartek, hain zuzen ere, duela ia mende bat Atlantikoan egindako nabigazioaren historia ikertu zuen.",
+    "media_title": "Matem\u00e1ticas para el bien com\u00fan: gesti\u00f3n de desastres humanitarios y de incendios forestales. C\u00f3mo mover multudes",
+    "media_desc": "Bego\u00f1a Vitoriano matematikariak Logistika eta Hondamendien Kudeaketako Erabakiak Laguntzeko Ereduei buruzko ikerketa talde bat zuzentzen du Madrilgo Unibertsitate Konplutentsean (UCM), eta berak ireki du \"Emakumeek Zientzia Egiten Dute\" zikloa Bidebarrieta Kulturgunean. Harekin hitz egin dugu matematikak nola ahalbidetzen duen laguntza humanitariorako eta hondamendi naturalen kudeaketarako beharrezkoa den logistika, hala nola uholde larriak eta baso-suteak. Horrez gain, Ra\u00fal Ib\u00e1\u00f1ezekin batera Marco Ellero fisikaria dago, BCAMeko ikertzailea, non jendetzaren portaera aztertu duen diziplina anitzeko talde bat zuzentzen duen, San Mam\u00e9s estadioa erreferentzia gisa erabiliz, ekitaldi masiboetan mugikortasunaren kudeaketan laguntzeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -2675,7 +2675,7 @@
     "description": "Radio Euskadiko 'True crime' sarituaren irrati-bertsioa, Miriam Duquek zuzenduta. Auzitegiko mediku, idazle eta polizia zientifikoko adituen eskutik erantzunak topatzen saiatuko gara.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ffc67956-0c4b-4d11-acfe-3b3e485fce32.png",
-    "media_title": "El matamujeresest\u00e1 en libertad  y vive muy cerca",
+    "media_title": "El matamujeres est\u00e1 en libertad  y vive muy cerca",
     "media_desc": "Joaqu\u00edn Ferr\u00e1ndiz, 95 eta 96 urteen artean bost neska gazte hil zituen serieko hiltzailea, aske dago. Espetxetik atera ondoren Irunera joan zela eta gero Andoainera, non lan egiten duen eta Ainhoa de las Heras kazetariarekin nola mugitzen den ezagutzen saiatu ginen. V.E.R.A. metodoa inplementatu genuen Devi Yerga kriminologoarekin eta balistika I\u00f1aki Irusta eta Ram\u00f3n Ba\u00f1uelosen eskutik."
   },
   "1694": {
@@ -3214,7 +3214,7 @@
   "1854": {
     "rss": "https://guau.eus/series/1854/rss.xml",
     "media_title": "9. Bullying",
-    "media_desc": "Eskola jazarpena, ikasle askoren eguneroko ogia da, eta bere buruaz beste egiten duten gazteen arrazoi nagusia. Gainera, teknologia berriek areagotu egin dituzte ziberbullying kasuak. Nerabezaroan bullying-a jasan zuen Irati Galardik eta gaur egun, \"Iragana\" proiektutik mota horretako jazarpena jasaten duten nerabeei laguntzen die. Bera da atal honetako gonbidatua.",
+    "media_desc": "Eskola jazarpena, ikasle askoren eguneroko ogia da, eta bere buruaz beste egiten duten gazteen arrazoi nagusia. Gainera, teknologia berriek areagotu egin dituzte ziberbullying kasuak. Nerabezaroan bullying-a jasan zuen Irati Galardik eta gaur egun, \"Adore\" proiektutik mota horretako jazarpena jasaten duten nerabeei laguntzen die. Bera da atal honetako gonbidatua.",
     "media_type": "video",
     "title": "Las voces del silencio",
     "description": "\"Las voces del Silencio\u201d Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
