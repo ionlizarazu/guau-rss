@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "3. Zuri\u00f1e Hidalgo, neska* ekintzaileak",
-    "media_desc": "Lau urtez musika sortu gabe egon eta gero Zuri\u00f1e Hidalgo bueltan da! Kala Naiz musika proiektuaz, \u201cEnraizadas\u201d emakumeentzako* erretiro espiritualez eta feminismoari ustezko \u201cetekina\u201d ateratzeaz ere aritu dira hiru neskak \u201cBenetan zabiz?\u201d podcastaren atal honetan.\n \nAutotunea \u201cez zaiola gustatzen\u201d eta kanta berriak ateratzearena \u201clasaitasunez\u201d hartzen ari dela azaldu die Zuri\u00f1ek. Ekintzailetzaren gaia hartu dute eta negozioak egiteko garaian emakumeek topa ditzaketen mugetaz. Benetan zabiz galduko duzula?"
+    "media_title": "4. Xabier Madariaga, gatazkaren fokuan",
+    "media_desc": "\u201cBenetan zabiz?\u201d podcastean, Xabier Madariaga!\n\n22 urte zituela abiatu zen Jerusalemera korrespontsal gisa, eta geroztik izan duen kazetari ibilbideaz aritu dira atalean zehar. \"Ur Handitan\" dokumental saioak jorratzen dituen gaien sakontasunaz, Palestina jazotzen ari den genozidioaz, informazioaren objektibotasunaz, gatazka guneetan lan egitearen garrantzia zein arriskuaz\u2026aritu dira harekin! Benetan zabiz galduko duzula?"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -91,8 +91,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e1350a90-d7c2-4851-829f-c5dbcf3c00ed.jpg",
-    "media_title": "1. Eztei bidaia",
-    "media_desc": "Holobiontearen amaiera ospatu eta urtebetera, Idurreren taldeak lasaitasun faltsuan bizi du egunerokoa: Imanol diskoteka batean atezain moduan lanean ari da, Odei bideo-jokoetan murgilduta eta Idurre unibertsitatera itzuli da. Matthew unibertsitatean ustekabe agertzen denean dena aldrebestuko da ordea, mezu kezkagarri bat baitakar: holobiontea ez da hil."
+    "media_title": "2. Nibiru",
+    "media_desc": "Idurreren taldeak bidaia luzeari ekiten dio Eskoziako Hebrida uharteetara, holobionteari aurre egiteko gakoa izan dezakeen Nibiru misteriotsuaren bila. Aldi berean, Matthew Jasconius itsasontziaren barruan dago, Task multinazioanalak holobiontea berpizten saiatzeko eratu duen laborategi mugikorrean. Batean zein bestean, sekretuek eta traizio arriskuak bidaia mehatxupean jarriko dute."
   },
   "1678": {
     "rss": "https://guau.eus/series/1678/rss.xml",
@@ -582,8 +582,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Entrevista a Pilar Bernab\u00e9, delegada del Gobierno en la Comunitat Valenciana",
-    "media_desc": "GOIDIaren lehen urteurrenean, Pilar Bernabek, Gobernuak Valentzian duen ordezkariak, urtebete geroago egoera nolakoa den azaldu du Radio Euskadiko Ganbara irratsaioan",
+    "media_title": "'Me he comprado una casa'",
+    "media_desc": "Etxebizitza izateko dagoen arazoa mahai gainean jarri dugu: zergatik erosi etxebizitza?, zenbat ordaindu duzu etxebizitzagatik? Nerea Salbidegoitiak, Julene Iradik eta Aitor Blazquezek beraien esperientzia kontatu digute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/92350349-bc6b-4395-b44f-7148f17ad957.jpg"
   },
   "1440": {
@@ -615,8 +615,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Matem\u00e1ticas para el bien com\u00fan: gesti\u00f3n de desastres humanitarios y de incendios forestales. C\u00f3mo mover multudes",
-    "media_desc": "Bego\u00f1a Vitoriano matematikariak Logistika eta Hondamendien Kudeaketako Erabakiak Laguntzeko Ereduei buruzko ikerketa talde bat zuzentzen du Madrilgo Unibertsitate Konplutentsean (UCM), eta berak ireki du \"Emakumeek Zientzia Egiten Dute\" zikloa Bidebarrieta Kulturgunean. Harekin hitz egin dugu matematikak nola ahalbidetzen duen laguntza humanitariorako eta hondamendi naturalen kudeaketarako beharrezkoa den logistika, hala nola uholde larriak eta baso-suteak. Horrez gain, Ra\u00fal Ib\u00e1\u00f1ezekin batera Marco Ellero fisikaria dago, BCAMeko ikertzailea, non jendetzaren portaera aztertu duen diziplina anitzeko talde bat zuzentzen duen, San Mam\u00e9s estadioa erreferentzia gisa erabiliz, ekitaldi masiboetan mugikortasunaren kudeaketan laguntzeko.",
+    "media_title": "Retos de la COP 30. El multiling\u00fcismo protege ante el envejecimiento prematuro. F\u00edsica cu\u00e1ntica de la vida cotidiana",
+    "media_desc": "Elisa Sainz de Murietak, BC3 zentroarekin lotutako EHUko irakasleak, Bel\u00e9men hasi zen COP 30ean mahai gainean dauden erronkak aztertzen ditu. 27 Europako herrialdetan egindako nazioarteko ikerketa batek agerian uzten du eleaniztasuna, hizkuntza bat baino gehiago erabiltzea ohikoa, zahartze goiztiarra izateko arrisku txikiagoarekin lotuta dagoela. Lucia Amorusok, BCBLkoak, eta Hern\u00e1n Hern\u00e1ndezek, BrainLat Institutukoak eta Adolfo Ib\u00e1\u00f1ez Unibertsitatekoak, emaitzak zehatz-mehatz azaltzen dituzte. CNICek zuzendutako ikerketak adierazten du bihotzekoak jasaten dituzten baina bihotz-funtzio normala mantentzen duten pazienteek ez dutela onurarik lortzen beta-blokeatzaileak bizitza osorako hartzean. Ana Mart\u00edn fisikari eta zientzia-komunikatzaileak bere liburua aurkezten du, Egunerokoaren fisika kuantikoa: tostadoretik GPSra.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -665,8 +665,8 @@
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
-    "media_title": "2. Amancay Gazta\u00f1aga: Sakon eta tropikal",
-    "media_desc": "Ekuadorren jaio eta bost urtera bizi izan zuen bere lehen \u201ctrasplantea\u201d Amancay Gazta\u00f1agak: Erdialdeko Amerikatik, Zestoara zuzen-zuzenean. Familiatik datorkio eneagramekiko zaletasuna eta sarritan gidoigintzarako erabiltzen duen tresna da. Intrusaren sentsazioari aurre egiteko bikaintasunaren bidean aritzen da Amancay; dela musikan, sabel dantzan, interpretazioan edo idazketan. Ea oraingoan ere era bikainean erantzuten dion!",
+    "media_title": "4. Uxue Alberdi: Askatasuna eta insomnioa",
+    "media_desc": "Idazterakoan libre aritzen da Uxue Alberdi, baina horrek prezio bat ere ordainarazi dio. Herri txiki batean bizi den arren, hiri handiaren anonimotasuna botatzen du faltan batzuetan, eta bere aurkaririk latzena aurkeztu digu: insomnioa. Bertsolaritzaz eta literaturaz, kanpoaldeaz eta barrualdeaz hitz egin du \u201cEneagrama\u201d podcastean. Hirugarren eneatipoaren ezaugarriak ikusi dizkio Jokinek, baina ez dakigu Uxue guztiz konforme geratuko ote den.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Miren Olaetxea: \"Lorpenek hasiera berria bizi du\"",
-    "media_desc": "\"Etxalartarrak gara eta Etxalarren bizi eta lan egin nahi dugu\". Ziurgabetasun-zurrunbilotik atera berri da Lorpen kirol jantzi-enpresa, onik atera baita jabe izan duen Ternua Group taldearen hondoratzetik. Loreak Mendiak eta Ternuaren bideari segiz, Lorpenek aurrera egitea lortu du, baina kanpoko erosle edo eskuhartzerik gabe: 25 langilek erosi dute lantegia. Miren Olaetxea ekoizpen-arduradunak azken hilabeteetan bizitakoa kontatu digu eta enresak bizi duen hasiera berria. \"Harroaldian segitzen dugu, baina argi dugu iparra: bertan ekoiztutako eta kalitate handiko jantzi tekniko jasangarriak ekoiztea\".",
+    "media_title": "Ainhoa Galdeano: \"Bilbon izotz pista bat behar dugu\"",
+    "media_desc": "Patinatzea pasioa da Ainhoa Galdeabo basauriarrarentzat. Umetan hasi zen izotz gainean, gurpilen gainean ere aritu da urteetan, eta, gaur egun \"Club Hielo Vizkaya\" n, helduen taldean lehiatzen ari da. Bilbon izotz pista baten beharraz jardun zaigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1304,8 +1304,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Adimen artifiziala, egile eskubideen jabe?",
-    "media_desc": "Lehen aldiz adimen artifizialak sortutako artista batek benetako kontratua siniatu du disketxe batekin. 3 milioi dolarreko balioa duen kontratua. Non dago muga? Legeak nori aitortzen dio egile eskubidea artizta 'fiktizioari' edo atzean dagoenari? Itziar Alkorta bioetika adituak eta Axular Arizmendi musikaria Faktoriak.",
+    "media_title": "ETAren biktimak eta torturatuak, besarkatuta: \"Hunkituta gaude erabat. Hizkuntza bera hitz egiten dugu\"",
+    "media_desc": "Ixone Fernandez torturaren biktimak, Maixabel Lasa Juan Mari Jauregiren alargunak eta Amelia Matxinbarrena ETAk hildako koronel baten bilobarekin batera, memoria eguneko ekitaldi nagusian parte hartu dute. Fernandezek eta Lasak hunkituta hitz egin digute biharamonean",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1359,8 +1359,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Kortikodependentzia ",
-    "media_desc": "Horrez gainera, gaurko gaien artean barizeak,  dibertikuloak eta dieta izan ditu hizpide Felix Zubia medikuak. ",
+    "media_title": "\"Kolesterol ona\" oso goian izateak babesten al gaitu? ",
+    "media_desc": "Galdera horrez gainera Felix Zubia esteetako polipoez, xixareez, karranpez aritu da, eta azaldu digu zergatik den garrantzitsua Osakidetzak bularreko minbiziaren baheketa 48 urteko emakumeetara aurreratzea.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1448,8 +1448,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/be4ccef2-aada-4322-918e-7b6eb92278d6.jpg",
-    "media_title": "\"El Foro\" reflexiona sobre la pol\u00e9mica concentraci\u00f3n de la Falange",
-    "media_desc": "Eusko Legebiltzarreko kontrolerako osoko bilkuran, urriaren 12an Gasteizen izandako Falangearen kontzentrazio polemikoaz galdetu zaio Jaurlaritzari, Arabako hiriburuan istilu larriak eragin baitzituen."
+    "media_title": "Hamar totem",
+    "media_desc": ""
   },
   "1473": {
     "rss": "https://guau.eus/series/1473/rss.xml",
@@ -1532,8 +1532,8 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/df33670d-f583-4a7f-8cc4-51b757eb1376.png",
-    "media_title": "Iker Go\u00f1i; Euskal Selekzioa - Palestina",
-    "media_desc": "Iker Go\u00f1i Euskal Futbol Federazioko lehendakariarekin elkarrizketa Euskal Selekzioaren eta Palestinaren arteko partidaz."
+    "media_title": "Joxean Fern\u00e1ndez \"Matx\u00edn\": \"Por calendario es dif\u00edcil ver a Pogacar en la Itzulia\"",
+    "media_desc": "World Tourreko talderik onenaren kirol zuzendaria izaj da Kirol Gauaren mikrofonoetan. UAEren urte historikoa errepasatzeaz gain, Tadej Pogacarrekin lan egitea nolakoa den azaldu digu."
   },
   "1532": {
     "rss": "https://guau.eus/series/1532/rss.xml",
@@ -1732,8 +1732,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Bizkaiko Txapelketako lehenengo fasekoak",
-    "media_desc": "Urdulizen, Lekeition, Mungian, Galdakaon eta Getxon jokatu dira 2025eko Bizkaiko Bertsolari Txapelketako lehen faseko saioak. Hitzordu horietan entzundako hainbat bertsoaldi hartu ditugu \"Hitza jolas\"en atal honetan. Egin errepasoa gurekin!"
+    "media_title": "Irura eta Amorotoko saioak",
+    "media_desc": "Irurako San Migel eguneko saioko bertsoaldiak, eta Amorotoko herriko plazan osatutako bertso saiokoak hartuta gatoz. Gaurkotasun beteko gaiez gain, bizitzako etapa ezberdinei buruzkoak, galdera sakonak zein jolastiagoak ere hautatu ditugu \u201cHitza jolas\u201d saioan."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -1954,7 +1954,9 @@
     "title": "Barruan gaude",
     "description": "Elkarrizketa podcasta, baina, ez edonolakoa. Oier Aranzabalek pertsonaia baten etxera sartuko gaitu, berarekin solasean jardun eta istorio berriak kontatzeko. Sortzaileak, musikariak, aurkezleak eta zerbait interesgarria esateko daukan oro. ",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg",
+    "media_title": "\"Barruan Gaude\" teasserra: badator 5. denboraldia",
+    "media_desc": "Azaroaren 14an abiatuko dugu \u201cBarruan gaude\u201d podcastaren  bostgarren denboraldia. Oier Aranzabal beste zortzi etxetara sartuko da ostiralez ostiral, bertan bizi den protagonista hurbiletik ezagutzera.\n \nMusikari berezi baten atea jo du abiatzeko baina aurreko 84 etxetako bizilagunen habietara ere sartu zaitezke.\n \n\u201cBarruan gaude\u201d ULU Mediak ekoizten du EITB Mediarentzat."
   },
   "1294": {
     "rss": "https://guau.eus/series/1294/rss.xml",
@@ -2122,8 +2124,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Hildakoen ogia, Mexikotik Euskal Herrira",
-    "media_desc": "\"Hildakoen ogia\" dastatu dugu Mexikon jaio eta egun Euskal Euskal Herrian bizi den Arrate Muruarekin.",
+    "media_title": "Nobita eta Doraemonen euskarazko ahotsak",
+    "media_desc": "Ane Aseginolazak Doraemon bikoizten zuen; eta Arantxa Mo\u00f1uxek, Nobita. 'Animedon' jaialdiak omenaldia egin behar diela eta, bi bikoizleak elkarrizketatu ditugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2403,8 +2405,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "FC Barcelona - Baskonia",
-    "media_desc": null
+    "media_title": "Maccabi - Baskonia, hoy a las 20:30",
+    "media_desc": ""
   },
   "1305": {
     "rss": "https://guau.eus/series/1305/rss.xml",
@@ -2605,8 +2607,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": " Nafarroan erreleborako, Luberri programa",
-    "media_desc": "EAEn lehen aldiz,  4 herriak euren herri lurrak era ekologikoan ustiatzeko konpromisoa hartu dute. Amezketa, Zaldibia, Ataun eta Urdu\u00f1a. "
+    "media_title": "Mondejuaz, Pili Barandairan ataundarrarekin",
+    "media_desc": "Mondeju beltza, Ataungo kutizia, nola egiten den eta zein historia duen kontatu digu. "
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -2634,8 +2636,8 @@
     "description": "Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Datorkigunaren aurrean zer egin dezakegun ezagutzera eman nahi dugu, Guillermo Roak gidatutako saioan. Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Herri lurrak nekazaritza ekologikoaren eredupean",
-    "media_desc": "Irailaren 23an Europako Nekazaritza Ekologikoko Eguna ospatzen da. Horrekin lotuta, lau udalerrik herri lurrak eredu horrekin kudeatzeko akordioa sinatu dute: Urdu\u00f1a, Amezketa, Zaldibia eta Ataun. Jon Fontelo Sukia Ataungo ingurumen, nekazaritza eta abeltzaintzako zinegokia eta ingeniari agronomoak eman dizkigu azalpenak."
+    "media_title": "Otarrainak eta baleak",
+    "media_desc": "Bi istorio, batez ere, saio honetan. Batetik, Atlantikoaren hegoaldera, Tristan de Cunha uharte urrunera abiatu gara eta bertako otarrainen arrantza ezagutu dugu. Bestetik, bale groenlandiarraren adinaren sekretuaz hitz egin dugu. 200 urte baino gehiago izatera iris daitezke!"
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
@@ -2645,8 +2647,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Joxe Azurmendi: Hitz berdeak",
-    "media_desc": "Saiakerek eman zioten Joxe Azurmendi zenari osperik handiena, baina bere lehen liburua, poema bilduma bat izan zen, Hitz berdeak izenekoa, 1971n argitaratua. Lehena eta bakarra. Armiarma.eus atariak Azurmendiren zazpi poema entzuteko moduan jarri ditu, Jose Luis Otamendiren ahotsean."
+    "media_title": "Artzainak, gure lehen poetak ",
+    "media_desc": "Literatura eta natura uztartzen dituzten topaketak antolatu dituzte azken urteotan Iratiko basoan, UNESCOk Gizateriaren Ondare izendatutako lurraldean. Aurten, Orbaizeta izan da Euskal Herriko Irakurle Taldeen topaleku handia, \"Literatura eta bortua\" jardunaldian. Bertan aurkeztu du Oskar Alegria zinemagileak \"Artzainak, gure lehen poetak\" bere film dokumentala."
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3220,13 +3222,13 @@
     "description": "\"Las voces del Silencio\u201d Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3748d8c0-a7b7-4104-8ea0-cde8891a789d.jpg",
-    "media_title": "6. Autolesiones y suicidio",
-    "media_desc": "Auto-lesionatzea, nork bere burua zauritzea, pertsonak bakardadean bizi duen sufrimendu emozionalari irtenbidea jartzeko modua izaten da sarri. \u201cLas voces del silencio\" podcastaren atal honetan Alberto Ruiz de Alegriarekin aztertu dugu gaia. Luzaro lan egin du psikologo gisa eta bere eskarmentua baliatuko dugu irtenbide bila."
+    "media_title": "8. Como comprender a un adolescente",
+    "media_desc": "Nerabezaroa ez da garai erraza; aldaketak, erronkak, bizipen berriak baititu bere baitan. Emozioak areagotzen dira eta presio handia sentitzen da gizartean onartua izateko. Aroa Col\u00e1s gazteak, gainditu berri du helduek nerabea ulertzen ez duten garai hori. Berarekin solasean, etapa zail hori barrutik nola bizi izan duen azaldu digu."
   },
   "1854": {
     "rss": "https://guau.eus/series/1854/rss.xml",
-    "media_title": "9. Bullying",
-    "media_desc": "Eskola jazarpena, ikasle askoren eguneroko ogia da, eta bere buruaz beste egiten duten gazteen arrazoi nagusia. Gainera, teknologia berriek areagotu egin dituzte ziberbullying kasuak. Nerabezaroan bullying-a jasan zuen Irati Galardik eta gaur egun, \"Adore\" proiektutik mota horretako jazarpena jasaten duten nerabeei laguntzen die. Bera da atal honetako gonbidatua.",
+    "media_title": "10. Sistema educativo y digitalizaci\u00f3n",
+    "media_desc": "Teknologiak gizartea aldatu du eta, jakina, eskola eremua ez dago aldaketa horietatik salbu. Ikasi eta erakusteko modu berriak ezarri behar izan ditu. Hezkuntza digitalak ekarri dituen arazo eta erronkei buruz hitz egin dugu podcast sail honetako azken atalean Pablo Garaizar, Informatikan Doktore eta psikologoarekin. ",
     "media_type": "video",
     "title": "Las voces del silencio",
     "description": "\"Las voces del Silencio\u201d Telmo Lazkano eta Maitane Ormazabalek gidatutako podcasta da, izen bereko liburuan oinarrituta. Aldaketa garaian eta zaurgarri dauden nerabeek osasun mentalean izan ditzaketen arazoak bideratzeko helburua du.  Antsietatea, bullyinga, lehiakortasuna, elikadura nahasmendua, presioa... maiz azaltzen dira heldutasunerako bidean dauden nerabe eta gazteen artean. Une zail horretan bizi dituzten oztopoei aurre egiteko tresnak eskura jarri nahi dira.   ",
@@ -3356,7 +3358,7 @@
     "description": "Podcastaren unibertsoa izugarria da, egunero ehunka proposamen estreinatzen dira. Horregatik behar dugu norbaiten laguntza. Juan Pablo Garzonek astean behin aztertzen ditu merkatuko proiektu eta podcast onenak, zer ezin duzun galdu jakin dezazun, eta sektoreko ahotsik onenetako batzuk gonbidatzen ditu proposamenei, soinu-fikzioei, elkarrizketei eta proiektu esperimentalei buruz hitz egitera. Hori guztia Radio Euskadiko Boulevarden, La podcasteran.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e2531b81-1a52-4139-97d3-f73683146335.jpg",
-    "media_title": "La podcastera",
+    "media_title": "Vuelos de la muerte",
     "media_desc": ""
   },
   "2127": {
