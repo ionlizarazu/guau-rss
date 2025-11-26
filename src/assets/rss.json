@@ -26,8 +26,8 @@
     "title": "Eneagrama ",
     "description": "\u00a8Eneagrama\" sortzaileen plaza da, baina ez edozein plaza, ez baita ohiko elkarrizketa podcast bat. \nPlaza berezi honetara datozen gonbidatuak Katixa Agirrerekin batera jolasteko prest datoz. \n\nKultur elkarrizketak dira, gertutasunez eginda, intimitate puntu batetik eta autoezagutzara bideratuak. Izan ere, Jokin Ameztoi jakintsuak, Andoni Mutiloa kazetari eta aktoreak gorpuzten duenak, gonbidatuari bere eneatipoa zein den zehazten laguntzen die test txiki baten erantzunei erreparatuz. ",
     "media_type": "video",
-    "media_title": "5. Jurgi Ekiza: Frontmana eta intimitatea",
-    "media_desc": "\u201cEneagrama\u201d bideopodcastera Bidasoaren bestaldetik etorri zaigun lehen gonbidatua da Jurgi Ekiza. Rockstar bezala ez du bere burua irudikatzen, eta nahiz eta ezaguna egin zen 20 urtez zarata handiko talde baten frontmana izanagatik, bere alde intimoagoa erakutsi digu. Bi eneatipoen artean kokatuko du Jokin Ameztoik Jurgi, eta gainontzeko gonbidatuekin ez bezala, zalantza argiak izango ditu oraingo honetan.",
+    "media_title": "8. Xabier Mendiguren: Editatu eta baketu",
+    "media_desc": "Editorea izaki, oso ezaguna ez den ofizioaz aritu gara Xabier Mendigurenekin. Bokazio literarioak zapuzteko beldurrik gabe ibiltzen da Elkarreko editorea, kritika konstruktiboak eginez eta bidean ager dakizkiokeen haterei jaramonik egin gabe. Alferkeriaz, jubilazioaz eta antzerkiaz ere aritu dira Katixa eta Xabier \u201cEneagrama\u201d bideopodcastean. Jokin Ameztoik, bakezaletasun eta prokrastinaziorako joerengatik, bederatzigarren eneatipoan kokatu du. Baina auskalo\u2026 bere burua oraindik ezagutzen ari den gonbidatua baita.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4497761c-6b9f-4e0b-a6e6-dd7535f9212a.jpg"
@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Pello Otxandiano: \"Mila milioiko inbertsioa eskatuko diogu Jaurlaritzari etxebizitza publikoak eraikitzeko\"",
-    "media_desc": "EH Bilduren Legebiltzarreko bozeramaIleak adierazi du proposamen bakarra aurkeztuko diola D\u00b4Anjou sailburuari, etxebizitza parke pulbiko ahalik eta zabalena eraikitzeko. Euskal Selekzioaren eta Palestinaren arteko futbol partidaren bezperan,  \"notizia futbol zelaian egongo della\" adierazi digu eta dei egin du denok elkarrekin, \"heldutasun demokratikoz\" ospatzeko biharko egun historikoa.",
+    "media_title": "Partida historikoaren atarian, hiru protagonista",
+    "media_desc": "Yaser Hamed Palestinako jokalariarekin, Jagoba Arrasate Euskadiko hautatzailearekin eta Mikel Labaka bigarren entrenatzailearekin aritu gara San Mamesko partida haundiaz. Genozidioari stop esatera doaz eta bi herriak kirol mapetan jartzera",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "El Grupo 24 horas de Alcoh\u00f3licos An\u00f3nimos de Vitoria cumple 10 a\u00f1os",
-    "media_desc": "Jes\u00fas eta Iker, Gasteizko Alkoholiko Anonimoen 24 orduko Taldeko kideak",
+    "media_title": "Jon Urresti, presidente de Fundaci\u00f3n Vital Fundazioa",
+    "media_desc": "Jon Urresti, Fundaci\u00f3n Vital Fundazioko presidentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -163,8 +163,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nola aldatu etxebizitza politika publikoak?",
-    "media_desc": "Unai Fernandez de Beto\u00f1o arkitekturan doktoreak eta Joxan Medina, Euskadiko Arkitektura Institutoko zuzendariak utzi dituzte erantzunak, Faktorian",
+    "media_title": "7 emakume, 7 testigantza",
+    "media_desc": "Azaroaren 25an lantokian indarkeria matxista jasan duten edo gertu ikusi duten 7 emakumeren testigantza jaso dugu, izan hezkuntzan, politikagintzan edota adinekoen egoitzan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Irati Agirreazkuenaga: \"Fakultateen arteko hartueman eta elkarrekintza kulturala sustatu nahi dugu EHUn\"",
-    "media_desc": "EHUren Leioako campuseko ikasleen euskara eta kultura zuzendaria da Irati Agirreazkuenaga Onaindi. Ekimen handiko emakumea da, unibertsitateko jardunaz gain, kazetaritzan eta antzerkigintzan bidea egindakoa. Gazako Sol Band taldearen kontzertuaren aurretxoan elkarrizketatu dute, eta musikari palestinarrekin ere egin dute hitzaspertua.",
+    "media_title": "Zuhar Iruretagoiena:\"Espresio artistikoaren erronka handiena hezkuntzan dago\"",
+    "media_desc": "Gure Artea Saria jaso du aurten Zuhar Iruretagoienak, zehazki, sorkuntza lanarengatik eman diote. Gaur egun, Arte Ederren Fakultatean irakaslea da, eta bere azken erakusketari buruz ere hitz egin digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -571,8 +571,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "A badakit! Kattalin Barcena",
-    "media_desc": "J Martina taldeko Kattalin Barcena jarri dugu gure kantu zerrenda asmatzen.",
+    "media_title": "Anepedia: Espirulina",
+    "media_desc": "Ane Galardik espirulinaren jatorriaz, erabileraz eta propietateez mintzatu zaigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -615,8 +615,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Oncomatryx logra avances contra tumores sin cura con sus anticuerpos conjugados. Materiales cr\u00edticos a examen",
-    "media_desc": "Laureano Simonek, Zamudion kokatutako Oncomatryx farmazia-enpresa baten sortzaile eta presidenteak, duela 15 urte hasi zen gaur egun sendaezinak diren tumoreentzako tratamendu berritzaileak garatzen. Bere antigorputz konjugatuek ez diote tumoreari berari erasotzen bakarrik, baita inguruko mikroingurunea ere, hazten eta aurrera egiten laguntzen dion ingurunea. Orain arte egin dituzten entsegu klinikoen emaitzak itxaropentsuak dira, eta Europan, Estatu Batuetan eta Txinan fase aurreratuago batean beste entsegu batzuk egiteko prestatzen ari dira. BCMaterials zentroak material kritikoei buruzko tailer bat egin zuen: lortzea edo birziklatzea zaila den baina prozesu teknologikoetan ezinbestekoak diren materialak. Daniel Salazarrek, BCMaterials-ekoak, eta Elena Jubetek, Cidetec-ekoak, material horien inguruko erronkak azaldu zituzten. EHUko ikertzaile Luz Boyerok ibaien osasunerako garrantzitsua den prozesu bat neurtzeko sortu duten metodologia aurkeztu zuen: materia organikoaren deskonposizioa.",
+    "media_title": "Guiomar Niso, neurocient\u00edfica: \"La ciencia debe ser abierta y reproducible\". Antiaging para un cerebro joven",
+    "media_desc": "Guiomar Niso, Espainiako Ikerketa Zientifikoen Kontseilu Nagusiko (CSIC) Cajal Institutuko ikertzaileak, pertsona osasuntsuen eta gaixotasun neurologikoak dituztenen garuneko dinamika ikertzen du. Bere ikerketari eta zientzia ireki eta erreproduzigarriaren garrantziari buruz hitz egin dugu berarekin. Jordi Olloquequi neurobiologoak *Antiaging for the Brain* liburua aurkeztu du, non hesteetako mikrobiotaren eta garunaren zahartzearen arteko harremanetik hasi eta adinean aurrera egin ahala garun osasuntsu bat sustatzen duten bizimodu ohitura osasungarrietaraino dena azaltzen den.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -731,8 +731,8 @@
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
-    "media_title": "The Clash (I): Garrantzia duen talde bakarraren historia",
-    "media_desc": "70eko hamarkadan, punkaren goraldian sortu zen The Clash taldea Londresen. Musikaren historian arrasto sakona utzi zuen  Joe Strummer, Mick Jones, Paul Simonon eta Topper Headon-en taldeak, eta Euskal Herrian izan zuen eragina ere sekulakoa izan zen.\n \n\u201dPasaiak\u201d podcastaren laugarren denboraldia talde ingelesaren historiari errepasoa eginez hasi dugu.",
+    "media_title": "The Clash (II) : Punk-aren mugak gainditu zituen banda enblematikoa",
+    "media_desc": "Printzipio eta kode propioak zituzten eta euren abestietan reggae, ska, jazz nahiz haize sekzioak sartuz era guztietako melomanoak batu zituzten.\n\u201cLondon Calling\u201d eta \u201cSandinista!\u201d aztertu ditu Irantzu Karrerak \u201cPasaiak\u201d podcastaren atal honetan.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1293,8 +1293,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Tateko panettonea, penintsulako 10 onenen artean",
-    "media_desc": "IRCA gozotegiko produktuen enpresak antolatzen duen lehiaketako finalista da Markina-Xemeingo Tate gozotegiko panettonea. Milanen egingo dute finala, eta hara joan aurretik gozotegiko arduradunarekin egon gara, Martxel Iridoyrekin.",
+    "media_title": "Zahartzaro feministarantz, BOGA-BOGA",
+    "media_desc": "Ondarroako andre adoretsu batzuek sortu zuten BOGA BOGA talde feminista duela hiru hamarkada. 30 urtez egindakoa, ikasitakoa, eta lortutakoa laburbildu dute 30 minutu pasatxoan. Protagonistetako batzuegaz eta zuzendari bikoteagaz egin dute berba Faktorian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1509,7 +1509,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Boicot Spotify, DA Kabia y libros",
+    "media_title": "Anari y Zinebi",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/687e416f-e0df-4fc8-a5bc-152768dc025d.jpg"
   },
@@ -2103,8 +2103,8 @@
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e67bdf7c-e5d6-476e-a95f-757e309d7d83.jpg",
-    "media_title": "\"Ruta gastron\u00f3mica por Iparralde desde el m\u00edtico Hotel-Restaurante \"Ithurria\" (Ainhoa)\"",
-    "media_desc": ""
+    "media_title": "Programa desde el Restaurante \"Itzuli\" en el Hotel \"Luze\" Boutique San Sebasti\u00e1n",
+    "media_desc": null
   },
   "1456": {
     "rss": "https://guau.eus/series/1456/rss.xml",
@@ -2647,8 +2647,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Ota\u00f1o: hain maitatua, hain kantatua.",
-    "media_desc": "Pedro Mari Ota\u00f1o (1857-1910) bertsolari eta poeta handia izan zen. Zizurkildarra sortzez, Argentinako Santa Fe probintziako Rosario hirian hil zen. Atzerriko oroimina izan zen haren gogo-eragile indartsuena, sorterriaren sentimendu minberatua maitasun inposibleraino jaso zuena. Oso bertsolari ezaguna eta maitatua, haren bizitzaren eta obraren bueltako filma aurkeztu du Patxi Bisquert aktoreak eta orain zuzendariak: 'Ombuaren itzala', Pedro Mari Ota\u00f1oren ondarea belaunaldi berriei hurbiltzea helburu.\n"
+    "media_title": "Idazketa kolektiboa ",
+    "media_desc": "Medikua den idazlea da Arantzazu Lizartza (Leitza, 1994), idazlea den medikua. Eguneroko ertzetan aurkitu du poesia idazteko materiala. Eta ospitaleko begiradetan poesia idazteko aitzakia. Hau du bere lehen liburua: O negatiboa. Poesia liburu bat, Pamiela argitaletxearekin. \nPoesiak sendatu, elikatu eta batu egiten du.\n"
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3241,7 +3241,7 @@
   "2110": {
     "rss": "https://guau.eus/series/2110/rss.xml",
     "title": "Erantzuteko modu bat",
-    "description": "Alaia Martinek patxada hartzen du galderei erantzuteko. Absurdoak diruditen galderen kontsultategia da. \nEuskadi Irratiko Faktoria magazineko edukia. \n\nEITB Mediak GUAU, Gure Audioa, plataformaren bidez eskaintzen dizu. \n",
+    "description": "Alaia Martinek patxada hartzen du galderei erantzuteko. Bizitzari eta harremanei buruzko gogoeta jostaria proposatzen digu, irudimenean bizi diren lagunekin hizketan, absurdoak diruditen galderetatik abiatuta.\nEuskadi Irratiko Faktoria magazinean astero emititzen den tartea da.\nEITB Mediak GUAU, gure audioa, plataformaren bidez eskaintzen dizu. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a241f97e-a20b-4d68-9f14-54003343a8d1.jpg",
     "media_title": "Xabi Bandinik zergatik kantatzen dio espazioari?",
