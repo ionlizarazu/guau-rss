@@ -91,8 +91,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e1350a90-d7c2-4851-829f-c5dbcf3c00ed.jpg",
-    "media_title": "5. Mendelssohn",
-    "media_desc": "Nibiruren gordelekuan holobiontearen erasoa bertatik bertara bizi dute Idurrek eta Imanolek. Eta Nibiruren eta haren zakurraren bizitza arriskuan daude. Fingalen haitzuloa bisitatzera joan diren Aroa eta Odei Jakob txorizale astunarekin topatuko dira, baina baita Task Corporationen konspirazioarekin , eta \u201cImhullu\u201d izeneko elementu misteriotsuarekin ere."
+    "media_title": "6. Obertura",
+    "media_desc": "Jakob Mendelssohn, Task korporazioaren benetako buruak, bere plan ikaragarriak agerian ipini ditu, baina holobionteen eraso bortitzak kaosa zabalduko du. Matthew, Idurreri lagundu ezinik dago Jasconiusen gatibu. Bitartean, Fingal koban, Idurre, Aroa, Imanol eta Odeik \u201cImhullu\u201d izeneko arma sonikoaren bidez azken borroka erabakigarriari ekingo diote."
   },
   "1678": {
     "rss": "https://guau.eus/series/1678/rss.xml",
@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Miren Elgarresta: \"Negazionismoak espazio digitalean hartu du hauspoa, ondo antolatuta dago eta gazteak ditu jomugan\"",
-    "media_desc": "Berdintasunerako ez direla garai onak dio Elgarersta Emakundeko zuzendariak. Indarkeria matxista ukatzen duten diskurtsoen atzean mugimendu antolatua dagoela dio, eta batez ere espazio digitala hartu dutela 16 eta 29 urte arteko gazteengana heltzeko.",
+    "media_title": "Miren Echeveste: \"Mendozak erabaki behar du PPrekin edo ezkerrarekin adostu. Biekin ezin da\"",
+    "media_desc": "Gipuzkoako aurrekontuak zuzentzeko egin dituzten proposamenei Foru Aldundiak zein konpromiso eta diru-partidekin erantzungo dien zain dago Podemos. Akordioa Gipuzkoatik Araba eta Bizkaira ere zabaldu nahiko lukete moreek",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -163,8 +163,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "7 emakume, 7 testigantza",
-    "media_desc": "Azaroaren 25an lantokian indarkeria matxista jasan duten edo gertu ikusi duten 7 emakumeren testigantza jaso dugu, izan hezkuntzan, politikagintzan edota adinekoen egoitzan.",
+    "media_title": "Kokainaren kontsumoaz eta bideez",
+    "media_desc": "Belgikako epaileek modu anonimoan salatu dute herrialdea narko-estatu bilakatzen ari dela. Gero eta droga gehiago sartzen da herrialdera eta Europara.\n \nEdurne Galan, Ertzaintzaren Arabako Lurralde Ikerketa Buruak eman dizkigu egiten duten lanaren inguruko azalpenak. Jokin Segovia Ailaket elkarteko arduradunaren azalpenak ere jaso ditugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -571,8 +571,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Luiginak: Zer dira basque natxoak?",
-    "media_desc": "Yerai Diaz, Ane Irazabal eta Nerea Sarriegi, gai librean. Aipatu dituzte: \"Basque natxoak\" esistitzen ote diren, \"basque\" zeri esaten dioten munduan barrena, berogailu sistemak NY, Berlin eta Madrilen, Uschi Glas aktore alemaniarra, lan-gosariak eta kazetariei ematen zaien tratua eta garraio publikoan txakurrak eramateaz.",
+    "media_title": "Korrikako sortzaileei omen",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -849,7 +849,9 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/285e43ac-7db5-46b4-9af5-a73363429365.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/285e43ac-7db5-46b4-9af5-a73363429365.jpg",
+    "media_title": "Ekonomiaz 2: \"Agian bono berezi bat behar da euskal kulturarentzat\"",
+    "media_desc": "Helena Francok eta Arantxa Tapiak uste dute  Durangoko azoka ondo kokatzen dela kultura kontsumitzeko modu masibo berrietan."
   },
   "1659": {
     "rss": "https://guau.eus/series/1659/rss.xml",
@@ -1293,8 +1295,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Elena Asins artistaren zuri eta beltzak, heriotzaren 10garren urteurrenean",
-    "media_desc": "Elena Asins, arte kontzeptualaren erreferente eta ikur izandako artista madrildarrak Azpirotz aukeratu zuen bizitzeko eta bere etxean izan gara, orduan herriko alkate zen eta harreman handia izan zuen Joxemiel Etxetxikiarekin. Artistarekin lotura handia izandako Ziriako Arandia \"Xiri\"  artezale eta adiskidearen etxera ere hurbildu gara, STM-ari emango dion Elena Asins-en artelana hantxe etxean duelako. Zarauzko malekoiko \"Canons 22\" eskultura multzoaren prozesua gertutik ezagutu zuen Mari Jose Aranzasti arte historialariari ere eman diogu hitza.Azkenik, Artium museoan ikusgai ditugun Asins-en lanei buruz  hitz egin digu Ixone Ezponda bilduma koordinatzaileak.",
+    "media_title": "David Galartza: \"Apaiz baten lana da herritarrengana hurbiltzea\"",
+    "media_desc": "Araitz, Betelu, Lekunberri eta Larraungo 47 herrietako parrokoa da David Galartza. Bere etxeko ateak zabaldu dizkigu eta bere lanaren berri eman digu. Apaizaren lana herritarrengana hurbiltzea dela dio.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1349,8 +1351,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "Ordu aldaketak baino, argi ordu gutxiago izateak gugan duen eragina aztertu dugu",
-    "media_desc": "Josune Perez psikologoak, Gunetuz psikologo euskaldunen sareko kideak azaldu digu bere lanean ze eragin eta aldaketa somatzen dituzten jendearengan negu giroan sartzearekin batera, tartean ordu aldaketa eginda. Bide batez askoz egoera muturragokoa bizi duen Be\u00f1at Elortzaren testigantza bildu dugu. Norvegian bizi da bera, Norvegia iparraldean, eta badaki neguan 2-3 argi ordubaino ez izatea edo udan negurik ez izatea zer den."
+    "media_title": "Sobrongo Ekoetxean, uraren museoaren egoitzan, bisitan",
+    "media_desc": "Inguruak ezagutu eta uraren zikloari buruz gehiago ikastera bertaratu gara eta Sarai Camarero ingurumen hezitzaileak eman dizkigu argibideak. Ebro ibaiaren alboan kokatua, garai batean bainuetxe bat egon zen bertan. Uraren garrantzia izan dugu hizpide eta glaziarrek duten garrantziagatik E\u00f1aut Izagirre glaziologoaren hausnarketak ere jaso ditugu tartea osatzeko. "
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1359,8 +1361,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Gripearen kontrako txertaketa garaia",
-    "media_desc": "Gripearen kontrako txertoa hartzeko deia egin du Osakidetzak eta  Bilbon, La Casillan, txertaketa zentroa ireki dute. Dupuytren gaitzari buruz ere aritu da Felix Zubia medikua.",
+    "media_title": "Ictusa eta buruko hemorragia",
+    "media_desc": "Felix Zubia medikuak, Ictusaren eta Buruko Hemorragiaren arteko desberdintasunak azaldu ditu. Sintomak zehaztu ditu, arreta, lehen baino lehen egitea oso garrantzitsua delako.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1415,8 +1417,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Kimika fakultateak 50 urte",
-    "media_desc": "Txoni Matxain, EHUren Donostiako Kimika fakultateko dekanoa da gonbidatu nagusia. Fakultatearen 50. urteurrenaz hitz egin dugu eta kimika bera nola aldatu den epe horretan."
+    "media_title": "Zientzia krimenak argitzeko",
+    "media_desc": "Josu Lopez Gazpio, UEUko kimikaria. Kriminalistikari buruzko atalean, detekzio-akatsak aztertu  ditugu. Etilenglikolaren eraginez hildako umearen kasua, esate baterako. Gorputzean ez dugun substantzia bat ume batengan!"
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1520,8 +1522,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "19 a\u00f1os, al\u00e9rgico a las abejas y el productor de la mejor miel de \u00c1lava",
-    "media_desc": "Jorge Murillok ez ditu 20 urte oraindik, eta 18 erlauntza ditu Elgea-Urkila mendilerroaren magalean. Zanbranako erlezain gazte honek XXVII. 2025eko Arabako Ezti Lehiaketa, Arabako Erlezainen Elkarteak (APIAL) antolatua. Jorge Murilloren erakusketa irabazlea ezti eta mila loreen barietatea da, % 52ko gaztainondo-polena duena, eta erleen ziztadari alergia diona.",
+    "media_title": "M\u00e1s de 11.000 cargos elegidos en los comicios a concejos 2025",
+    "media_desc": "Azaroaren 23ko hauteskunde egunean 11.000 kargu baino gehiago aukeratu dira datozen 4 urteetan lurraldeko 332 kontzejuen destinoa arautuko duten erregidore eta bokal hautetsien artean. 2025eko kontzejuetarako hauteskundeei buruzko erreportaje berezia. Gasteizko hegoaldeko landa-eremutik abiatzen da, Monasterioguren kontzejuan, eta, ondoren, Letonara iristen da, Zigoitian; Murgian ere gelditzen da, eta, ondoren, Aiarako haranera, Luiaondon. Azkenik, Gaubeako Osma kontzejuko Gizarte Zentrora bisita.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1650,8 +1652,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Karmele Jaio presenta en Radio Vitoria \"Harrizko Bihotzak\"",
-    "media_desc": "Familia eta haurtzaroa behin eta berriz aipatzen dira Karmele Jaio idazle gasteiztarraren lanetan, eta hori \"Harrizko bihotzak\" liburu berrian ere gertatzen da."
+    "media_title": "Prostituci\u00f3n, pornograf\u00eda y OnlyFans",
+    "media_desc": "OnlyFanss: duela ia 10 urte sortutako plataforma polemikoa, helduei zuzendua neurri handi batean, bere edukia erotikoki edo sexualki esplizitua delako. Ustez, plataforma honetan partekatzen den guztiaren truke diru kopuru bat kobratzen da. Paula Fern\u00e1ndez eta  Mikel Arakistan eta Elena del Barrio, Psikologia Klinikoan doktorea, irakasle elkartua eta SEXPOL Fundazioko Sexualitate eta Genero Masterra. Gizarterako elkarteak eta Vital Fundazioak antolatutako \"Prostituzioa, pornografia eta only fans: ahalduntzea edo esplotazioa?\" hitzaldia eskainiko du."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1683,8 +1685,8 @@
     "description": "Kulturgintzaren unibertsoan jasotako bizipenak eta irakaspenak, asko dira. Batzuengatik hartzen dugu, hurrengo belaunaldiei emateko. Durangoko Azoka honen guztiaren bilgune izanik, ekarpen asko dugu  sortzaileen artean solastu eta partekatzeko. Amets Arangurenek gidatuta, \"BaDA!bil\" poscasta  hausnarketa gunea da kultur sortzaileen bilkura nagusiaren atarian. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ffdf506e-03b6-478f-bcc7-f0ecb0f79f3c.jpg",
-    "media_title": "3. Gure kantuak noren esku?",
-    "media_desc": "Kantu baten sorreratik hau oholtzara edo entzuleen belarrietara eramateko bidean asko dira artistak egin beharreko hautuak: Norentzat egiten ditu kantuak? Nola ekoizten ditu, eta nola banatu? Zein oholtza okupatu nahi du eta non ez du egon nahi? 50 urteko ibilbideak hauetako asko erantzun behar izan ditu Anje Duhalde arrangoiztarrak. Errobi eta Akelarre talde mitikoetako kide izan da eta bere izenpean ere atera ditu dozena bat disko. J Martina musika taldeko kide da Kattalin Barcena larrabetzuarra. Konpromiso politikoa eta sorkuntza artistikoa elkar uztartuta garatzen ditu bertan. Be\u00f1at Bidegain musikari ondarrutarra Dena taldeko kide da eta Mahl Kobat izenpean abiatu zuen 2024an bakarkako ibilbidea. Ondarruko \"Betepaeta\" kolektiboan ere badabil burubelarri. Eta anabasa honetan gidari eta bidelagun, Amets Aranguren."
+    "media_title": "4. Euskal zinemaren loraldia?",
+    "media_desc": "Euskal zinemak momentu gozoa bizi du, zenbakiei begira bederen. Wikipediaren arabera 1993tik 2005era bitartean ez zen fikziozko euskarazko film luze bakar bat egin. 2025ean, aldiz, sei zenba daitezke gutxienez: \u201cJone, batzuetan\u201d, \u201cAro Berria\u201d, \u201cMaspalomas\u201d, \u201cGaua\u201d, \u201cFaisaien Irla\u201d eta \u201cKarmele\u201d. Azken honetako zuzendaria da Asier Altuna bergararra. \u201cAupa Etxebeste\u201d zuzendu zuen 2005ean Telmo Esnalekin batera eta mugarria izan zen euskal zinemaren historia laburrean. Hainbat lan egin ditu geroztik eta Txintxua Films ekoiztetxeko kide ere bada. Ander Sagardoy durangarra zinema ekoizlea da, filmak egin ahal izateko sosak lortzea da, besteak beste, bere eginkizuna. Irusoinen eta Eneko anaiarekin batera sortu zuen SumendiFilms-en ari da gaur egun. Ez-fikzioaren eremuko hiru labur zuzendu ostean fikziozko lehen lana aurkeztu du aurten Lur Olaizola zinegileak, \u201cBariazioak\u201d. Tabakalerako zinea eta ikus-entzunezko sailaren arduraduna ere bada. Haiekin eztabaidatuko dugu ea lur emankorrik baden euskal zinemaren loraldiaren azpian. Eta anabasa honetan gidari eta bidelagun Amets Aranguren."
   },
   "1263": {
     "rss": "https://guau.eus/series/1263/rss.xml",
@@ -2124,8 +2126,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Tabakoaren arkeologia",
-    "media_desc": "Maite Iris arkeologo eta Aranzadi Zientzia Elkarteko kideak Tabakoaren arkeologia nola egiten duten kontatu digu.",
+    "media_title": "Garraio publikoa ala auto pribatua?",
+    "media_desc": "Jone Bengoa eta Aiora Enparantza, aurrez-aurre, garraio publikoan edo autoz bidaiatzeari buruz. Gida baimena, denbora, abiadura eta Frank Dolosor aipatu dituzte. Garraio publikoaren aldeko manifestua eta poema bat irakurri dizkigute, beti irribarrez eta irribarrea pizteko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2385,7 +2387,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "D.Alav\u00e9s - Real Sociedad",
+    "media_title": "D. Alav\u00e9s - R. Sociedad",
     "media_desc": null
   },
   "1574": {
@@ -2609,8 +2611,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Elikaduraren gizarte topaketak Gasteizen",
-    "media_desc": "Gasteizen, ekoizpen eta kontsumo eredu berrien bila, Elikaduraren gizarte topaketak egin dituzte."
+    "media_title": "Lurrama azoka Miarritzen",
+    "media_desc": "Lurramaren 20garren edizioa ospatuko da Miarritzen azaroaren 7tik 9ra. Aurtengo leloa \"Bihar ere laborari\" da eta etorkizuneko laborarien inguruan arituko dira hitzaldi eta solasaldietan. Azoka asteburuan izango da."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -2722,8 +2724,8 @@
     "description": "Gazteako sareetan zuen botoak jaso ostean, Top Gaztea zerrenda berria eguneratzen dute larunbatero  Oihan Vegak eta Oizeder Mayok 11:00etatik aurrera. Gainera, 688 60 50 50 whatsapp zenbakira idatzita, asteko kanta birala proposa dezakezu. Eskatu zure musika eta bozkatu zure artista gogokoenaren alde!",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d93feb91-8929-4080-a5eb-63a1620636aa.jpg",
-    "media_title": "Taylor Swift Top 1era iritsi da!",
-    "media_desc": null
+    "media_title": "ETS taldea lehenengo postuan da!",
+    "media_desc": ""
   },
   "1584": {
     "rss": "https://guau.eus/series/1584/rss.xml",
@@ -3431,8 +3433,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "2. Kiliki. Haterrak gorroto",
-    "media_desc": "Kiliki hater naturala da; sareetako animalia eta bere zainetan darama gorrotatzeko grina du. Hater batek, baina, haterrak gorrota ditzake? Existitzen dira gorrotagarriak ez diren pertsonak?"
+    "media_title": "3. Jone Zalduegi. Lagunen bikotekideak gorroto",
+    "media_desc": "Jone Zalduegi, Emoki elkarteko hezitzailea da, eta, edonork bezala, bere lagunen bikotekideak gorroto izan ditu. Baina nork ez du gorroto bikotekide toxikoa, perretxiko bat baino gutxiago hitz egiten duena edo uneoro protagonista izan nahi duena?  Zer egin kasu horietan?"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
