@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "8. Albina Stardust, queer eta identitate ez-binarioak",
-    "media_desc": "Atal honetarako Albina Stardust gonbidatu dute Aitziberrek eta Malenek eta trabestien inguruan hausnartu dira. Queer izatea, trabesti hitzaz jabetzea, drag-queen eta trabestien arteko ezberdintasuna, harrotasuna, binarismoa eta \u201cnot all men\u201d kontzeptua dira, besteak beste, mahaigainean jarri dituzten gaiak. Albinak neskak \u201cdrageatu\u201d ditu gainera!\n \n\u201cBenetan zabiz?\u201d galdu egingo duzula?"
+    "media_title": "9. Maren, artistaren katxea eta \u201coversharing\u201da\u00a0",
+    "media_desc": "Atal honetara Maren abeslaria gonbidatu dute Malenek eta Aitziberrek!\n \nMusikariaren egunerokoak motxila bati itsatsita egotera behartzen du eta ama ere izaten du egoera horietan bidelagun. Magisteritzako ikasketak musikari lanarekin uztartzen ditu eta aitortu du inspirazioa egun goibeletan topatzen duela. Marenen ibilbidea, \u201coversharing\u201da, dirua, artistek sare sozialetan izan behar duten presentzia, pribatuena ere partekatzea\u2026 horiek eta beste hainbat gai aipatu dituzte atalean zehar.\n \nBestalde, Maria Blancok artisten \u201ckatxe\u201daz eta zenbait egoeratan berauei \u201czor\u201d zaien errekonozimendu ekonomikoaz hitz egin die. \u201cBenetan zabiz?\u201d galdu egingo duzula?"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Justiniano Redondo, jefe de tr\u00e1fico de \u00c1lava",
-    "media_desc": "Justiniano Redondo, Arabako trafiko-burua",
+    "media_title": "Xabier L\u00f3pez de Santiago, representante de Hetel en Araba y Susana S\u00e1ez, gerente de Ikaslan Araba",
+    "media_desc": "Xabier L\u00f3pez de Santiago, Hetelen ordezkaria Araban eta Susana S\u00e1ez, Ikaslan Arabako gerentea",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Irene Larraza: \"Gurea zentruan jarri nahi dugu eta ahal bada mundua eraldatu\"",
-    "media_desc": "Etxepare institutuaren zuzendari Irene Larrazak 15garren urteurreneko ospakizunak amaitu berritan egin digu bisita Faktoriara.",
+    "media_title": "Asier Escobal: \" 'Kontuz' nire hiztegian oso presente egon da\"",
+    "media_desc": "\"Kristal Hezurreko Gaixotasuna\" du Asier Escobalek, baina ez da eragozpen izan bere ametsak bete ahal izateko; biokimikaria da, neurozientzian espezializatua, eta orain lan bila ari da. Bere gaixotasunean ikertzen egingo luke lan gustura.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -273,7 +273,9 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/0cde55c7-9ea2-4d2a-9c8f-97553ca910f0.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/0cde55c7-9ea2-4d2a-9c8f-97553ca910f0.jpg",
+    "media_title": "2. Egia bat, norberarena. Eider Rodriguez eta Kattalin Minerrekin",
+    "media_desc": "Eider Rodriguez eta Kattalin Miner idazleak dira, baita egia zale amorratuak ere. Fikzioaz, auto-fikzioaz, errealitatea eta egiaren arteko aldeaz, gezurrak esateaz eta aura misteriotsua duten pertsonez aritu dira, besteak beste, \"Yoko Ona\" podcastaren atal honetan Olatz Salvador, Lore Nekane Billelabeitia eta Ainhoa Vitoriarekin batera izan duten solasaldi animatuan."
   },
   "1291": {
     "rss": "https://guau.eus/series/1291/rss.xml",
@@ -508,9 +510,9 @@
     "media_type": "video",
     "page": "Gaztea",
     "page_id": 70,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/8924917a-3ffe-4114-b742-e69c9746f0fe.jpg",
-    "media_title": "7. Tarana Karim, dibertsitateaz",
-    "media_desc": "Dibertsitateaz, arrazakeriaz, identitate berriak ezagutu eta eredu eta erreferente berriak eraikitzeko beharraz aritu gara \"Yoko Ona\" podcastaren atal honetan.\n\nTarana Karim abokatu eta aktibistak hogei urte daramatza Euskal Herrian, diskriminazioaren kontra borrokatuz. Egunerokoan sufritzen duen bazterkeria azaldu digu.\n\nAndrea Aranburu ere gurekin izan da beste euskal emakume sortzaile baten berri emateko: \"Borobilaren Ertzetik\"."
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/0cde55c7-9ea2-4d2a-9c8f-97553ca910f0.jpg",
+    "media_title": "2. Egia bat, norberarena. Eider Rodriguez eta Kattalin Minerrekin",
+    "media_desc": "Eider Rodriguez eta Kattalin Miner idazleak dira, baita egia zale amorratuak ere. Fikzioaz, auto-fikzioaz, errealitatea eta egiaren arteko aldeaz, gezurrak esateaz eta aura misteriotsua duten pertsonez aritu dira, besteak beste, \"Yoko Ona\" bidepodcastaren atal honetan Olatz Salvador, Lore Nekane Billelabeitia eta Ainhoa Vitoriarekin batera izan duten solasaldi animatuan."
   },
   "1658": {
     "rss": "https://guau.eus/series/1658/rss.xml",
@@ -665,8 +667,8 @@
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
-    "media_title": "7. Lara Izagirre: Periferia eta sarea",
-    "media_desc": "Zinema egiteaz mintzatu da Lara Izagirre \u201cEneagrama\u201d podcastean. Periferia bikoitza batetik: emakumea den heinean eta euskarazko zinema egiten duelako. Herrira itzultzeaz, amatasunaz, sortzaileen bakardadeaz eta bakardade horrekin apurtzeko sortzen diren sareez aritu da. Bederatzigarren eneatipoarekin identifikatu du Jokin Ameztoik, bakezalea eta gatazkari uko egiten dion eneatipoa: baina posible ote da hori, zinemaren mundu gogorrean aurrera egiten ari den norbaitentzat? Larak berak argituko digu.",
+    "media_title": "8. Xabier Mendiguren: Editatu eta baketu",
+    "media_desc": "Editorea izaki, oso ezaguna ez den ofizioaz aritu gara Xabier Mendigurenekin. Bokazio literarioak zapuzteko beldurrik gabe ibiltzen da Elkarreko editorea, kritika konstruktiboak eginez eta bidean ager dakizkiokeen haterei jaramonik egin gabe. Alferkeriaz, jubilazioaz eta antzerkiaz ere aritu dira Katixa eta Xabier \u201cEneagrama\u201d podcastean. Jokin Ameztoik, bakezaletasun eta prokrastinaziorako joerengatik, bederatzigarren eneatipoan kokatu du. Baina auskalo\u2026 bere burua oraindik ezagutzen ari den gonbidatua baita.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1734,8 +1736,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala ematen dizu \"Hitza Jolas\" podcastak Eneritz Gorrotxategik aurkeztuta. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Nafarroako Bertsolari Txapelketako finalaurrekoak",
-    "media_desc": "Agoitzen, Leitzan eta Tafallan jokatu dira 2025eko Nafarroako Bertsolari Txapelketaren finalaurrekoak. Horien errepasoa egin dugu \"Hitza Jolas\" podcastaren atal honetan. Dagoeneko zehaztuta geratu da 2025eko azaroaren 29an Nafarroa Arenan jokatuko den finaleko zortzikotea."
+    "media_title": "Nafarroako finaleko atarikoak, \"Azken afaria\" komikia eta artxiboko hainbat perla",
+    "media_desc": "2025eko Nafarroako Bertsolari Txapelketaren finaleko oholtzan izango diren 8 bertsolarien sentipen, asmo eta nahiak bildu ditugu \u201cHitza jolas\u201d podcastaren atal honetan. Bestalde, Unai eta Be\u00f1at Gaztelumendi anaiek sortu duten \"Azken afaria\" komikia aurkeztu digute eta gure artxiboan ere murgildu gara hainbat perla erreskatatzeko. Hori guztia egiteko, bidelagun berri bat ere izan dugu atalean. Entzun!"
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -1917,8 +1919,8 @@
     "description": "Munduko lankidetzaren eta giza eskubideen errealitatearen aurrean gizarteak gogoeta egin dezan eta sentsibilizatu dadin tresnak ematen ditu \"Norte Sur\" podcastak.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3ad4a233-dae7-40b6-958b-a2740852474c.jpg",
-    "media_title": "3. Descolonizar la mirada: la batalla educativa contra los estereotipos",
-    "media_desc": "Badakizu, adibidez, Donostiako Trinitate Plazan esklaboak saltzen zirela? Daukagun iragan kolonialaren ondorioa da eta horren eragin zuzena da oraindik ere beste lurralde batzuetatik datozen pertsonak begiratzeko daukagun modua; askotan horretaz jabetzen ez garen arren. Ondorioz, garrantzi handia dauka etorkizuneko belaunaldiei gertakariak azaltzeko erabiltzen dugun modua. \u201cNorte Sur\u201d podcastaren atal hau arrazakeria eta kolonialismorik gabeko hezkuntzari eskaini nahi izan diogu, arraza, generoa edota gizarte klaseari lotutako gaiak jorratzerakoan berdintasuna aintzat hartzen ez duten eta diskriminazioa iraun arazten duten jarrerei aurre eginez. Horretarako, arabiar, ijito eta Afrikako komunitateen ordezkariak diren Hajar Samadi, Adriana Torroella, Tamara Claver\u00eda eta Quinndy Akejurekin elkartu gara. Bere aldetik, Jose Antonio Azpiazu historialariak Euskal Herriak historian zehar esklabismoa eta pertsonen salerosketa eta trafikoarekin izan duen lotura azaldu digu."
+    "media_title": "4. Agua: un derecho vital\u2026 \u00bfo una amenaza mortal?",
+    "media_desc": "Pertsonok uraz baliatzeko daukagun eskubidea aztertu dugu \u201cNorte Sur\u201d podcastaren atal honetan, zer da ura izateko eskubidea, zergatik urratzen da gizaki orok daukan giza eskubide hori eta nolatan jarri dezake bizitza arriskuan eskubide horren defentsak.\nHauxe da errealitatea: ura ezinbestekoa da bizitzeko, baina milioika pertsona dago munduan behar adina ur gabe eta, areago, eskura izan gabe. Nazio Batuen Erakundeak 2010.ean uraren eskubidea aldarrikatu bazuen ere, ezberdintasun hori iraunkor egiten duten gabezia estrukturalak aztertu nahi izan ditugu.\nRuth P\u00e9rez L\u00e1zaro eta Batxi Aranbururekin solastu da Vicky Pizarro, Giza Eskubideak eta ur baliabideen gestioan aditu diren bi pertsonekin. Ura izatearen eskubidea urratzeak sortzen dituen tentsio politiko, ekonomiko eta ingurumenekoak aztertu dituzte. Dalila Argueta berriz, Hondurasen kokatuta dagoen Guapinol ibaiaren defentsan ari da. Hain zuzen ere, ama- lurra eta ur eskubidearen ekintzaile delako bizi da Euskal Herrian erbesteratuta."
   },
   "1277": {
     "rss": "https://guau.eus/series/1277/rss.xml",
@@ -1957,8 +1959,8 @@
     "description": "Elkarrizketa podcasta, baina, ez edonolakoa. Oier Aranzabalek pertsonaia baten etxera sartuko gaitu, berarekin solasean jardun eta istorio berriak kontatzeko. Sortzaileak, musikariak, aurkezleak eta zerbait interesgarria esateko daukan oro. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg",
-    "media_title": "86. Marino Lejarreta, beti helmugara bidean",
-    "media_desc": "Ondo oroitzen du baserrian telebista jarri zuten eguna. Jarri zutenean baina, ez zekien telebista haren bitartez ikusiko zutela milaka euskal herritarrek, errepidean, mendian gora txirrinduan helmugara bidean. Euskal txirrindularitzak eman duen ikono garrantzitsuenetakoa da Marino Lejarreta. Zalego handienetakoa piztu duena. Baina berak ez du kirolari garaia faltan botatzen. Berarentzat garaipen handiena zaleekin daukan harremana da. Oraindik ere mantentzen duena. Helmugara bidean jarraitzen baitu."
+    "media_title": "87. Garbi\u00f1e Biurrun, ezusteko epaile bat",
+    "media_desc": "Gaztetan erabaki zuen abokatua izan nahi zuela. Batxilergo garaian dagoeneko esaten zioten txiroen abokatua eta kausa galduen defendatzailea zela. Euskadiko Ezkerran militatu zuen eta bizitzak epaile izatera eraman zuen. Epailea da baina aurrerakoia. Epailea da baina euskalduna. Olagarro bat garajean. ETAk mehatxatuta, bizkartzainarekin bizi izan zen urte askoan. Jubilazio adina pasa badu ere ez du toga zintzilikatzeko inolako asmorik. Eta bere Tolosako etxeko ateak zabaldu dizkigu."
   },
   "1294": {
     "rss": "https://guau.eus/series/1294/rss.xml",
@@ -3488,5 +3490,12 @@
     "media_title": "Xabier Lete, bizitzaz eta heriotzaz elkarrizketa sakonean",
     "media_desc": "Xabier Lete hil zela 15 urte bete dira abenduaren 4an. Poeta eta kantari handiari Arantxa Iturbek Euskadi Irratian 2006an egindako elkarrizketa entzungai GUAUn. Bere bizitzaz, egindako kantu eta poemez, heriotzaz, eta, batez ere, Lurdes Iriondori buruz mintzatu zen elkarrizketan, \u201cAbestitzak eta poema kantatuak\u201d liburua argitaratu berritan. Elkarrizketei zien beldurra aitortuta, zehaztapenez azaldu zuen nola sortu zen \u201cNafarroa arragoa\u201d kanta.",
     "media_type": "audio"
+  },
+  "2300": {
+    "rss": "https://guau.eus/series/2300/rss.xml",
+    "title": "Conversaciones que cuidan",
+    "description": "Podcast honetan gizarteak eta osasunak bat egiten dute helburu argi batekin: osasun sistema zaintzen, pentsatzen, laguntzen eta eraldatzen dutenei ahotsa ematea. Podcast honek elkarrizketak, hizketaldiak eta gogoetak eskainiko ditu zainketa, koordinazioa, etika eta komunitateaz, besteak beste. Era horretan, profesionalek eta erabiltzaileek dituzten erronken inguruan aritzeko hilero kaleratuko den podcasta da.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/c30abb5c-80ea-4870-afd2-8f8fc751b94b.jpg"
   }
 }
