@@ -233,7 +233,9 @@
     "media_type": "audio",
     "page": "Soinu fikzioa",
     "page_id": 61,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/5801fea8-740d-4aea-8249-c48e74edf31a.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/5801fea8-740d-4aea-8249-c48e74edf31a.jpg",
+    "media_title": "6. Obertura",
+    "media_desc": "Jakob Mendelssohn, Task korporazioaren benetako buruak, bere plan ikaragarriak agerian ipini ditu, baina holobionteen eraso bortitzak kaosa zabalduko du. Matthew, Idurreri lagundu ezinik dago Jasconiusen gatibu. Bitartean, Fingal koban, Idurre, Aroa, Imanol eta Odeik \u201cImhullu\u201d izeneko arma sonikoaren bidez azken borroka erabakigarriari ekingo diote."
   },
   "1340": {
     "rss": "https://guau.eus/series/1340/rss.xml",
@@ -522,8 +524,8 @@
     "page": "Kultura",
     "page_id": 63,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "15. Nando L\u00f3pez, la literatura explicada desde el humor",
-    "media_desc": "Nando L\u00f3pezi esker dakigu lehen eleberri lesbikoa 1930ean idatzi zela, baina bere egilea ez zela argitaratzera ausartu, garai hartan haur literatura idazteagatik famatua zelako. Era berean, Emilia Pardo Baz\u00e1nek, P\u00e9rez Gald\u00f3sekin amodiozko gutunak idazteaz gain, RAEn sartzeari ezezkoa eman ziotelako mendekua hartu zuen, errezeta-liburu bat idatzi eta haien aurka izugarriak esanda. Edo zergatik hautsi zuten adiskidetasuna Lorcak eta Miguel Hernandezek. \u201cPeque\u00f1a historia de la literatura espa\u00f1ola\u201d, hala deitzen den liburua, Luis Doyagueren ilustrazioekin eta umore-dosi handiekin dator, baina \u201cCafe Valparaiso\u201d bideopodcastean dakigunez, ez dena istorio onekin liskartua."
+    "media_title": "16. Txemi Parra, \"Un asunto de familia\"",
+    "media_desc": "Txemi Parrak sinatutako eleberri beltz honek Anbotopeko pagadi batean kokatzen gaitu, Elorditarren baserritik oso gertu, altzarigintzan dirua egin duen familia batean.\nZer gertatuko litzateke hiru semeetako batek oinordekotzaren bere zatia lehiari salduko balio? Edozer egingo lukete hori saihesteko? Eleberria Alba, Elorditarren erdiko semearen neska-laguna, famili baserrira iristen denean hasten da: Anboton kanpatuta zeuden bitartean norbait kanpadendara sartu eta Julen hil egin duela ohartarazten du. Nola nahi, ez da dirudiena. \n\nAtal honen bidez amaitzen da \"Cafe Valparaiso\" podcastaren hirugarren denboraldia. "
   },
   "1382": {
     "rss": "https://guau.eus/series/1382/rss.xml",
@@ -667,8 +669,8 @@
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
-    "media_title": "9. Amaia Elizaran: Likidoa eta solidoa",
-    "media_desc": "Hamasei urte zituela Madrilera joan zen bizitzera bere ametsa errealitate bihurtzeko asmoz. Dantzari profesionala izan nahi zuen eta baita lortu ere. Likidoaren eta solidoaren artean, koreografia zorrotzen eta inprobisazioaren erdibidean dago Amaia. Lesioen beldurrez, barne blokeoez eta betetzear dituen ametsez aritu zaigu \u201cEneagrama\u201d podcastean. Jokin, lehenengoz, tokiz kanpo ikusi dugu, izan ere Amaia oso urrun omen dago egokitu diogun eneatipoaren ezaugarrietatik.",
+    "media_title": "10. Itxaso Paya: Sorgina eta ekina",
+    "media_desc": "Itxaso Paya, Algortako sortzaileak, ez dauka oso argi Fredy eta Xabi bere neba nagusien arreba txikia izateak kalte ala mesede egin dion. Orokorrean aldeko inputa izan da baina sarri askotan hausnartu du hortaz. Familia ilustratu bateko alaba txikiak elikadurarekin zuen harreman ez bereziki onari buelta ematen ari zaiola kontatu digu \u201cEneagrama\u201d podcastean eta \u201c Zelako Kultur Ideiak\u201d elkartearen bitartez eraiki duten sormen espazioak eskaintzen dizkion plazer txikietaz ere aritu gara berarekin. Jokinen ustez bigarren eneatipoarekin bat egiten du Itxasok. Ados egongo al da bera?",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1114,8 +1116,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ad2ead71-a5a3-4831-8c99-3db82d0a67ba.jpg",
-    "media_title": "1. Zu eta ni, ez gara gu",
-    "media_desc": "Naroa bere aitarekin herrira itzultzen da ama galdu ondorengo zauria sendatu nahian. Baina itzulera horrek iraganeko mamuak piztuko ditu: Beca eta Oierrekin izandako harremanak, erruak eta isiluneak. Bitartean, urte asko lehenago Txinako oihan urrunetan Jingko ikertzaile gazteak egin zituen urratsak jarraituko ditugu."
+    "media_title": "2. Lagun berriak",
+    "media_desc": "Oierrek basoan harrapatutako hartz misteriotsu bati bizia salbatzen dion bitartean, bailaran abereen desagerpenak kezka eta haserrea pizten ari dira. Naroa Jingko enpresaren instalazio abandonatuetan sartzen da bere amaren heriotzaren inguruko egia bilatzeko. Becak, bere aldetik, bizimodu berri bati ekin nahi dio ezkutuan."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1297,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Gaztetxoak eta pantailak: \"Mugak bai, baina....\"",
-    "media_desc": "\"Aita-ama batzuk 'biziatuta' daudela\"; Australian 16 urtetik beherakoei sare sozialak erabiltzeko ezarri dieten debekua \"gehiegitxo iruditzen zaiela\"; eta \"pantaila aurrean denbora gehiegi egoteak neuronak hiltzen omen dituela\". Hiru horiek jarri ditugu baina beste dozenerdi ere atera litezke. Pantailen gehiegizko erabileraz sarri-sarri aritzen gara, batipat umeengan duen eraginaz. Ia beti, ordea, 'zaharrei' galdetuz. Adituei, gurasoi eta irakasle-jendeari hitza ematea ondo dago, baina zer pentsatzen dute gaztetxoek berek? Ziburuko kolegioan Nora eta Ganix eta Donostiako estudioan Xune eta Eneko, andoiandarrak, eta Ane eta Urki, leitzarrak bildu ditugu.",
+    "media_title": "Telelana: malgutasuna, morrontza, taldea",
+    "media_desc": "Telelana izan dugu hizpide \"Bigarren Laurdena\" solasaldian. Garbi\u00f1e Manterola BRTAko transferentzia arduraduna, Markel Pe\u00f1alba Mondragon Unibertsitateko ikerlaria eta Juan Garibi Fiare bankuko operazio-zuzendariak aletu dituzte telelanaren argilunak: malgutasuna, kontziliazioa, joan-etorrietan aurrezteko edo herri txikietan erraz bizitzeko aukera... eta lantaldetik isolatzeko arriskua, gastuak handitzea, deskonexio-arazoak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1369,14 +1371,14 @@
   },
   "1427": {
     "rss": "https://guau.eus/series/1427/rss.xml",
-    "title": "Dida!",
-    "description": "Astelehenetik ostiralera, 07:00etatik 10:00etara, Julen Telleria, Andrea Aranburu, Jon Gotzon Aldaparena eta Antton Telleriarekin. Eguna behin hasten delako, hasi Dida!",
+    "title": "DidaDon!",
+    "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Ainhoa Vitoria, Aitziber Grados eta Liher Larra\u00f1agarekin. Eguna behin hasten delako, hasi DidaDon!",
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
     "media_title": "Maurizia Aldeiturriaga: ez dadila haria eten",
     "media_desc": "Irailaren 22an betetzen dira 121 urte Maurizia Aldeiturriaga panderojole eta emakume erreferentea jaio zela. Belaunaldien arteko transmisioa landu eta memoria ariketa bat egite aldera, Andrea Aramburuk Mauriziaren ahotsa eraman du Dida! saiora.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/3cd4edcb-aade-4ec5-948f-1881ca4ea7ff.jpg"
   },
   "1395": {
     "rss": "https://guau.eus/series/1395/rss.xml",
@@ -1687,8 +1689,8 @@
     "description": "Kulturgintzaren unibertsoan jasotako bizipenak eta irakaspenak, asko dira. Batzuengatik hartzen dugu, hurrengo belaunaldiei emateko. Durangoko Azoka honen guztiaren bilgune izanik, ekarpen asko dugu  sortzaileen artean solastu eta partekatzeko. Amets Arangurenek gidatuta, \"BaDA!bil\" poscasta  hausnarketa gunea da kultur sortzaileen bilkura nagusiaren atarian. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ffdf506e-03b6-478f-bcc7-f0ecb0f79f3c.jpg",
-    "media_title": "5. Disidentziak oholtzara",
-    "media_desc": "\u201cArauan ez dauden gorputz guztiei gertatzen zaien bezala, gainkonpentsaziora jo dut nire musikan, nire presentzia justifikatzeko\u201d. Labar proiektuko I\u00f1i Etxezarretaren hitzak dira, eta \u201cbaDA!dabil\u201d podcastaren atal honetako hainbat eztabaidagai biltzen ditu. Zein gorputzek hartzen dituzte oholtzak? Egiten da lekurik arautik kanpo daudenentzat? Eta egiten denean, zeren truke? Gai honen alfonbrapean arakatzeko hiru lagun bildu ditugu atal honetan. Ane Zubeldia hondarribitarrak ibilbide oparoa du musikan eta bere lehen poema-liburua kaleratu du oraintsu: \u201cKontra\u201d. Eider Adeletxerekin batera poesiari molde punkago bat eman diote oholtzaz oholtza Mejillon Tigre izenpean. Bertsolaritzari lotuta egin du bere ibilbidea Amaia Agirre villabonarrak: bertsolari gisa oso gaztetatik, eta azken urteotan, gai-jartzaile moduan, nagusiki. Kaiet Lapeyrade Brust ebanista da ofizioa, baita Altxalili kabaretako kide ere. Eta anabasa honetan gidari eta bidelagun Amets Aranguren."
+    "media_title": "6. Nostalgiaren garaia, garaiaren nostalgia ",
+    "media_desc": "Badirudi nostalgiak gurutzatzen duela garaia: remake, remixa eta itzulera. Euskal Herrian ere Hertzainak edo Fermin Muguruzak hamaika areto bete zituzten, Chill Mafiak Gontzal Mendibil bertsionatu eta Olaia Inziartek bere azken diskoan Nacho de Felipe elkarrekin abestera gonbidatu du. Durangoko Azokaren 60. edizioarekin bat etorriz, gaia aztergai izan dugu Berbagailuan zuzenean egindako \u201cbaDA!bil\u201d podcastaren hirugarren denboraldiko azken atalean. Horretarako Mirua taldeko Mattin Zeberio, Lukiek eta Belako taldeetako Josu Ximun Billelabeitia eta hamaika proiektutan aritutako Amets Aznarez izan ditugu lagun. Eta anabasa honetan gidari, Amets Aranguren."
   },
   "1263": {
     "rss": "https://guau.eus/series/1263/rss.xml",
@@ -1698,8 +1700,8 @@
     "description": "\"Caf\u00e9 Valpara\u00edso\" liburuen eta jende argiaren podcasta da. Irakurketa-klub honetan liburu bat eta bere egilea testuinguru sozial eta musikalean jartzen dira. Miriam Duquek zuzendua, Char-Lee Mitok komentatua eta Ibon Belandiak bere gitarra eta burutazioekin musikatua. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cee8e271-1a22-443e-a905-f79f21c9c415.jpg",
-    "media_title": "13. Mar\u00eda Bastar\u00f3s,\"Criaturita\"",
-    "media_desc": "\"Criaturita\u201d misteriozko eleberria da eta Maria Bastarosek erakusten digu batzuetan aintzirako munstroa ez dela neska bati gerta dakiokeen gauzarik okerrena. Istorio bikoitza da: alde batetik, Milagro lakuaren inguruan gertatzen diren emakumeen desagerpenak ditugu, munstro bat bizi dela uste baita. Bestetik, Kailaren dolua dago, miresten zuen aitaren galerak eragindakoa. Inguru hartako biologo ospetsu bat zen, eta ziur zegoena Izakia benetan existitzen zela. Horretaz guztiaz hitz egin genuen Maria Bastarosekin \u201cCafe Valparaiso\u201d podcastaren atal honetan."
+    "media_title": "14. Abraham Boba \u00bfde verdad la altura importa?",
+    "media_desc": "Garaierari buruzko hausnarketak Abraham Boba Le\u00f3n Benaventeko abeslariak sinatzen duen \u201c163 cm.\u201d izeneko saiakera autobiografiko honetan. Kontzertu handietako agertokietatik mundua ikustera ohituta dago, baina baita izenburuari bide ematen dioten 163 zentimetroetatik ere. Haurtzaroari buruz hitz egiten du, saskibaloiaren zale amorratua baitzen, eta Alexandro Handia, Prince edo Napoleon bezalako baxu ospetsuen istorioekin konbinatzen du. Txiki batek zer traba egin dezakeen eta aukeratzen dugun lengoaiak nola inporta duen hitz egin dugu Le\u00f3n Benaventeko abeslariarekin \u201cCaf\u00e9 Valparaiso\u201d podcastaren emanaldi berri honetan."
   },
   "1372": {
     "rss": "https://guau.eus/series/1372/rss.xml",
@@ -3444,8 +3446,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "4. Bittor Barandiaran. Gorrotatu foodiak",
-    "media_desc": "Bittor Barandiaran sukaldaria da, eta, era berean, sareetara errezeten bideoak igotzen ditu. Bere bideoetan ez dituzu matcha tea edo smash hanburgesa gorrotagarriak topatuko. Zergatik jarri dira modan? Zergatik jatea esperientzia bat bilakatu da?"
+    "media_title": "5. Eider Garcia Durana. Gorrotatu pertsona osasuntsuak",
+    "media_desc": "Eider Garc\u00eda Durana harri-jasotzailea da, baina herri-kiroletan murgildu aurretik beste hainbat kiroletan aritu izan da. Esperientzia horietatik asko ikasi duen arren, bidean gorrotagarriak suerta daitezkeen pertsonak topatu ditu: predikatzaileak, gymbroak, paternalistak\u2026 \nNola ez gorrotatu horrelako jendea?"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
@@ -3480,8 +3482,8 @@
     "description": "\u201cZure ilunetan\u201d kontakizun intimista eta aztoragarria da, iluntasun fisiko eta emozionalean murgiltzen den pertsona baten barruko ahotsaren bidaia. Antzerki kutsua du podcastak, atmosferikoa da eta sakoneko emozioak biltzen dituena. Protagonistaren pasarte mingarriak, ametsak eta iraganeko zaurietatik abiatuta egiaren bila dabilen pertsonaren barne borroka azaleratzen du. Ez da kontakizun lineala, eta istorio puzzlea biltzen du bost ataletan zehar.\n\nXabin Fernandezek idatzitako gidoia du oinarrian. Gidoi honek irabazi du, hain zuzen ere, EITB Mediak Tabakalerarekin elkarlanean sustatzen duen Audiogile Berrien lehiaketako bigarren edizioa. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ca1c827c-200c-4d15-8865-2e3c52518033.jpg",
-    "media_title": "2. Limoferrum Renata",
-    "media_desc": "Igogailuan harrapatuta eta Antton desagertuta, Eider eta Rafa izuak mendean hartuko ditu. Soinu likatsu ezezagun batek mehatxua zabaltzen du gainera. Ihes egiteko borrokan Eiderrek bere sekretuak agerian uzten ditu: \u201cRenata\u201d izeneko bakterio kolonia arriskutsu bat dago eraikinean."
+    "media_title": "3. Aspaldiko lagunak",
+    "media_desc": "Eiderrek Karlos lankide ohiarekin topo egin du eta elkarrekin zaurituta dagoen Rafari laguntzera itzuli dira. \u201cRenata\u201d bakterioaren mehatxua gero eta gertuago dute. Eiderrek bere hainbat sekretu azaleratuko ditu. Kanpoan kaosa hedatzen den bitartean, hirurak iluntasunez beteriko dorrean barrena bizirik ateratzeko azken aukerari eusten saiatuko dira."
   },
   "2144": {
     "rss": "https://guau.eus/series/2144/rss.xml",
@@ -3489,8 +3491,8 @@
     "description": "Garbi\u00f1e Larrearen podcast honetan sendabelarrei buruzko bitxikeriak, erabilera praktikoak, belarren munduan aritu eta adituak direnei elkarrizketak eta bestelako kontu asko aurkituko dituzu. Argiako podcasta, GUAUn ere entzungai.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65cac517-c38a-4562-8b24-5efe58e184d4.jpg",
-    "media_title": "5. Genomarik handiena, garoarena",
-    "media_desc": "Munduan genomarik handiena duena landare bat da, garo bat, hain zuzen ere, eta asko dauka esateko. Berriro ere landare batek txunditu gaitu eta txiki utzi du gizakiaren genoma. Pazifikoan hazten da eta bere genoma sekuentziatu ondoren etorri da sorpresa. Espezieen bizi irauteari eta egokitzeko gaitasunari buruzko informazioa ematen digu. Genomaren tamainaz ere aritu gara, hau da, zertarako sortzen diren halako genoma handiak.\n\nAtal honetako sendabelarra zuhaitza izango da, senda-zuhaitza baita urkia (Betula alba, Betula pendula). Eta ohi bezala, gomendioak ere urkiarekin egindako prestakinak izango dira, infusioak kasu honetan. Urkia giltzurruna zaintzeko sendabelar ezaguna da, Pio Font i Quer botanikari kataluniarraren arabera Europako zuhaitz nefritikoa. Bere barruko izerdia, hostoak, aleak eta enborraren azala dira balio terapeutikoa dutenak, eta zenbait erremedio hauek guztiak erabilita egiten dira.\n\nGuk hosto lehorren infusioa hartzea gomendatu dugu. Anis izarrarekin (Illicium verum) batera hartuta azido urikoa jaisteko da egokia. Txikori-belar hosto (Taraxacum officinale), azeri buztan hosto eta txorten (Equisetum arvense) eta lapa-belar sustraiekin (Arctium lappa) batera hartuta depurazio handia egingo dugu. Hipertentsioa tratatzeko arto bizarrekin (Zea mays) eta azeri buztanarekin batera hartuko genuke."
+    "media_title": "6. Udazken laranja: liburu bat eta kurkuma",
+    "media_desc": "\"Diario rural. Apuntes de una naturalista. Oto\u00f1o-invierno\" liburua (Susan Fenimore Cooper, Pepitas de calabaza argitaletxea) ekarri dugu podcast honetara, tarteka sendabelarrekin, landareekin zein naturarekin lotutako irakurketak gomendatzea pentsatu baitugu. Udazkenerako irakurketa egokia iruditu zaigu. Batetik gure garaitik eta bizi moldetik urrun dagoen testu bat delako, eta bere erritmo pausatuak badu gure bizi martxari eragiteko ahalmenik, lasaitze aldera noski. Bere garaian Darwinek gomendatu zuen liburua hau eta gu ere iritzi berekoak gara.\n\nEspezieei buruz askotan aritzen gara gure saioan. Sendabelar diren edo sukaldeko aberasgarri diren eztabaida dezakegu, baina balio terapeutikoa duten unetik sendabelarren lana egiteko erabil ditzakegula ukaezina da. Kurkumari buruz ariko gara, mirarizkoa dirudien espeziea, azken urteetako albiste eta argitalpenei begira jartzen bagara. Asko irakurri dugu berari buruz, eta erabili ere erabiltzen dugu, baina badaude aipatu beharreko zehaztasun batzuk. \n\nKurkumaren erabilera seguru bat ekarri dugu amaitzeko, piper beltza nahastu eta koipearekin batera erabilita bere balio terapeutiko guztia ariko garelako baliatzen."
   },
   "1344": {
     "rss": "https://guau.eus/series/1344/rss.xml",
@@ -3504,5 +3506,12 @@
     "description": "Podcast honetan gizarteak eta osasunak bat egiten dute helburu argi batekin: osasun sistema zaintzen, pentsatzen, laguntzen eta eraldatzen dutenei ahotsa ematea. Podcast honek elkarrizketak, hizketaldiak eta gogoetak eskainiko ditu zainketa, koordinazioa, etika eta komunitateaz, besteak beste. Era horretan, profesionalek eta erabiltzaileek dituzten erronken inguruan aritzeko hilero kaleratuko den podcasta da.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c30abb5c-80ea-4870-afd2-8f8fc751b94b.jpg"
+  },
+  "1845": {
+    "rss": "https://guau.eus/series/1845/rss.xml",
+    "title": "Bazen behin",
+    "description": "Betiko ipuinak, beste era batera kontatuta, Euskadi Irratiko esatarien ahotsean.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/b43b4ac3-a519-4fd0-b96c-5143b3c488fe.jpg"
   }
 }
