@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "60. DA! . \u201cBerbagailua\u201dtik zuzenean",
-    "media_desc": "Durangoko Azokaren 60. edizioarekin bat etorriz, \u201cBerbagailua\u201d podcasten gunea atondu da Madalenako Ermitan, eta bertatik zuzenean egin dute \"Benetan zabiz?\" podcastaren atal berezia 2025eko Abenduaren 9an. Malen Altuna eta Aitziber Gradosek bi zati berezi dituzte podcastean. Abiatzeko, Karmele Jaio idazlea eta Sune,  Josune Arakistain, musikaria gonbidatu dituzte. Bigarren zatian, Neomak taldeko Garazi eta Alaitzekin solastu dira aurrena eta amaiera biribila jarri zaio podcastaren atal bereziari Neomak taldearen musikak lagunduta."
+    "media_title": "11. Nerea Mazo, gutizia askeak",
+    "media_desc": "Antzerkiarekin topera dabil eta oraindik kontatu ezin duen Netflix-erako zerbait grabatzen ari da!\nAitziber eta Malenek Nerea Mazo gonbidatu dute \u201cBenetan zabiz?\u201d podcastera eta aitortu die \u201cnazioarteko aktorea\u201d izan nahiko lukeela. Zinedine Zidane futbolariarengandik gertu mugitu da eta sekula proposatu dioten gauzarik heavy-ena zein den kontatu die. Haientzako gutizia askeak edo \u201clibre albedrioa\u201d zer den azaldu dute, adibideekin: txiza zutik egitea? Pastelak erditik jaten hastea? Kalean barrena biluzik joatea?\n \nAinhoa Arostegi izan dute aste honetako kolaboratzailea eta \u201cerotuta\u201d daudela dioten pertsonen gaia jarri du mahai gainean."
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Mikel Lezama: \"Gipuzkoan eta Euskadin, EAJren eta PPren arteko zubiak ez daude hautsita. Eurek eta guk dakigu uneren batean elkarren beharra izango dugula\"",
-    "media_desc": "PPko Gipuzkoako batzarkidea oso kezkatuta azaldu da \"Ernai kaleak berotzen\" hasi delako. Ernairen eta GKSren arteko lehiak beldurra ematen diola esan du eta Sorturi zerbait esateko eskatu dio. PSOEren eta Sanchezen inguruan sortu diren azken ustelkeria eta sexu jazarpen salaketen harira, galdera egin dio EAJri babesten jarraituko ote duen, \"bere esku dagoelako gobernu honekin amaitzea eta beste ziklo batean sartzea\".",
+    "media_title": "Lander Martinez: \"Herritarrei erakutsi behar diegu gobernu honek merezi duela\"",
+    "media_desc": "Lander Martinez, Sumarreko diputatuarekin hitz egin dugu Espainiako Gobernuaren jarraikortasunaz, Urdaibaiko Guggenheimen proiektuaz, edota euskararen eskakizunez.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Eva L\u00f3pez de Arroyabe, portavoz de EH Bildu en Juntas Generales",
-    "media_desc": "Eva Lopez de Arroyabe, EH Bilduren bozeramailea Batzar Nagusietan",
+    "media_title": "Pascual Borja, concejal de Limpieza, Convivencia y Diversidad",
+    "media_desc": "Pascual Borja, Garbiketa, Bizikidetza eta Aniztasuneko zinegotzia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Gatibu: \"Mila esker urte hauetan guztietan hor egotearren\"",
-    "media_desc": "Asteburu honetan emango ditu, Gatibu taldeak, 25 urteko ibilbideari agur esateko azken kontzertuak. Horregatik, Gaizka Salazar, bateria-jotzailea, eta Haimar Arejita, gitarra-jotzailea, izan ditugu gurekin.",
+    "media_title": "Aritz Urkola: \"Begi lausoarena EAEn gehien egiten den ebakuntza da\"",
+    "media_desc": "Arabako Unibertsitate Ospitalean, Oftalmologia Sailean, zerbitzu burua da Aritz Urkola. Begi lauso edo \"katarata\" ebakuntza da ospitale publikoetan gehien egiten dena, eta horrek zahartze osasuntsuan duen eraginari buruz aritu zaigu Urkola.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -276,8 +276,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0cde55c7-9ea2-4d2a-9c8f-97553ca910f0.jpg",
-    "media_title": "2. Egia bat, norberarena. Eider Rodriguez eta Kattalin Minerrekin",
-    "media_desc": "Eider Rodriguez eta Kattalin Miner idazleak dira, baita egia zale amorratuak ere. Fikzioaz, auto-fikzioaz, errealitatea eta egiaren arteko aldeaz, gezurrak esateaz eta aura misteriotsua duten pertsonez aritu dira, besteak beste, \"Yoko Ona\" podcastaren atal honetan Olatz Salvador, Lore Nekane Billelabeitia eta Ainhoa Vitoriarekin batera izan duten solasaldi animatuan."
+    "media_title": "4. Lotsa bat, norberarena. Labar, Ainhoa Garcia eta Karmele Gurbindorekin",
+    "media_desc": "Iru\u00f1eako Laban eta jendaurrean burutu da \u201cYoko Ona\u201d podcastaren 6. denboraldiko azken atala. Labar artista eta Naxker taldeko Ainhoa Garcia eta Karmele Gurbindo izan dira gonbidatuak eta hizpideak, berriz, ugari eta sakonak. Lotsak emakumeen eta sexu edo genero disidenteen gorputzetan eragin duenaz, autoestimuaz, iruzurgilearen sindromeaz, gainkonpentsazioaz eta lotsa bandoz aldatzeaz aritu dira besteak beste. Gonbidatuak eta, jakina, Olatz Salvador eta Lore Nekane Billelabeitia. Ainhoa Vitoriak gidatu du solasaldia ohi bezala."
   },
   "1291": {
     "rss": "https://guau.eus/series/1291/rss.xml",
@@ -513,8 +513,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0cde55c7-9ea2-4d2a-9c8f-97553ca910f0.jpg",
-    "media_title": "3. Nerabe bat, norberarena. Maren eta Aissa Intxaustirekin",
-    "media_desc": "Haur zirela igo ziren lehen aldiz taula gainera Maren musikaria eta Aissa Intxausti bertsolaria. Afizioa ofizio bihurtzeaz, emakume artisten infantilizazioaz, politikoki lerratzen ez diren artistez eta bertsoaren munduan feminismoak eragin duenaz aritu dira, bestak beste,  Olatz Salvador, Lore Nekane Billelabeitia eta Ainhoa Vitoriarekin."
+    "media_title": "4. Lotsa bat, norberarena. Labar, Ainhoa Garcia eta Karmele Gurbindorekin",
+    "media_desc": "Iru\u00f1eako Laban eta jendaurrean burutu da \u201cYoko Ona\u201d bideopodcastaren 6. denboraldiko azken atala. Labar artista eta Naxker taldeko Ainhoa Garcia eta Karmele Gurbindo izan dira gonbidatuak eta hizpideak, berriz, ugari eta sakonak. Lotsak emakumeen eta sexu edo genero disidenteen gorputzetan eragin duenaz, autoestimuaz, iruzurgilearen sindromeaz, gainkonpentsazioaz eta lotsa bandoz aldatzeaz aritu dira besteak beste. Gonbidatuak eta, jakina, Olatz Salvador eta Lore Nekane Billelabeitia. Ainhoa Vitoriak gidatu du solasaldia ohi bezala."
   },
   "1658": {
     "rss": "https://guau.eus/series/1658/rss.xml",
@@ -1299,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Jon Insausti: \"Arriskuak hartzen jakitea garrantzitsua da bizitzan\"",
-    "media_desc": "Ane Albisuk noriara gonbidatu du Donostiako alkatea, lasai hitz egiteko. Etxegabeen auziaz eta gazteek Donostian bizitzeko dituzten zailtasunez aritu dira, baina baita kontu pertsonalagoez ere: ardura nola bizi duen, burua ordenatzeko eta pentsatzeko zer egiten duen edo Donostian, leku esanguratsuak zeintzuk diren beretzat: Parte Zaharra, Orixe ikastola eta Altzako auzoa, besteak-beste.",
+    "media_title": "Lurdes Iriondori Urrezko Domina, Ainara Ortegak abestuta",
+    "media_desc": "Gipuzkoako Foru Aldundiak hil ondorengo Urrezko Domina emango dio Lurdes Iriondori. Ainara Ortegari eman diote ekitaldia prestatzeko eta Lurdesen abestiak abesteko enkargua eta hasieran arnasak barrura egin zion arren, aitortu digu, kantuan hasitakoan susto guztiak ahazten zaizkiola. Bestalde, Leire Casamajourekin ere hitz egin dugu, datorren udan, Soh\u00fctan, pastorala eskainiko diotelako Lurdes Iriondori.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1310,8 +1310,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zer ari da gertatzen Venezuelan? ",
-    "media_desc": "Venezuelaren testuingurua aztertu dugu Faktoriako tertulian Arantxa Elizegi Berria egunkariko nazioarte gaien arduradunarekin. Egungo egoera politikoaz gain, bertan bizi direnen testigantzak ere bildu ditugu.",
+    "media_title": "Faktoria albistegia",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1399,8 +1399,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8011e4bf-881c-480b-ac78-990e5ac59953.jpg",
-    "media_title": "Paul Urkijo",
-    "media_desc": "'Gaua' da Paul Urkijoren film berria. \nZinema areto korrienteetara iritsi bezperatan kontatu dizkigu filma amestu zuenetik pantailaratu bitartekoak"
+    "media_title": "Jon Plazaola eta Nisa Goiburu",
+    "media_desc": "Jon Plazaola da 'AA aita' lanaren aita, eta 'AA aita' laneko aita. Eta aita da. Horri buruzkoa du ikuskizun berria.\nNisa Goibururen taupadak beste zerbaitek mugiarazten ditu. Erakusgai dauzka Cristina Enean 'Latires' izenburupean. Tere Belokik ikusi ditu haren konpainian"
   },
   "1429": {
     "rss": "https://guau.eus/series/1429/rss.xml",
@@ -3027,8 +3027,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b2f7e6a-dd83-482b-ab76-e6c99e5c1f50.jpg",
-    "media_title": "Ez daude gizonezko DJak bakarrik!",
-    "media_desc": "Ibizako DJ sesioen inguruko datu bat abiapuntutzat hartuta, DJ munduan ere emakumezkoen presentzia askoz ezkutuagoa da. Horren harira, Andreak mundu mailako emakumezko DJ interesgarrienen zerrenda ekarri digu. Esparru askotan bezala, kontua ez da emakume DJ-ik  ez dagoela, horiek duten ikusgarritasuna askoz txikiagoa dela baizik."
+    "media_title": "Txosnetako pertsonaiak",
+    "media_desc": "Euskal Herriko sasoi oparoenean gaude murgilduta: herriko festak! Txosnagune guztietan daude festazale mota anitzak. Horiek zerrendatu ditu gure lankide Maite Garmendiak, txosnetako aditu gisa."
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3446,8 +3446,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "5. Eider Garcia Durana. Gorrotatu pertsona osasuntsuak",
-    "media_desc": "Eider Garc\u00eda Durana harri-jasotzailea da, baina herri-kiroletan murgildu aurretik beste hainbat kiroletan aritu izan da. Esperientzia horietatik asko ikasi duen arren, bidean gorrotagarriak suerta daitezkeen pertsonak topatu ditu: predikatzaileak, gymbroak, paternalistak\u2026 \nNola ez gorrotatu horrelako jendea?"
+    "media_title": "6. Joseba Agirre. Gorrotatu postureo musikala",
+    "media_desc": "Joseba Agirre Azken Sustraiak taldeko abeslaria da. Euskal rock erradikalaren herentzia musikala litzateke berea, baina aspaldi utzi zion gaiztoarena egiteari. Itxurakeria nagusi da musikaren munduan, baina ez bakarrik musikarien artean; entzuleen artean okerragoa da. Pentsatu: zenbat kontzertutan egon zara azken urteetan? Zenbat bideo grabatu dituzu?"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
