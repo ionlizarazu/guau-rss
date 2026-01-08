@@ -1299,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Adriana Salvo: \"Lasaiago nago nire amonari buruzko antzezlana sortzen ausartu naizelako\"",
-    "media_desc": "Adriana Salvo aktoreak berriki estreinatu du \"Balkoi atzean emakumeak kantari\" izeneko antzezlana. Gerra osteko Tafallan kokatutako istorioak emakume artista askoren isiltasuna, memoria eta transmisioa ekarri ditu oholtzara Salvok, ezagutu ez zuen bere amona Adriana Zaratiegiren historiatik abiatuta egindako ariketa intimo eta kolektiboan.",
+    "media_title": "Mahaian norbait falta da: aulki huts eta beteak",
+    "media_desc": "Eguberrietan familian galdu ditugunen hutsunea areagotzen da. Faktoria magazinean aulki hutsen inguruan hitz egin dugu Karmen Amezua, Manex Beristain eta Aizpea Manterolarekin. Semea galdu zuen Karmenek, emaztea Manexek eta Aizpea doluan espezializatutako psikologoa da. Hil diren senideen hutsunea onartzeko prozesuaz mintzatu zaizkigu, Eguberriak bizitzeko moduez eta hutsunea besarkatu eta onartzeko bideaz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1599,8 +1599,8 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "\"Ninguna violencia es justificable\"",
-    "media_desc": "Justizia eta Giza Eskubiden sailburu Maria Jesus San Josek batasun politikorako deia egin du Frankismoa zuritzen duten diskurtsoen aurrean.",
+    "media_title": "\u201cSer\u00eda una l\u00ednea roja que se demostrara una relaci\u00f3n directa  del PSOE con los casos de corrupci\u00f3n\u201d ",
+    "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
   "1461": {
@@ -1664,7 +1664,7 @@
     "page": "Kultura",
     "page_id": 63,
     "title": "Klaketa ",
-    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
+    "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, eta aukeratutako filmaren bitxikeriak edota anekdotak. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
     "media_title": "13. \u201cZeru ahoak\u201d, Koldo Almandoz",
@@ -2391,8 +2391,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "Osasuna-D.Alaves, larunbat honetan 18:00etatik",
-    "media_desc": ""
+    "media_title": "Villarreal-D.Alav\u00e9s",
+    "media_desc": null
   },
   "1574": {
     "rss": "https://guau.eus/series/1574/rss.xml",
@@ -2413,8 +2413,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Unicaja-Baskonia, este domingo desde las 18:30",
-    "media_desc": ""
+    "media_title": "Girona-Baskonia",
+    "media_desc": null
   },
   "1305": {
     "rss": "https://guau.eus/series/1305/rss.xml",
@@ -2614,7 +2614,7 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "title": "Landaberri",
-    "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa, Arantxa Arzaren eskutik. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
+    "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
     "media_title": "Hotza eta elurra onuragarriak dira lurrarentzat",
@@ -2749,7 +2749,9 @@
     "title": "B Aldea Etengabe",
     "description": "Astean zehar B Aldean entzun dituzun kantarik onenak jarriko dizkizu Julen Idigorasek. Hitzik gabe, bi orduz eta musika etenaldirik gabe.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/2859b924-6dbb-4e05-8b4e-0b67cf59d07f.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2859b924-6dbb-4e05-8b4e-0b67cf59d07f.jpg",
+    "media_title": "B Aldeako kantak, etenik gabe",
+    "media_desc": null
   },
   "1435": {
     "rss": "https://guau.eus/series/1435/rss.xml",
@@ -2759,7 +2761,7 @@
     "description": "Gaztean, Dj Makalaren eskutik, Boom Shaka Laka irrati showaren denboraldi berria. Beti bezala, bazter guztietako musika berri eta ez hain berriak, esklusiboak, aurrerapenak! Dastatzeko, deskubritzeko, gozatzeko, dantzatzeko! Boom Shaka Laka!!! Mundu osoko taupadak zure belarrientzat!\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/514a0503-e44e-4495-a2c9-17e6930d7a46.jpg",
-    "media_title": "Nu Genea, Caribombo, Tagua Tagua",
+    "media_title": "Annie & The Caldwells, The Mighty Mocambos, Don West",
     "media_desc": null
   },
   "1433": {
