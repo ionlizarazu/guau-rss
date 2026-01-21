@@ -4,8 +4,8 @@
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
     "media_type": "video",
-    "media_title": "12. \"Brinkola\", Mikel Laskurain",
-    "media_desc": "\u201cBrinkola\u201d telesail entzutetsua hamabigarren \u201cKlaketa\u201d ataleko edukia dugu. Horretarako, antzerkian, telebistan eta zineman bide luzea egin duen Mikel Laskurain aktorea da Gaizka Izagirreren gonbidatua. Kultuzko seriea bilakatu zen askorentzat, 2009an estreinatutako telesaila, eta halaxe jarraitzen du. Hamahiru ataletan banatuta dago. ",
+    "media_title": " 1. \u201cFaisaien irla\u201d, Asier Urbieta zuzendaria         ",
+    "media_desc": "Ipar eta Hego Euskal Herria bereizten dituen Bidasoa ibaiaren inguruan etorkinek dituzten  gorabeherak kontatzen dizkigu \u201cFaisaien irla\u201d filmak. Muga fisiko eta moralak aztertzen ditu Asier Urbietak zuzendari gisa egin duen aurreneko filma luzeak. Gaizka Izagirrerekin solasean, Euskal Herria banatzen duen mugaren inguruko afera bera, filmaketaren inguruko bitxikeriak, eta mugaren alde bietan lan egiteak izan dituen zailtasunak aztertu dituzte \u201cKlaketa\u201d bideopodcastaren atal honetan.",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8c4e9ce-2814-4d27-849d-69c28fe0ddea.jpg"
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Juan Carlos Elizalde, obispo de Vitoria",
-    "media_desc": "Juan Carlos Elizalde, Gasteizko gotzaina",
+    "media_title": "Itziar Paunero, presidenta del Colegio de Economistas en \u00c1lava",
+    "media_desc": "2025eko balace ekonomikoa eta Euskadiko eta Arabako 2026rako aurreikuspenak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -163,8 +163,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ultraprozesatuak mugatzeko ahaleginak, nahikoak?",
-    "media_desc": "Jaki horiei muga jartzeko ahaleginak egiten hasiak dira erakundeak.  Jaki horien industriaren egiteko moduaz, mugitzen dituen zenbaki ekonomikoez eta eragiten duen kalteaz aritu zaizkigu adituak",
+    "media_title": "Groenlandia, berriz kolonizatuko dituzten beldur",
+    "media_desc": "Patxi Alberdi psikiatrak eta Jorge Gorosarri geologoak ondo ezagutzen dute Groenlandia. Aki Matilda Hoeggh-Dam bertako Alderdi Independentistako kidea da eta Rasmus Sinding S\u00f8nderg\u00e5rd, berriz, Danimarkako Atzerri Gaietarako Institutuko ikertzailea. Haiekin aztertu ditugu irla izoztuak bizi duen une historikoaren gakoak. Aritz Gogorza eta Manex Agirrezabal euskaldun-daniarren ikuspuntua ere jaso dugu",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "I\u00f1aki Aizpuru, 40 urte Andoaingo Zine Eskolako gidaritzan",
-    "media_desc": "1986ko irailean jarri zuen martxan eskola, eta bertako gobernantza darama gaur ere. Visnews albiste agentziarentzat hasi zen kameralari, 80ko hamarkada hasieran. Urte latz haietan hamaika odol-putzu filmatu zituen. Bideogintzan ere aritu zen: berak jarri omen zuen, lehendabizikoz, kamera aurrean Karlos Argi\u00f1ano. Eta 'Erreporteroak' pelikula ere zuzendu zuen. Andoaingo bulegoan hartu gaitu berriketarako.",
+    "media_title": "Osane Oruetxebarria: \"Matematikak boladan daude\"",
+    "media_desc": "Matematikan doktorea da Osane Oruetxebarria eta Matematika saileko Analisi Matematiko arloko irakasale jarduten du egun Euskal Herriko Unibertsitatean.\n\"D'Alambertengandik Neomakengana, metematikaren eskutik\" izeneko hitzaldia eman aurretik Faktoriara etorri zaigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -575,8 +575,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Anepedia: 2026an, zer? ",
-    "media_desc": "Ane Galardik hasi berri dugun urterako gastronomia proposamenak ekarri ditu.",
+    "media_title": "Luiginak: Non sentitzen da etxean korrespontsala? ",
+    "media_desc": "Yerai Diaz, Ane Irazabal eta Nerea Sarriegi itzulerei buruz aritu dira.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -619,8 +619,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "C\u00f3mo abordar los prop\u00f3sitos de a\u00f1o nuevo y el cambio de h\u00e1bitos. Arqueolog\u00eda del paisaje en el valle de Oma",
-    "media_desc": "Eva Garnica psikiatrek, Bizkaiko Osasun Mentaleko Sareko ikasketa-buruak, eta Pablo Malok Urte Berriko asmoen tradizioa eta aldaketaren gakoak aztertzen dituzte, eta ohiturak aldatzeko aholkuak eskaintzen dituzte. Josu Narbarte arkeologoak Oma Haraneko paisaia-arkeologiari buruzko ikerketa bat aurkezten du. Eremu hau adibide bikaina da EAEko kostalde atlantikoan dauden paisaia kulturalen bilakaera ulertzeko. Bere konfigurazioa faktore sozial eta ingurumenalen arteko elkarrekintza luze baten emaitza da, Erdi Arotik finkatua.",
+    "media_title": "La relaci\u00f3n de las plantas con los sonidos.Viaje al interior de la c\u00e9lula. Atlas celular de la inflamaci\u00f3n",
+    "media_desc": "Alvaro Bay\u00f3n biologoak landareek ingurunea hautemateko eta harekin elkarreragiteko duten gaitasunaz eztabaidatzen du. Azken ikerketek haien harremana aztertu dute, zehazki, soinuarekin. NOUS-209 koloneko minbiziaren aurkako txertoa arrakastaz probatu da minbizi mota batzuk garatzeko joera duen gaixotasun hereditario bat duten 45 pertsonarekin. Biologia Ebolutiboko Institutuak, EHUko Biofisika Institutuaren parte-hartzearekin, gure zeluletan funtsezko garraio-funtzioa betetzen duten makina molekular txikien mugimendua jarraitzea lortu du: molekulak zelularen gainazalera garraiatzea. Analisi Genomikorako Zentroko ikertzaileek hanturaren lehen atlas zelularra argitaratu dute, gaixotasun edo lesio bat dagoenean zelulak aurki daitezkeen hanturazko egoerei buruzko datu-base handi bat. Lan hau oso erabilgarria da diagnostikorako.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -652,8 +652,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La C\u00e1tedra",
-    "media_desc": "Deportivo Alavesen aktualitatea Emilio Pascual, Mart\u00edn Herrera, Ignacio Zulaica, I\u00f1aki Ozenda eta Valent\u00edn Carlos de Vergararekin.\n\n",
+    "media_title": "La c\u00e1tedra del lunes 19 de enero",
+    "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -1299,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Pedalei eragin, dena aldatzeko",
-    "media_desc": "Industrializaziotik gaurdaino, transformazio sozialaren ikur izan da bizikleta eta NBEk dei egin du txirringa biharko mugikortasun-estrategietan trinkotzeko. 'Bigarren Laurdena' solasaldian, bizikletaren indarraz, kulturaz eta erresistentziak gainditzeaz aritu gara Maria Loro\u00f1o BC3ko ikerlariarekin, Garbi\u00f1e Manterola BRTAko transferentzia-arduradunarekin eta Naia Ormaza Columbia Britainiarreko ikerlariarekin.",
+    "media_title": "NATURPOS, kaka errazago egiteko ointokia",
+    "media_desc": "Nafarroako lagun-talde baten otorduan sortu zen ideia. Gero eta jende gehiagok kaka egiteko arazoak dituela jabetuta, oinak altxatzeko aulkitxoak baino hobea den gailua sortu dute: NATURPOS. Joseba Imaz da sortzaileetako bat, eta berak azaldu ditu asmakizunaren nondik norakoak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1310,8 +1310,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "ICE indarren kontra, antolatzen",
-    "media_desc": "Inmigrazio agenteen ekintza bortitzei aurre egiten hasi zaizkie herritarrak Estatu Batuetan. ICE agenteen kopurua 10.000tik 22.000ra igo da urte bakarrean eta Trumpen administrazioak gehiago erreklutatu nahi ditu, \"inbasioari aurre egiteko\". Esperientzia gabeko agenteen beldur direla kontatu digu Xabier Berruetak Los Angelesetik",
+    "media_title": "Euskadi Irratia Estrasburgon",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1515,7 +1515,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "'Hodei guztien gainetik', de Markeli\u00f1e y el flamenco de Paco Mora",
+    "media_title": "Erromintxelak, Maskaradak, Vestuario de 'Gaua' y cartelera",
     "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/687e416f-e0df-4fc8-a5bc-152768dc025d.jpg"
   },
@@ -1667,8 +1667,8 @@
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, eta aukeratutako filmaren bitxikeriak edota anekdotak. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ab547bb6-7d71-4953-8225-8d748a9b7cf1.jpg",
-    "media_title": "13. \u201cZeru ahoak\u201d, Koldo Almandoz",
-    "media_desc": "\u201cZeru ahoak\u201d izenburuarekin ekoitzi du EITB Mediak 2025ean, Covid-19aren garai ilunean arrakasta izan zuen \u201cHondar ahoak\u201d telesailaren jarraipena. Nerea Gartzia du protagonista, aurrekoak bezala, eta euskaraz SSIFF-eko sail ofizialean aurkeztu den aurreneko telesaila da, nahiz lehiaz kanpo. Hau ere, Koldo Almandoz zinegileak zuzendu du eta Harkaitz Canoren laguntza izan du bigarren aldi honetan gidoia osatzeko.\n\n\u201cKlaketa\u201d podcastaren atal berezi honetan Gaizka Izagirrerekin solastu da Almandoz, bere lanaz eta Euskal ikus-entzunezkoen loraldiaz. Izan ere, 73. Zinemaldian inoizko ekoizpen euskaldun kopuru handiena aurkeztu da."
+    "media_title": "1. \"Faisaien irla\u201d, Asier Urbieta zuzendaria",
+    "media_desc": "Ipar eta Hego Euskal Herria bereizten dituen Bidasoa ibaiaren inguruan etorkinek dituzten  gorabeherak kontatzen dizkigu \u201cFaisaien irla\u201d filmak. Muga fisiko eta moralak aztertzen ditu Asier Urbietak zuzendari gisa egin duen aurreneko filma luzeak. Gaizka Izagirrerekin solasean, Euskal Herria banatzen duen mugaren inguruko afera bera, filmaketaren inguruko bitxikeriak, eta mugaren alde bietan lan egiteak izan dituen zailtasunak aztertu dituzte \u201cKlaketa\u201d podcastaren atal honetan."
   },
   "1319": {
     "rss": "https://guau.eus/series/1319/rss.xml",
@@ -2130,8 +2130,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "19 ordu pasako dituzte danbor hotsei doinua jartzen",
-    "media_desc": "Eneko Gomez, Danel Etxabarri eta Martina Soto musikariak pasa dira saiotik, 'Donostiako doinuak' diska argitaratu berritan, eta San Sebastian egunaren atzera-kontaketa bete-betean.",
+    "media_title": "Euskal Herriko gazteen tribuak",
+    "media_desc": "I\u00f1igo Aranburu estilistak Euskal Herriko gazteen estiloaren sailkapena ekarri digu irratira.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2162,8 +2162,8 @@
     "description": "Eguna lasai amaitzeko, elkarrizketak eta musika hautaketa pertsonala. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/fb69549c-4743-4556-b1f5-099b81577cc4.jpg",
-    "media_title": "Fernando Valladares:\"COP30, una cumbre para olvidar\"",
-    "media_desc": "Azkenik, CSICeko ikertzaileak, ekologian eta klima-aldaketan adituak, ondorioztatu duenez, munduko egoera geopolitikoak, igorle berritzaile handiekin \u2013 Txina eta Errusia, presentzia erregularrarekin, Estatu Batuak kanpoan direla \u2013 eta oresio-taldeek, beren funtzioa betez, lorpenengatik gogoratua izateko itxura gutxiko gailurra eman dute"
+    "media_title": "Conversaci\u00f3n y m\u00fasica",
+    "media_desc": null
   },
   "1533": {
     "rss": "https://guau.eus/series/1533/rss.xml",
@@ -2331,8 +2331,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/690eedc9-3070-48cb-a629-6bf6593262a8.jpg",
-    "media_title": "Araski-Girona, larunbat honetan 18:45tatik",
-    "media_desc": ""
+    "media_title": "Valencia-Araski",
+    "media_desc": null
   },
   "1476": {
     "rss": "https://guau.eus/series/1476/rss.xml",
@@ -2391,7 +2391,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "D.Alav\u00e9s-Rayo Vallecano",
+    "media_title": "D.Alav\u00e9s-Betis",
     "media_desc": null
   },
   "1574": {
@@ -2575,7 +2575,7 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "At Madrid-Alaves/Baskonia-Manresa/ Mungiako pilota jaialdia",
+    "media_title": "Atalanta-Athletic",
     "media_type": "audio",
     "media_desc": null,
     "title": "Hiru Erregeen Mahaia",
