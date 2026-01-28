@@ -4,7 +4,7 @@
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
     "media_type": "video",
-    "media_title": "2. \"Aro berria\", Irati Gorostidi zuzendaria",
+    "media_title": "2. \"Aro berria\", Irati Gorostidi Zuzendaria",
     "media_desc": "\u201cTabakalera belaunaldia\u201d izendatu ohi den zinegile multzoan kokatuta dago Irati Gorostidi zinegile nafarra. Aurrez hainbat lan egin arren, \u201cAro berria\u201d izan da bere lehen film luzea, eta deigarria da, opera prima izanik oso proposamen ausarta delako.\n80ko hamarkadan Ultzaman eratu zen Arco-Iris komunitatean oinarrituta dago \u201cKlaketa\u201d bideopodcastaren atale honetan aletzen dugun filma. Donostiako Zinemaldiaren 2025eko edizioan Zuzendari Berriak sailean aurkeztutako lanaren inguruko xehetasunak eman dizkio Gorostidik Gaizka Izagirreri.  ",
     "page": "Musika",
     "page_id": 60,
@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "12. Eguberri on! Urtea zoragarri amaitu dugu\u00a0\u00a0",
-    "media_desc": "Din-dan-don, din-dan-don, Eguberri on! Gabonak heldu dira eta Aitziberrek, Malenek eta Oihanek, elkarren artean \u201clagun ezkutua\u201d egiteko aprobetxatu dute, opari garaia. Podcastaren hasierako denboraldietako egoerak gogoratu eta hauen aurrean erreakzionatu dute. Horren \u201cmaitatuak\u201d diren data hauen inguruan ere aritu dira.\n \nGustuko dituzue gabonak? Ba, ez galdu \u201cBenetan zabiz?\u201d podcastaren 2025eko azken atala!"
+    "media_title": "13. Eneko Sagardoy, handia baina epaitua",
+    "media_desc": "Castingetan ghostina egin izan diote, nola ez, eta euskal aktoreen sindikatuko partaidea da. \u201cBenetan zabiz?\u201d podcastaren atal honetako gonbidatua: Eneko Sagardoy!\n \nPelikuletako kritikak ez dituela irakurtzen aitortu digu eta bere fisikoa epaitzeak molestatu egiten duela. Klaustrofobia eta agorafobia jasaten dituela ere azaldu digu eta horrek sekulako albo kalteak sortzen dizkiola egunerokotasunean.\n \nZer egoera arriskutsu bizi izan ditu Enekok errodajeetan? Zein da bere gaitasunik handiena? Pelikulen kontsumo azkarraz, zinemara filmaz ezer jakin gabe eta espektatiba gutxirekin joateko ohitura berreskuratzeko gogoaz aritu dira, besteak beste. \u201cNor naiz?\u201d jokora jolastu dira gainera!"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": " Juan Luis Espa\u00f1a, de CCOO Euskadi: \"No deber\u00eda haber ning\u00fan operario de la construcci\u00f3n trabajando con este fr\u00edo en la calle\"",
-    "media_desc": "CCOOko Juan Luis Espa\u00f1arekin elkarrizketa, Arabako eraikuntzaren egoeraz hitz egiteko.",
+    "media_title": "Beatriz Artolazabal, teniente de alcaldesa y concejala de espacio p\u00fablico y movilidad",
+    "media_desc": "Beatriz Artolazabal, alkateorde eta espazio publiko eta mugikortasuneko zinegotzia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Irati Agirre: \"Neguko Joku Olinpikoen zuzia eramatea sekulako esperientzia izan da\"",
-    "media_desc": "VISA enpresan, Espainiako eta Portugalgo komunikazio arduraduna da Irati Agirre, eta VISA bera Neguko Jokuen babesle denez, donostiarrari egokitu zaio zuziak Olinpia eta Milan artean egingo duen ibilbidearen parte izatea. Egun hartako esperientziaz, zein bere lan jardunaz aritu gara.",
+    "media_title": "Gontzal Mendibil: \"Gazteek Lauaxeta ez ezagutzeak ematen dit mina\"",
+    "media_desc": "Oholtzan mende erdi bete izana ospatzen ari da Gorbeia magalean sortutako kantaria. Orain arteko ibilbideaz eta hemendik aurrerakoaz aritu da Faktorian. Politikari eta agintariek \"artearekiko duten sentsibilitate falta\" eta \"sortzaileekiko laguntza eskasa\" salatu ditu. Eta albistea ere eman du: musikal bat aurkeztuko dute aurki, \"Maitasun gar bizia\" izenekoa.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -597,8 +597,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Luisa Villegas nos propone la tabla de quesos perfecta",
-    "media_desc": "",
+    "media_title": "Cuando la casualidad descubre una cueva de miles de a\u00f1os con arte esquem\u00e1tico",
+    "media_desc": "Goizalde Landabaso eta Juan Carlos Lopez Quintana Bizkaiko Gamiz-Fika herrian izan dira. San Pedro de Atxispe baselizaren zaharberritze lanetan ari zirelarik,  Erlapiku kobazuloa aurkitu zuten Bizkaiko Foru aldundiko langileek. Ez da kobazulo naturala, eta bertan aurkitu zituzten, gorriz eta beltzez margotutako irudiak. Arte eskematikoari dagokio eta duela milaka urte margotutakoak dira.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ca68b1d1-e4d3-4208-bfa4-064a73bd3d3b.png"
   },
   "1437": {
@@ -630,8 +630,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "'Hablamos del tiempo o sobre el vecino, pero no sobre nosotros'",
-    "media_desc": "Gero eta gehiago hitz egiten da osasun mentalari buruz, baina oraindik askoz gehiago geratzen da, 'batez ere herri txikietan', Aitziber Iratzokik kontatu digunez. Berak Instagram erabiltzen du bere osasun mentala hobetzeko egiten ari den bigarren tratamenduaren nondik norakoak kontatzeko.",
+    "media_title": "\u00bfJugamos a la loter\u00eda con responsabilidad?",
+    "media_desc": "Loteria beti izan da gizartean errotutako jokoa. Nork ez du  lagunekin, senideekin edo lankideekin jolasten? Hori dela eta, joera berriek erakusten digute enpresek gero eta zenbaki gutxiago gordetzen dituztela jokoa ez sustatzeko. Loteriak, printzipioz, ez luke inolako arazorik eragin behar, baina zerbait serioagoa eragin dezake: ludopatia. Horrexegatik, Jon Mardaras, CREA elkarteko zuzendari terapeutikoa, gurera ekarr dugu, egoera hau aztertzeko asmoz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/61a113c1-6276-4d94-b152-8daeaad591b7.jpg"
   },
   "1782": {
@@ -652,8 +652,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La c\u00e1tedra del lunes 19 de enero",
-    "media_desc": "",
+    "media_title": "La Catedra. Betisen kontra garaipena",
+    "media_desc": "Deportivo Alaveseko ohiko komentaristek Arabako taldeak Real Betisen aurka lortutako garaipen garrantzitsuaren inguruan hausnartzen dute (2-1).\n",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -663,8 +663,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"Los consumidores deber\u00edmos tener m\u00e1s f\u00e1cil el acceso a alimentos frescos y m\u00ednimamente procesados\", Maira Bes Rastrollo",
-    "media_desc": "'The Lancet' aldizkari zientifikoak hiru artikulu argitaratu zituen joan den azaroaren 19an, \"Ultra-Processed Foods and Human Health\" izenburupean, elikagai ultraprozesatuek osasunean duten kontsumoari eta inpaktuari buruz, elikagaien industriako erraldoien erantzukizunari buruz eta nazioarteko gobernu eta erakundeen ekintza politiko argi eta publikoen beharrari buruz.\nMakroartikulu honen sinaduretako bat Maira Bes Rastrollo da, Nafarroako Unibertsitateko Medikuntza Prebentiboko eta Osasun Publikoko katedraduna eta nutrizio-epidemiologian egindako lanagatik nazioartean ezaguna den espezialista.",
+    "media_title": "'Microbiota y salud mental', nuevo libro del microbi\u00f3logo Ignacio L\u00f3pez-Go\u00f1i",
+    "media_desc": "Gure mikrobiotak gaixotasun mental eta fisiko jakin batzuen agerpenarekin duen inplikazioa ikertzen du zientziak. Depresiotik hasi eta tratamendu onkologikoen emaiorera edo eraginkortasun txikiagora, mikrobiotea analisi-elementu bihurtzen da. Ignacio L\u00f3pez-Go\u00f1i mikrobiologo eta Nafarroako Unibertsitateko katedradunak mikrobiotaren funtzioa ulertzen laguntzen digu, eta, 'Microbiota y salud mental' liburuaren bidez, garun-instestino lotura aztertzen duten ikerketak deskribatzen dizkigu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/74b88559-1738-45c7-888c-3aa663fad464.png"
   },
   "1744": {
@@ -735,8 +735,8 @@
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
-    "media_title": "The Clash (II) : Punk-aren mugak gainditu zituen banda enblematikoa",
-    "media_desc": "Printzipio eta kode propioak zituzten eta euren abestietan reggae, ska, jazz nahiz haize sekzioak sartuz era guztietako melomanoak batu zituzten.\n\u201cLondon Calling\u201d eta \u201cSandinista!\u201d aztertu ditu Irantzu Karrerak \u201cPasaiak\u201d podcastaren atal honetan.",
+    "media_title": "Phil Spector:\u00a0 Gorakada eta gainbehera\u00a0\u00a0\u00a0",
+    "media_desc": "1939an New Yorken jaiotako Phil Spectorrek talentu handiko artistaren paradoxa irudikatzen du: XX. mendeko pop musikaren figura garrantzitsuenetakoa izan zen sortzaile zein produktore moduan, baina tratu txar eragile eta hiltzaile ere bai. Irantzu Karrerak \u201cPasaiak\u201d podcastaren atal honetan azaldu dizkigu 2021ean hildako Phil Spectorren argi-ilunak.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1010,12 +1010,12 @@
   },
   "1628": {
     "rss": "https://guau.eus/series/1628/rss.xml",
-    "title": "Las recetas de Fernando Canales",
+    "title": "Las recetas de Iv\u00e1n \u00c1lvarez",
     "description": "Bost minutuan errezeta bikain bat proposatuko dizu Fernando Canalesek.",
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/a4ea80b8-87b9-4740-af72-6c3b5d811ba9.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/afe98951-8d4f-4798-9edf-76ebbb70c2e8.jpg"
   },
   "1646": {
     "rss": "https://guau.eus/series/1646/rss.xml",
@@ -1116,8 +1116,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ad2ead71-a5a3-4831-8c99-3db82d0a67ba.jpg",
-    "media_title": "3. Borroka da bide bakarra",
-    "media_desc": "Jingko enpresan topatu zituen kassete misteriotsuetan egia ilunago bat aurkitzen hasten da Naroa. Oierrek Becaren sekretua ezagutuko du, bien arteko harremana sendotuz. Bitartean, Maiatzaren 1eko manifestazioak eta Jingko enpresaren itxierak herriko tentsioa leherraraziko dute. Bestelako albiste batek bailara osoa aztoratuko du hala ere: ustez ardien desagerketen atzean dagoen hartzak haur bat eraman du."
+    "media_title": "4. Ez dira betiko garai onenak",
+    "media_desc": "Beca, Oier eta Naroa aspaldiko partez elkartuko dira. Aitorpenen eta berradiskidetzearen unea izango da. Dena ez da gozoa ordea: Naroak Jingkori buruzko informazio beldurgarria du eta Oier errudun sentitzen da hartzari lagunduko ziolako. Hain zuzen ere, basapiztiak eramandako haurraren bila basoa miatzen dabil jende ugari, tartean Naroaren aita."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1300,7 +1300,7 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "media_title": "Pako Aristi: \"Lehen gautxoria nintzen, orain 'goiztxoria' naiz\"",
-    "media_desc": "'Autoreen idazgelak' saileko lehen anfitrioia izan da Urrestilan jaiotako idazlea. Urte batzuk badira Zestoan bizi dela eta bertan hartu du Jon Artano. Eta idazmahaiaren aurrean eserita egin dute berriketaldia. Oso goiz esnatu ohi da Aristi, kalean kafe bat hartu eta idazten hasteko gogoz.",
+    "media_desc": "AUTOREEN IDAZGELAK saileko lehen anfitrioia izan da Urrestilan jaioteko idazlea. Urte batzuk badira Zestoan bizi dela eta bertan hartu du Jon Artano. Eta idazmahaiaren aurrean eserita egin dute berriketaldia. Oso goiz esnatu ohi da Aristi, kalean kafe bat hartu eta idazten hasteko gogoz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1310,8 +1310,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ekain Munduate: \"Harrigarria da; tren berriak dira eta trenbidea berrituta zegoen\"",
-    "media_desc": "Kordobako tren istripu larriaren biharamunean hitz egin dugu Ekain Munduate ingeniariarekin. ",
+    "media_title": "Amazoniatik datorren salaketa, Goyetara",
+    "media_desc": "Repsol enpresaren petroleo erauzketak Ekuadorko Amazoniako komunitate indigena batean eragin dituen kutsadura eta desberdintasunak erakusten dituen dokumental laburra da 'Zona Wao'. Nagore Ezeizak zuzendu du Medicus Mundik sustatuta",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1355,8 +1355,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "Intsektuek bere egitekoa dute, eta babestu behar dira",
-    "media_desc": "Hori horrela, Iru\u00f1erriko Mankomunitateak intsektuentzako hotelak ezarri ditu, haien babeserako eta gure kontzientziazioa lantzeko. Bakarne Atxukarro komunikazio teknikariak eta Gabi Berasategi biologoak azaldu digute aipatutako hotelak zer diren. Badira ordea inbaditzailetzat har genitzakeenak eta gaixotasunak zabaltzen dituzten moskitoak, osasun arduradunen artean kezka zabaldu dutenak. Batzuen eta besteen funtzio eta ezaugarrien inguruan Jon Fernandez Aranzadiko biologoarekin mintzatu gara. "
+    "media_title": "Sagar bat egunean medikua urruti dio esaerak",
+    "media_desc": "Eta horri tiraka sagarraren propietateak izan ditugu hizpide Aitziber Saiz nutrizionistarekin. Baina bada oso errotua dagoen beste esaera bat, bi urtetik behin izaten dela oparoa sagar uzta gurean. Hori aldatu eta etorkizunean urtero ekoizpen onak izateko lanean ari dira adituak. Horretan diharduen Aitor Etxeandia sagar teknikaria ere gonbidatu dugu egiten ari diren lanaren berri emateko. Hirugarren gonbidatu batekin osatu dugu tartea, Josu Ozaita antropologo eta sagardo ekoizlearekin."
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1526,8 +1526,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "El Bel\u00e9n de Zurbano, un misterio que hace pueblo",
-    "media_desc": "Zurbaoko kontzejuko Jaiotza Bizidun Antzeztuaren zortzigarren edizioa. Ehun herritar baino gehiagok hartzen dute parte eta 2.000 bisitari baino gehiago biltzen dira. Arratzua-Ubarrundia udalerriko honek Jesusen jaiotzaren sei irudikapen ezberdin taularatzen ditu eta bere ibilbidean zehar ia hogei artisau lanbide daude.",
+    "media_title": "Villodas re\u00fane a sus 25 Ni\u00f1os Jes\u00fas del Bel\u00e9n Viviente",
+    "media_desc": "Arkiz Kultur Elkarteak, Billoda, Subilla Gasteiz eta Trespondeko bizilagunek osatua, bere Jaiotza Antzeztuaren XXV. urteurrena ospatzen du, Gabonetako antzezpen honetan parte hartu duten 25 Jesus Haurrei omenaldia eginez. Eszenaratze hori 2000. urtean hasi zen, eta 2020an bakarrik eten zen, pandemiaren ondorioz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1580,7 +1580,7 @@
     "description": "Asteburu goizeko albistegi nagusia. Albisteak, elkarrizketak eta solasaldiak Eider Bilbaok gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8289e893-fa9e-4df0-8f96-fbc4aeb545d0.jpg",
-    "media_title": "Menopausiaz hitz egin dezagun",
+    "media_title": "Menopausiaz hitz egin dezagun ",
     "media_desc": "Menopausia eta klimaterioa emakume guztiek bizitzen duten etapa bat da; aldaketa fisiologiko ugari dakartzana: gorputza aldatzen da, beroaldiak heltzen dira, askotan tristura gailentzen da...emakume bakoitzak era ezberdinean bizitzen du transizioa. \nBidea ez da erraza izaten, askotan bide hori bakardadean egiten delako.\nBada, bidea erraztearren, osasun sistema hasi zaio sasoi horri arreta jartzen, eta Nafarroan, menopausiari buruzko tailerrak egiten dituzte menopausiari modu integralean heltzeko."
   },
   "1568": {
@@ -1738,8 +1738,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala ematen dizu \"Hitza Jolas\" podcastak Eneritz Gorrotxategik aurkeztuta. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Bizkaiko Finalaren atarikoak eta finalaurrekoen bigarren itzulikoak",
-    "media_desc": "2025eko Bizkaiko finala ate-joka dugunez, finaleko oholtzan izango diren bertsolariek esandakoak bildu ditugu, baita txapela jartzeko ardura izango duen Arantza Plazarenak ere. \nBertsoei dagokienez, \"Hitza jolas\"en atal honetan Bizkaiko finalaurrekoen bigarren itzulikoak, Bermeo eta Markina Xemeingoak hautatu ditugu."
+    "media_title": "Xilabaren errepasoa",
+    "media_desc": "Xilaba; Zuberoa, Lapurdi eta Baxe-Nafarroako bertsolari txapelketa finalaurrekoen atarian dagoenez, errepasoa egiteko tartea hartu dugu. Lehen faseko lau saioetako (Bidarteko, Domintxaineko, Ainhoako eta Ligiko) eta bigarren faseko hiru saioetako (Aiherrako, Muskildiko eta Hiriburuko) bertsoaldien artean egin dugu aukeraketa \u201cHitza jolas\u201d podcast honetan."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -1961,8 +1961,8 @@
     "description": "Elkarrizketa podcasta, baina, ez edonolakoa. Oier Aranzabalek pertsonaia baten etxera sartuko gaitu, berarekin solasean jardun eta istorio berriak kontatzeko. Sortzaileak, musikariak, aurkezleak eta zerbait interesgarria esateko daukan oro. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg",
-    "media_title": "90. Izaskun Urkijo, pelikularen barrunbeetatik",
-    "media_desc": "Arkitektura ikasi zuen, baina, zineman arte zuzendari lanak egiten dabil aspaldidanik. Pantaila handian txunditzen gaituzten munduak eraikitzen ditu. Ezinezko basoak, beste mendeetara garamatzaten egur eta harrizko eraikuntzak eta gidoietan idatzitako beste hainbat zorakeria eder. Anaia zinemagilearekin sartu zen ofizio honetan, eta orain hamaika proiektutarako deitzen diote. Bere etxean hartu gaitu, infusio bero batekin."
+    "media_title": "91. Itxaso Compa\u00f1on, familiako bodegara itzulera",
+    "media_desc": "Lantziegon eskola euskalduna sortu zuen bere amak. Aitak familiaren bodega zeraman. Itxaso Compa\u00f1onek berriz zinemagintzaren aldeko apustua egin zuen. Eta horrek eraman zuen Bartzelonara. Muntaia ikasi zuen bertan. Zineman buru belarri sartzera zihoanean baina, gurasoak hil zitzaizkion eta Lantziegora itzultzeko erabaki irmoa hartu zuen. Familiako bodegarekin jarraitzeko erabakia. Eta aitonaren aholkuen laguntzarekin lortu zuen lehen ardoa egitea. \u201cEz dago horren txarra, zuk egina izateko!\u201d esan zion honek. Ordutik ardogintzan dihardu. Arabako jatorrizko izendapenaren alde dabil borrokan. Etxeko ateak zabaldu dizkigu."
   },
   "1294": {
     "rss": "https://guau.eus/series/1294/rss.xml",
@@ -2130,8 +2130,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Gizakiak eta euliak, oso antzekoak",
-    "media_desc": "Gizakiak eta euliak uste baino antzekoagoak gara. Euliekin egindako ikerketei esker hainbat sendabide aurkitu dira gizakiontzat. Horren harira, Mikel Zumeta soziologo eta ikus-entzunezkoetan adituak 'The fly' filmaz hitz egin digu eta Ana Zubieta katedradunak genetikari buruzko hainbat argibide ekarri dizkigu.",
+    "media_title": "'Azpijokoa Azpiazun'",
+    "media_desc": "Janire Atxurra booktokerra eta I\u00f1aki Dorronsoro idazlea 'Azpijokoa Azpiazun' eleberriaz aritu dira.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2341,7 +2341,9 @@
     "title": "Supercanasta",
     "description": "Baskonia, Araski eta, oro har, saskibaloiaren azken orduari buruzko programa. Sergio Vegas, Natxo Mendaza, Joseba S\u00e1nchez eta Rocio Rubinichen komentarioekin.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/6f14de2f-2bff-4cc9-95c1-a8cdcb523fe9.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/6f14de2f-2bff-4cc9-95c1-a8cdcb523fe9.jpg",
+    "media_title": "Supercanasta. Helburua: Kopa",
+    "media_desc": "Baskoniaren Europako astearen ostean, Galbiatiren taldeak garaipena lortu nahi du Joventuten aurka, Valentziako Kopan izango dela ziurtatzeko eta taldeburu izateko. Zozketa, bihar.\n"
   },
   "1453": {
     "rss": "https://guau.eus/series/1453/rss.xml",
@@ -2381,7 +2383,7 @@
     "title": "Radio Vitoria deportes Fin de semana",
     "description": "Arabako kirolari eta taldeei buruzko informazio zehatza.\n",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/88a9c195-f2a6-46be-a29e-26c75f8fdd87.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2a3dfc9d-5883-410b-8738-45f099a1330e.jpg"
   },
   "1617": {
     "rss": "https://guau.eus/series/1617/rss.xml",
@@ -2575,7 +2577,7 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Atalanta-Athletic",
+    "media_title": "Athletic-Reala",
     "media_type": "audio",
     "media_desc": null,
     "title": "Hiru Erregeen Mahaia",
@@ -2617,8 +2619,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Basoak, biodibertsitate ekoizleak jardunaldiak Azpeitian",
-    "media_desc": "Urola Bizirikek, Lurgaiak eta Kutxa Fundazioak antolatuta basoen inguruko lehenengo jardunaldiak egin dira Azpeitian. "
+    "media_title": "Dermatosi nodular kutsakorra eta txertaketa",
+    "media_desc": "Abelburuei eragiten dien Dermatosi Nodular Kutsakorrari aurre egiteko txertaketa hasiko da Nafarroa iparraldean eta Gipuzkoan."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -2730,7 +2732,7 @@
     "description": "Gazteako sareetan zuen botoak jaso ostean, Top Gaztea zerrenda berria eguneratzen dute larunbatero  Oihan Vegak eta Oizeder Mayok 11:00etatik aurrera. Gainera, 688 60 50 50 whatsapp zenbakira idatzita, asteko kanta birala proposa dezakezu. Eskatu zure musika eta bozkatu zure artista gogokoenaren alde!",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d93feb91-8929-4080-a5eb-63a1620636aa.jpg",
-    "media_title": "Aitanak lortu du aste honetako Top 1a!",
+    "media_title": "\"Xiberutikan Mendebaldera\" Top 1ean da!",
     "media_desc": null
   },
   "1584": {
@@ -3029,8 +3031,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b2f7e6a-dd83-482b-ab76-e6c99e5c1f50.jpg",
-    "media_title": "Musika gomendioak Alex Llordesen eskutik!",
-    "media_desc": "Astero bezala, gurean izan dugu Alex Llord\u00e9s momentuko kanturik frexkoenak gomendatzeko. Gaur, kantu oso \"gitarreroak\" ekarri dizkigu, bai euskal taldeenak, baita estatu mailako taldeen kantuak ere."
+    "media_title": "Zilborbistan guztiak!",
+    "media_desc": "Alain Perez etorri zaigu Txinan ematen ari den azken joera baten inguruan hitz egiteko. Zilborra erakusten ibiltzen hasi dira kalean!"
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3274,7 +3276,7 @@
   "2111": {
     "rss": "https://guau.eus/series/2111/rss.xml",
     "title": "Begi zolia",
-    "description": "Jolasa proposatzen digu Dom Campistronek: ezetz asmatu zein artelanez ari den?  Jolasa, artelanei begira, elkarrekin pentsatzeko.",
+    "description": "Ezetz asmatu zein artelanez ari den? Jolasa proposatzen digu Dom Campistronek. Jolasa, artelanei begira, elkarrekin pentsatzeko.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4ac9d003-3181-4eda-985d-f9d8d7326512.jpg"
   },
@@ -3493,8 +3495,8 @@
     "description": "Garbi\u00f1e Larrearen podcast honetan sendabelarrei buruzko bitxikeriak, erabilera praktikoak, belarren munduan aritu eta adituak direnei elkarrizketak eta bestelako kontu asko aurkituko dituzu. Argiako podcasta, GUAUn ere entzungai.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65cac517-c38a-4562-8b24-5efe58e184d4.jpg",
-    "media_title": "6. Udazken laranja: liburu bat eta kurkuma",
-    "media_desc": "\"Diario rural. Apuntes de una naturalista. Oto\u00f1o-invierno\" liburua (Susan Fenimore Cooper, Pepitas de calabaza argitaletxea) ekarri dugu podcast honetara, tarteka sendabelarrekin, landareekin zein naturarekin lotutako irakurketak gomendatzea pentsatu baitugu. Udazkenerako irakurketa egokia iruditu zaigu. Batetik gure garaitik eta bizi moldetik urrun dagoen testu bat delako, eta bere erritmo pausatuak badu gure bizi martxari eragiteko ahalmenik, lasaitze aldera noski. Bere garaian Darwinek gomendatu zuen liburua hau eta gu ere iritzi berekoak gara.\n\nEspezieei buruz askotan aritzen gara gure saioan. Sendabelar diren edo sukaldeko aberasgarri diren eztabaida dezakegu, baina balio terapeutikoa duten unetik sendabelarren lana egiteko erabil ditzakegula ukaezina da. Kurkumari buruz ariko gara, mirarizkoa dirudien espeziea, azken urteetako albiste eta argitalpenei begira jartzen bagara. Asko irakurri dugu berari buruz, eta erabili ere erabiltzen dugu, baina badaude aipatu beharreko zehaztasun batzuk. \n\nKurkumaren erabilera seguru bat ekarri dugu amaitzeko, piper beltza nahastu eta koipearekin batera erabilita bere balio terapeutiko guztia ariko garelako baliatzen."
+    "media_title": "7. Sendabelarrak eta botikak, ze parea!",
+    "media_desc": "Sendabelarren eta botiken arteko elkarreraginak izango ditugu hizpide. \"Emaidazu zerbait naturala, botika asko hartzen dut eta\" bezalako esaldiak askotan entzuten ditugu, eta pentsamolde horren okerraz aritu gara. Rosario C\u00e1ceres Fern\u00e1ndez-Bola\u00f1os farmazialariak idatzitako artikulua ekarri dugu. Bertan botika \u201ckimikoen\u201d eta alternatiba \u201cnaturalen\u201d arteko talkaz ari da; idorreria, liseriketa txarra, lotarako arazoak, likido atxikipena eta gernuko infekzioak tratatzeko zein sendabelar erabiltzen diren eta zein botikarekin duten elkar eragina azaltzen digu. Baita estimulatzaile eta tonikoek duten elkar eragina zein den ere.\nOndoren gorputzeko ehunak zaintzeko eta inflamazioa kontrolatzeko infusio baten inguruan aritu gara, Helena del Pesco sendabelarretan adituak formulatutako infusio batez alegia. Gaurkoan lau sendabelar landuko ditugu: plantaina (Plantago lanceolata), malba (Malva sylvestris), ilena (Calendula officinalis) eta salbia (Salvia officinalis). Jatorrian malbaren ordez Estatu Batuetan oso ohikoa den malba zuria (Althaea officinalis) darabil, baina guk hemen arrunta den malbarengatik ordezkatu dugu.\nGomendioaren atalean infusio hau nola prestatu eta nola erabili landu dugu, bai barne eta bai kanpo erabileran."
   },
   "1344": {
     "rss": "https://guau.eus/series/1344/rss.xml",
@@ -3538,5 +3540,14 @@
     "description": "Kafea hainbat modutan har daiteke. Guk azentua, doinua, jartzen diogu; elkarrizketa atseginak, memoriak, atzoko eta gaurko istorio hurbilak, protagonistek Gari Udaberi kontatuak.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e6d0cbf7-a70c-4199-a68a-cd2d53f66846.jpg"
+  },
+  "2369": {
+    "rss": "https://guau.eus/series/2369/rss.xml",
+    "title": "Test",
+    "description": "Ezbehar larri baten ondoren, azken jenerazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea.\nTest gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan zer den erreala eta zer den adimen artifizialaren diseinuaren parte.\n",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/583e8bbb-e801-48c8-826a-3879eef5c341.jpg",
+    "media_title": "0. Trailerra: Test ",
+    "media_desc": "Otsailaren 2tik aurrera, \u201cTest\u201d soinu-fikzioa eskainiko dizu GUAU atariak 6 ataletan banatuta. \n\u201cTest\u201d thriller psikologiko murgiltzailea da, entzulea pertsona baten eta adimen artifizial baten arteko xake partida mentalean barruratzen duena. Pertzepzioaren muga galdu dezakezu podcastean zehar. Ekintza, proba-laborategi itxian gertatzen da eta, une batzuetan, itogarria da ULU Mediak EITB Mediarentzat egindako ekoizpen hau.\nEzbehar larri baten ondoren, azken jenerazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea. Test gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan. Zer da erreala eta zer adimen artifizialaren diseinuaren parte.\nHiru pertsonaia dira soinu-fikzioko protagonistak, Adimen Artifiziala, beronen ebaluatzailea eta prozeduraren arduraduna. Joseba Apaolazak jokatzen du buruzagiaren papera eta Ramon Agirre eta Lorea Intxaustik beste biak. Anartz Zuazuak egin du aktore zuzendaritza, gidoia Martin eta Xabier Etxeberriak, eta Oier Aranzabalek zuzendu du taldea. Grabaketak eta nahasketa, Lasarteko ULU Estudioetan egin dira. Soinu Banda Iban Urizar, Amorante musikariak berariaz sortua da podcasterako eta Alain Urrutiak egin du Artea."
   }
 }
