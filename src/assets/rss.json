@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Jakes Agirrezabal: \"Uste dut erakundeak gai izango direla turismo tasa 2026ko udararako ezartzeko\"",
-    "media_desc": "Eusko Jaurlaritzako Turismo sailburuordeak esan du aurki barne Produktu Gordinaren %7ra iritsiko dela sektorea eta haren hazkunde jasangarria bultzatzen ari direla, sasoiz kanpo eta hiriburuetatik kanporako turismoa bultzatuz",
+    "media_title": "Xabier Barandiaran: \"Herri honen gehiengoa abertzalea da eta erabakitzeko eskubidea aitortzea nahi du. Bide bat markatuta dago eta forma eman behar diogu\"",
+    "media_desc": "EAJko legebiltzarkide eta kalitate demokratikoko ponentziaren arduradunak uste du, hala ere, \"Espainian ematen ari diren gertakariak eta dagoen egoera politikoa ez dela egokiena estatus politiko berrriaren inguruko adostasuna lortzeko\".",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Mar Dab\u00e1n, subdelegada del gobierno de Espa\u00f1a en Araba",
-    "media_desc": "Mar Dab\u00e1n, Espainiako Gobernuak Araban duen ordezkariordea",
+    "media_title": "Roc\u00edo Vitero, portavoz de EH Bildu en el Ayuntamiento de Vitoria",
+    "media_desc": "Rocio Vitero, EH Bilduren bozeramailea Gasteizko Udalean",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Gontzal Mendibil: \"Gazteek Lauaxeta ez ezagutzeak ematen dit mina\"",
-    "media_desc": "Oholtzan mende erdi bete izana ospatzen ari da Gorbeia magalean sortutako kantaria. Orain arteko ibilbideaz eta hemendik aurrerakoaz aritu da Faktorian. Politikari eta agintariek \"artearekiko duten sentsibilitate falta\" eta \"sortzaileekiko laguntza eskasa\" salatu ditu. Eta albistea ere eman du: musikal bat aurkeztuko dute aurki, \"Maitasun gar bizia\" izenekoa.",
+    "media_title": "\"Arte Ederren eraikina oso garrantzitsua da donostiarrentzat eta zeukan balioa nabarmentzen ahalegindu gara\"",
+    "media_desc": "Donostiako Arte Ederren eraikinaren birgaitzeaz hitz egin dugu lanak burutu dituen Ignacio Quemadaren estudioan lan egiten duen Ibon Perez Murgiondo arkitektoarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -1299,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Pako Aristi: \"Lehen gautxoria nintzen, orain 'goiztxoria' naiz\"",
-    "media_desc": "AUTOREEN IDAZGELAK saileko lehen anfitrioia izan da Urrestilan jaioteko idazlea. Urte batzuk badira Zestoan bizi dela eta bertan hartu du Jon Artano. Eta idazmahaiaren aurrean eserita egin dute berriketaldia. Oso goiz esnatu ohi da Aristi, kalean kafe bat hartu eta idazten hasteko gogoz.",
+    "media_title": "Donostian egin ez zirenak eta desagertu direnak",
+    "media_desc": "I\u00f1aki Otamendi historialariak, Donostian egin ez ziren hainbat proiektu deigarri jaso ditu \"Donostiako ukroniak\" erakusketan. Berta Etxeberria historialariak berriz, \"Desagertutako Donostia\" liburuan, Donostiako argazki zaharren bilduma egin du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1515,8 +1515,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Pleibak bertso-saioa y Te Reo maori ",
-    "media_desc": null,
+    "media_title": "'Zazpi urte', Sala BBK, Bafta y recomendaci\u00f3n de libros",
+    "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/687e416f-e0df-4fc8-a5bc-152768dc025d.jpg"
   },
   "1477": {
@@ -1577,7 +1577,7 @@
     "page": "Aktualitatea",
     "page_id": 65,
     "title": "Goiz kronika ",
-    "description": "Asteburu goizeko albistegi nagusia. Albisteak, elkarrizketak eta solasaldiak Eider Bilbaok gidatuta.",
+    "description": "Asteburu goizeko albistegi nagusia. Albisteak, elkarrizketak eta solasaldiak, Eider Bilbaok gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8289e893-fa9e-4df0-8f96-fbc4aeb545d0.jpg",
     "media_title": "Menopausiaz hitz egin dezagun ",
@@ -1656,8 +1656,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Ya vienen los Reyes Magos",
-    "media_desc": "Hau da, Gabonetan,  gorriz markatzen dugun egunetako bat: Ekialdeko  maiestateak 11:00etan iristen dira tren-geltokira, eta ehunka haurren beroa jasotzen dute, geltokian bertan ez ezik, errege-segizioaren ibilbide osoan zehar ere haien zain baitaude.\n\nMeltxor, Gaspar eta Baltasar egun xaxatua izango da, eta gaur arratsaldera arte egongo dira ikusgai, Erregeen kabalgatarekin. Gero, magia iritsiko da etxeetara eta oparirik esperoenak. Kontuz, jakin badakigu txikiei egun honetan laguntzen dieten helduak ere zain daudela eta gaur gauean zer gertatuko den jakin nahi dutela... Izan ere, Errege Magoen magia ez da adin tarte jakin batean bakarrik finkatzen..."
+    "media_title": "Universo viajero:  M\u00e1s all\u00e1 de un plato de comida",
+    "media_desc": "Antropologia gastronomikoaren munduan murgiltzen gara, janaria elikagai gisa ez ezik, kultura, memoria, historia eta identitate gisa ere aztertzen duen diziplina. Horretarako, Maider P\u00e9rez de Heredia politologo, soziologo eta migrazioetan aditua dugu."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
