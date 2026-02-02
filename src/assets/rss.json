@@ -2331,8 +2331,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/690eedc9-3070-48cb-a629-6bf6593262a8.jpg",
-    "media_title": "Larunbat honetan 17:45etatik, Araski-Ensino",
-    "media_desc": ""
+    "media_title": "Gran Canaria-Araski",
+    "media_desc": null
   },
   "1476": {
     "rss": "https://guau.eus/series/1476/rss.xml",
@@ -2342,8 +2342,8 @@
     "description": "Baskonia, Araski eta, oro har, saskibaloiaren azken orduari buruzko programa. Sergio Vegas, Natxo Mendaza, Joseba S\u00e1nchez eta Rocio Rubinichen komentarioekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f14de2f-2bff-4cc9-95c1-a8cdcb523fe9.jpg",
-    "media_title": "Supercanasta. Helburua: Kopa",
-    "media_desc": "Baskoniaren Europako astearen ostean, Galbiatiren taldeak garaipena lortu nahi du Joventuten aurka, Valentziako Kopan izango dela ziurtatzeko eta taldeburu izateko. Zozketa, bihar.\n"
+    "media_title": "Supercanasta. Ya hay rivales para la Copa",
+    "media_desc": "Teneriferen aurkako partidaren atarian, Radio Vitoriako saskibaloi tertulian, aztertzen dira Valentziako Koparako kanporaketak, Zalgirisen aurkako garaipen handia eta, jakina, Txus Vidorretaren taldearen aurkako neurketan eman dezakeena.\n"
   },
   "1453": {
     "rss": "https://guau.eus/series/1453/rss.xml",
@@ -2393,7 +2393,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "D.Alav\u00e9s-Betis",
+    "media_title": "D.Alav\u00e9s-R.Sociedad",
     "media_desc": null
   },
   "1574": {
@@ -2415,8 +2415,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Tenerife-Baskonia, igande honetan 17:30etatik",
-    "media_desc": ""
+    "media_title": "G.Canaria-Baskonia",
+    "media_desc": null
   },
   "1305": {
     "rss": "https://guau.eus/series/1305/rss.xml",
@@ -2577,7 +2577,7 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Athletic-Reala",
+    "media_title": "Alaves-Reala/Valentzia-Athletic",
     "media_type": "audio",
     "media_desc": null,
     "title": "Hiru Erregeen Mahaia",
@@ -3547,7 +3547,7 @@
     "description": "Ezbehar larri baten ondoren, azken jenerazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea.\nTest gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan zer den erreala eta zer den adimen artifizialaren diseinuaren parte.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/583e8bbb-e801-48c8-826a-3879eef5c341.jpg",
-    "media_title": "0. Trailerra: Test ",
-    "media_desc": "Otsailaren 2tik aurrera, \u201cTest\u201d soinu-fikzioa eskainiko dizu GUAU atariak 6 ataletan banatuta. \n\u201cTest\u201d thriller psikologiko murgiltzailea da, entzulea pertsona baten eta adimen artifizial baten arteko xake partida mentalean barruratzen duena. Pertzepzioaren muga galdu dezakezu podcastean zehar. Ekintza, proba-laborategi itxian gertatzen da eta, une batzuetan, itogarria da ULU Mediak EITB Mediarentzat egindako ekoizpen hau.\nEzbehar larri baten ondoren, azken jenerazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea. Test gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan. Zer da erreala eta zer adimen artifizialaren diseinuaren parte.\nHiru pertsonaia dira soinu-fikzioko protagonistak, Adimen Artifiziala, beronen ebaluatzailea eta prozeduraren arduraduna. Joseba Apaolazak jokatzen du buruzagiaren papera eta Ramon Agirre eta Lorea Intxaustik beste biak. Anartz Zuazuak egin du aktore zuzendaritza, gidoia Martin eta Xabier Etxeberriak, eta Oier Aranzabalek zuzendu du taldea. Grabaketak eta nahasketa, Lasarteko ULU Estudioetan egin dira. Soinu Banda Iban Urizar, Amorante musikariak berariaz sortua da podcasterako eta Alain Urrutiak egin du Artea."
+    "media_title": "6. Reset",
+    "media_desc": "Muturrera iritsi da adimen artifiziala eta adituaren arteko borroka. Hil ala bizikoa, bientzat. Adituak egoeraren kontrola berreskuratzeko adimen artifiziala reseteatzea beste erremediorik ez du ikusten. Hori uste baino zailagoa gertatuko da ordea."
   }
 }
