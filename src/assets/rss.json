@@ -4,8 +4,8 @@
     "title": "Klaketa ",
     "description": "Gaizka Izagirre zinema eta telesail kritikariak gidatutako podcasta da \"Klaketa\". Euskal ikus-entzunezkoak  ditu ardatz, eta atal bakoitzean film edota telesail bat da hizpidea. Bertan lan egindako protagonista bat gonbidatu dugu, izan aktore, zuzendari, makilatzaile, produktore, gidoilari... Elkarrizketatua sakonago ezagutzeko aukera duzu, bere ibilbidea, bitxikeriak edota anekdotak. \n",
     "media_type": "video",
-    "media_title": "2. \"Aro berria\", Irati Gorostidi Zuzendaria",
-    "media_desc": "\u201cTabakalera belaunaldia\u201d izendatu ohi den zinegile multzoan kokatuta dago Irati Gorostidi zinegile nafarra. Aurrez hainbat lan egin arren, \u201cAro berria\u201d izan da bere lehen film luzea, eta deigarria da, opera prima izanik oso proposamen ausarta delako.\n80ko hamarkadan Ultzaman eratu zen Arco-Iris komunitatean oinarrituta dago \u201cKlaketa\u201d bideopodcastaren atale honetan aletzen dugun filma. Donostiako Zinemaldiaren 2025eko edizioan Zuzendari Berriak sailean aurkeztutako lanaren inguruko xehetasunak eman dizkio Gorostidik Gaizka Izagirreri.  ",
+    "media_title": "3. \u201cMaspalomas\u201d, Jose Mari Goenaga zuzendaria eta gidoilaria  ",
+    "media_desc": "Oihartzun handia izan du  hasieratik, Jose Mari Goenaga eta Aitor Arregi, Moriartitarrek, zuzendu duten \u201cMaspalomas\u201d filmak. Donostiako Zinemaldiaren 2025eko edizioan aurkeztu zenetik marka jarri du euskal zinemagintzan, SSIFFen ez ezik, besteak beste Feroz edo Goya sarietan eta beste hainbat jaialditan jasotako sari eta izendapenengatik.  Zuzendaritza, gidoia, eta bereziki, Jose Ramon Soroiz aktore nagusiaren lanari egin zaio gorazarrea. \n\u201cMaspalomas\u201d filmak Goenagaren gidoia du oinarrian. Konfinamendu psikologiko eta fisikoaz ari da, ezabatutako identitateen inguruko hausnarketa sotil eta, aldi berean, sakonetik. Gaizka Izagirrerekin solastu da filma sortzeko prozesuaz \u201cKlaketa\u201d bideopodcastaren atal honetan.\n",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8c4e9ce-2814-4d27-849d-69c28fe0ddea.jpg"
@@ -130,8 +130,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bingen Zupiria: \"Segurtasuna zaintzea herritarren kontua ere bada\"",
-    "media_desc": "Eusko Jaurlaritzako Segurtasun sailburuak esan du epaiketa azkarrak areagotu egin beharko liratekeela: \"Prozedura exijentea da, baina osa litezke auzibideak 15 egunean\"",
+    "media_title": "Xabi Iraola: \"Ate birakariek eta Getxoko Udaleko gertakarien antzekoek anti-politika indartzen dute eta indarra ematen diote eskuin muturrari\"",
+    "media_desc": "Sortuko koordinatzaile orokor izendatu berriak EAJri zuzendutako kritikei erantsi die PSEri egindakoa: \"Harrigarria egiten zait bere burua demokratikotzat duen alderdi batek hainbeste arazo izatea nazio baten erabakitzeko eskubidea onartzeko\".",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -141,8 +141,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"Asistimos a un cambio de paradigma en el que los inversores locales hablan de tu a tu a las inversiones\"",
-    "media_desc": "Mikel Jauregi Eusko Jaurlaritzako Industria sailburuak baieztatu egin du euskal inbaditzaileen partzuergo batek UVESCO erosi izana; horrek erakusten du, bere ustez, paradigma aldaketa baten aurrean gaudela, non tokiko inbertitzaileek zutaz hitz egiten duten inbertsioetara. Sailburuak, gainera, abenduaren 31 baino lehen AIESA, Iberm\u00e1tica zaharra, erostea sinatuko dela espero du, eta Eusko Jaurlaritzak horretan parte hartuko duela.",
+    "media_title": "Los taxistas denuncian: \u201clos VTC cometen infracciones cr\u00f3nicas, la situaci\u00f3n est\u00e1 descontrolada\u201d",
+    "media_desc": "Felipe Fern\u00e1ndez de Aranburu, Uber Espa\u00f1a y Portugaleko zuzendaria eta Borja Musons, Euskal Taxi Federazioko presidentea elkarrizketatu ditugu. Taxiaren sektoreak legea etengabe ez dela betetzen salatzen du, eta Euskadin lan egiteko eskubidea defendatzen du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -152,8 +152,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Gorka Urtaran, diputado foral de pol\u00edticas sociales",
-    "media_desc": "Gorka Urtaran, gizarte politiketako foru diputatua",
+    "media_title": "Periko Ruiz-Moneo, jefe de traumatolog\u00eda de la OSI Araba",
+    "media_desc": "Periko Ruiz-Moneo, Arabako ESIko traumatologia-burua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\"Arte Ederren eraikina oso garrantzitsua da donostiarrentzat eta zeukan balioa nabarmentzen ahalegindu gara\"",
-    "media_desc": "Donostiako Arte Ederren eraikinaren birgaitzeaz hitz egin dugu lanak burutu dituen Ignacio Quemadaren estudioan lan egiten duen Ibon Perez Murgiondo arkitektoarekin.",
+    "media_title": "Maria Ortega \"Europan 'moro', Marokon europar\" erreportajearen egilea",
+    "media_desc": "Omar Akallach mutil-koskorra zen etxetik alde egin zuenean, Europa amets. Euskal Herrian bizi da orain. Ia hamar urteren ostean itzuli da, estreinakoz, sorterrira. 'Argia' aldizkariko Maria Ortega Zubiate berekin joan da Marokora, eta itzuleraren kronika idatzi du.  'Etxera buelta, baina etxerik ez'  titulatu du bere lana, eta Faktorian azaldu ditu xehetasunak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -619,8 +619,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Roma y la ruta de la seda. La cabra que encontr\u00f3 a Rams\u00e9e II y otras historias del azar arqueol\u00f3gico en Egipto",
-    "media_desc": "Eva Tobalina historialariak \"Erromatar Inperioa eta Zetaren Bidea\" hitzaldia aurkeztuko du, urtarrilaren 29an, osteguna, Irungo Oiasso Museoan. Hitzaldi honetan, milaka urtez Ekialdea eta Mendebaldea lotu zituen bide honen jatorria eta bertatik bidaiatzen zuten salgaiak errepasatuko ditu. Egipto puntu estrategikoa izan zen Europa, Asia eta Afrikaren arteko loturan, eta zeta, espezie eta beste luxuzko produktu batzuen merkataritzarako kokapen pribilegiatua. Gonzalo G\u00f3mez historialariak aurkeztutako \"Ramses II aurkitu zuen ahuntza eta Egiptoko kasualitate arkeologikoen beste istorio batzuk\" liburua bertan kokatzen da. Gaur egungo aurrerapen zientifikoen artean, materia ilunaren mapa baten argitalpena nabarmentzen da, Unibertsoaren osagai ikusezin honek materia ikusgaia nola egituratu duen erakusten duena, galaxiak, izarrak eta, azken finean, bizitza bera agertzea ahalbidetu arte.",
+    "media_title": " Efectos adversos de los pl\u00e1sticos para la salud humana. Sagas familiares en las matem\u00e1ticas",
+    "media_desc": "Plastikoen bizi-ziklo osoan zehar isuriek eragindako osasun-ondorio kaltegarriak bikoiztu egin daitezke 2040rako, berehalako neurriak hartzen ez badira, The Lancet Planetary Health aldizkarian argitaratutako modelizazio-azterketa baten arabera. Ikerketak plastikoen bizi-zikloaren etapa guztietan dauden osasun-arriskuak identifikatu ditu: erregai fosilen erauzketatik hasi eta botatzeraino. Alba Jimeno eta Amaia Irizar ikertzaileek, EHUko eta Biogipuzkoakoek, plastikoetan dauden konposatuen osasun-ondorio kaltegarriak ebaluatzen dituzten lanaren azalpena ematen dute. ISGlobalen ikerketa batek aurkitu du airearen kutsaduraren eraginpean egotea jaioberrien errendimendu kognitibo baxuagoarekin lotuta dagoela. Marta Machok \"Zientziarekin emakumeak\" atala Margaret Morse Nice ornitologoari eskaintzen dio. Ra\u00fal Ib\u00e1\u00f1ezek Vicente Meavillaren \"Matematika familian: ohar historikoak zenbait saga zientifiko ospetsuri buruz\" liburua aurkezten du bere zutabean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -652,8 +652,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La Catedra. Betisen kontra garaipena",
-    "media_desc": "Deportivo Alaveseko ohiko komentaristek Arabako taldeak Real Betisen aurka lortutako garaipen garrantzitsuaren inguruan hausnartzen dute (2-1).\n",
+    "media_title": "Resurge potente otra vez",
+    "media_desc": "Realaren aurkako final-laurdenetako Kopako kanporaketaren bezperan, Arabako egungo ohiko komentaristek Espanyolen aurkako garaipena (1-2) aztertzen dute, fitxaketen neguko merkatua ixten den jardunaldian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1eb74a0e-da37-42b0-939e-7bd137243f02.jpg"
   },
   "1444": {
@@ -1299,8 +1299,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Masturbazioa: denak isilpean, denak jardunean",
-    "media_desc": "Masturbazioaz aritu gara 'Hau ez da sexuari buruzko tertulia bat' solasaldian Egoitz Arbiol Hiruki Larroxako kidearekin eta Elizabeth Olaskoaga sexu hezitzailearekin. Oinarrizko sexu-jarduna da, goiztiarrena... eta estaliena. Luze aritu dira masturbazioaren onurez, generoaren araberako sozializazioaz, bikote-harremanean duen tokiaz... eta gomendioak ere eman dituzte.",
+    "media_title": "Bizihabi: Jose Antonio Hamsahrekin eta Paula Trinirekin",
+    "media_desc": "Eusko Jaurlaritzaren Bizihabi programak gazteak eta adinekoak elkarrekin bizitzeko aukera ematen du, bi aldeei mesede eginez. Bi adibide ezagutu ditugu: Jose Antonio Olaizola A\u00f1orgako baserritarra Hamsah marokoar gaztearekin bizi da. Paula Hiribarren Hendaiako gaztea, berriz, Bilboko Zazpi kaleetako Trinirekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1310,8 +1310,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Amazoniatik datorren salaketa, Goyetara",
-    "media_desc": "Repsol enpresaren petroleo erauzketak Ekuadorko Amazoniako komunitate indigena batean eragin dituen kutsadura eta desberdintasunak erakusten dituen dokumental laburra da 'Zona Wao'. Nagore Ezeizak zuzendu du Medicus Mundik sustatuta",
+    "media_title": "Adierazpen askatasuna, polizien testigantzak eta Filmin",
+    "media_desc": "`\u00cdcaro, la semana en llamas' dokumentalak plataforma horrekiko boikota eragin du Katalunian. Asier Merino eta Xuban Intxausti zine zuzendariek uste dute Filminek ez liekela ahotsik eman behar dagoenako bozgorailu ofizial denak hartuak dituzten alde bakarreko posizioei",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1465,8 +1465,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "Hoy, todo es pol\u00edtica",
-    "media_desc": "Ameriketako Estatu Batuek Venezuela inbaditu izanak gure gazteen kontzientziak astindu ditu; izan ere, haien ustez, nola informatzen dira eta nazioarteko politika hobeto irakatsi beharko litzateke eguneroko bizitzan dituen loturak eta garrantzia erakusteko. Energiaren prezioa, migrazioak, gure bizitza arautzen duten legeak... politikak markatzen ditu. Gaur, Elkarrizketetan, Alain Velasco, Toussaint Deguenon eta Elsa Mute solasean ari dira Julen Martinezekin, Zuzenbidean eta Nazioarteko Harremanetan lizentziatua."
+    "media_title": "Vitoria y su apuesta por la vivienda protegida ",
+    "media_desc": "Etxebizitza bihurtu da beren bizitza aurrera eramateko leku duin eta egoki bat lortu ezin duten herritarren arazo nagusia. Javier Bur\u00f3nek \"El problema de la vivienda\" liburuaren gakoetako batzuk azaldu dizkigu. Bertan, bizitegi-krisia eragin duten egiturazko kausak aztertzen ditu. \"Di\u00e1logos Urbanismo\" saioan-."
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -1515,7 +1515,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Direcci\u00f3n de fotograf\u00eda y 'La consagraci\u00f3n de la primavera'  ",
+    "media_title": "'Kandida', Canci\u00f3n protesta y Egg Punk ",
     "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/687e416f-e0df-4fc8-a5bc-152768dc025d.jpg"
   },
@@ -1526,8 +1526,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Villodas re\u00fane a sus 25 Ni\u00f1os Jes\u00fas del Bel\u00e9n Viviente",
-    "media_desc": "Arkiz Kultur Elkarteak, Billoda, Subilla Gasteiz eta Trespondeko bizilagunek osatua, bere Jaiotza Antzeztuaren XXV. urteurrena ospatzen du, Gabonetako antzezpen honetan parte hartu duten 25 Jesus Haurrei omenaldia eginez. Eszenaratze hori 2000. urtean hasi zen, eta 2020an bakarrik eten zen, pandemiaren ondorioz.",
+    "media_title": "Laguardia busca los restos del antiguo castillo de la villa",
+    "media_desc": "Datozen hiru urteetan, Harresian elkarteak bultzatuta, arkeologia-prospekzioak jarriko dira abian Guardiako Victor Tapia ikastetxearen atzealdean. Dokumentazio-fase baten ondoren, badirudi omenaldiko dorrearen hondakinak XIII. mendean eraiki zen eta 1874. urtera arte gailurra koroatzen aritu zen hiribildu harresituaren iparraldeko eta altueneko zati honetan daudela. Harresianen eta Guardiako Udalaren helburua gaztelu zaharraren balioa nabarmentzea da, eta herritarren inplikazioa bilatzen dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1580,8 +1580,8 @@
     "description": "Asteburu goizeko albistegi nagusia. Albisteak, elkarrizketak eta solasaldiak, Eider Bilbaok gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8289e893-fa9e-4df0-8f96-fbc4aeb545d0.jpg",
-    "media_title": "Menopausiaz hitz egin dezagun ",
-    "media_desc": "Menopausia eta klimaterioa emakume guztiek bizitzen duten etapa bat da; aldaketa fisiologiko ugari dakartzana: gorputza aldatzen da, beroaldiak heltzen dira, askotan tristura gailentzen da...emakume bakoitzak era ezberdinean bizitzen du transizioa. \nBidea ez da erraza izaten, askotan bide hori bakardadean egiten delako.\nBada, bidea erraztearren, osasun sistema hasi zaio sasoi horri arreta jartzen, eta Nafarroan, menopausiari buruzko tailerrak egiten dituzte menopausiari modu integralean heltzeko."
+    "media_title": "Euskaran murgiltzea, irakasgai bat baino gehiago",
+    "media_desc": "Euskal Herrira iritsi berriak diren ikasleek ikastetxe, ikaskide eta hezkuntza sistema berriari egin behar diote aurre eta, guztia, euskaraz. Nola moldatzen dira ezagutzen ez duten hizkuntzan mugitzen den unibertso berrian? Errealitate gero eta ohikoagoa izanik, Eusko Jaurlaritzako Hezkuntza Sailak 'Eusle' programa zabaldu du zenbait ikastetxetan: iritsi berriak diren ikasleak euren gelatik irteten dira egunean bi orduz, Eusle gelan euskara ikasi ahal izateko. Donostiako Antigua Luberri institutuan izan gara, Eusle taldeko ikasle eta irakasleekin."
   },
   "1568": {
     "rss": "https://guau.eus/series/1568/rss.xml",
@@ -1656,8 +1656,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Universo viajero:  M\u00e1s all\u00e1 de un plato de comida",
-    "media_desc": "Antropologia gastronomikoaren munduan murgiltzen gara, janaria elikagai gisa ez ezik, kultura, memoria, historia eta identitate gisa ere aztertzen duen diziplina. Horretarako, Maider P\u00e9rez de Heredia politologo, soziologo eta migrazioetan aditua dugu."
+    "media_title": " \u201cSexo y edad: lo que no caduca con los a\u00f1os\u201d",
+    "media_desc": "'El Sexo Sentido' atalean sexuari eta adinari buruz hitz egiten dugu. Urteak aurrera doazen heinean,  gorputzak aldatzen dira... baina desioa ez da erretiratzen. Beldurrez, tabuez eta aukerez hitz egingo dugu, sexualitatea ez baita denborarekin desagertzen, sexualitatea bizitzeko modua aldatzen baita."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2109,8 +2109,8 @@
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e67bdf7c-e5d6-476e-a95f-757e309d7d83.jpg",
-    "media_title": "Oferta ecotur\u00edstica y gastron\u00f3mica de Euskadi en FITUR ",
-    "media_desc": ""
+    "media_title": "\"Destilatu\" se estrena en Gure Ardoak y tradici\u00f3n del \"sanblas\"",
+    "media_desc": "Margari Ola\u00f1etarekin Eibarko \"sanblasetako\" tradizioa ezagutu dugu -Abadi\u00f1ok ere bere ohiko merkatua egingo du otsailaren 3an-, \"Destilatu\" elkarte berria ere ezagutuko dugu; aste honetan Gure Ardoaken bigarren edizioa aurkeztuko dute: Doniene Gorrondona (Bizkaia), Atxa (Amurrio), Bara\u00f1ano (Amurrio) eta Basque Moonshiners (Gasteiz) upategiek osatzen dute. Programa amaitzeko, boilur ibilbide bat egingo dugu Orbisoko (Arabako Mendialdea) eta Nafarroako lurraldeetik; zehazki Erriberriko \"Enozentrum\" ezagutuko dugu."
   },
   "1456": {
     "rss": "https://guau.eus/series/1456/rss.xml",
@@ -2120,8 +2120,8 @@
     "description": "Bidaiatzeko helmugarik onenak, Euskadin eta munduan. I\u00f1igo Lejarzak egingo dizu bidaia-plana.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9bf57a70-1323-4a4c-abef-37bb4bd557ed.jpg",
-    "media_title": "Ruralistas. Restaurante Waman.Turismo Termal.",
-    "media_desc": "Joseba Urquiola munduko helmuga termalik garrantzitsuenetako batzuetan dabil. Euskadik eta Peruk Waman jatetxean batzen dituzte zaporeak. Ruralistak ezagutzen ditugu, landa-turismoari laguntzeko komunitate birtuala."
+    "media_title": "Motivos para viajar a Irlanda, Panam\u00e1. Puebla en Mexico",
+    "media_desc": "Irlandatik bost arrazoi eman dizkigute aurten uharte berdea bidaia-helmuga gisa aukeratzeko. Panama da Europarako helmuga, hiri-potentziala, tradizio indigena eta eguzki eta hondartzako ofera dituelako. Herriak Mexiko barrutik aldarrikatzen ditu bere herri magikoak eta tradizioak, sumendiek markatutako natura batean."
   },
   "1393": {
     "rss": "https://guau.eus/series/1393/rss.xml",
@@ -2130,8 +2130,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "'Azpijokoa Azpiazun'",
-    "media_desc": "Janire Atxurra booktokerra eta I\u00f1aki Dorronsoro idazlea 'Azpijokoa Azpiazun' eleberriaz aritu dira.",
+    "media_title": "Guille Elias, trikitilari madrildarra",
+    "media_desc": "Madrilgo Hoyo de Manzanaresen jaioa da Guille Elias, eta orain Donostian bizi da. Euskararen, herriko jaien eta trikitiaren munduan murgilduta dago buru-belarri.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2670,8 +2670,8 @@
     "description": "Radio Euskadiko literatur komunitatea.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/bf09ca84-c8c5-46b9-8996-7cfaa6da457a.jpg",
-    "media_title": "Pompas de Papel",
-    "media_desc": "LIburuak:\n\nLaura Mintegi: Akabo. Arg.Txalaparta.\nA.S.Byatt: Posesi\u00f3n. (Trad.esp: Mar\u00eda Luisa Balseiro). Ed. Anagrama\nJon Fosse: Vaim (Trad.esp: Cristina Gomez Baggethun/ Kirsti Baggethun). Ed. Random House.\nItxaso Martin + Eider Eibar: \u201cMati eta Zugarramurdiko misterioa\u201d. Arg. Alai.\nLucia Solla Sobral: \u201cComer\u00e1s flores\u201d. Ed.Libros del Asteroide. (MM).\nIvan Zulueta: Diarios de New York\u201d. Ed. Pepitas de Calabaza/Filmoteca Espa\u00f1ola. (IZ)\nCarolina Otero: \u201cEl d\u00eda que dejamos de ver porno\u201d. Ed. Hiperi\u00f3n.\n\nAbestiak:\n\nLindi Ortega: Run-down neighboohood\nValeria Castro: Tiene que ser m\u00e1s f\u00e1cil\nManel: No t\u2019enyoro\nPaola Turci: Stato di calma apparente\nJurgi Ekiza: Noizbehinka\n\n\nBestelakoak:\n\nBertso: Miren Artetxe\nIzaskun Gracia: Cartas Para Berlin\nIker Zabala (Cine y literatura)\nMaddalen Marzol (Literaturas)\n\n\n\n"
+    "media_title": "Pompas de papel",
+    "media_desc": "Liburuak:\n\nUxue Razkin: \u201cC\u00f3mo se le dice adi\u00f3s a una madre\u201d. Ed. Pepitas de Calabaza\nLuc\u00eda Solla Sobral: \u201cComer\u00e1s flores\u201d. Ed. Libros del Asteroide.\nMathilde Forget: \u201cPor voluntad propia\u201d. (Trad. Esp: Alba Pag\u00e1n). Ed. Tr\u00e1nsito.\nErnesto Prat Urzainki: \u201cMuga hautsien hegalak\u201d. Arg. Elkar.\nGerm\u00e1n Arciniegas: \u201cEl mundo de la bella simonetta\u201d. Ed. RositayAmparo.\nPatxi Irurzun: \u201cLacha\u201d. Ed. Alkibla. (JN)\nJackie Higgins: \u201cSeres sintientes. C\u00f3mo los sentidos animales revelan el prodigio de sentir el mundo\u201d. (Trad. Esp: Mar\u00eda Dolores \u00e1balos). Ed. Ariel.\nUxue Juarez Gaztelu: \u201cEtxe bat Husaviken\u201d. Arg. Balea Zuria.\n\nAbestiak:\n\nPink Martini: Porquoi tu vis\nPedro Guerra: Esta tarde vi llover\nCecilie Trolle: Pludselig\nBele: Basamortuan\n\nKolaboratzaileak eta aipamenak eta egiletzak:\n\nIzaskun Gracia: Cartas para Berlin.\nMiren Artetxe: bertso\nJorge Luis Borges."
   },
   "1454": {
     "rss": "https://guau.eus/series/1454/rss.xml",
@@ -2701,8 +2701,8 @@
     "description": "Radio Euskadiko 'True crime' sarituaren irrati-bertsioa, Miriam Duquek zuzenduta. Auzitegiko mediku, idazle eta polizia zientifikoko adituen eskutik erantzunak topatzen saiatuko gara.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ffc67956-0c4b-4d11-acfe-3b3e485fce32.png",
-    "media_title": "Fugitivos y pederastas, los m\u00e1s buscados",
-    "media_desc": "Juan Herrera, \"Hamar iheslari bilatuenetako\" bat, Managuan, Nikaraguan, aurkitu eta atxilotu dute duela egun batzuk. Juan Herrerari \"sextorsion\" sare bateko ustezko liderra izatea egozten zaio, baina profil baxuari eutsi beharrean, telebistako programetan agertu zen, \"monje iragarlea\" zela esanez. Zergatik bilatuko luke norbaitek ospea diskretua izan beharrean? Ganbara negra-ren atal honetan pederasta baten buruan sartzen saiatuko gara, Rafa Mart\u00ednez Auzitegiko Medikuntzako Euskal Institutuko psikiatra forentsearen azalpenei esker.\nIheslariak atxilotzeko operatiboa, nazioarteko lankidetzari esker lortzen zena. Ram\u00f3n Ba\u00f1uelos Ertzaintzaren Bizkaiko ikerketa-buru ohiarekin lankidetza aktibatu behar izan den beste kasu batzuk aztertuko ditugu."
+    "media_title": "Granjas de estafadores capaces de simular ser tu amor",
+    "media_desc": "Amelia eta Angeles maitasun-iruzur baten biktima izan ziren. Dilawar Hussein lokutorioaren bidez dirua bidaltzen zuten bi militar estatubatuarrekin harremana hasi zuten. Dilawarrek bere negozioa hipotekatu zuen Gutierrez ahizpei dirua mailegatzeko, eta, ezer ez zela benetakoa jakitean, hil egin zituen. Miguel Ruiz Marfany aditua da maitasun-iruzurren kasuetan, eta Ganbara beltzean ohartarazten du mafia antolatuak daudela, etxaldeak izenekoak, gehienak Afrikako hegoaldean. Ganbara negra lanean, maitasunaren iruzurrekin lotutako kasuak aztertuko ditugu, eta I\u00f1aki Irusta eta Ram\u00f3n Ba\u00f1uelosekin gaurkotasuneko beste kasu batzuk errepasatuko ditugu."
   },
   "1694": {
     "rss": "https://guau.eus/series/1694/rss.xml",
@@ -3397,8 +3397,8 @@
     "description": "Musikaren fauna eta flora, Cristina Ardanzaren eskutik. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3d5e26f9-8f95-41e0-8dd1-0abf8d23509e.jpg",
-    "media_title": "Erromintxelak, poetas euskaldunes a ritmo de gipsy-swing",
-    "media_desc": "Txoko taktikoak Erromintxelak Arrasateko taldea hartuko du. Talde horrek \"Nork Erran Eni\" lehen diskoa kaleratu du, poeta euskaldunen testuak biltzen dituen grabazioa, swingaren indarra eta alaitasuna emateko. Zoragarria. Eta programaren gainerako ataletan, beti bezala, denetik pixka bat. Entzun egin beharko duzu aurkitzeko."
+    "media_title": "Sensei Music Ensemble (LIVE en el Txoko T\u00e1ctico)",
+    "media_desc": "Radio Euskadiko 3. estudioan Sensei Music Ensemble taldearen zati esanguratsu bat jaso genuen. Amurrioko Alex Sensei kontrabaxu-jotzaileak gidatzen du banda hori, eta, batzuetan, dozena bat musikari baino gehiago biltzen ditu. Oraingoan zazpi dira, eta euren zuzeneko abesti batzuk nola entzuten diren erakusten digute. Zuzeneko musika partekatzearen emozioaren ondoren, beste ordubeteko saioa, musika-aukeraketa bikain batekin. Eklektizismo hutsa berriro."
   },
   "2123": {
     "rss": "https://guau.eus/series/2123/rss.xml",
@@ -3468,8 +3468,8 @@
     "description": "Joseina Etxeberriak euskal musikaren 10 totem, 10 izen nagusi, elkarrizketatu ditu musika sortzen duten lekuan bertan.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7ec7440e-d26e-4ede-9ded-59fcb5eac2d8.jpg",
-    "media_title": "\"Analogikoan, mundu errealarekin lotura gehiago genuen\"",
-    "media_desc": "'Att\u00e4' diska argitaratu berritan hitz egin du Joseina Etxeberriak artista donostiarrarekin, musika sortzen duen lokalean. Mundu digitalarekiko nekea, musika industriaren arriskuak, eta beste hainbat gogoeta pertsonal konpartitu dituzte. Musika trepetak ere erakutsi dizkio Sarak Joseinari: teklatuak edota bere lehen akordeoia, besteak-beste."
+    "media_title": "Maixa: \"Ondoren etorri diren emakumeei bidea zabaltzeaz nago harro\"",
+    "media_desc": "Altzon, gurasoen etxeko bajeran hartu du Maixak Joseina Etxeberria. Han erakutsi dizkio bere trepeta kuttunenak: aitak oparitutako lehen trikitia, alkandora botoiak dituena, eta beste hainbat. Konfidantzan hitz egin dute, duela 25 urte amaitu zen `Maixa ta Ixiar' bikoteaz, 'Amak' proiektuaz eta bizitzaz. \"Plazan nigar egindakoak gara\" onartu dio Maixak.\nIkusteko: https://www.youtube.com/watch?v=2fVsZf3KIbo"
   },
   "2219": {
     "rss": "https://guau.eus/series/2219/rss.xml",
@@ -3544,7 +3544,7 @@
   "2369": {
     "rss": "https://guau.eus/series/2369/rss.xml",
     "title": "Test",
-    "description": "Ezbehar larri baten ondoren, azken jenerazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea.\nTest gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan zer den erreala eta zer den adimen artifizialaren diseinuaren parte.\n",
+    "description": "Ezbehar larri baten ondoren, azken generazioko adimen artifizial bati azterketa egitera bidaltzen dute aditu bat. Zehaztu beharrekoa: adimen artifizialak bere buruaren kontzientzia hartu duen ala ez jakitea.\nTest gisa hasten dena manipulazio eta kontrol-joko konplexu bihurtzen da, eta protagonistak bezalaxe entzuleak ere zalantzan geratuko dira sarritan zer den erreala eta zer den adimen artifizialaren diseinuaren parte.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/583e8bbb-e801-48c8-826a-3879eef5c341.jpg",
     "media_title": "6. Reset",
