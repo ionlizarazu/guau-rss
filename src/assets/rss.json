@@ -163,8 +163,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Online iruzurrak euskaraz, Adimen Artifizialaren albo-kalte.",
-    "media_desc": "Azkenaldian ugaritu egin dira euskaraz egindako online iruzurrak. Adimen Artifizialak mezuak pertsonalizatu eta edozein hizkuntzetara ekartzeko aukera eman die iruzurgileei. \nGertatu diren adibideak jaso ditugu;  eta Josu Wali\u00f1o, \u2018Puntu Eus\u2019 fundazioko zuzendari nagusiarekin aztertu dugu fenomenoa eta hitz egin dugu prebentzioaren garrantziaz.",
+    "media_title": "Uraren bankarrota; uraren zikloa ondo kudeatzearen beharraz",
+    "media_desc": "Nazio Batuen Erakundeak argitaratutako txosten batek ohartarazi du ur-gezaren beherakada nabarmenaz. Kaveh Madani, NBE-ko txostengilearekin; I\u00f1aki Antiguedad, EHUko hidrogeologoarekin eta Eneko Albizuri, URA agentziako komunikazio arduradunarekin aztertu dugu gaia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -183,8 +183,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Jose Inazio Saizar 'Luxarbe': \"Niri begira egoten zen 202 kiloko harria, jaso nuen arte\".",
-    "media_desc": "Bere pisua hiru aldiz bizkar gainera igo duen harrijasotzaile bakarra da Orioko Luxarbe baserriko Jose Inazio Saizar. 1989an izan zen Aian. 75 urte ditu orain eta omenaldia egin diote harri-jasotze munduko pertsona ezagunek, Aian bertan. Harri jasotzaile eta epaile bikaina izan bada, kontalaria ere aparta da, elkarrizketan erakutsi digunez.",
+    "media_title": "Maialen Hiribarren: \"Xilabako txapela janztea ohore handia da\"",
+    "media_desc": "Larunbatean izango da Xilabako finala Donibane Lohitzunen eta sei bertsolarietatik irabazle izendatuko dutenari Maialen Hiribarrenek jarriko dio txapela. Bertso eskolen sorreran eta ondoren, 'Bertsularien Lagunak' elkartean egindako lanagatik goraipatu nahi dute. Gainera, Blair Clark ere ezagutu dugu; bi urtean euskara ikasi eta bertsoetara zaletu den kanadarra.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -465,7 +465,9 @@
     "media_type": "video",
     "page": "Bizigiro eta gizartea",
     "page_id": 72,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/fbd80991-c38a-4f32-892e-bf280c9a8d39.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/fbd80991-c38a-4f32-892e-bf280c9a8d39.jpg",
+    "media_title": "15. Teknologia eta identitatea: XXI. mendeko amildegia",
+    "media_desc": "Teknologiak alderdi on asko ditu, noski, baina online mundurako prestakuntzarik onena, offline munduan lortzen da. Nerabeek oso gaztetatik ikusten dituzte beraien gaitasun kognitibo eta emozionalak gainditzen dituzten edukiak, pentsaerak eta jokabideak. Eduki horiek, kokatzen lagundu beharrean, kontrakoa lortzen dute, gaztea zeharo desorientzatzea. \n\nEmozioak kudeatzen ikasteko balio beharrean, sakelekoaren bidea aukeratuta, nerabeak dituen emozio nahasiak anestesiatzea bilatzen da. Abibidez, eduki pornografikoak azkarregi eskura izateak, gazteen sexu harremanean ondorio kaltegarria eragin dezake."
   },
   "1622": {
     "rss": "https://guau.eus/series/1622/rss.xml",
@@ -1116,8 +1118,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ad2ead71-a5a3-4831-8c99-3db82d0a67ba.jpg",
-    "media_title": "4. Ez dira betiko garai onenak",
-    "media_desc": "Beca, Oier eta Naroa aspaldiko partez elkartuko dira. Aitorpenen eta berradiskidetzearen unea izango da. Dena ez da gozoa ordea: Naroak Jingkori buruzko informazio beldurgarria du eta Oier errudun sentitzen da hartzari lagunduko ziolako. Hain zuzen ere, basapiztiak eramandako haurraren bila basoa miatzen dabil jende ugari, tartean Naroaren aita."
+    "media_title": "5. Labirintoa",
+    "media_desc": "Beca, Oier eta Naroa Jingko enpresaren azpian zulatuta dagoen tunel-sistema ezkutu batean barneratu dira, ustekabeko arriskuekin topo eginez. Bitartean, basoan, Naroaren aitak zalantzak ditu azken aldiko desagerketak hartzari egotzi behar ote zaizkion. Baina, hartzak egin ez badu, zerk edo nork eraman du haurra?"
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -1299,8 +1301,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Indartsuenaren legea, gainbeheraren adierazle?",
-    "media_desc": "Nazioartean gailentzen ari den aginte-estilo bortitza izan dugu hizpide 'Bigarren Laurdena' solasaldian. Estatu Batuen eta Txinaren arteko lehia ardatz hartuta, munduko ordena berriaz eta arauen balioaz hausnartu dugu Mikel Gazta\u00f1aga Orkestra Institutuko ikerlariarekin, Garbi\u00f1e Manterola BRTAko transferentzia-arduradunarekin eta Aurken Sierra Nafarroako Unibertsitateko irakasle eta ikerlariarekin.",
+    "media_title": "Nork parasitatzen du gizonen noraeza?",
+    "media_desc": "Maskulinitatea, bakardadea, algoritmoa. Feminismoa salatu eta gizontasun-eredu bortitza sustatzen duten edukiz gainezka dago sarea. Manosferaren erpinez, fenomenoaren jatorriez eta oldarraldi hipermaskulinoari aurre egiteko bideez hitz egin dugu 'Hau ez da sexuari buruzko tertulia bat' solasaldian Egoitz Arbiol Hiruki Larroxa kooperatibako kidearekin eta Leire Padilla kriminologoarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1310,8 +1312,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "GAFAMpean bizi gara",
-    "media_desc": "Google, Amazon, Facebook, Apple, eta Microsoftek osatzen dute GAFAM. Enpresa estatubatuar horiek Europan duten eragina aztertu du INCA proiektuak. Tartean aritu dira Elhuyarreko ikertzaileak",
+    "media_title": "Lore Bilbao: \"Lasaitasunez eta erantzukizunez jokatzen ari dira familiak eta osasun zentruetako profesionalak\"",
+    "media_desc": "Osakidetzako zuzendari nagusiak iradoki du barra-kodeetan oinarritutako sistema jarriko dutela iraungitako txertoen kasuaren gisakoak ekiditeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1515,9 +1517,9 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Direcci\u00f3n de fotograf\u00eda y 'La consagraci\u00f3n de la primavera'  ",
+    "media_title": "'Lacha' de Patxi Irurzun, Edward Hopper y BOS ",
     "media_desc": null,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/687e416f-e0df-4fc8-a5bc-152768dc025d.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
     "rss": "https://guau.eus/series/1477/rss.xml",
@@ -1599,8 +1601,8 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "\"Un adelanto electoral no creo que sea lo m\u00e1s adecuado\"",
-    "media_desc": "Elkarrizketa Unai Sordori, Comisiones Obreraseko idazkari nagusiari.",
+    "media_title": "\"Va a haber cambios y Europa necesita estar preparada\" ",
+    "media_desc": "Oihane Agirregoitia EAJko eurodiputatua elkarrizketatu dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
   "1461": {
@@ -1961,8 +1963,8 @@
     "description": "Elkarrizketa podcasta, baina, ez edonolakoa. Oier Aranzabalek pertsonaia baten etxera sartuko gaitu, berarekin solasean jardun eta istorio berriak kontatzeko. Sortzaileak, musikariak, aurkezleak eta zerbait interesgarria esateko daukan oro. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg",
-    "media_title": "91. Itxaso Compa\u00f1on, familiako bodegara itzulera",
-    "media_desc": "Lantziegon eskola euskalduna sortu zuen bere amak. Aitak familiaren bodega zeraman. Itxaso Compa\u00f1onek berriz zinemagintzaren aldeko apustua egin zuen. Eta horrek eraman zuen Bartzelonara. Muntaia ikasi zuen bertan. Zineman buru belarri sartzera zihoanean baina, gurasoak hil zitzaizkion eta Lantziegora itzultzeko erabaki irmoa hartu zuen. Familiako bodegarekin jarraitzeko erabakia. Eta aitonaren aholkuen laguntzarekin lortu zuen lehen ardoa egitea. \u201cEz dago horren txarra, zuk egina izateko!\u201d esan zion honek. Ordutik ardogintzan dihardu. Arabako jatorrizko izendapenaren alde dabil borrokan. Etxeko ateak zabaldu dizkigu."
+    "media_title": "92. Aitor Etxebarria, elektronikatik klasikora eta buelta",
+    "media_desc": "El_Txef_A bezala egin zen ezaguna elektronikaren zirkuitoan. New Yorken bezala, Mumbain, Rio de Janeiron edo Kieveko bunkerretan eskaintzen zituen bere kontzertuak. Euskal Herrian artean ez zen horren ezaguna. Une batean bere gaztetako helburuari segiz, zinemarako musika egiten hasi zen eta orain euskal konpositore garaikide ospetsuenetakoa da. Hamaika telesail eta pelikularentzako musika egin du. \u201dGernika 85\u201d proiektua ere gauzatu du, bere sorterriko bonbardaketaren inguruko sinfonia bat. \u201cEz dakit zer egingo nukeen musikarik izango ez balitz\u201d, aitortzen du. Etxean estudio bat du, hiru piano eta martxan dituen ideia mordoa."
   },
   "1294": {
     "rss": "https://guau.eus/series/1294/rss.xml",
@@ -2415,8 +2417,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "G.Canaria-Baskonia",
-    "media_desc": null
+    "media_title": "Baskonia-FC Barcelona, iluntzean 20:00etan",
+    "media_desc": ""
   },
   "1305": {
     "rss": "https://guau.eus/series/1305/rss.xml",
@@ -2598,9 +2600,9 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "title": "Argi ibili",
-    "description": "Gari Udabek jartzen dio egunari argia. Gaua esna eman dutenentzat eta esnatzen ari direnentzako irrati-konpainia.",
+    "description": "Alo\u00f1a Berazak jartzen dio egunari argia. Gaua esna eman dutenentzat eta esnatzen ari direnentzako irrati-konpainia.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/8ff30bd5-5d5f-4ec7-823b-469c9955bb7d.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/a5bf8414-761d-4bf6-808c-e045d5dff796.jpg"
   },
   "1754": {
     "rss": "https://guau.eus/series/1754/rss.xml",
@@ -2659,8 +2661,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Lurdes Iriondo, izugarrizko izarra",
-    "media_desc": "Lurdes Iriondori eman dio 2025eko Urrezko Domina Gipuzkoako Foru Aldundiak, haren heriotzaren 20. urteurrenean. Aintzatespen horrekin, euskaren biziberritzean eta euskal kulturaren suspertzean Iriondok egindako \u201clan mamitsu eta berritzaileari\u201d justizia egin nahi dio aldundiak."
+    "media_title": "Pessoa gogoan ",
+    "media_desc": "Fernando Pessoa (1888-1935) Portugaleko poetarik handienetakoa dugu. Hil ondoren ezagutu zuen arrakasta eta bere heteronimoak edo nortasun literarioak ezagunak egin dira mundu osoan, bakoitza bere biografia eta estilo propioarekin. Pessoaren \u00abobra-bizitza\u00bbz hitz egin beharra dago. Eta hala da, bizitzak obra azaltzen du, eta obrak, bizitza. Fernando Pessoa hil zen duela 90 urte."
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3450,8 +3452,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "7. I\u00f1igo Aranburu. Gorrotatu moda",
-    "media_desc": "I\u00f1igo Aranburu moda estilista eta barazki saltzailea da. Moda gorrotatzen eta, era berean, maitatzen du, eta guztiok bezala bekatuak egin izan ditu: nork ez du noizbait marka agerian duen arropa erosi gainontzekoek marka ikus dezaten? Nork ez ditu joerak jarraitu nahiz eta itsusiak izan? Janzterakoan identitate propioaren defendatzailea da, baina, lentejuelak ez zaizkio batere gustatzen."
+    "media_title": "9. Be\u00f1at Iturbe. Gorrotatu adimen artifiziala",
+    "media_desc": "Be\u00f1at Iturbe umoregilea da eta ez dio graziarik egiten adimen artifizialaren kontuak, gehien gorrotatzen duena baita, bereziki lan eremuan. Baina, badu adimen artifizialak lekua gidoigintzan eta komedian? Txisteak sor ditzake? Edo bakarrik gorrotoa?"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
@@ -3468,8 +3470,8 @@
     "description": "Joseina Etxeberriak euskal musikaren 10 totem, 10 izen nagusi, elkarrizketatu ditu musika sortzen duten lekuan bertan.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7ec7440e-d26e-4ede-9ded-59fcb5eac2d8.jpg",
-    "media_title": "S Zozaya: \"Analogikoan, mundu errealarekin lotura gehiago genuen\"",
-    "media_desc": "'Att\u00e4' diska argitaratu berritan hitz egin du Joseina Etxeberriak artista donostiarrarekin, musika sortzen duen lokalean. Mundu digitalarekiko nekea, musika industriaren arriskuak, eta beste hainbat gogoeta pertsonal konpartitu dituzte. Musika trepetak ere erakutsi dizkio Sarak Joseinari: teklatuak edota bere lehen akordeoia, besteak-beste.\nIkusteko: https://www.youtube.com/watch?v=pMmBgsqll3I"
+    "media_title": "Aitor Uriarte: \"Senari jarraituta abesten dut\"",
+    "media_desc": "O\u00f1atin, Latzen taldearen entsegu lokalean sartu da Joseina Etxeberria. Bertan topatu ditu taldekide guztiak: Aitor Uriarte, ahotsa, Gorka Lazkano, bateria, Joxemari Azpitarte, baxua eta Yerko, Iker Martinezen lekua hartu duen taldekide berria. 2008an isildu zen Latzen, baina metal talde historikoa 2025ean itzuli da \"Denboraren orbainak\" diska berriarekin. Taldearen historia, anekdotak eta bizipen pertsonalak errepasatu dituzte Joseinarekin.\nIkusteko: https://www.youtube.com/watch?v=0BVjID_T-hs"
   },
   "2219": {
     "rss": "https://guau.eus/series/2219/rss.xml",
@@ -3558,5 +3560,14 @@
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8399a4b0-7b2f-4ac3-9cfb-aee4e7d53644.jpg",
     "media_title": "1. Ni\u00f1a Coyote eta Chico Tornado",
     "media_desc": "Ni\u00f1a Coyote eta Chico Tornado bikoak estreinatu du Musika Irudiak Eraikiz, Gazteak eta Tabakalerak sortu berri duten ekimena. \u2018Atea\u2019 diskoaren sorkuntza eta LParekin etorri diren ikus-entzunezko proiektuak izan dituzte hizpide, Ainhoa Vitoriak gidatutako saioan."
+  },
+  "2401": {
+    "rss": "https://guau.eus/series/2401/rss.xml",
+    "title": "Herri inauteriak",
+    "description": "Hartza, Mari Trapu, momotxorroak, joaldunak, damak, ikazkina\u2026 Horiek dira herri inauterietako pertsonaietako batzuk. Baina, nortzuk dira? Zer adierazten dute? Belaunaldiz belaunaldi gure kultura osatzen duten pertsonaia, mito eta kondairen parte dira, mitologiako beste izakien gisan. Historian zehar, gure arbasoek naturan gertatzen diren fenomenoak, ingurua eta mundua bera ere mitologian oinarrituz ulertu dituzte. Ezagutza eta istorio horiek ahoz aho heldu dira guganaino eta lan honek ere ondare kultural hori transmititzen jarraitzeko helburua dauka.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/f91af8ab-0e13-455e-bcf5-402a4486279f.jpg",
+    "media_title": "6. Zipotero eta kapiroteak",
+    "media_desc": "Marcela ez zen Tuteran sortua, baina urte hartan, familiarekin hirira bizitzera etorri zen. Hantxe ezagutu zituen inauterietan Zipotero eta Kapiroteak."
   }
 }
