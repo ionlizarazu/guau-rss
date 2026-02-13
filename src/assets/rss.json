@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "13. Eneko Sagardoy, handia baina epaitua",
-    "media_desc": "Castingetan ghostina egin izan diote, nola ez, eta euskal aktoreen sindikatuko partaidea da. \u201cBenetan zabiz?\u201d podcastaren atal honetako gonbidatua: Eneko Sagardoy!\n \nPelikuletako kritikak ez dituela irakurtzen aitortu digu eta bere fisikoa epaitzeak molestatu egiten duela. Klaustrofobia eta agorafobia jasaten dituela ere azaldu digu eta horrek sekulako albo kalteak sortzen dizkiola egunerokotasunean.\n \nZer egoera arriskutsu bizi izan ditu Enekok errodajeetan? Zein da bere gaitasunik handiena? Pelikulen kontsumo azkarraz, zinemara filmaz ezer jakin gabe eta espektatiba gutxirekin joateko ohitura berreskuratzeko gogoaz aritu dira, besteak beste. \u201cNor naiz?\u201d jokora jolastu dira gainera!"
+    "media_title": "14. Olaia Inziarte, garai makurrak gazteentzat",
+    "media_desc": "Bigarren aldiz zapaldu du \"Benetan zabiz?\" podcastaren platoa atal honetako gonbidatuak! Olaia Inziarterekin \u201cZura\u201d bere azken lanaz, EPaz, aritu dira. Depresioa lehen, argi izpien bila orain. Olaiak, denbora asko eskatu dion lana izan dela esan die Malen eta Aitziberri eta eskaini dituen kontzertuen ostean zeharo hunkituta dagoela. Lagunak, familia, eta tartean amona ere, bidelagun izan ditu. \u201cZaurgarri\u201d izateaz hitz egin dute Olaiarekin, jendearen begietan antzematen den onespenaz eta laudorioez, eta Vacapop aplikazioaz. Egunean zenbat denbora ematen ote du Vacapop-eko iragarkiak ikusten? Podcastari buruzko kantu bat egin omen du eta opari eman die neskei. Ez galdu atala!"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -44,11 +44,13 @@
   "1308": {
     "rss": "https://guau.eus/series/1308/rss.xml",
     "title": "Irabazi arte",
-    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, Learoko jokalariak biak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
+    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak aurreneko  bi denboraldietan  eta Arene eta Olatz (Ainhoa Azpitarte) azkenekoetan, Learoko jokalariak hirurak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
     "media_type": "audio",
     "page": "Kirola",
     "page_id": 64,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/76088f47-8fc5-4930-b30d-de6cdd3dec14.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/632f44b5-b177-452b-bf7f-89d030367ecf.jpg",
+    "media_title": "1. Dorleta Urretabizkaia eta Ugaitz Amundarainekin arlo pertsonalaz eta profesionalaz",
+    "media_desc": "Atal honetan Dorleta Urretabizkaia (Eunaterekin) eta Ugaitz Amundarain (Keparekin) ibilbide pertsonal zein profesionala ezagutzeko aukera izango dugu. Dorleta aktore zuzendari lanetan hasi zen \u201cIrabazi arte\u201d telesailean, eta orain aktore lanetan dabil. Ugaitzek bestalde, antzezlan bat idatzi du, eta lan horrek argia ikustea nahiko luke. Dorletak, gainera, aholkuak eman dizkie aktore izan nahi duten gazteei."
   },
   "1830": {
     "rss": "https://guau.eus/series/1830/rss.xml",
@@ -130,8 +132,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Joanex Artola: \"EH Bilduren ezkerrera espazio politiko bat irekitzeko aukera dugu\"",
-    "media_desc": "GKSko bozeramalea zuhur mintzatu da erakundeetan parte hartzeaz, \"dinamika horrek mugimendu sozialak irentsi egiten dituelako. Podemos eta EH Bildu, adibidez\".",
+    "media_title": "Tren sarearen erradiografia, Urtsa Errastirekin",
+    "media_desc": "JEZ Sistemas Ferroviarios-eko gerente ohiarekin aztertu ditugu Adamuz eta G\u00e9lidako istripuak eta haren ondoren trenbide azpiegiturei buruz sortu diren zalantzak",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -152,8 +154,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Venancio Ogueta, responsable del Real Autom\u00f3vil Club Vasco Navarro en \u00c1lava",
-    "media_desc": "Venancio Ogueta, Real Autom\u00f3vil Club Vasco Navarroko arduraduna Araban",
+    "media_title": "Lucho Royero, concejal de Pol\u00edticas Sociales en el Ayuntamiento de Gasteiz",
+    "media_desc": "Lucho Royero, Gasteizko Udaleko Gizarte Politiketako zinegotzia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -209,13 +211,13 @@
   "1670": {
     "rss": "https://guau.eus/series/1670/rss.xml",
     "title": "Irabazi arte ",
-    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, Learoko jokalariak biak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
+    "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirozale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, aurreneko  bi denboraldietan  eta Arene eta Olatz (Ainhoa Azpitarte) azkenekoetan, Learoko  jokalariak hirurak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
     "media_type": "video",
-    "media_title": "9. Naroa Ruiz de Galarreta, izotz-hockey jokalaria",
-    "media_desc": "Naroa Ruiz de Galarretak ez du gogoratzen irristagailuak jantzi zituen lehenengo aldia; 5 urterekin hasi zen izotz-hockeyan. 15 urte geroago, liga irabazi berri du hirugarren aldiz Txuri-Urdin taldearekin. Nora eta Olatzekin aritu da bere ibilbideari buruz, izotz-hockeyak azken urteetan izan duen eboluzioari buruz eta beste gauza askori buruz.",
+    "media_title": "1. Dorleta Urretabizkaia eta Ugaitz Amundarainekin arlo pertsonalaz eta profesionalaz",
+    "media_desc": "Atal honetan Dorleta Urretabizkaia (Eunaterekin) eta Ugaitz Amundarain (Keparekin) ibilbide pertsonal zein profesionala ezagutzeko aukera izango dugu. Dorleta aktore zuzendari lanetan hasi zen \u201cIrabazi arte\u201d telesailean, eta orain aktore lanetan dabil. Ugaitzek bestalde, antzezlan bat idatzi du, eta lan horrek argia ikustea nahiko luke. Dorletak, gainera, aholkuak eman dizkie aktore izan nahi duten gazteei.\n",
     "page": "Musika",
     "page_id": 60,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/76088f47-8fc5-4930-b30d-de6cdd3dec14.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/632f44b5-b177-452b-bf7f-89d030367ecf.jpg"
   },
   "1251": {
     "rss": "https://guau.eus/series/1251/rss.xml",
@@ -726,14 +728,14 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "54. Ahizpatasuna zientzian",
-    "media_desc": "Zientzialari batzuek lan nabarmena egin dute atzetik zetozen emakumeei eta baztertuei bidea leuntzeko. Ahizpatasunaren adibide ederra dira eta horietako kasu esanguratsu batzuk azaleratu nahi dituzte \u201cUhin ultramoreak\u201d podcastaren hirugarren denboraldiko azken atal honetan Alaitz Ochoa de Eribek eta Ana Galarragak. \n\nIzan ere, oso eremu lehiakorra den arren, badira bestelako jokabideak eta balioak erakutsi dituzten zientzialariak. Haietako lau aukeratu dituzte: Marie Curie fisikaria eta Nobel sariduna, Poppy Northcutt ingeniaria eta aktibista feminista, Jocelyn Bell Barnell astrofisikaria eta Ben Barres neurozientzialari transa.\n\u201cEgunero ikasten da zerbait\u201d sekzioan, berriz, AAk diseinatutako Karmela autoa aurkeztu dute. Ez zaitu epel utziko!",
+    "media_title": "55. Adimen Artifizalaren sexismoa",
+    "media_desc": "\u201cUhin ultramoreak\u201d podcastaren laugarren denboraldia abiatzeko, Emakume eta Neska Zientzialarien Nazioarteko Eguna aukeratu dugu eta zuzeneko atala izan da jendaurrean Donostiako Aquariumeko Areto Nagusian.\nAdimen Artifiziala eta generoa izan da hizpide nagusia. Izan ere, AAko sistemak hedapen izugarria izan dute azken urteotan, baina hedapen hori ez da izan berdina denean: ikerketen arabera, neskek mutilak baino gutxiago erabiltzen dituzte AA bidezko tresnak. Garapenean ere, askoz gutxiago dira arlo horretan ari diren emakumeak, gizonak baino. Eta emaitzetan nabarmena da genero-alborapena. Genero-arrakala agerian jartzeaz gain, arazoa nola konpondu ere aztertu da atalean zehar.\nLaugarren denboraldian ere ohiko azpi sailak jorratuko dira atalez-atal.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
     "title": "Uhin Ultramoreak",
     "description": "Alaitz Ochoa de Eribek eta Ana Galarragak gidatzen dute \"Uhin Ultramoreak\" zientzia eta teknologiari buruzko podcasta. Bertan, zientziaren dibulgazioa berdintasunaren ikuspegia ahaztu gabe egiten da. Maiz, zientziaren arloan ezkutuan geratu den emakumearen ikuspegiari arreta berezia jarri nahi diote Elhuyarreko bi dibulgatzaileek. ",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/6b87f51f-1b92-46f7-9401-70937ffde677.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/fcdfc7b2-cc6f-4311-8725-628a5d79b61b.jpg"
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
@@ -1118,8 +1120,8 @@
     "page": "Soinu fikzioa",
     "page_id": 61,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/ad2ead71-a5a3-4831-8c99-3db82d0a67ba.jpg",
-    "media_title": "5. Labirintoa",
-    "media_desc": "Beca, Oier eta Naroa Jingko enpresaren azpian zulatuta dagoen tunel-sistema ezkutu batean barneratu dira, ustekabeko arriskuekin topo eginez. Bitartean, basoan, Naroaren aitak zalantzak ditu azken aldiko desagerketak hartzari egotzi behar ote zaizkion. Baina, hartzak egin ez badu, zerk edo nork eraman du haurra?"
+    "media_title": "6. Infernua",
+    "media_desc": "Desagertutako haurra lur azpiko labirintotik onik ateratzea lortuko dute hiru gazteek, hartzaren laguntzaz. Naroaren aitak ere Jingko enpresaraino zuzenduko du poliziaren bilaketa. Aurre egin beharreko mehatxua uste baino handiagoa da ordea, eta ez dute garbi nola borrokatu. Batzuetan, arazoa sustraitik erretzea da erremedio bakarra."
   },
   "1348": {
     "rss": "https://guau.eus/series/1348/rss.xml",
@@ -2132,8 +2134,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Emakume arrantzaleak ezkutuan",
-    "media_desc": "Eider Arruti, Orioko Mutiozabal ontziolako langile eta antropologia ikasleak bere masterrerako ikerketan  emakume arrantzaleekin hitz egin du eta ikusi, gutxi direla eta gainera, ezkutuan geratzea nahiago dutela hain maskulinizatua den mundu horretan.",
+    "media_title": "Honduraskoa, bi urtean euskaldundu eta orain hikaren bila",
+    "media_desc": "Ariel Martinez, San Pedro Sulatik Ataungo Aiara etorri da amaren ondoren. 2 urteren buruan euskara ikasi eta orain hikarekin txundituta hura ikasi nahian ari da, konturatuta, euskara jakiteak jendearekin harremana egiteko aukera ematen diola.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -3033,8 +3035,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b2f7e6a-dd83-482b-ab76-e6c99e5c1f50.jpg",
-    "media_title": "Alex Llordesen deskubrimendu musikalak",
-    "media_desc": "Astero bezala, Gazteako erredakziotik Alex Llordes etorri zaigu hainbat talde berri deskubritzera."
+    "media_title": "Udara bukatu aurretik, guztia egin al duzu?",
+    "media_desc": "Gure udako haterrak, Xabin Fernandezek, uda amaitu aurretik eginak behar genituen ekintzen zerrenda bat ekarri digu. DIDA Fresh-eko lantaldean, ea nor izan den udazaleena eta ea nor den \"tristeam\" taldekoa."
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3452,8 +3454,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "9. Be\u00f1at Iturbe. Gorrotatu adimen artifiziala",
-    "media_desc": "Be\u00f1at Iturbe umoregilea da eta ez dio graziarik egiten adimen artifizialaren kontuak, gehien gorrotatzen duena baita, bereziki lan eremuan. Baina, badu adimen artifizialak lekua gidoigintzan eta komedian? Txisteak sor ditzake? Edo bakarrik gorrotoa?"
+    "media_title": "10. Amaia Izar. Gorrotatu erreformak",
+    "media_desc": "Azken atal hau Maiderrek gehien gorroto duen lekutik grabatu da: obretan dagoen bere etxetik. Erreformak gorroto ditu eta horien gainean hitz egiteko eraberritzeak gehien maite dituen pertsona gonbidatu du bere etxera: Amaia Izar. Berak inmobiliaria bat dauka eta home staging teknikan aditua da."
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
@@ -3470,8 +3472,8 @@
     "description": "Joseina Etxeberriak euskal musikaren 10 totem, 10 izen nagusi, elkarrizketatu ditu musika sortzen duten lekuan bertan.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7ec7440e-d26e-4ede-9ded-59fcb5eac2d8.jpg",
-    "media_title": "Aitor Uriarte: \"Senari jarraituta abesten dut\"",
-    "media_desc": "O\u00f1atin, Latzen taldearen entsegu lokalean sartu da Joseina Etxeberria. Bertan topatu ditu taldekide guztiak: Aitor Uriarte, ahotsa, Gorka Lazkano, bateria, Joxemari Azpitarte, baxua eta Yerko, Iker Martinezen lekua hartu duen taldekide berria. 2008an isildu zen Latzen, baina metal talde historikoa 2025ean itzuli da \"Denboraren orbainak\" diska berriarekin. Taldearen historia, anekdotak eta bizipen pertsonalak errepasatu dituzte Joseinarekin.\nIkusteko: https://www.youtube.com/watch?v=0BVjID_T-hs"
+    "media_title": "Maixa: \"Ondoren etorri diren emakumeei bidea zabaltzeaz nago harro\"",
+    "media_desc": "Altzon, gurasoen etxeko bajeran hartu du Maixak Joseina Etxeberria. Han erakutsi dizkio bere trepeta kuttunenak: aitak oparitutako lehen trikitia, alkandora botoiak dituena, eta beste hainbat. Konfidantzan hitz egin dute, duela 25 urte amaitu zen `Maixa ta Ixiar' bikoteaz, 'Amak' proiektuaz eta bizitzaz. \"Plazan nigar egindakoak gara\" onartu dio Maixak.\nIkusteko: https://www.youtube.com/watch?v=2fVsZf3KIbo"
   },
   "2219": {
     "rss": "https://guau.eus/series/2219/rss.xml",
@@ -3497,8 +3499,8 @@
     "description": "Garbi\u00f1e Larrearen podcast honetan sendabelarrei buruzko bitxikeriak, erabilera praktikoak, belarren munduan aritu eta adituak direnei elkarrizketak eta bestelako kontu asko aurkituko dituzu. Argiako podcasta, GUAUn ere entzungai.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65cac517-c38a-4562-8b24-5efe58e184d4.jpg",
-    "media_title": "7. Sendabelarrak eta botikak, ze parea!",
-    "media_desc": "Sendabelarren eta botiken arteko elkarreraginak izango ditugu hizpide. \"Emaidazu zerbait naturala, botika asko hartzen dut eta\" bezalako esaldiak askotan entzuten ditugu, eta pentsamolde horren okerraz aritu gara. Rosario C\u00e1ceres Fern\u00e1ndez-Bola\u00f1os farmazialariak idatzitako artikulua ekarri dugu. Bertan botika \u201ckimikoen\u201d eta alternatiba \u201cnaturalen\u201d arteko talkaz ari da; idorreria, liseriketa txarra, lotarako arazoak, likido atxikipena eta gernuko infekzioak tratatzeko zein sendabelar erabiltzen diren eta zein botikarekin duten elkar eragina azaltzen digu. Baita estimulatzaile eta tonikoek duten elkar eragina zein den ere.\nOndoren gorputzeko ehunak zaintzeko eta inflamazioa kontrolatzeko infusio baten inguruan aritu gara, Helena del Pesco sendabelarretan adituak formulatutako infusio batez alegia. Gaurkoan lau sendabelar landuko ditugu: plantaina (Plantago lanceolata), malba (Malva sylvestris), ilena (Calendula officinalis) eta salbia (Salvia officinalis). Jatorrian malbaren ordez Estatu Batuetan oso ohikoa den malba zuria (Althaea officinalis) darabil, baina guk hemen arrunta den malbarengatik ordezkatu dugu.\nGomendioaren atalean infusio hau nola prestatu eta nola erabili landu dugu, bai barne eta bai kanpo erabileran."
+    "media_title": "8. Emakume zientzialariak bai, guruak ez!   ",
+    "media_desc": "Rosa Tristanek \u201cMujeres con Ciencia\u201d webgunean idatzitako artikulu bat landu dugu. Asima Chatterjee kimikari indiarraz aritu gara. Emakume honek balio handiko lana egin zuen sendabelarren eta botiken arloan eta interesgarria iruditu zaigu bere bizitza gure podcastera ekartzea. Ayurveda medikuntza tradizionalean erabiliak diren sendabelarrak ikertzen hasi zen, eta haietatik eratorritako botikak sortu zituen, gaur egun ere minbiziaren, epilepsiaren eta malariaren aurka erabiltzen diren farmakoak. Naturan oinarritutako medikuntza arloa landu zuen, zientzia arlo oso bat. Bere ametsa sendagai ayurvedikoak garatzeko sendabelarren institutu bat sortzea zen, eta haren alboan saiakuntza klinikoak egiteko ospitale bat. Amets hau egi bihurtzea lortu zuen, eta sendabelarrekin lan egiteko molde bat eta bide bat ireki ere bai.\nOndoren yogi tea infusioaz aritu gara, 1969an Bhajan Yogiak erregistratu zuen infusioa. Gure podcastean bosgarren saioan landu genuen chai infusioaren oso antzekoa dela ikusi dugu, baina kasu honetan erregistratutako marka batez ari gara. Guk geuk etxean presta dezakegun infusioa da eta hori da proposatu duguna; jatorrizkoa duen te beltzaren ordez rooibos sendabelarra ipinita.\nAskotan ematen den aholkua yogi tea infusioari rooibos ipintzea da, eta honek magnesioari buruz hitz egiteko aukera eman digu. Rooibos sendabelarrak eta te berdeak zenbat magnesio duten azaldu dugu, baina benetan magnesioa kakaoan dagoela azpimarratu dugu. Beraz, magnesioa nahi izatera txokolatea jan, eta rooibosa edan, baina gustuko duzulako, ez magnesioagatik."
   },
   "1344": {
     "rss": "https://guau.eus/series/1344/rss.xml",
@@ -3591,7 +3593,9 @@
     "title": "Nork Nori Noiz? ",
     "description": "Badalaben podcasta da \u201cNork Nori Noiz?\u00a8, mahai baten bueltan, bikoteka eta parez pare jartzen diren bi pertsonen arteko solasa, edo jolasa.\n\nBertan aurkituko dituzten karta joko eta bestelako objektuek eskainiko dieten espazio ludikoa gorputzez, etorkizunaz, hizkuntzaz, sorkuntzaz eta nahi bestez hausnartzeko.\n\nGUAUk eskaintzen dizun edukia, Badalab-en podcasta da eta Hiru Damatxok ekoitzi du.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/672b19bb-0a19-4b1b-840d-fb11d630fc5e.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/672b19bb-0a19-4b1b-840d-fb11d630fc5e.jpg",
+    "media_title": "1. Ines Osinaga eta Leo Buereberi",
+    "media_desc": "Ines Osinaga musikaria eta Leo Buereberi DJ-a jarri ditugu \u201cNor Nori Noiz?\u201d podcastaren atal honetan bikotea osatuz, mahai gainean, parez pare.\u00a0\u00a0"
   },
   "2421": {
     "rss": "https://guau.eus/series/2421/rss.xml",
@@ -3608,5 +3612,12 @@
     "description": "Radio Vitoriak Martxoaren 3aren 50. urteurrena dela eta ekoitzi duen 10 ataleko podcasta da.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d8d4c888-6e22-431f-87e6-b7cabe513af6.jpg"
+  },
+  "2431": {
+    "rss": "https://guau.eus/series/2431/rss.xml",
+    "title": "Uhin Ultramoreak",
+    "description": "Alaitz Ochoa de Eribek eta Ana Galarragak gidatzen dute \"Uhin Ultramoreak\" zientzia eta teknologiari buruzko podcasta. Bertan, zientziaren dibulgazioa berdintasunaren ikuspegia ahaztu gabe egiten da. Maiz, zientziaren arloan ezkutuan geratu den emakumearen ikuspegiari arreta berezia jarri nahi diote Elhuyarreko bi dibulgatzaileek. ",
+    "media_type": "video",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/fcdfc7b2-cc6f-4311-8725-628a5d79b61b.jpg"
   }
 }
