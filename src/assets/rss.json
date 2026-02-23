@@ -1303,8 +1303,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Perejilek, saltsa guztietan dagoen taldea",
-    "media_desc": "Galdakaoko hamabi lagunek osatutako taldea da Perejilek. Belaunaldien arteko loturak eratu eta euskal folklorea zalbatzea dute helburu.",
+    "media_title": "Nola aldatu gaitu Facebookek?",
+    "media_desc": "Duela bi hamarkada, Amerikako Estatu Batuetako unibertsitateetan sortutako sareek harremantzeko moduak berridatzi dituzte. Antonio Casado da Rocha EHUko irakasle eta ikerlariak David Fincherren \"The Social Network\" aletu du 'Bigarren Laurdena' solasaldian, BRTAko Garbi\u00f1e Manterola eta Mondragon Unibertsitateko Markel Pe\u00f1albarekin batera. Elkarrizketa pausatuan, gogoeta egin duten teknologiaren eta gizakiaren arteko harremanaren, Facebooken negozio-ereduaren eta demokraziari erasateko moduaren inguruan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1403,8 +1403,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8011e4bf-881c-480b-ac78-990e5ac59953.jpg",
-    "media_title": "Nagore Legarreta eta Ramon Zabalegi",
-    "media_desc": "Bi artista disidente Gorputzen erreboltan.\nLegarreta argazkilaria eta Zabalegi marrazkilari-grabatzailea.\nBien lanak erakusketa bakarrean"
+    "media_title": "Yolanda Arrieta",
+    "media_desc": "Gerta daiteke hitz bat sartzea zure munduan, hain justu hitz horren esan nahiarekin bat zatozen unean: Zurtz da hitz hori"
   },
   "1429": {
     "rss": "https://guau.eus/series/1429/rss.xml",
@@ -2134,8 +2134,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Eutanasia eskatu nuen baina orain bizirik nago",
-    "media_desc": "2022an, Lara Tapia neska transexual gaztea prozesu betean zegoen. 18 urte zituen eta auto-istripu batek tetraplegia eragin zion. Eutanasia eskatu eta ukatu egin zioten. Orain bizitzari gorazarre egiten dio.",
+    "media_title": "\"Minbizia da inoiz gertatu zaidan gauzarik onena\"",
+    "media_desc": "Minbiziari buruz gutxitan entzun ditugun hausnarketak ekarri dizkigute oso gazte zirela gaixotasuna pasa duten bi emakumek. Minbizia inoiz gertatu zaion \"gauzarik onena\" dela dio Arantza Lopezek; Shrabani Aranzabek, aldiz, gaixotasuna pasa ostean \"egundoko hutsunea\" sentitu duela. Biek ala biek kultura izan dute bidelagun gaixotasuna gainditzeko prozesuan. Lopezek \"Igogailua\" antzezlan autobiografikoa idatzi eta zuzendu du minbiziari buruz; Aranzabek, berriz, Naturaren Doinuak izeneko jaialdia antolatzen du Alkizan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2346,8 +2346,8 @@
     "description": "Baskonia, Araski eta, oro har, saskibaloiaren azken orduari buruzko programa. Sergio Vegas, Natxo Mendaza, Joseba S\u00e1nchez eta Rocio Rubinichen komentarioekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f14de2f-2bff-4cc9-95c1-a8cdcb523fe9.jpg",
-    "media_title": "Bilbao, \u00faltima estaci\u00f3n antes de la Copa",
-    "media_desc": "Baskonia Bilbon aztertzen ari da datorren ostiraleko Valentziako Koparen hasierari begira nola dagoen jakiteko. Galbiatiren mutilek sentsazio onak aurkitu nahi dituzte Miribillan, Teneriferen aurkako final-laurdenetako norgehiagokaren aurretik."
+    "media_title": "Hablamos de baloncesto",
+    "media_desc": null
   },
   "1453": {
     "rss": "https://guau.eus/series/1453/rss.xml",
@@ -2419,8 +2419,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Baskonia-Tenerife",
-    "media_desc": null
+    "media_title": "Baskonia, Kopako Txapeldunak",
+    "media_desc": ""
   },
   "1305": {
     "rss": "https://guau.eus/series/1305/rss.xml",
@@ -2767,7 +2767,7 @@
     "description": "Gaztean, Dj Makalaren eskutik, Boom Shaka Laka irrati showaren denboraldi berria. Beti bezala, bazter guztietako musika berri eta ez hain berriak, esklusiboak, aurrerapenak! Dastatzeko, deskubritzeko, gozatzeko, dantzatzeko! Boom Shaka Laka!!! Mundu osoko taupadak zure belarrientzat!\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/514a0503-e44e-4495-a2c9-17e6930d7a46.jpg",
-    "media_title": "Lance Ferguson, Neue Grafik, Tracey Miller",
+    "media_title": "Michelle David & The True-tones, Kylie Audist, Sotomayor",
     "media_desc": null
   },
   "1433": {
