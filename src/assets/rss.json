@@ -18,8 +18,8 @@
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg",
-    "media_title": "16. I\u00f1igo Etxezarreta, ETS eta makro-aren arrakasta",
-    "media_desc": "Luzaro ibili dira bere atzetik eta azkenean lortu dute I\u00f1igo Etxezarreta \u201cBenetan zabiz?\u201d podcastean izatea. Hogei urteko ibilbidea eta gero aitortu du \u201cKonkista\u201d izeneko albumarekin urduri egon dela, esaten duenez, iruzkin txarrak jaso ditu lehenengo aldiz. Madrilen eta Bartzelonan diskoa aurkezteko egin dituzten kontzertuez hitz egin dute eta musika zuriaz ere bai.\nZer da mainstreama izatea? Nolakoa da ETSren sortze-prozesua? Zertan oinarritzen dira? Nola lortu dute fandom berria? Zergatik bilakatu da I\u00f1igo taldearen irudi?\n \nHori guztia jakiteko ez galdu atala!"
+    "media_title": "17. Oihana Fernandez de Barrena, bikoitza demostratu behar izatea",
+    "media_desc": "Bere kirol ibilbideko garaipenik handiena lortu berria du atal honetako gonbidatuak! Donostiako Urrezko Kopa irabazi ondoren dauzkan sentimenduak partekatu ditu Malen eta Aitziberrekin.\nAizkolaria, baserritarra, dibertigarria, abenturazalea\u2026 Oihanak aurpegi ezberdin asko ditu eta horiek aztertu dituzte \u201cBenetan zabiz?\u201d podcastean. Aizkora uztear egon zen, baina gehiegi maite du etena egiteko. Baserrian aitak egin duen lanaren lekukoa hartzera doa. Ezaguna bada, \u201cEl Conquistador del Fin del Mundo\u201d saioan parte hartu zuelako dela onartzen du eta bizitza aldatu diola erabaki horrek. Nola nahi, atzerriko sustraiak dauzkalako, bizitzan besteon bikoitza demostratu beharra izan duela garbi dauka.\nMaria Blanco kolaboratzaileak gainera gai potoloa jarri du mahai gainean: sareetan \u201cfollow\u201d eta \u201cunfollow\u201d egitea.\nBenetan zabiz galduko duzula?"
   },
   "1752": {
     "rss": "https://guau.eus/series/1752/rss.xml",
@@ -154,8 +154,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Ana del Val, diputada foral de Cultura y Deporte",
-    "media_desc": "Ana del Val, Kultura eta Kirol Saileko foru diputatua",
+    "media_title": "Mar\u00eda Hidalgo, jefa de servicio de Oncolog\u00eda, en funciones, de la OSI Araba",
+    "media_desc": "Maria Hidalgo, Arabako ESIko jarduneko onkologia zerbitzuburua.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -165,8 +165,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Martxoaren 3ko memoria, belaunaldiz belaunaldi",
-    "media_desc": "Martxoaren 3ko sarraskitik mende erdi bete den egunean, transmisioan jarri dugu fokua Euskadi Irratiko Faktorian. San Frantzisko eliza barruan elkartu ditugu gertaeren lekuko izan zen Santi Diaz de Espada, eta auzoko Koldo Mitxelena Institutuan ikasten duten hiru ikasle. Ikuspuntuak eta oroitzapenak partekatzeko ariketa egin dugu.",
+    "media_title": "Langileak erakartzeko bizitokia eskaintzen duten enpresak",
+    "media_desc": "Enpresek eskulana eta langile kualifikatuak behar dituzte eta langileek, etxebizitza. Premiari erantzuteko sortu diren hainbat ekimen ezagutu ditugu: Berrobiko Alberdi Zerrategiak moldatu duen etxebizitza, Iparraldeko 9 lantegik bultzatu duten \"Lan eta bizi herrian\" proiektua, Donostia Sustapenak eskainitako etxebizitzak eta Beasaingo Olaran talentu faktoria. I\u00f1igo Lopez Simon historialariak testuingurua eman digu, migrazio mugimendu handi guztietan gertatu delako antzera.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -579,8 +579,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zer da Rauxa? Entzun audio hau! ",
-    "media_desc": "Ongi etorri I\u00f1aki Cid eta Eneritz Sanchezen mundura!",
+    "media_title": "Luiginak: elurpean eta eguzkipean egin daitekeen tertulia",
+    "media_desc": "Amaia Uribe, Nerea Sarriegi eta Yerai Diaz eguraldiaz, aireportuetako abenturez, elurraren komeriez eta aktualitateaz aritu dira.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -601,8 +601,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "El dilema de las tallas peque\u00f1as",
-    "media_desc": "Ana Cabrerak, Bilboko EGAY kortseteriaren jabeak, eta Edurne S\u00e1nchezek, Bizkaiko hiriburuko URRU zapateriaren jabeak, neurri txiki baterako arropa egokiak aurkitzea zaila dela ezagutzen lagundu digute.",
+    "media_title": "Viviendas para trabajadores",
+    "media_desc": "XX. mende haseran fabrika askok eskeintzen zioten etxebizitza langileei. Duela 21 urtetik, Berrobiko Alberdi empresak ere gauza bera egiten du, eta Arroa Beheko zementu fabrikako langileek urte luzez izan zuten lantokiak eskeinitako etxea. Lekukotza horiek jasotzen dituzten ahotsak entzun ditugu",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/04c06281-8c1c-4e35-9d0e-6a3b60b8cbf1.jpg"
   },
   "1437": {
@@ -623,8 +623,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "La esquiva naturaleza de la energ\u00eda y la materia oscuras. Lo que nos dice del clima el hielo analizado en IzotzaLab",
-    "media_desc": "Unibertsoaren gehiena ulertzen ez dugun zerbaitez osatuta dago: materia iluna eta energia iluna. Zientzia dibulgazio ekitaldiz betetako martxoa hasiko dugu Alberto Fern\u00e1ndez Santos fisikariaren hitzaldi batekin. Fisikariak, Espainiako Ikerketa Zientifikoen Kontseilu Nagusiko (CSIC) ikerketa irakaslea eta Kantabriako Fisika Institutuko (IFCA) kidea da. Asteartean, otsailaren 3an, \"La Bascongada XXI. mendeko zientziaren erronkei aurre eginez\" seriea inauguratuko du, kosmologiaren misterio honi buruzko hitzaldi batekin. Sergio H. Fariak, Klima Aldaketaren Basko Zentroko (BC3) ikertzailea eta Ikerbasque irakaslea, asteazkenean, otsailaren 4an, parte hartuko du \"Geologia poetentzat, begi hurbilekoentzat eta burutik kenduentzat\" serieko lehen saioan. BC3ko IzotzaLab laborategiko buruak izotzaren eta elurraren propietate mikroskopikoek klima aldaketari buruz zer esaten diguten azalduko du.",
+    "media_title": "La lucha contra el neumococo. Arqueobot\u00e1nica sobre el medievo ib\u00e9rico. Conversaci\u00f3n entre arqueolog\u00eda e historia del arte",
+    "media_desc": "Federico Martin\u00f3n-Torres pediatrak Bilboko Medikuntza Zientzien Akademiak antolatutako bilera batean parte hartu zuen pneumokokoen aurkako txertoei buruz eztabaidatzeko. Bakterio hau da gure ingurunean infekzio larrien kausa garrantzitsuena eta, bereziki haurtzaroan, oso nonahi dagoen patogenoa da, eta bakterioen patologia asko azaltzen ditu, pneumonietatik hasi eta otitis mediaraino. Leonor Pe\u00f1a, Espainiako Ikerketa Zientifikoen Kontseilu Nagusiko (CSIC) arkeobotanikariak, bi bisita gidatu gidatuko ditu martxoaren 5ean Guggenheim Bilbao Museoan dagoen \"Lurraren Arteak\" erakusketan. Bere egungo ikerketak Iberiako Erdi Aroko populazioen elikagai gisa balio izan zuten landareetan oinarritzen dira. Horrez gain, Jes\u00fas Lorenzo arkeologoa eta Aintzane Erkizia arte historialaria, biak EHUkoak, bihar, asteazkena, elkartuko dira Vitoria-Gazteizen egingo den \"Historia Euskaraz\" zikloan. Gaur, iragana aztertzeko dituzten bi ikuspegien arteko elkarrizketa aztertuko dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -717,8 +717,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "3. Hitman eta 007: First Light",
-    "media_desc": "Danimarkako IO Interactive estudioak proiektu garrantzitsu bat du eskuartean: James Bond pertsonaia bideojokoetara eramateko ardura eman diete. Baina, bideojoko berri horren gakoak ulertu ahal izateko, ezinbestekoa da estudioaren iraganera begiratzea, Hitman sagarekin egindako lan bikainean oinarrituko baita 007 agentearen abentura berria.",
+    "media_title": "4. Pok\u00e9mon Legends: Z-A",
+    "media_desc": "Aurkezpenik behar ez duen saga da Pok\u00e9mon, jokalari guztiok ondo ezagutzen duguna. Baina saga nagusiko beste joko baten zain gauden bitartean, spin-off batera  jolastu ahal izango gara: Legends Z-A. Jokoaren egitura eta sistemak erabat berrituta dituen jokoa izanik, proposamen interesgarria jo dugu,  eta \u201cJokutopia\u201d atal honetan berrikuntza horiek izango ditugu hizpide.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -739,8 +739,8 @@
   },
   "1343": {
     "rss": "https://guau.eus/series/1343/rss.xml",
-    "media_title": "Phil Spector:\u00a0 Gorakada eta gainbehera\u00a0\u00a0\u00a0",
-    "media_desc": "1939an New Yorken jaiotako Phil Spectorrek talentu handiko artistaren paradoxa irudikatzen du: XX. mendeko pop musikaren figura garrantzitsuenetakoa izan zen sortzaile zein produktore moduan, baina tratu txar eragile eta hiltzaile ere bai. Irantzu Karrerak \u201cPasaiak\u201d podcastaren atal honetan azaldu dizkigu 2021ean hildako Phil Spectorren argi-ilunak.",
+    "media_title": "Fran\u00e7oise Hardy: pop musika eta moda frantsesaren ikono ahaztezina ",
+    "media_desc": "1962an bere lehen singlea \u201cTous les Gar\u00e7ons et les Filles\u201c kaleratu zuen, y\u00e9-y\u00e9 fenomenoaren ikur bihurtuz. Era horretan Frantziako abangoardia mugimenduaren partaide izan zen Brigitte Bardot, France Gall edota Sylvie Vartan-ekin batera. \nBerezkoa zuen dotorezia eta estiloarekin diseinatzaile ugari inspiratu zituen eta ordutik, chic paristarraren sinboloa da. Fran\u00e7oise Hardy 1944an jaio eta 2024an hil zen.",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1303,8 +1303,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Multikirolaren aldeko manifestua",
-    "media_desc": "EHU, Mondragon eta Deustuko Unibertsitateek elkarrekin aurkeztuko dute aste honetan 13 urtez azpiko haurrak kirol bakarrean espezializatzeak ekar ditzakeen arriskuak biltzen dituen dokumentua. Soin-Hezkuntzako Irakasleen eta Lizentziatuen Euskal Autonomia Elkargoak gidatu du akordioa eta bertako kide den Neritzel Albisuak azaldu digu adostu dutena. Bestalde, Lur Errekondo eta Iker Irribarriaren testigantzak ere jaso ditugu, hauek ere umetatik kirol anitzetan trebatu dira, goi mailako kirolari izan aurretik.",
+    "media_title": "Anje Duhalde eta 250 ikasle kantuz",
+    "media_desc": "Anje Duhalderekin hitz egin dugu martxoaren 3an egin zituen bi kontzertuen inguruan: bere kanturik ezagunenak abestu zituen Iparraldeko lau kolegiotako ikasleekin batera. Intza Daguerrek, proiektuaren koordinatzaileak, eta Larzabalgo kolegioko ikasleek ere hartu dute parte solasaldian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1336,8 +1336,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "D4vid artista estatubatuarraren trama",
-    "media_desc": "Irailaren 7an Celeste Rivas izeneko gazte baten gorpua topatu zuten D4vid artista estatubatuarraren kotxean. Ikerketa polizialaz gain, Tik Token hautsak harrotzen ari diren hainbat teoria azaldu dizkigu Ainhoa Vitoriak.",
+    "media_title": "Andaluziako breakbeat mugimendua 90eko hamarkadan",
+    "media_desc": "Breakbeat mugimenduak 90EKO hamarkadan Andaluzian izandako ibilbidearen inguruan hitz egin digu Kattalin Barcenak, \u201cBreak Nation. La electr\u00f3nica que bail\u00f3 Andaluc\u00eda\u201d izeneko dokumentala oinarri bezala hartuta.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e596b5c7-33b0-4154-88e6-d3844d668048.jpg"
   },
   "1582": {
@@ -1369,8 +1369,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Kreatinaren erabilera",
-    "media_desc": "Gosari osasuntsuak, espoloiak, kreatina eta tentsioa izan dira Felix Zubia medikuak jorratu dituen gaiak.",
+    "media_title": "Gosaltzeko azukre azkarrak ez dira  gomendagarriak ",
+    "media_desc": "Felix Zubia medikuak gosari osasuntsuari buruz hitz egin du. Eztiaren, hestebeteen edota arrautzen kontsumoaz ere aritu da. Honez gain, txakurren hozken aurrean zer egin argitu du. ",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1519,7 +1519,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "En directo, desde Barcelona",
+    "media_title": "Huellas en femenino, Mesa Redonda de intepretaci\u00f3n y BOS",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
@@ -1746,8 +1746,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala ematen dizu \"Hitza Jolas\" podcastak Eneritz Gorrotxategik aurkeztuta. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Xilabaren final aitzinekoak: Baigorrikoak eta Bardozekoak",
-    "media_desc": "Xilaba txapelketa finalera heldu da. Honen aurretik baina, final aitzinekoen errepasoa egingo dugu. Baigorriko saioko bertsoaldiak eta Bardozekoak hartuta gatoz \u201cHitza jolas\u201d podcasten atal honetan"
+    "media_title": "Xilabako finalean entzundakoak",
+    "media_desc": "Historian lehenengoz emakumezko bat izan zen Xilabako garaile, Maddi Ane Txoperena eta emakumezko batek jantzi zion gainera txapela: Maialen Hiribarrenek. \u201cHitza jolas\u201d podcastaren atal honetan, urtarrilaren 31n Donibane Lohizuneko Jai Alain jokatutako finalean entzundako bertsoaldiak bildu ditugu. Lehenengo fasetik hasi eta buruz buruko fasekoak barne."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2138,8 +2138,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": " Julen Unanue, umoregilea:  \"Kuadrillan diote ez dudala graziarik egiten\"",
-    "media_desc": "Julen Unanuek (@unaanuue) sare sozialetan umorea baliatzen du, batez ere Tik Tok plataforman.",
+    "media_title": "Klara Badiola aktorea: Ahal dudan arte jarraituko dut taula gainean",
+    "media_desc": "Klara Badiola aktore donostiarrak \"Desobedienteak 18/98\" antzerki obrari buruz hitz egin digu. Desobedientzia zibilaz eta giza eskubideak ez galtzearen garrantziaz hitz egiten duen obra da. Oso gustura dago antzezlanak izan duen harrerarekin. Zineaz ere aritu da eta oso pozik agertu da Jose Ramon Soroizek eta Nagore Aranburuk jaso dituzten Goya sariekin. Bizia ematen dio antzezteak eta proiektu interesgarriak dituen bitartean, lanean jarraituko du.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2372,7 +2372,7 @@
     "description": "Deportivo Alaves, Baskonia eta Araskiren emanaldiak.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2a3dfc9d-5883-410b-8738-45f099a1330e.jpg",
-    "media_title": "Baskonia-Lleida / Valencia.D.Alav\u00e9s",
+    "media_title": "Este viernes desde las 17:45, Araski-Joventut / Baskonia-Paris",
     "media_desc": null
   },
   "1450": {
@@ -2667,8 +2667,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Poesia eta petrolioa",
-    "media_desc": "Venezuela poeta asko eta handien herrialdea da, emakumezkoak zein gizonezkoak. Hanni Ossot, Ida Gramcko, Eugenio Montejo, Gustavo Pereira, Marta Kornblith, Victor Valera Mora... Venezuelako poeta interesgarri pilaren artean lagin bat besterik ez da hau, altxorrez, edo, hobeto esan, petrolio-upelez betetako zerrendatxo bat."
+    "media_title": "Groenlandiako lezioa",
+    "media_desc": "Liburu bitxia da \u2018Groenlandiako lezioa' (Erein, 1998) Bernardo Atxagaren lanik berezienetakoa. Zeozer definitzekotan, artefaktu literario moduan, agian, definitu daiteke, badu fikziotik, badu saiakeratik, badu poesiatik, badu ipuinetik, hausnarketatik, baina hausnarketa egiten duenean ere ez da halako akademizismo edo erudizio erabateko batean erortzen. Dena bilbatzen du halako fikzio ikutu batekin: askotan hizkiak jartzen ditu hizketan, gai bat hartzen du eta bapatean hizkiak etortzen dira A hizkia, B hizkia eta alfabeto guztia."
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3476,8 +3476,8 @@
     "description": "Joseina Etxeberriak euskal musikaren 10 totem, 10 izen nagusi, elkarrizketatu ditu musika sortzen duten lekuan bertan.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7ec7440e-d26e-4ede-9ded-59fcb5eac2d8.jpg",
-    "media_title": "Maixa: \"Ondoren etorri diren emakumeei bidea zabaltzeaz nago harro\"",
-    "media_desc": "Altzon, gurasoen etxeko bajeran hartu du Maixak Joseina Etxeberria. Han erakutsi dizkio bere trepeta kuttunenak: aitak oparitutako lehen trikitia, alkandora botoiak dituena, eta beste hainbat. Konfidantzan hitz egin dute, duela 25 urte amaitu zen `Maixa ta Ixiar' bikoteaz, 'Amak' proiektuaz eta bizitzaz. \"Plazan nigar egindakoak gara\" onartu dio Maixak.\nIkusteko: https://www.youtube.com/watch?v=2fVsZf3KIbo"
+    "media_title": " \"Hiru belaunaldi elkartzen dira Kaotikoren kontzertuetan\"",
+    "media_desc": "Euskal Herriko punk talde ezagunenak 25 urte bete eta  bilduma diskoa argitaratu berri du. Agurainen, entseatzeko eta elkartzeko erabiltzen duten lokalean elkartu da Joseina Etxeberria Xabi Aldaz, Jon Morcillo \"Mortx\" eta Aguayorekin. Taldearen historia musikala eta afektiboa errepasatu dute; lokalean gordetzen dutena erakutsi diote Joseinari: musika trepetak, bideojoko klasikoak eta lagunen erlikiak; eta zuzenean jo dute \"Otra noche\" euren kantarik entzunena. 30 milioi entzunaldi baino gehiago ditu!"
   },
   "2219": {
     "rss": "https://guau.eus/series/2219/rss.xml",
@@ -3503,8 +3503,8 @@
     "description": "Garbi\u00f1e Larrearen podcast honetan sendabelarrei buruzko bitxikeriak, erabilera praktikoak, belarren munduan aritu eta adituak direnei elkarrizketak eta bestelako kontu asko aurkituko dituzu. Argiako podcasta, GUAUn ere entzungai.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65cac517-c38a-4562-8b24-5efe58e184d4.jpg",
-    "media_title": "9. Erruda, pozoinetik magiara",
-    "media_desc": "Erruda edo boskotxa (Ruta graveolens) da atal honetako protagonista. Entzule batek idatzi zigun errudaren inguruan galdezka, hain zuzen, bere amatxik zizareen kontra erabiltzen zuelako. Ahotsak.eus atarian bilaketa egin eta Martina Bergararen ahotsa ere ekarri dugu, berak erruda nola erabiltzen zuen azaltzen baitu bertan.\n\nSendabelar hau nolakoa den, zertarako erabiltzen den, eta batez ere, erabilera seguru bat nola egiten den landu dugu. Horretaz gain erabilera magikoak ere izan ditugu hizpide, sendabelar honen inguruan halako usteak eta erabilerak badirelako."
+    "media_title": "10. Hamabi konposatu minbiziaren kontra",
+    "media_desc": "Oso modu arraroan aldatzen ari dira landareak Danimarkan, eta zientzialariek ez dakite zergatik. Albiste deigarria iruditu zaigu eta atalaren sarreran hainbat hipotesiri buruz aritu gara. Gai nagusia, berriz, minbizia izan da, bere kontra egiteko hamabi osagai edo konposaturi buruzko ikerketa sendo bat, zehazki. Hauetako asko sendabelarrak dira, eta batzuk gure artean oso ohikoak. Gomendioaren atalean ikerketa honetan aipatzen diren konposatu hauek nola baliatu eta egunerokotasunean nola erabili landu dugu."
   },
   "1344": {
     "rss": "https://guau.eus/series/1344/rss.xml",
