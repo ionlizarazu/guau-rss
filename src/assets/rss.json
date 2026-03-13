@@ -49,8 +49,8 @@
     "page": "Kirola",
     "page_id": 64,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/632f44b5-b177-452b-bf7f-89d030367ecf.jpg",
-    "media_title": "1. Dorleta Urretabizkaia eta Ugaitz Amundarainekin arlo pertsonalaz eta profesionalaz",
-    "media_desc": "Atal honetan Dorleta Urretabizkaia (Eunaterekin) eta Ugaitz Amundarain (Keparekin) ibilbide pertsonal zein profesionala ezagutzeko aukera izango dugu. Dorleta aktore zuzendari lanetan hasi zen \u201cIrabazi arte\u201d telesailean, eta orain aktore lanetan dabil. Ugaitzek bestalde, antzezlan bat idatzi du, eta lan horrek argia ikustea nahiko luke. Dorletak, gainera, aholkuak eman dizkie aktore izan nahi duten gazteei."
+    "media_title": "5. Janire Ugalde, TikToken aholkuak ematen dituen psikologo euskalduna",
+    "media_desc": "TikTok sare sozialean buru osasunaren inguruan aritzen da Janire Ugalde psikologoa. Antsietateaz edo isolamenduaz askotan galdetzen diote gazteek, eta batzuetan ez dakite zehazki zer ari zaien gertatzen. Janire euskaraz aritzen da sarean, eta hori plus bat da hainbat neraberentzat. Antsietatea nola identifikatu eta zer egin kontatu du \u201cIrabazi arte\u201d podcastaren atal honetan."
   },
   "1830": {
     "rss": "https://guau.eus/series/1830/rss.xml",
@@ -132,8 +132,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Juan Mari Aburto: \"Eusko Trenen eraikin berria Alde Zaharreko biziberritze planarekin bat datorren aztertu beharko dugu\"",
-    "media_desc": "Bilboko alkateak kezka agertu du Kongresuak ezkutu sozialaren proposamena baztertu izanak etxegabetzeak areagotuko dituelako.",
+    "media_title": "Mikel Jauregi: \"Oso kezkagarria da Irango gerrak sor dezakeen energia krisia\"",
+    "media_desc": "Gasaren komertzioa eteteak elektrizitatearen fakturan izango duen eragin baldintzagarria nabarmendu du eta horrek euskal industrian izango duen inpaktua oso handia izan litekeela gaineratu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/60885b90-6a3e-4ed0-a32d-9ee1962b5777.jpg"
   },
   "1629": {
@@ -154,8 +154,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Txerra Molinuevo, alcalde de Amurrio",
-    "media_desc": "Txerra Molinuevo, Amurrioko alkatea",
+    "media_title": "I\u00f1aki Artaza, M\u00e9dico Geriatra y diplomado en Gerontolog\u00eda Social",
+    "media_desc": "I\u00f1aki Artaza, Geriatra medikua eta Gerontologia Sozialean diplomatua",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -165,8 +165,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Martxoaren 3ko memoria, belaunaldiz belaunaldi",
-    "media_desc": "Martxoaren 3ko sarraskitik mende erdi bete den egunean, transmisioan jarri dugu fokua Euskadi Irratiko Faktorian. San Frantzisko eliza barruan elkartu ditugu gertaeren lekuko izan zen Santi Diaz de Espada, eta auzoko Koldo Mitxelena Institutuan ikasten duten hiru ikasle. Ikuspuntuak eta oroitzapenak partekatzeko ariketa egin dugu.",
+    "media_title": "Gure moneta, tokiko ekonomia eta baloreak bultzatzeko",
+    "media_desc": "Ipar Euskal Herriko euskoaren esperientzia arrakastatsua eredutzat hartuta tokiko moneta Oarsoaldean eta Baztanen zabalduko da. Luis Intxauspe koordinatzaileak eman dizkigu xehetasun denak eta jaso ditugu esperientziara batuko diren enpresa eta merkatarien adibideak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -185,8 +185,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Andone Sistiaga: \"Unibertsitatean eskari psikologikoen gorakada ikusi dugu\"",
-    "media_desc": "EHUn Arreta Psikologikoko zuzendaria da Andone Sistiaga. Ia 15 urte daramatzate zerbitzu hau eskaintzen EAEko hiru kanpusetan, eta azken urteko datuak errepasatu ditugu Sistiagarekin.",
+    "media_title": "Harkaitz Urreta: \"Datorkionari heltzeko prest dago Ideko\"",
+    "media_desc": "Harkaitz Urreta, Idekoren merkatu-arduraduna, izan dugu gonbidatu nagusi Faktorian. Makina-Erremintaren Biurteko Azokan aurkeztutakoa aletu du, ekoizpen aurreratuan dauden joera nagusiak, nazioarteko ziurgabetasunak eragindako testuingurua eta IDEKOren 40. urteurrena.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -213,8 +213,8 @@
     "title": "Irabazi arte ",
     "description": "EITBko \"Irabazi arte\" telesaileko bi kidek podcast bat sortu dute emakumezko kirolari eta kirolzale erreferenteak bertatik bertara elkarrizketatzeko. Arene (Sua Enparantza) eta Nora (Nahia Sillero) dira podcasterrak, aurreneko  bi denboraldietan  eta Arene eta Olatz (Ainhoa Azpitarte) azkenekoetan, Learoko  jokalariak hirurak. Nerabezaroko atrebentziaz luzatzen dizkiete galderak gonbidatuei.",
     "media_type": "video",
-    "media_title": "1. Dorleta Urretabizkaia eta Ugaitz Amundarainekin arlo pertsonalaz eta profesionalaz",
-    "media_desc": "Atal honetan Dorleta Urretabizkaia (Eunaterekin) eta Ugaitz Amundarain (Keparekin) ibilbide pertsonal zein profesionala ezagutzeko aukera izango dugu. Dorleta aktore zuzendari lanetan hasi zen \u201cIrabazi arte\u201d telesailean, eta orain aktore lanetan dabil. Ugaitzek bestalde, antzezlan bat idatzi du, eta lan horrek argia ikustea nahiko luke. Dorletak, gainera, aholkuak eman dizkie aktore izan nahi duten gazteei.\n",
+    "media_title": "2. Ane Urresti sare sozialetako eduki sortzaile ameslaria",
+    "media_desc": "Egunero sareetara bideoak igotzen ditu Ane Urresti mutrikuarrak. Tik Token hasi zen, eta orain, Instagramera egin du salto. Ikasketen inguruan ere galdetu diote \u201cIrabazi arte\u201d bideopodcasteko Olatzek eta Norak, eta Anek azaldu du ikus-entzunezko gradua aukeratu zuela. Hori dela eta, gomendio bat eman die ikasketak aukeratzen ari diren gazteei: euren burua ezagutu, erabakia lasai hartu, eta ametsak bete daitezkeela argi izatea.\n",
     "page": "Musika",
     "page_id": 60,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/632f44b5-b177-452b-bf7f-89d030367ecf.jpg"
@@ -485,8 +485,8 @@
     "title": "Benetan zabiz? ",
     "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana.",
     "media_type": "video",
-    "media_title": "21. Urteekin, aldatu ahala, damutzen garenaz  ",
-    "media_desc": "Malen eta Oihaneren urtebetetzeak ospatu dituzte \u201cBenetan zabiz?\u201d bideopodcastaren atal honetan eta aitzakia horrekin hogeita hamar urteen inguruko krisiaz hitz egin dute. Adin horretara gerturatzearekin batera nola sentitzen diren, ama izateko presioa sentitzen duten edota haien gurasoen zahartzeak larritzen dituen.\n \n\u201cNor da ohikoago\u201d jolasera jolastu dira: hiruetatik nor ez litzateke jabetuko hondamendia gertatu dela lo harrapatu duelako? Nor igoko litzateke sagardotegi bateko mahai gainera dantza egitera? Batez ere, nork eskatzen dio Oihaneri podcastean zehar esandako hura mozteko?\n \nAtalaren bigarren zatian, noizbait esan edo pentsatu eta gerora esandakoaz damutu diren gauza eta egoerei buruz hitz egin dute Aitziber, Malen eta Oihanek. Feminismoak Leticia erregina kontuan hartu beharko luke? Eutanasiaren alde edo kontra daude?\n \nEz galdu atala!\n",
+    "media_title": "22. Skabidean, talde terapia beharrezkoa da  ",
+    "media_desc": "Hamalau urte zituztenean Iturramako Institutuan elkar ezagutu zuten eta bertan eman zuten lehenengo kontzertua. Hamabi urte eta gero, ibilbide luzea egin dute elkarrekin eta une politak bizi izan dituzten arren, aldapa gora egin zaie askotan. Talde arazo larri bat izan zuten, eta talde terapia nahiko bortitzarekin konpontzen saiatu ziren. Skabidean taldeko Antonio eta Imanolek \u201cBenetan zabiz?\u201d podcastaren atal honetan aitortu dute ez dela batere erraza musikaria izatetik bakarrik bizimodua ateratzea. Aitziber eta Maleni azaldu diete, behin, ACDC taldearen tributu ofizialaren teloneroak izan zirela.\n \nKolaboratzailearen tartean, nola ez, jolas batera jolastu dira eta abesti bateko lehen akordeak entzunda ze kantu den asmatu behar izan dute. Japonian ere izan dira! Bertako bira promozionatzeko kartel beldurgarria egin diete eta beraiek asmatutako \u201cpiparra izatea\u201d kontzeptua ere zehaztu dute.\n \nZe etxetresna izango ote lirateke?\n",
     "page": "Gaztea",
     "page_id": 70,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9dd27a9e-9ed0-4b10-a1fb-2c5f0c48fc79.jpg"
@@ -579,8 +579,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Gorka Larcan izarren ile-estilista",
-    "media_desc": "Ile-estilista getxotarrak punta-puntako artisten look ikonikoak sortzen ditu. Bere Carabancheleko estudioan izan gara bere lana gertutik ezagutzen. Rosaliak eta Izarok ile-estilista partekatzen dute, baita orain Baipasak ere.",
+    "media_title": "Krax. Proiektu berria, Astigarragan",
+    "media_desc": "Zuzeneko musikari loturiko proiektu berria da Krax. Astigarragan jaio da eta lehen kontzertuak apirilerako antolatu dituzte. Eneritz Aulestiak eta Xabat Ruizek azaldu digute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6c436a77-fc2a-4b5d-a0ab-cff00f109471.jpg"
   },
   "1438": {
@@ -717,8 +717,8 @@
   },
   "1801": {
     "rss": "https://guau.eus/series/1801/rss.xml",
-    "media_title": "5. Time Flies eta Thank Goodness. You\u2019re Here!",
-    "media_desc": "Umorea ez da ohikoa izaten bideojokoetan, baina \u201cJokutopia\u201d atal honetan bi proposamen barregarri aztertuko ditugu. \"Time Flies\" jokoan euli baten gisa jolastu ahal izango dugu, eta \"Thank Goodness You\u2019re Here!\" umore britainiarrez jositako abentura da.",
+    "media_title": "7. Steam: gailu-familia berri bat",
+    "media_desc": "Gailu berriak ezagutzeko gogoz egoten gara jokalariak. Atal honetan Valve enpresaren gailu-bilduma berriari buruz aritu da Xabi Lizaso. Izan ere, ikusmin handia lortu dute enpresa honek aurkeztu dituen tramankuluek: errealitate birtualerako gailu berri bat, egongelan jartzeko pentsatuta dagoen kontsola bilakatutako ordenagailua\u2026 ekosistema berri eta erakargarri honen xehetasun guztien ingurukoa da \u201cJokutopia\u201d podcastaren zazpigarren atala. \u00a0",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -728,8 +728,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "55. Adimen Artifizalaren sexismoa",
-    "media_desc": "\u201cUhin ultramoreak\u201d podcastaren laugarren denboraldia abiatzeko, Emakume eta Neska Zientzialarien Nazioarteko Eguna aukeratu dugu eta zuzeneko atala izan da jendaurrean Donostiako Aquariumeko Areto Nagusian.\nAdimen Artifiziala eta generoa izan da hizpide nagusia. Izan ere, AAko sistemak hedapen izugarria izan dute azken urteotan, baina hedapen hori ez da izan berdina denean: ikerketen arabera, neskek mutilak baino gutxiago erabiltzen dituzte AA bidezko tresnak. Garapenean ere, askoz gutxiago dira arlo horretan ari diren emakumeak, gizonak baino. Eta emaitzetan nabarmena da genero-alborapena. Genero-arrakala agerian jartzeaz gain, arazoa nola konpondu ere aztertu da atalean zehar.\nLaugarren denboraldian ere ohiko azpi sailak jorratuko dira atalez-atal.",
+    "media_title": "56. Zer jan, hura izateko",
+    "media_desc": "Zer jan, noiz, zenbat, norekin, zer den beharrezko, zer kapritxo eta zer debeku, ez du fisiologiak bakarrik erabakitzen, baizik eta kulturak, batez ere. Eta gure kultura genero-bereizketan oinarrituta dagoenez, jateko kontuetan ere islatzen da.\n \nAdibidez: bi lagun daude, jatetxe bateko mahai batean; bata emakumea eta bestea gizona. Zerbitzariak txuleta eta entsalada daramatza mahaira, plater banatan. Zeinentzat da txuleta, eta zeinentzat entsalada? Ba horri buruz badaude azterketa zientifikoak. Ondorio nagusiak azaldu ditugu \u201cUhin ultramoreak\u201d podcastaren atal honetan!",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1305,8 +1305,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Txahal haragia, bertatik bertara",
-    "media_desc": "Oiartzunen Haragi Zirkuitu propioa osatzen ari dira; herrian bertan hazitako txekorrak Labore Elkartearen bitartez saldu nahi dituzte. Horretarako lehen froga pilotua egin dute, eta prozesua nolakoa izaten ari den ezagutzeko Oiantzabal baserriko Julen Irastorza abeltzainarekin eta Itsaso Larretxea, Laboreko kudeatzailearekin izan gara.",
+    "media_title": "Uretako landareak, berotze globalaren aurkako agente",
+    "media_desc": "'Zostera noltei' izeneko uretako landarea, karbono urdineko ekosistema baten adibide garbia da. Karbonoa xurgatu eta gordetzeko gaitasuna du eta Euskal Herrian hedatze-bidean da, AZTIk egin duen lanari esker. Oria ibaian eginiko leheneratzea azaldu digu Mireia Valle ikerlariak \"Bigarren Laurdenean\". Galdegile lanetan, BC3ko Maria Loro\u00f1o eta DIPCko Maria Navarro.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1316,8 +1316,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Tomas Etxabe: \"Antolatzen hasi ginelako etorri zen errepresioa\"",
-    "media_desc": "Forjas Alavesas lantegiak abiatu zuen 1976ko greba zikloa Gasteizen. Orduko hartan langileen ordezkari zen Tomas Etxaberekin errepasatu dugu Faktorian garai hartako testuingurua eta Martxoaren 3ko sarraskia.",
+    "media_title": "Laiene, June eta Batirtze: \"Emakumeena ere bada mekanikarien mundua\"",
+    "media_desc": "Bezeroen harriduraz, lankideek emandako babesaz eta etorkizunerako ametsez mintzatu zaizkigu mekanikari neska gazte hauek.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1438,8 +1438,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/91435160-cd27-4144-87d9-e745d584fe04.jpg",
-    "media_title": "Jaio Deco, mucho m\u00e1s que personalizar muebles",
-    "media_desc": "Arriskatu zuen, ekintzaile bihurtu eta orain Jaione Aguadok bere pasioaz gozatzen du Pedro Asua kaleko 9. zenbakian duen dendan, Jaio Deco-n. Dekorazioaz, altzarien zaharberritzeaz, jasangarritasunaz eta ekonomia zirkularraz hitz egin dugu berarekin."
+    "media_title": "Conocemos la editorial UZANZA",
+    "media_desc": "Landa eremuetan negozio bat abiaraztea liburuan, Mar\u00eda Santorumek argitaletxe txiki eta tradizional baten sekretuak azaltzen ditu."
   },
   "1441": {
     "rss": "https://guau.eus/series/1441/rss.xml",
@@ -1666,8 +1666,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "Intersexualidad",
-    "media_desc": "Ez da sexu-orientazio bat, ez da genero-identitate bat, eta, jakina, ez da gaixotasun bat, nahiz eta oraindik jende askok kontrakoa pentsatzen duen. Intersex edo intersexualak eredu bitarretan sartzen EZ diren ezaugarri sexualekin jaiotzen dira: gizon- eta emakume-gorputz gisa ezarritakoa betetzen ez duten kromosomak, hormonak, gonadak edo genitalak dira. Puntu horretan, nabarmendu behar da pertsona intersexual bat gizonezkoa, emakumezkoa, ez-bitarra, homosexuala, heterosexuala, bisexuala, asexuala edo beste edozein identitate eta orientazio izan dezakeela. Radio Vitoria Gaur saioan intersexualitatearen gaia jorratuko dugu Claudia Ugarte LGTBIQ+ aktibistarekin, Mikel Resa sexologoarekin eta Mer G\u00f3mez \"La rebeli\u00f3n de las hienas\" eta \"Las hermafroditas del siglo XXI\" liburuen egilearekin, baita dibulgatzailea, kazetaritzan graduatua eta Ikasketa Feministetan eta Generoan doktorea ere."
+    "media_title": "Acudimos a la Feria de Stocks 2026 en el Palacio Europa de Vitoria",
+    "media_desc": "Martxoaren 5etik 7ra Vitoria-Gasteizko Europa Jauregian Stock 2026 Azoka egingo da, Gasteiz On merkatarien elkarteak antolatuta."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -1748,8 +1748,8 @@
     "description": "Uhinetako bertsoen plaza podcastean eramangarri. Lehengo eta oraingo bertsoaldietara harpidetzeko aukera zabala ematen dizu \"Hitza Jolas\" podcastak Eneritz Gorrotxategik aurkeztuta. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4f496541-5a28-4c3c-94a9-97f081264066.jpg",
-    "media_title": "Hernani eta Hendaia; urteroko bi hitzordu",
-    "media_desc": "\"Hitza jolas\u201d podcastaren atal honetan, urte hasieran Hernanin entzundako bertsoaldiak eta Hendaian, Harrera taldeak urtero antolatzen duen hitzordukoak entzungo ditugu. Batetik bestera ibiliko gara, bateko eta besteko bertsoaldiak josiz; haria bai, baina jostorratzik gabe, hitzekin harilkatzen saiatuko gara."
+    "media_title": "Amurrioko urteroko saiokoak eta Gasteizko Unibertsolariak",
+    "media_desc": "Arabara begira jarriko gara. \u201cHitza jolas\u201d podcastaren atal honetan, Amurrion urtero izaten den bertso-saioari erreparatuko diogu, baita Gasteizen, unibertsitate giroan dabiltzan gazteek antolatutako Unibertsolariak saioari ere."
   },
   "1302": {
     "rss": "https://guau.eus/series/1302/rss.xml",
@@ -2720,9 +2720,9 @@
     "rss": "https://guau.eus/series/1694/rss.xml",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Autobus Magikoaren sopresa Alex Llordesekin",
+    "media_title": "Zer da showgirl bat?",
     "media_type": "audio",
-    "media_desc": "Alex Llordesek bere gomedio musikal partikularrak ekartzen dizkigu hamabost egunean behin. Atal honetan Autobus Magikoak emandako azken kontzertuaren esperientzia kontatu digu. Baita ere espero ez genuen sorpresa bat ekarri digu.",
+    "media_desc": "Taylor Swiften disko berriak \"The life of a showgirl\" du izena. Aste honetako Gossip Boy atalean, Ibon Fernandezek, showgirl baten atzean dagoen guztiaz hitz egin digu.",
     "title": "Bitan",
     "description": "Gazteako asteburuetako magazina. Zineaz, literaturaz, antzerkiaz eta, batez ere, musikaz osatuko ditugu larunbat eta igandeetako goizak. 09:00etatik 11:00etara, Ainhoa Vitoriaren eskutik, Bitan!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5c6eac63-f21b-436c-b65f-e517b687759a.jpg"
@@ -3275,8 +3275,8 @@
     "description": "Alaia Martinek patxada hartzen du galderei erantzuteko. Bizitzari eta harremanei buruzko gogoeta jostaria proposatzen digu, irudimenean bizi diren lagunekin hizketan, absurdoak diruditen galderetatik abiatuta. Euskadi Irratiko Faktoria magazinean astero emititzen den tartea da.\nEITB Mediak GUAU, gure audioa, plataformaren bidez eskaintzen dizu. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a241f97e-a20b-4d68-9f14-54003343a8d1.jpg",
-    "media_title": "Zergatik kutsatzen da aharrausia?",
-    "media_desc": "Alaiak tarte honetan aipatzen ditu: lehoiak, lasaitasuna, enpatia, askatasuna, asperdura, logalea, oxigenoa, begirada, elkar begiratzea, desioak, bizitzaren luze-laburra, zinema, maitasuna, gorputza, ametsak, Miki irudimenezko lagunarekin hizketan ari dela. Alaia Martinek bizitzari eta harremanei buruzko gogoeta jostaria proposatzen digu, galdera bitxi batetik abiatuta. Asteroko tartea da, Faktoria magazinean."
+    "media_title": "Galdera inozoak zergatik erantzuten dituzu?",
+    "media_desc": ""
   },
   "2105": {
     "rss": "https://guau.eus/series/2105/rss.xml",
@@ -3298,8 +3298,8 @@
     "description": "ZINEMALDIA podcasta Donostiako SSIFF-i buruzko audio inbentarioa da, Zinemaldiaren urte osoko jardunean zehar eta Irailero bederatzi egunetan zehar egiten den jaialdiaren beraren edukiak biltzen dituena.  ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c6576918-2af9-4f71-83f5-6c19c1b60fe5.jpg",
-    "media_title": "38. Claire Denis: Le Cri des Gardes - The Fence",
-    "media_desc": "Claire Denisek, zinema garaikideko ahots berezi eta ospetsuenetakoa denak, Nest saileko hizketaldi batean parte hartu zuen 2025eko irailaren 22an, bere ibilbide luzeaz hitz egiteko. Tabakalerako zinema-aretoan egin zen solasaldia eta Irati Crespo Artxiboa-ko koordinatzaileak egin zituen moderatzaile lanak. Bere obraren inguruan hitz egiteaz gain, \u201cLe Cri des Gardes / The Fence\u201d bere azken lanari buruz ere mintzatu ziren. Filma Donostia Zinemaldiaren 73. edizioko Sail Ofizialean hautatua izan zen."
+    "media_title": "39. Harris Dickinson eta Aarchie Perch (Devisio Pictures)",
+    "media_desc": "Harris Dickinson aktore eta zuzendari britainiarrak eta Archie Pearch ekoizleak \u201cUrchin\u201d aurkeztu zuten Donostia Zinemaldiaren 73. edizioan. Dickinsonen lehen film luzeak Un Certain Regard sailean parte hartu zuen Canneseko zinema-jaialdian eta FIPRESCI Saria eta Aktore Onenaren Saria eskuratu zituen. Horren ondoren lehiatu zen, Zabaltegi-Tabakalera sailean.\n\n2025eko irailaren 20an Tabakalerako zinema aretoan eta Wendy Mitchell Zinemaldiko delegatuak gidatutako hizketaldian, lehen film bat aurrera ateratzearen erronkez, euren sormen-prozesuaz eta 2023an sortu zuten Devisio Pictures ekoiztetxeaz aritu ziren. Londresen eta New Yorken dituzte egoitzak."
   },
   "2108": {
     "rss": "https://guau.eus/series/2108/rss.xml",
@@ -3406,7 +3406,7 @@
   "2114": {
     "rss": "https://guau.eus/series/2114/rss.xml",
     "title": "La t\u00e1ctica ecl\u00e9ctica",
-    "description": "Musikaren fauna eta flora, Cristina Ardanzaren eskutik. ",
+    "description": "Musikaren fauna eta flora, Cristina Ardanzaren eskutik Radio Euskadin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3d5e26f9-8f95-41e0-8dd1-0abf8d23509e.jpg",
     "media_title": "P\u00e1jaros, conejos, orgullo latino y la Creedence",
@@ -3507,8 +3507,8 @@
     "description": "Garbi\u00f1e Larrearen podcast honetan sendabelarrei buruzko bitxikeriak, erabilera praktikoak, belarren munduan aritu eta adituak direnei elkarrizketak eta bestelako kontu asko aurkituko dituzu. Argiako podcasta, GUAUn ere entzungai.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65cac517-c38a-4562-8b24-5efe58e184d4.jpg",
-    "media_title": "10. Hamabi konposatu minbiziaren kontra",
-    "media_desc": "Oso modu arraroan aldatzen ari dira landareak Danimarkan, eta zientzialariek ez dakite zergatik. Albiste deigarria iruditu zaigu eta atalaren sarreran hainbat hipotesiri buruz aritu gara. Gai nagusia, berriz, minbizia izan da, bere kontra egiteko hamabi osagai edo konposaturi buruzko ikerketa sendo bat, zehazki. Hauetako asko sendabelarrak dira, eta batzuk gure artean oso ohikoak. Gomendioaren atalean ikerketa honetan aipatzen diren konposatu hauek nola baliatu eta egunerokotasunean nola erabili landu dugu."
+    "media_title": "11. Artemisa, sendabelar onirikoa?",
+    "media_desc": "Atapuerca esanda ez zaigu landaredia etortzen burura, baina bertan loratzen diren 600 landareren katalogoa aurkeztu dute, beraz, bada landarerik zonalde honetan. Burgoseko probintziako lau landaretik bat Atapuercan dago, eta hori izugarrizko proportzioa da. Albiste horrekin hasi dugu podcasta.\n\nAtal honetako sendabelarra artemisa izan da. Erabilera anitzeko sendabelar honek sinesmen asko ditu bere inguruan, eta guk bati heldu diogu: amets egiteko, edo hobe esanda, eginarazteko, omen duen gaitasunari. Sendabelar onirikoa den ala ez erabilerak esango digu, hala atala honetako aholkua artemisa nola eta zertarako erabili izan da."
   },
   "1344": {
     "rss": "https://guau.eus/series/1344/rss.xml",
@@ -3613,8 +3613,8 @@
     "description": "Badalaben podcasta da \u201cNork Nori Noiz?\u00a8, mahai baten bueltan, bikoteka eta parez pare jartzen diren bi pertsonen arteko solasa, edo jolasa.\n\nBertan aurkituko dituzten karta joko eta bestelako objektuek eskainiko dieten espazio ludikoa gorputzez, etorkizunaz, hizkuntzaz, sorkuntzaz eta nahi bestez hausnartzeko.\n\nGUAUk eskaintzen dizun edukia, Badalab-en podcasta da eta Hiru Damatxok ekoitzi du.",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/38bbb977-774a-4904-a808-6d89d9d40334.jpg",
-    "media_title": "2. Leire Lison eta Gorka Julio    ",
-    "media_desc": "Leire Lis\u00f3n, humanitate digitalen ikertzailea eta Gorka Julio, informatikari garatzailea\u00a0 jarri ditugu \u201cNor Nori Noiz?\u201d bideopodcastaren bigarren atalean\u00a0bikotea osatuz, mahai gainean, parez pare.\u00a0\u00a0"
+    "media_title": "3. Danel Galdaera eta Laura R\u00e9  ",
+    "media_desc": "Danel Galdaera artistak eta Laura R\u00e9 komunikatzaileak osatzen dute bikotea \"Nork Nori Noiz?\" bideopodcasteren hirugarren atalean, mahai gainean, parez pare.  \n"
   },
   "2412": {
     "rss": "https://guau.eus/series/2412/rss.xml",
@@ -3622,8 +3622,8 @@
     "description": "Martxoaren 3ko gertakarien 50. urteurrenean, Radio Vitoriak sarraskiaren memoria eginez osatu duen podcast dokumentala da \u201cVitoria, 3 de Marzo: Memoria contra el olvido\u201d. GUAUn eskaintzen dizugu hamar ataletan banatuta.\n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d8d4c888-6e22-431f-87e6-b7cabe513af6.jpg",
-    "media_title": "1. Campanades a morts: una canci\u00f3n inolvidable",
-    "media_desc": "Radio Vitoriak Lluis Llach elkarrizketatzen du Parlav\u00e0ko bere etxean, Gironan, 1976ko martxoaren 3an Gasteizen poliziaren errepresioaren ondoren konposatutako \"Campanades a morts\" abestiaren jaiotza berreraikitzeko. Kantautoreak \"Estatu erailketatzat\" jo ditu gertakari horiek, eta salatu du \"gertatutakoa aitortzen ez den bitartean, ez dela trantsiziorik izan\"."
+    "media_title": "4. Ma\u00f1ana del 3 de marzo",
+    "media_desc": "1976ko martxoaren 3a egun argitsua eta ia udaberrikoa bezala esnatu zen Gasteizen, baina itxurazko lasaitasun horren azpian tentsioan zegoen hiri bat taupadaka ari zen. Atal honek, dozenaka lekukotasunen bidez, sarraskiaren aurreko orduak nola igaro ziren berreraikitzen du: erabateko greba, lehen tiroak, beldurra, langileen determinazioa eta zerbait larria gertatzear zegoen ziurtasuna."
   },
   "2431": {
     "rss": "https://guau.eus/series/2431/rss.xml",
