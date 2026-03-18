@@ -185,8 +185,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Marko Usabiaga, OCR lasterkaria: \"Oso ona da zero azpiko tenperaturan erreka zuloan bainua hartzea\"",
-    "media_desc": "OCR edo oztopo lasterketan da Euskal Herriko onenetakoa Marko Usabiaga donostiarra: Euskal Herrikoa ez ezik...munduko onena izango dela argi dauka. LLeidako La Vall D\u00b4Aran-en bizi eta entrenatzen du. Prestakuntza horren barruan sartzen da, negu gorrian ere hango erreketan bainua hartzea: gorputza zaildu eta burua argitzeko. Sasoi betean dago oraintxe baina Espainiako selekzioarentzat ez duela korri egingo...hori ere argi dauka.",
+    "media_title": "Maddi Ane Txoperena. Dolua, blokeoa, ostatuak eta 'Zaldi bat'",
+    "media_desc": "Lagun handi baten heriotza. Harekiko mira. Eta bizitza-txatalak, oroitzapenetatik eta asmamenetik ekarriak. Horiek denak, eta Lesakako ostatuetako akuaforteak lotu ditu Txoperenak bere idatzizko hirugarren lan luzean, autofikzioaren joskurak bistan utziaz.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -3732,5 +3732,14 @@
     "title": "Distrito Conquis",
     "description": "Eneko Van Horenbekerekin \"El Conquistador\" saioaren azken ordua aztertuko dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5360d059-2779-4bbc-bd9c-38fd8ced9437.jpg"
+  },
+  "2487": {
+    "rss": "https://guau.eus/series/2487/rss.xml",
+    "title": "Korrika soinu-banda",
+    "description": "Korrikak, berezko soinu-banda du edizioz-edizio. Euskaren aldeko Korrikak historian zehar izan dituen erritmo biziko doinu itsaskorrak eskaintzen dizkizu GUAUk.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/454d5c92-cefe-4700-9f17-6a080b831966.jpg",
+    "media_title": "Korrika 1: Korrika Euskal Herria!",
+    "media_desc": "1980. Egilea. Xabier Amuriza"
   }
 }
