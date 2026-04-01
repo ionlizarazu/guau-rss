@@ -185,8 +185,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ivan Jimenez: \"Gatazkak gatazka, urte positiboa izango dela uste dut\"",
-    "media_desc": "Bilboko Portuko zuzendaria da Ivan Jimenez. Uztailean beteko du urtea karguan eta egungo nazioarteko egoeraz zein Portuko etorkizunaz egin digu gogoeta.",
+    "media_title": "\"Egin bedi zure nah-ia\"",
+    "media_desc": "Dantzertiko laugarren mailako ikasleen gradu amaierako muntaia da 'Egin bedi zure nah-ia', Asier Zabaleta zuzendari eta koreografoaz gain, Ibai Romero eta Lierni Paul dantzariek eman dute emankizunaren berri Faktorian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83893ccc-fb41-4ddc-bd01-0cd80494e9d6.jpg"
   },
   "1718": {
@@ -777,8 +777,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Zarautz-Beasain",
-    "media_desc": "Gaurko etaparen amaiera eta gure adituen iritziak.",
+    "media_title": "Iru\u00f1ea-Mendukilo kobazuloa",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7d5e5a12-462c-45b5-bd1f-77e03df3fd8b.jpeg"
   },
   "1829": {
@@ -817,7 +817,9 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/96279044-e8fa-4870-be2a-df763aadbc0c.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/96279044-e8fa-4870-be2a-df763aadbc0c.jpg",
+    "media_title": "Aste Santurako gomendioak",
+    "media_desc": "Aste Santurako aurreikusi ditugun oporraldietan ezustekoak ere izan ditzazkegu eta hala izatekotan, erreklamazioak nola egin azaldu digu Euskadi Irratiko Goiz Kronikan Leire Alberdi Euskadiko Kontsumitzaileen Elkarteko abokatuak."
   },
   "1766": {
     "rss": "https://guau.eus/series/1766/rss.xml",
@@ -869,8 +871,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/452c8f9c-2c69-45db-a768-a66ca0029572.jpg",
-    "media_title": "Gizonek zertaz jarduten dute maskulinitate taillerretan? Indarkeria kasu batean zer egin behar du kuadrilak?",
-    "media_desc": "Orain, \"Maite zaitut, kabroia\" ez die esaten Aitorrek lagunei. \"Maite zaitut, Mikel edo Xabier\" baizik. Gizonkeriak eta gizonen zapalkuntzak ikusteko balio izan diote berari Itsasondon egindako saioek. Indarkeriaren zikloaz, espazioa okupatzeaz zein emozioez jardun dugu Itsasondoko zikoa abiapuntu hartuta Emagin eta Eraikiz taldeko gizon eta dinamizatzaileekin."
+    "media_title": "Aniztasunaren haize berria",
+    "media_desc": "Debagoieneko Haize Berri elkartea 2024an eratu zen eta aniztasun funtzionala duten pertsonentzat aisialdi- eta jarduera ludikoak antolatzen dituen gazte talde batek osatzen dute. Elkartea eratu zeneko oroitzapenak, gaur egun zertan dabiltzan eta etorkizunera begira zer helburu dituzten kontatu digute elkarteko kideek, gurasoen eta jardueretan parte hartzen duten gazteen testigantzekin batera."
   },
   "1765": {
     "rss": "https://guau.eus/series/1765/rss.xml",
@@ -1371,8 +1373,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ferritina eta burdina ez dira gauza bera",
-    "media_desc": "Biak altu direnean ondorioak ere ez dira berdinak. Urari gatza batatzea beharrezko ote? Sorbaldetako mina sendatzeko fisioterapia gomendatu du, ebakuntza azken aukera izango litzatekeelako Felix Zubiaren ustez, tendoiak sendatzeko denean beti ere. ",
+    "media_title": "Zorabioa denean noiz kezkatu behar dugu? ",
+    "media_desc": "Sinkopea, begietako ikara, herpes zoster ezpainetan, fibra haustura eta tronbosia",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1382,8 +1384,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Irulegiko eskua polemika betean",
-    "media_desc": "Alain Ibarrak Irulegiko eskuarekin pasa dena azaldu digu.",
+    "media_title": "Nondik dator Bizkaiko armarria?",
+    "media_desc": "Zuk ez dakizun guztia daki Txominek; tartean, Bizkaiko armarriaren jatorria.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c461dedd-e92f-4a53-bfb7-48a7d444da19.jpg"
   },
   "1395": {
@@ -1415,8 +1417,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Swiftien goi-bilera egin du Padillak",
-    "media_desc": "Taylor Swiftek album berria aurkeztu duen egunean, Alexander Padillak hiru jarraitzaile ekarri ditu estudiora. Nor izango ote da Taylorri buruz gehien dakiena?",
+    "media_title": "Zu Kaliforniara eta ni Zaldibira",
+    "media_desc": "Euskal Herritik mundura zabaldu diren moda joeren errepasoa egin digu I\u00f1igo Aranburuk.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b947ea12-0f7a-4708-8f7e-845fcedf35e7.jpg"
   },
   "1413": {
@@ -1427,8 +1429,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Puntu kuantikoak",
-    "media_desc": "Txoni Matxain, EHUko ikerlariak, puntu kuantikoak zer diren kontatu digu. Gaur gaurkoz esparru askotan erabiltzen den nanoteknologia orokorra; atomo artifizial esaten zaie eta argiarekin lan egiteko bidea ematen dute, atomo gutxi batzuen multzo nanoskopikoetatik abiatuta. Oso-oso erabiliak goi mailako zientzian: 2023ko Kimikako Nobel sariaren gaia izan zen, adibidez."
+    "media_title": "Australiako zientziaz, saio berezia",
+    "media_desc": "Zer zientzia egiten da Australian? Ekologiatik wifiren sorrerara. Dena, Australian egina."
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1438,8 +1440,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/91435160-cd27-4144-87d9-e745d584fe04.jpg",
-    "media_title": "Recorremos Grecia con el viajero Miguel Zulaica",
-    "media_desc": "Grezia bisitatu dugu eta Miguel Zulaikarekin bere txoko berezienak ezagutu ditugu."
+    "media_title": "Descubrimos el libro: Tristes pupilas. Vida y muerte de las mascaronas de proa",
+    "media_desc": "Jorge Luis Marzo egilearekin hitz egin dugu, liburuan XX. mendera arte itsasontzien brankak populatu zituzten zurezko emakumeen irudi horien istorioak jaso ditu. Halaber, maskaronek islatzen dutenari buruz hausnartzea proposatzen digu, hau da, \"genero-politika oso bat, emakumeak moldatu eta branketan makurtzen dituena\"."
   },
   "1441": {
     "rss": "https://guau.eus/series/1441/rss.xml",
@@ -1532,8 +1534,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Las primeras flores de la primavera, el arranque de la vida",
-    "media_desc": "Urteko lehen loreak ez dira ikusgarrienak, baina bai garrantzitsuenak. Martxoan, Araban, landare batzuek eusten diote bizitzaren hasierari. Lehen kolore-kimuak ez dira apaingarriak, baina erleak bezalako espezie askoren biziraupena dira. Mikel Mart\u00ednez de Lecea, basa-fauna berreskuratzeko teknikaria, Arabako basa-florari agurra egiten.",
+    "media_title": "Las tres Mar\u00edas Magdalenas de Gazeo",
+    "media_desc": "XIV. mendearen hasierako Gazeoko (Iruraiz-Gauna) Tourseko San Martin elizako horma-pinturetan Maria Magdalenaren hiru irudikapen ezberdin daude. Santa h hau oso eztabaidagarria izan da kristautasunaren sorreratik, eta elizaren erakundeak mendeetan zehar moldatu du, genero-estereotipo batzuk indartzeko.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1666,8 +1668,8 @@
     "description": "10etatik aurrera, bizitza sozialari, kulturari, zientziari... buruz. Begirada arinagoa baina zorrotzagoa bilatzen dugu. Araba eta mundua ardatz dituen saioa, kalez kale eta umore ukitu batekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c84765fc-1033-4032-88dc-5ee904bf0b8d.jpg",
-    "media_title": "\u00c1lava en directo",
-    "media_desc": ""
+    "media_title": "J\u00f3venes en Formaci\u00f3n Profesional",
+    "media_desc": "Las Nieves ikasgelategitik metro gutxira, Egibide Nieves Cano zentrora joan gara, Laborategi Kimiko eta Biomedikoko Goi Mailako ikasleekin hitz egiteko."
   },
   "1753": {
     "rss": "https://guau.eus/series/1753/rss.xml",
@@ -2140,8 +2142,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Gaztea sariko alfonbra gorrian, ogi zuria ",
-    "media_desc": "I\u00f1igo Aranburu estilistak Gaztea sarietako janzkera ekarri digu Amarauna saiora.",
+    "media_title": "Objektuak birziklatu musika-tresna bihurtzeko",
+    "media_desc": "Jon Urrutiak Trakamatraka proiektuaren lantegiko ateak zabaldu dizkigu. Edozein objektu birziklatu eta musika tresna bihurtzen du: aitzurrak eta skatea gitarra bihurtzen ditu; makuluak, txirula; eta Pringles ontziak didgeridoo.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2330,7 +2332,7 @@
     "description": "Pilotari buruzko informazioa, Kepa Iribarren eskutik.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2388d29c-07f1-499c-ab8a-379d8c38cdeb.jpg",
-    "media_title": "Eskuz binakakoa gizonak, Berezkoak, eta Florida Wallball",
+    "media_title": "Eskuz binakakoan lehen fasearen amaiera. Winter Serieseko finala. Pelota egokituko zirkuitoa hastear",
     "media_desc": ""
   },
   "1619": {
@@ -2587,9 +2589,9 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nadia Erostarbe: \"Izugarrizko poza eta askatasuna sentitu dut\"",
+    "media_title": "Jon Gorrotxategi: \"Ikusten dut Reala kopa irabazten\"",
     "media_type": "audio",
-    "media_desc": "Nadia Erostarbek mundu mailako CT zirkuitora, gorengo zirkuitorako urratsa eman du.",
+    "media_desc": "Zubietan izan gara Gorrotxategirekin. Kopako finalaren inguruan aritu gara eibartarrarekin.",
     "title": "Hiru Erregeen Mahaia",
     "description": "Kirola bere osotasunean. Futbola, pilota, arrauna, txirrindularitza etab. Kirola eta kirolariak. Gizonen eta emakumeen kirola. Emankizunak, erreportajeak, elkarrizketak, adituen iritzia. Kirol guztia, umorez jantzita.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/536ec854-5af6-4c7f-abbd-1b98eeef7387.jpg"
@@ -2631,7 +2633,7 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Bertako artoa gal ez dadin",
+    "media_title": "Zizareekin aberastutako lurra",
     "media_desc": ""
   },
   "1508": {
@@ -2660,8 +2662,8 @@
     "description": "Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Datorkigunaren aurrean zer egin dezakegun ezagutzera eman nahi dugu, Guillermo Roak gidatutako saioan. Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Clair Barnes: muturreko gertaera meteorologikoak eta klima-aldaketa",
-    "media_desc": "Otsailaren 11, emakumearen eguna da zientzian. Egokiera baliatu dugu Clair Barnes zientzialaria eta bere lana hobeto ezagutzeko. Muturreko gertaera meteorologiko bakoitza zenbateraino da klima-aldaketaren ondorio eta zenbateraino ez? Atribuzioa deitzen zaio horri eta Barnesen ikerketa gaia da. Elhuyarreko Guillermo Roak hitz egin du berekin."
+    "media_title": "Indiako sai gibelzuri bengalarraren desagerpena",
+    "media_desc": "Indiako sai gibelzuri bengalarra desagertzen ari da. Hori, eta beste bi espezie. Gainera, oso abiadura handian desagertzen da. Eta desagertze azkar hori diklofenako izeneko botika batekin du zerikusia. Elhuyar aldizkariko Egoitz Etxebeste dibulgatzaileak kontatu digu istorio hori."
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
@@ -2671,8 +2673,8 @@
     "description": "Poesia nonahi egon daiteke edo inon ez. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Lucrezia",
-    "media_desc": "Hiru hamarkada bete dira Lucrecia Perez hil zutenetik. Lau pertsona zigortu zituzten gazte dominikarraren hilketa egotzita. Espainiako Estatuan krimen arrazista gisa epaitu zen lehenengo kasua izan zen. Euskal Herrian, hilketa izan eta bost urtera, elkartasun oihuek aurrera jarraitu zuten, eta Fermin Muguruzak eta Dut taldeak 'Lucrezia' abestia eskaini zioten gazte dominikarrari. Kolore biziek bizi-bizi segitzen dute eta herriak oraindik kantatzen du.\n"
+    "media_title": "Gandiaga: argitik argia",
+    "media_desc": "Joan Mari Lekuona olerkariak \u201cpoetak onak izan daitezke, oso onak izan daitezke, edo Gandiaga izan daitezke\u201d esan zuen Gandiagari buruz. Aurten betetzen dira 25 urte biziari eta gizakiari kantuan eta gure herriaren nahiz hizkuntzaren arazoekin arduratuta bizi izan zen Bitoriano Gandiaga hil zela. Hala ere, bizirik dirau bere poemetan eta kantariek kantu gogoangarri bihurtu dituzten duintasun handiko haren testuetan. \n"
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3701,7 +3703,7 @@
   },
   "2441": {
     "rss": "https://guau.eus/series/2441/rss.xml",
-    "media_title": "Reala-Osasuna",
+    "media_title": "Alaves-Osasuna",
     "media_desc": null,
     "media_type": "audio"
   },
@@ -3759,5 +3761,11 @@
     "img": "https://cdnstorage.primeran.eus/directus/eitb/76f7483f-92e4-40c6-a028-cebf10d95af2.jpg",
     "media_title": "0. Trailerra: Ainguratuak ",
     "media_desc": "\u201cArtxipelagoa\u201d soinu-fikzio arrakastatsuaren spin-offa, hiru olatuak iritsi aurreko unean kokatua. \u201cAinguratuak\u201d serieak gertaera horien aurreko uneak irudikatzen ditu hain zuzen ere. Adin eta jatorri ezberdineko hiru emakume protagonisten istorioari jarraituz, mundua goitik behera aldatuko duten hiru olatu handien iritsierak eragingo dituen drama sakonetan murgilduko gara."
+  },
+  "2784": {
+    "rss": "https://guau.eus/series/2784/rss.xml",
+    "media_title": "Basauri \u2013 Basauri",
+    "media_desc": null,
+    "media_type": "audio"
   }
 }
