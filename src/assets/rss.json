@@ -1557,8 +1557,8 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b72778c6-6c79-498a-82a2-5f2f4df4ac1d.jpg",
-    "media_title": "Copa: Real Sociedad- Atl\u00e9tico de Madrid",
-    "media_desc": null
+    "media_title": "Especial Copa desde Sevilla",
+    "media_desc": ""
   },
   "1394": {
     "rss": "https://guau.eus/series/1394/rss.xml",
@@ -3706,7 +3706,7 @@
   "2441": {
     "rss": "https://guau.eus/series/2441/rss.xml",
     "media_title": "Reala-At Madrid",
-    "media_desc": null,
+    "media_desc": "",
     "media_type": "audio"
   },
   "2474": {
