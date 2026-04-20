@@ -1440,8 +1440,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/91435160-cd27-4144-87d9-e745d584fe04.jpg",
-    "media_title": "Descubrimos el libro: Tristes pupilas. Vida y muerte de las mascaronas de proa",
-    "media_desc": "Jorge Luis Marzo egilearekin hitz egin dugu, liburuan XX. mendera arte itsasontzien brankak populatu zituzten zurezko emakumeen irudi horien istorioak jaso ditu. Halaber, maskaronek islatzen dutenari buruz hausnartzea proposatzen digu, hau da, \"genero-politika oso bat, emakumeak moldatu eta branketan makurtzen dituena\"."
+    "media_title": "Conocemos \"de cerca\" a la actriz y payasa gasteiztarra Maite Guevara",
+    "media_desc": "Maite Guevara aktore eta pailazoarekin hitz egin dugu bere lanbideaz, orainaz eta etorkizunaz."
   },
   "1441": {
     "rss": "https://guau.eus/series/1441/rss.xml",
@@ -1534,8 +1534,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "La procesionaria del pino y sus nuevos depredadores",
-    "media_desc": "Do\u00f1anako Estazio Biologikoaren (CISC) eta Huelvako Unibertsitatearen ikerketa berri batek ugaztunen gorozkien bidez \u2013 lepazuria eta azeria, esaterako \u2013 prozesionaria helduaz \u2013oruga- elikatzen direla frogatu du. Mikel Mart\u00ednez de Lecea basa-faunako teknikariak azaldu digu gai hori eta animalia horren ziztadaren aurrean nola saihestu edo nola jokatu.",
+    "media_title": "Las plantas como punto de encuentro vecinal",
+    "media_desc": "\"Kafea landareekin\" da Iruraiz-Gauna udalerriko Lanturri Kultur Elkartearen proposamena. Ekimen hori Arrietako kontzejuan egin zen, eta hamar bat parte-hartzailek hilzorian zegoen eta normaltasunez egiten ez zen planta batekin joan behar zuten. Kafea eta goxokia elkarteak jartzen zituen, eta Ekaia Eko-Compost-eko Mertxe Miguelek landareetako aholkularia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
   "1443": {
@@ -1557,8 +1557,8 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/b72778c6-6c79-498a-82a2-5f2f4df4ac1d.jpg",
-    "media_title": "Especial Copa desde Sevilla",
-    "media_desc": ""
+    "media_title": "Eurocup: Paok de Sal\u00f3nica-Bilbao Basket | Real Sociedad-Getafe",
+    "media_desc": null
   },
   "1394": {
     "rss": "https://guau.eus/series/1394/rss.xml",
@@ -2142,8 +2142,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
     "media_type": "audio",
-    "media_title": "Habanatik Tolosara 19 urterekin",
-    "media_desc": "Kubako egoera oso gogorra dela aitortu digu, goseak bizi direla bere familiakoak. Bera, ordea, Euskal Herrian oso gustura bizi da eta hemendik haiei ahalik eta gehien laguntzen saiatzen da.",
+    "media_title": "Eguneko menua: urriagoa? errentagarria?",
+    "media_desc": "Galdera horiei erantzuteko jo dugu Errenteriako Gaztelu Ostatuko Haritz Erzibengoarengana eta Iurretako Zure Menuak enpresako Asier Virumbralesengana. Bezeroen iritzia ere bildu ahal izan dugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2343,7 +2343,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/690eedc9-3070-48cb-a629-6bf6593262a8.jpg",
-    "media_title": "Hozono-Araski",
+    "media_title": "Estepona-Araski",
     "media_desc": null
   },
   "1476": {
@@ -2405,7 +2405,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "R.Sociedad-D.Alav\u00e9s",
+    "media_title": "D.Alav\u00e9s-RCD Mallorca",
     "media_desc": null
   },
   "1574": {
@@ -2427,7 +2427,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Partizan-Baskonia",
+    "media_title": "Baskonia-FC Barcelona",
     "media_desc": null
   },
   "1305": {
@@ -2589,9 +2589,9 @@
     "rss": "https://guau.eus/series/1399/rss.xml",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Aritz Elustondo baikor kopako finalaren atarian",
+    "media_title": "Donostiako kaleetatik, zuzenean!",
     "media_type": "audio",
-    "media_desc": "Realak eta At Madridek Apirilaren 18an jokatuko dute kopako finala Kartujan. Aritz Elustondok Kopa irabazi zuen 2021an, leku berean. Beasaindarrak, orain, zaleen aurrean lortu nahi du titulua.",
+    "media_desc": null,
     "title": "Hiru Erregeen Mahaia",
     "description": "Kirola bere osotasunean. Futbola, pilota, arrauna, txirrindularitza etab. Kirola eta kirolariak. Gizonen eta emakumeen kirola. Emankizunak, erreportajeak, elkarrizketak, adituen iritzia. Kirol guztia, umorez jantzita.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/536ec854-5af6-4c7f-abbd-1b98eeef7387.jpg"
@@ -3730,8 +3730,8 @@
   },
   "2468": {
     "rss": "https://guau.eus/series/2468/rss.xml",
-    "media_title": "\u201cLo m\u00e1s duro del concurso es no saber en qu\u00e9 hora vives\u201d, Jon Torres",
-    "media_desc": "Jon Torresek agur esan dio abenturari; hola hiru taldeak bosna lehiakiderekin berdinduta utzi dit, justu, bateratzearen aurretik. Jonek, aitortu zuen, zapuztuta zegoela amaieratik hain gertu joateagatik, eta oihanean ia ikusten ez zen zuziri berde bat izatearen zorte txarragatik. Gainera, harritu egin dute Keni taldekidearen iruzkinek, \"katebegirik ahulena\" deitu baitzion, nahiz eta beste batzuek aurkari indartsu gisa ikusi. Bere martxarekin, talde gorria animoz jota geratu da, eta horiak, berriz, banakako faserako estrategia prestatzen hasi dira.",
+    "media_title": "Los gemelos Oihan y Egoitz Astondoa: \u201cLo m\u00e1s duro ha sido ir atados\u201d",
+    "media_desc": "Oihan eta Egoitz Astondoa bikiekin El Conquisen egin duten ibilbidea errepasatu dugu. Une dibertigarriak eta erronka zailak eta zorrotzak bizi izan dituzte elkarrekin lehiatzean, hala nola kanibalen eta \"eskalen\" duelua, non, Oihanek errendimendu ona izan arren, Egoitzek ez zuen proba osatzea lortu. Eneko Van Horenbeke konkistologoarekin batera, aurtengo egitarauko girorik atseginena ere aztertuko dugu, Ines kanpamentu aberatsean ospatzen ari den urtebetetzearen adibide.",
     "media_type": "video",
     "title": "Distrito Conquis",
     "description": "Eneko Van Horenbekerekin \"El Conquistador\" saioaren azken ordua aztertuko dugu.",
