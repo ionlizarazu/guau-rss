@@ -1340,8 +1340,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Kopenhagueko Dream Pop eszena",
-    "media_desc": "Kopenhagueko Dream Pop eszenaren gorakadaren inguruan hitz egin digu Alaik, Erika De Casier bezalako hainbat artisten lana azpimarratuz.",
+    "media_title": "Lily Allenen itzulera polemikoa",
+    "media_desc": "Lily Allenen \u201cWest End Girl\u201d diskoa ekarri digu Alaik eta honen testuinguruaz hitz egin dugu. David Harbour (Stranger Things) aktorearekin izandako banantzearen ostean, 16 egunetan idatzitako disko gordina da eta zeresan handia ematen ari da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e596b5c7-33b0-4154-88e6-d3844d668048.jpg"
   },
   "1582": {
@@ -1363,8 +1363,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "Errigora euskararen, bertako ekoizleen eta gure osasunaren alde",
-    "media_desc": "Errigorak irekia du epea Nafarroa hegoaldeko uzta etxeratzeko, kontserba sortak eta oliba olio birjina estra eskuratuta. Gertuko, tenporadako eta produkzio ekologikoko jakiak eskaintzen ditu, Anne Otegi sukaldaritza osasuntsu irakasleak esan digunez. Berarekin aztertu dugu produktu ezberdinen balioa, ekoizle zenbaiten eskaintza ezagutzearekin batera. "
+    "media_title": "Haur jaio berriek, bronkiolitisa hartuta ere, ospitaleratu beharrik ez izateko kanpaina",
+    "media_desc": "Azken urteetan jaio berriak eta 2 urtetik beherakoen artean, goiztiar izan direnak edo bestelako gaixotasun larriak dituztenak modu masiboan inmunizatzeko bidea ireki da eta negua amaitzear emaitzak bildu nahi izan ditugu. Santi Mintegi, Gurutzetako pediatrari, EAEko datuak eskatu dizkiogu, Jesus Castillari, Nafarroako osasun publiko eta lan osasunaren institutuko txertatze alorreko buruari, Nafarroakoak. Horiek eskutan negua nola joan zaien galdetzera hurbildu gara Durangoko Kurutziaga ikastolara eta Amaia Uranga haur hezkuntzako arduradunak egin digu harrera."
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1373,8 +1373,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Nola jakin herio unean sufrimendurik dagoen ala ez",
-    "media_desc": "Oin urduriak.\nAmaia Bacigalupe: \"berdin tratatzen al ditu osasungintzak emkaumezkoak eta gizonezkoak\"",
+    "media_title": "Metabolismoa ulertu nahian",
+    "media_desc": "Aldaka hautsi eta ebakuntza noiz? Ariketa fisikoa hezurrak indartzeko, Jon Irazustak EHUtik.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -2140,10 +2140,10 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "title": "Amarauna",
-    "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n\n",
+    "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n",
     "media_type": "audio",
-    "media_title": "Abogados Cristianosek salatutakoentzat diru bilketa",
-    "media_desc": "Ane Lindanek erresistentzia kutxa bat jarri du martxan, Abogados Cristianos elkarte ultrakatolikoak salatu dituen guztientzat.",
+    "media_title": "Mungian, bildumazaleen azokan",
+    "media_desc": "Bildumagileentzat erreferentziazko topagune bihurtu da Mungiako bildumazaleen azoka. &#x7F;Bilduma-erakusketa batzuk bisitatu ditugu antolatzaileetako batekin, Bitxikiak elkarteko Jose Carlos Lauzirikarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62b3796d-1f92-47d5-8465-1a0bb3bbf2b1.jpg"
   },
   "1506": {
@@ -2332,8 +2332,8 @@
     "description": "Pilotari buruzko informazioa, Kepa Iribarren eskutik. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2388d29c-07f1-499c-ab8a-379d8c38cdeb.jpg",
-    "media_title": "Pelota Pro Ligaren eta Emakume Master Cup-aren eskuz binakakoak",
-    "media_desc": ""
+    "media_title": "Jokin Altuna eta Joseba Ezkurdia, finaleko atarian gurean",
+    "media_desc": null
   },
   "1619": {
     "rss": "https://guau.eus/series/1619/rss.xml",
@@ -2633,8 +2633,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Berakatz beltza nola ekoitzi?",
-    "media_desc": "Pepe Ezkerra, Daonaz markarekin ari da berakatz beltza lantzen. Berak emango dizkigu hori lortzeko bideak eta aldi berean, Jakoba Errekondo saio osoan zehar gure alboan izango dugu entzuleon galderei erantzuteko prest."
+    "media_title": "Gipuzkoako erlezainik onenak",
+    "media_desc": "Zegaman egingo duten erlezain egunean aukeratuko dute Gipuzkoako eztirik onena. Mikel Zubeldia, Gipuzkoako Erlezain Elkarteko presidentearekin erlezainen ilusioez eta buruhausteez hitz egingo  dugu."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
