@@ -1523,8 +1523,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "'Toda la sangre sabe a hierro', Andrea Ch\u00e9nier y Mikel Izarra",
-    "media_desc": null,
+    "media_title": "Cannes, 'Las Hijas' y Mikel Markez",
+    "media_desc": "-Bego Del Teso Cannesko jaialdian gertatzen ari denaz aritu zaigu\n-'Las Hijas' filmak amaitu aurretik jaso du saria Cannesen. Euskal Herrian grabatutako lana da, Daniel Romero madrildarra zuzendari eta Yune Nogueiras aktore lanetan besteak beste. Biekin hizketaldia izan dugu.\n-Mikel Markezek bere azken lana aurkeztu digu: 'Gezurrari Zor'",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
@@ -2176,8 +2176,8 @@
     "description": "Eguna lasai amaitzeko, elkarrizketak eta musika hautaketa pertsonala. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/fb69549c-4743-4556-b1f5-099b81577cc4.jpg",
-    "media_title": "Laura L\u00e1ngara",
-    "media_desc": "Gaur gauean, Laura Langara EHUko biokimikariarekin hitz egingo dugu. Dietetikan eta nutrizioan aditua dugu Laura, eta oso ondo ezagutzen ditu elikadura energetikoa eta naturista, mikrobiotaren oreka ahaztu gabe. Berak osasuna modu globalean bizi du eta horretarako ere mugimenduaz, erritmoaz eta gozamenaz arduratzen da. Izan ere, Laurarentzat, zaintzea ez da ondo jatea bakarrik: energiaz bizitzea da, mugitzea\u2026 eta baita klake dantzatzea ere."
+    "media_title": "Slawka Grabowska, literatura y una taza de t\u00e9",
+    "media_desc": "Maiatzaren 21eko gau honetan, munduak Tearen Nazioarteko Eguna ospatzen duenean, Slawka Grabowskarekin literaturaz hitz egin dugu. Te-katilu bat esku artean hartuta, giro ezin hobea lortzen dugu, tea hartzea magiko bihurtzen duten obra klasikoen zati batzuz gozatzeko. Gure mahai gainean, katilu ketsu batek laguntzen dio elkarrizketari, Jane Austenen 'Persuasi\u00f3n',J.R.R.-ren 'Hobbita' eta E.M. Forsterren 'Una habitaci\u00f3n con vistas' obretako pertsonaia isil batek bezala.  Lliteraturak, teak eta iluntasunak elkar aitortzen dute gaueko irratsaio honetan."
   },
   "1533": {
     "rss": "https://guau.eus/series/1533/rss.xml",
@@ -3824,10 +3824,24 @@
   "2913": {
     "rss": "https://guau.eus/series/2913/rss.xml",
     "title": "El videopodcast del congreso de la IA Aplicada de Euskadi",
-    "description": "\"ApplAI ON AIr\" bideo-podcast programa da, ApplAI Kongresuaren paraleloa. Zure erakundean IArekin nola hasi jakiteko erakusleiho bat, elkarrizketa praktikoekin, kasu errealekin eta zuzeneko elkarrizketekin ekosistemako adituekin. ",
+    "description": "\"ApplAI ON AIr\" bideopodcast programa da, ApplAI Kongresuaren paraleloa. Zure erakundean IArekin nola hasi jakiteko erakusleiho bat, elkarrizketa praktikoekin, kasu errealekin eta zuzeneko elkarrizketekin ekosistemako adituekin. ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0596dfdb-73b8-4141-8cd6-dcf2bb9c11a0.jpg",
     "media_title": "10. \u00bfLa IA realmente funciona? C\u00f3mo medir impacto y ROI",
     "media_desc": "Adimen artifizialari buruz hitz egitea ez da nahikoa; orain, erakundeen barruan benetako emaitzak frogatu behar dira. Felix D\u00edezek azaldu du nola neurtu IAren inpaktua, eta zer adierazlek laguntzen duten ulertzen  negozioari balioa ematen ari zaion ala ez. Eraginkortasunari, metrikari eta aukerak benetako emaitza bihurtzeari buruzko elkarrizketa."
+  },
+  "2872": {
+    "rss": "https://guau.eus/series/2872/rss.xml",
+    "title": "Tres l\u00e1grimas",
+    "description": "\u201cArtxipelagoa\u201d soinu-fikzio arrakastatsuaren spin-offa, hiru olatuak iritsi aurreko unean kokatua. \u201cTres Lagrimas\u201d serieak gertaera horien aurreko uneak irudikatzen ditu hain zuzen ere. Adin eta jatorri ezberdineko hiru emakume protagonisten istorioari jarraituz, mundua goitik behera aldatuko duten hiru olatuen iritsierak eragingo dituen drama sakonetan murgilduko gara.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/8240a988-d57c-4d53-a91d-408c568fc6fd.jpg"
+  },
+  "2922": {
+    "rss": "https://guau.eus/series/2922/rss.xml",
+    "title": "El podcast del congreso de la IA Aplicada de Euskadi",
+    "description": "\"ApplAI ON AIr\" podcast programa da, ApplAI Kongresuaren paraleloa. Zure erakundean IArekin nola hasi jakiteko erakusleiho bat, elkarrizketa praktikoekin, kasu errealekin eta zuzeneko elkarrizketekin ekosistemako adituekin. ",
+    "media_type": "video",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/16ff9d03-f91e-4302-8a69-40b8b2179f64.jpg"
   }
 }
