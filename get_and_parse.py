@@ -11,7 +11,7 @@ RSS_URL = "https://guau.eus/series/{}/rss.xml"
 def extract(obj, res):
     """Extracts data from an object to add it to the series"""
 
-    serie_id = str(obj.get("series", ""))
+    serie_id = str(obj.get("series", obj.get("id", "")))
     collection_name = obj.get("collection", None)
     if serie_id and not res.get(serie_id, None):
         res[serie_id] = {
@@ -35,7 +35,7 @@ def extract(obj, res):
 
 pages = {}
 series = {}
-with open("./src/assets/rss.json", "r", encoding="utf-8") as series_file:
+with open("./src/assets/rss.json", encoding="utf-8") as series_file:
     series = json.load(series_file)
 
 result = requests.get("https://guau.eus/api/v1/home", timeout=5000)
