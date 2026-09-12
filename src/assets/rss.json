@@ -1307,8 +1307,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "\"Eguneroko lurtarra\"",
-    "media_desc": "Unai Agirre eta E\u00f1aut Agirreren \"Auskalo zeinek jarriak\" sailaren atala berria",
+    "media_title": "\"Ez dago Bilbo bezalakorik\"",
+    "media_desc": "Onintza Enbeita eta Ainhoa Urrejola, 2026ko txupinera eta pregoilariarekin elkartu gara Areatzan, Bilboko Aste Nagusiko ekuatorean.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -2751,7 +2751,7 @@
     "title": "Top Gaztea",
     "description": "Gazteako sareetan zuen botoak jaso ostean, Top Gaztea zerrenda berria eguneratzen dute larunbatero  Oihan Vegak eta Oizeder Mayok 11:00etatik aurrera. Gainera, 688 60 50 50 whatsapp zenbakira idatzita, asteko kanta birala proposa dezakezu. Eskatu zure musika eta bozkatu zure artista gogokoenaren alde!",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/d93feb91-8929-4080-a5eb-63a1620636aa.jpg",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/fa93cb85-9821-4fb6-a239-688f5957c219.jpg",
     "media_title": "Zure zerrenda!",
     "media_desc": null
   },
@@ -4493,6 +4493,12 @@
     "rss": "https://guau.eus/series/313108/rss.xml",
     "media_title": "El programa de tendencias de Radio Euskadi",
     "media_desc": null,
+    "media_type": "audio"
+  },
+  "317872": {
+    "rss": "https://guau.eus/series/317872/rss.xml",
+    "media_title": "Personas vulnerables evitan el despilfarro alimentario ",
+    "media_desc": "Mana Caritasen proiektu bat da, elikagaien xahuketa saihesteko eta pertsona kalteberen gizarteratzea eta laneratzea lortzeko. Euskadin, Lapiko Cateringek egoera ezin hobean dauden elikagai horiek berreskuratzen ditu, prestatzen eta Somorrostro Zentro Profesionaleko kafetegian zerbitzatzen dituzten pertsona horien lanari esker. Nekane Narbaiza, Lapiko Catering-eko arduraduna, Jokin Urrutxua, chef, Hamza eta Zohuir, zentro honetan lan egiten duten bi gazte marokoar.",
     "media_type": "audio"
   }
 }
