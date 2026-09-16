@@ -112,7 +112,9 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/eb33e733-e621-42cb-bd9e-ec48c8420587.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/eb33e733-e621-42cb-bd9e-ec48c8420587.jpg",
+    "media_title": "En directo desde el Parlamento Vasco",
+    "media_desc": null
   },
   "1544": {
     "rss": "https://guau.eus/series/1544/rss.xml",
@@ -143,8 +145,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\u00bfQu\u00e9 hay detr\u00e1s de la red criminal \u2018764\u2019?",
-    "media_desc": "Gazte indarkerian aditua den kriminologo Joan Caballerok Estatu Batuetan sortutako talde honen gakoak aztertzen ditu. Adingabea da. Caballerok EAEko gazte-bandei buruzko erradiografia egin digu.",
+    "media_title": "El eclipse total \"es una experiencia que hay que vivir con los 5 sentidos, es imposible explicarlo\"",
+    "media_desc": "Eklipsearen egunean, Ana Urs\u00faa astrofisikari eta \"eklipse-ehiztariarekin\" hitz egin dugu, hemen ikusten ez zen mende bat baino gehiago zeraman eklipse erabatekoaz Espainiatik gozatzeko aukera paregabea nabarmentzen duena. Australian, Estatu Batuetan eta Txilen beste batzuk bizi ondoren, \"azaldu ezinezko\" esperientzia dela dio, eta bost zentzumenekin bizi behar dela, Eguzkiari babesik gabe begiratzeko arriskua gogorarazteaz gain. Gainera Amurrion izan gara, halaber, bertako alkate Txerra Molinuevorekin eta Jaietako zinegotzi Naiara Barallobrerekin. Jaien egitaraua egokitu dute, txupinazoa eklipsearekin bat egiteko eta guztiak batera bizitzeko. Azkenik, Nafarroatik, Larrialdi, Prebentzio eta Babes Zibileko Zerbitzuko zuzendari Jos\u00e9 Joaqu\u00edn Pascual Garraldarekin hitz egin dugu milaka pertsonaren etorrerari buruzko dispositibo bereziaz eta joan-etorrietan segurtasuna bermatzeko eta eklipsea behatzeko gomendioez.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
   "1543": {
@@ -579,8 +581,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Turroia jan dugu abuztuan",
-    "media_desc": "Armintz Gorrotxategik haien gozotegian hartu gaitu. Abuztuan turroiak nola egiten dituzten azaldu, eta horiek dastatzeko aukera ere izan dugu.",
+    "media_title": "Gorka Go\u00f1i: \"Hau da tokatu zaidana baina aurrera egin nahi dut\"",
+    "media_desc": "Gorka Go\u00f1i Mendiburuk 17 urte betetzear zituen meningitis bakterianoa izan zuenean. Gaixotasunak ondorio oso larriak utzi dizkio: beso baten zati bat eta bi hankak galdu ditu. Ordutik, bizitza berri batera egokitzeko prozesu luzea ari da egiten, Elbeten, Baztanen, bere etxean. Hori bai, sei hilabete Madrilgo La Paz ospitalean igaro ondotik.\nBide horretan, familia eta ingurukoen babesa ezinbestekoak izan dira. Eta horren erakusle izango da irailaren 26an egingo duten elkartasun eguna: Gorkari babesa emateko, eskerrak eman eta haren eguneroko bizitza errazteko antolatutako eguna. Gorkarekin hitz egin dugu, baita bere ama Lurdesekin eta auzokide Pellorekin ere.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f4bb4405-8d21-4769-b650-64948e2a0dea.jpg"
   },
   "1438": {
@@ -623,8 +625,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Consulta abierta: el fin de las relaciones, el desconocido suelo p\u00e9lvico. El cerebro durante la menopausia",
-    "media_desc": "Hilero, gaurtik aurrera, Laura Mor\u00e1n sexologoarekin eta Junkal Altzugarai fisioterapeutarekin, pelbiseko zoruaren osasunean eta sexologian espezializatua, kontsulta bat izango dugu. Gaur, udako oporren ondoren hausten diren harremanei buruz hitz egingo dugu eta pelbiseko zoruari buruzko hitzaldi sorta bati hasiera emango diogu. Erreparatu nola eseri behar den eta zein mugimendu diren onak edo txarrak jakiteko aholkuei. Era berean, emakumeek hilekoaren zikloko une oso zehatz batean luxuzko elementuekiko duten lehentasuna adierazten duen ikerketa bat aztertuko dugu. Susana Carmona eta Raquel Mar\u00edn neurozientzialariek mila emakumek trantsizio hormonalaren hiru etapa nagusietan zehar izandako garuneko aldaketak aztertu dituen ikerketa aitzindari bat aztertuko dute. Ikerketak agerian uzten du emakumeek materia grisa galtzen dutela pubertaroan eta haurdunaldian, baina ez menopausian. Deustuko Unibertsitateko Irene de la Cruz Ikerbasqueko ikertzaileak esperimentu baten emaitzak azaltzen ditu, eta horrek erakusten du jaioberriek beste haurtxo negartsuekiko erreakzio handiagoa dutela emakumeen ahotsarekin alderatuta.",
+    "media_title": "Bilbo Zientzia Plaza y Naukas Bilbao 2026. Un diplodocus de Teruel. La fundaci\u00f3n de Pompelo",
+    "media_desc": "Asteazken honetan hasiko da Bilbo zientzia Plaza jaialdia, Naukas Bilbaoren hamaseigarren edizio berrituarekin. Iker Badiolak, EHUko Kultura Zientifikoko Katedraren zuzendariak, eta Javier Pel\u00e1ezek, Naukas Bilbaoren buruak, programaren errepasoa egingo dute. Teruelen, Ipar Amerikatik kanpo aurkitutako lehen diplodokoaren aztarnak aurkitu dituzte. Sergio S\u00e1nchez Fenollosak, Din\u00f3polis Fundazioko ikertzaileak, aurkikuntzaren azalpenak emango ditu. Horrez gain, Francisco Pina historialariak \"Irulegitik Pompelora: Hiri baten jatorria\" nazioarteko ikastaroan emango duen hitzaldia aurkeztuko du, Pompeloren sorrerari buruzko hitzaldia, hain zuzen ere.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c1f3ad0-5075-46e1-9260-72397243d1f0.png"
   },
   "1439": {
@@ -728,8 +730,8 @@
   },
   "1357": {
     "rss": "https://guau.eus/series/1357/rss.xml",
-    "media_title": "64. Hitz batean: klitoriaz",
-    "media_desc": "Klitoria emeen sexu organo bat da, ugaztunetan, ostruketan eta beste zenbait animaliatan agertzen dena. Zutikorra da, eta plazererako atal zinez garrantzitsua: hura kitzikatzea da orgasmora heltzeko bide zuzenetako bat. Gizakietan, aluaren gainaldean eta alboetan dago; ia dena beste egitura batzuen azpian ezkutatuta. Agerian dagoen zatiak botoi-itxura du, eta aluaren gainean kokatuta dago.\nZer da klitoria? Zientziak gutxi eta berandu ikertu duen gaia da.  Klitoriari buruz ikerketek zer erakusten duten eta orain arte zer ezkutatu duten \u201cUhin ultramoreak\u201d podcastaren 64. atalaren aztergaia.",
+    "media_title": "66. Eguzki-eklipseak jota",
+    "media_desc": "2026ko abuztuaren 12ko eguzki-eklipseaz dena esana dagoela uste dutenen kontra, eklipsea ikusi nahi izan ez zutenen kontra, eta hari, ostean gertatu diren, lurrikara, ekaitz edo izurriteak egotzi dizkiotenen kontra, zientzialariek badute zer aztertua: eguzkiaren koroa, eremu magnetikoa edo animalien portaera. Areago 2027an, Iberiar Penintsularen hegoaldean berriz egongo denean aukera eguzki-eklipse osoa ikusi eta ikertzeko.\n\u201cUhin ultramoreak\u201d podcastaren atal honetan eklipseaz gain giltzurrunak aipatu ditugu. Badakizu hiru giltzurrun edo gehiago dituzten pertsonak daudela?",
     "media_type": "audio",
     "page": "Musika",
     "page_id": 60,
@@ -1384,8 +1386,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Flakofonkik mikrofono berria erosi du",
-    "media_desc": "Ondo ezaguna da Flakoren ahots eztia. Are eztiago entzungo dugu aurrerantzean, erosi berri duen mikrofonoari esker. Hainbeste eztiren artean, kantu zoragarri baten letra ere aztertu du. Entzun bada!",
+    "media_title": "Galiziako orkestaren panorama",
+    "media_desc": "Gasteizko elkarte galiziarreko kideek festa baterako kontratatutako orkesta baten ibileren berri eman digu Alain Ibarrak. Ahotsa urratu samar ekarri du gaurkoan Ibarrak, eta halere, orkesta hartako abeslaria baino finago aritu da. Entzun!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/626f5215-bb1e-4038-95c0-f32cceb6b771.jpg"
   },
   "1395": {
@@ -1407,8 +1409,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8011e4bf-881c-480b-ac78-990e5ac59953.jpg",
-    "media_title": "Dorleta Urretabizkaia, Joseba Apaolaza eta Eymard Uberetagoena",
-    "media_desc": "Antzerkia eta musika. \nUrretabizkaia eta Apaolaza 'Rigor mortis' lan berriaz\nUberetagoena Baobabs taldearen \u00a1Ez esan' diskoaz"
+    "media_title": "Mirari Arana eta Bego\u00f1a del Teso",
+    "media_desc": "Arana Harana bihurtu du kantari plazaratzeko. 'Hurbil' du lehendabizimo munduratzea. Bost kantuz.\nBego\u00f1a del Teso sartu da udan Odisean... eta ez ote den gehiago irten..."
   },
   "1429": {
     "rss": "https://guau.eus/series/1429/rss.xml",
@@ -1523,8 +1525,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "NDF & Kuarteto Philiparena",
-    "media_desc": "Natxo eta Xabier de Felipe aita-semeak elkartu ditugu Abandonatuak proiektuari buruz aritzeko, eta Oskorrik markatutako Natxoren ibilbideaz solasteko.",
+    "media_title": "Danza Vertical",
+    "media_desc": "Gloria Peon (La Glo), Unai Gorri eta Victor Lazarorekin (Milki Lee) hitz egin dugu Bilboko Dantza Bertikalaren Jardunaldien laugarren edizioaz. Irailaren 17tik 20ra bitartean, hiria sorkuntzarako, prestakuntzarako eta hausnarketarako gune bihurtuko da; dantza, zirkua eta arte eszeniko garaikideen artean kokatutako diziplina baten inguruan.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
@@ -1609,8 +1611,8 @@
     "title": "Cr\u00f3nica de Euskadi F/S",
     "description": "Asteburuko aktualitate guztia Radio Euskadin. ",
     "media_type": "audio",
-    "media_title": "\u201cEs m\u00e1s  importante que los traspasos de competencias se hagan bien a que se hagan r\u00e1pido\u201d",
-    "media_desc": "Javier Hurtado Turismo sailburuari elkarrizketa Cr\u00f3nica de Euskadi fin de semana albistegian.",
+    "media_title": "\"Se han incrementado las donaciones econ\u00f3micas de padres a hijos para la compra de vivienda\"",
+    "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f8434ab4-a50a-4a51-835e-d066edcc1ca3.png"
   },
   "1461": {
@@ -2146,8 +2148,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n",
     "media_type": "audio",
-    "media_title": "Almitza sega elkarteak 30 urte",
-    "media_desc": "Almitza sega elkarteak 30 bete ditu, eta segalaritzaz hitz egitera joan gara Migel Mari Jauregi 'Altzo'rengana Zaldibiara",
+    "media_title": "Maider Alzaga: askotariko gorpuzkerentzako moda",
+    "media_desc": "Maider Alzaga oasi txiki bilakatu da multinazionalen denda handiez josita dagoen merkataritza zentro batean. Korrontearen aurka eta tendentzietatik harago, Maiderrek jantziak diseinatu, patronatu eta saldu egiten ditu. Saltzerako orduan, gainera, jantzia bezeroaren gorpuzkerara egokitzeko lanak egiten dituela aitortu digu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/28f58bdf-6bca-453a-af5f-681092a402a7.jpg"
   },
   "1506": {
@@ -2357,7 +2359,7 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "title": "Supercanasta",
-    "description": "Baskonia, Araski eta, oro har, saskibaloiaren azken orduari buruzko programa. Sergio Vegas, Natxo Mendaza, Joseba S\u00e1nchez eta Rocio Rubinichen komentarioekin.",
+    "description": "Arabako saskibaloi taldeak mintzagai dituen mahaingurua da honakoa. Ritxi Guerraren gidaritzapean hausnartzera batzen zaizkio: Sergio Vegas, Natxo Mendaza, Rocio Rubinich eta I\u00f1aki Ogara.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/42284d53-6cef-4d3b-bce5-08d00e18e2ba.jpg",
     "media_title": "Hablamos de baloncesto",
@@ -2382,7 +2384,7 @@
     "description": "Deportivo Alaves, Baskonia eta Araskiren emanaldiak.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/2a3dfc9d-5883-410b-8738-45f099a1330e.jpg",
-    "media_title": "Araski-Ferrol/Joventut-Baskonia",
+    "media_title": "Athletic-D.Alav\u00e9s / Joventud-Baskonia",
     "media_desc": null
   },
   "1450": {
@@ -2411,7 +2413,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "D.Alav\u00e9s-Granada",
+    "media_title": "D.Alav\u00e9s F-FC Barcelona",
     "media_desc": null
   },
   "1574": {
@@ -2679,8 +2681,8 @@
     "description": "Poesia nonahi edo inon ez egon daiteke. Zuzendaria eta aurkezlea: Jose Luis Padron\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4594b37f-7df4-42c8-94fd-d4d659430875.jpg",
-    "media_title": "Auzoaren tempoa",
-    "media_desc": "Eguneroko eszena arruntetan, inguru hurbilean, gertuko auzokideen keinuetan jarri du begirada Gorka Erostarbek (Zumarraga, 1977), eta ikusten ari den hori poetizatu du bere estreinako poema liburuan: Auzokinak (Elkar, 2025). Bizitza garaikide ultrakapitalista eta ultraazkar honen denborarekin erabat kontrajarria, beste denbora baten aldeko aldarria egiten du poetak, malguagoa; beste denbora bat habitatzeko nahia dago liburuan, produkzioari, azelerazioari, kontsumoari ez hain lotua."
+    "media_title": "Eklipsatuta",
+    "media_desc": "2183. urtera arte gure lurraldetik berriro ikusi ezingo den fenomeno bat ikusteko aukera historikoa izango dugu 2026ko abuztuaren 12an: eguzki-eklipse osoa. Adituek prebentzioa eskatu diete instituzioei eta herritarrei. Idazleak eta poetak, berriz, oharrak idatzi dizkigute ordu horretarako: Leire Bilbaok, esaterako,  Eklipse bati begiratzeko moduak azaldu dizkigu, Harkaitz Canok, berriz, Eguzki-eklipsea gertatzen denean nola egin (ez) ikusteko gonbidapen bereziarekin lagunduko digu, eta, Miren Agur Meabek amodio-poema bat bidali digu abuztuaren 12an bat-batean etorriko den gaua elkarren eskutik bizitzeko. Literalki eklipsatuko gara."
   },
   "1509": {
     "rss": "https://guau.eus/series/1509/rss.xml",
@@ -3335,7 +3337,7 @@
   },
   "2113": {
     "rss": "https://guau.eus/series/2113/rss.xml",
-    "media_title": "Zuzenean: alfonbra gorria, estreinaldien analisia eta protagonistak gertu-gertutik",
+    "media_title": "Alfonbra gorria, estreinaldien analisia eta protagonistak gertu-gertutik",
     "media_desc": null,
     "media_type": "audio"
   },
@@ -3480,7 +3482,7 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "1. Danel Galdaera. Edertasuna gorrotatu",
+    "media_title": "1. Danel Galdaera. Gorroto dut edertasuna",
     "media_desc": "Denboraldi berriari hasiera emateko gizartearen obsesio nagusienetako bat jarri dugu mahai gainean: edertasuna. Nork ez du gorroto edertasuna eta horrek eragiten dituen inposaketak? Nork ez ditu gorrotatzen guapoak? Horren guztiaren inguruan hitz egiteko Euskal Herrian dagoen pertsonarik sexyena ekarri du Maiderrek estudiora: Danel Galdaera. Galanta izateaz gain, umoregilea da bera."
   },
   "2130": {
@@ -3943,8 +3945,8 @@
     "description": "Euskal Herrian bizi garen kultur komunitateak ezagutzeko tartea da hau, herri anitza garelako. Marian Beitialarrangoitiak Euskadi Irratian landutako edukia. EITB Mediak GUAU plataforman argitaratua.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0f7d00d4-9a71-41bf-949f-5f1fd1be8ee4.jpg",
-    "media_title": "5. Txina",
-    "media_desc": "Aitor Kinyu Jiang eta Elene Mengyu Larrinaga gonbidatu ditugu Txinari buruz hitz egitera. Oso bizipen ezberdinak dituzte. Aitor Bergaran jaio da, gurasoak, biak dira Txinakoak eta berak ere badu bertako nazionalitatea. Elene berriz jaio berritan abandonatu zuten, eta gurasoek bertatik Euskal Herrira ekarri eta bizitza Gurutzetan egin du, ez da inoiz Txinara itzuli. Elenek arrazakeria pairatu du eta bere jaioterriarekiko harreman gatazkatsua izan du. Aitorrekin hitzordua gurasoek Bergaran duten jatetxe txinatarrean egin genuen eta aitarekin hitz egiteko aukera ere izan genuen. Elene eta Marenek, biak ahizpak, biak Txinatik gurasoek ekarriak, etxean hartu gaituzte, Idoia Bilbao amarekin batera."
+    "media_title": "6. Maroko",
+    "media_desc": "Fatima, Housinne eta Khadija-ri eskatu diegu laguntza Maroko hobeto ezagutzeko. \nAzken biek jaioterria dute, Fatimak ama du bertakoa, bera Urnietan jaio zen. \nHousinne Yagoubi anai arrebekin batera iritsi zen Espainiara, aitak familia elkartzeko eskaria egin ostean eta lanak ekarri zuen anaiarekin batera Nafarroara.\nKhadija El Ghaouti oporretara etorri zen eta berak hautatu ez zuen arren, hemen geratu zen. Ikasketak errepikatu eta erizain lanean dihardu egun.\nFatima Fernandezen kasuan, ama etorri zen Euskal Herrira eta bertan familia osatu. Udan joan izan da Marokora familia bisitatzera."
   },
   "3198": {
     "rss": "https://guau.eus/series/3198/rss.xml",
@@ -4046,8 +4048,8 @@
   },
   "3240": {
     "rss": "https://guau.eus/series/3240/rss.xml",
-    "media_title": "1.\tMatt Etxebarne           ",
-    "media_desc": "Foil-arekin dabil munduan zehar, diren olaturik berezienetakoak surfeatuz: Peahi (Hawaii), Mavericks (California), Mullaghomore (Irlanda);  eta etxekoak, Belharra tartean. Maite du bere surfa muturrera eramatea.",
+    "media_title": " 2. Miriam Imaz  ",
+    "media_desc": "Anaien ubera jarraituz murgildu zen itsasoan, baina surflari profesionala izatera iritsi zen, txapelketetan, zein free surfean. Miriam Imaz aitzindaria, erreferentea da hegoaldeko emakume surflarientzat.",
     "media_type": "video",
     "title": "Talaiatik bideopodcasta ",
     "description": " Euskal Herriko surflariekin solasean aritu da Kepa Iribar, itsasoari begira, olatu eta olatu artean. ",
@@ -4057,7 +4059,7 @@
     "rss": "https://guau.eus/series/3239/rss.xml",
     "media_title": "Eskubaloia: Reyes Karrere eta Esther Arrojeria",
     "media_desc": "Emakumezkoen eskubaloian aurrerapausoak eman diren arren, azken hamarkadetan oso gutxi aurreratu dela azaldu dute  Reyes Karrerek eta Esther Arrojeriak. Egungo egoera aztertzearekin batera, aldarrikapen andana ere utzi dute.",
-    "media_type": "video",
+    "media_type": null,
     "title": "Ibilian",
     "description": "Bidea ibilian egiten delako emakume kirolariekin hitz egin du Maitane Urbietak. Gaur egungoekin eta  aspaldi hasi zirenekin. Denen lekukotzak ikusmira zabalduko digutelako historia egiteko garaian. ",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/bdee042f-9ae1-4067-85b1-15b5956c21f8.jpg"
@@ -4537,5 +4539,12 @@
     "media_title": "Happy Erasmus: la red de apoyo a los Erasmus en Bilbao",
     "media_desc": "Happy Erasmus 2012an sortu zen, ikasle talde baten eskutik, trukerako ikasleei laguntza eskaintzeko. Ostatutik, hau da, premiarik handienetik, bankuei, klimari, gastronomia tipikoari, erosketei, dibertimenduari eta abarri buruzko informazioa eskaintzen dute. Alex Ramos eta Igor Anasagasti, Happy Erasmuseko bazkide sortzaileak dira eta Vicky Eslovakian bizi den ukrainar gazte bat da.",
     "media_type": "audio"
+  },
+  "3452": {
+    "rss": "https://guau.eus/series/3452/rss.xml",
+    "title": "Eguneko zientzia-albistea",
+    "description": "Zientzia, teknologia eta berrikuntzari buruzko berriak Faktoria albistegian. Euskadi irratiaren edukia Guau plataforman argitaratua.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/2cd9fa3a-d9a8-4997-a95d-cfbd57858395.jpg"
   }
 }
