@@ -114,7 +114,7 @@
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb33e733-e621-42cb-bd9e-ec48c8420587.jpg",
     "media_title": "En directo desde el Parlamento Vasco",
-    "media_desc": null
+    "media_desc": ""
   },
   "1544": {
     "rss": "https://guau.eus/series/1544/rss.xml",
@@ -167,8 +167,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Ceuta: migrazio krisia baino gehiago",
-    "media_desc": "Hilabete pasa da Ceutara 80.000 pertsona sartu zirenetik, baina oraindik 5.000-10.000 etorkinek jarraitzen dute hirian eta bertako biztanleen protestak areagotzen doaz. Zeintzuk izan behar dira orain lehentasunak? Penintsulara ekarri behar dira? Europar Batasuna zer? Gertatutakoa bere osotasunean eta gobernuek emandako erantzuna aztertu nahi izan dugu Faktorian. Zeutatik eta Bruselatik zuzenean gure berriemaileak; Ramses Mohamed, Ceutako Elin elkarteko kideari elkarrizketa; eta Natale Seron eta Jesus Prieto adituak gaurko tarte berezian.",
+    "media_title": "Ikasleen hezkuntza-maila behera? ",
+    "media_desc": "Ikasturtea hasi atarian ikasleen hezkuntza maila izan dugu hizpide Faktorian. Alo\u00f1a Garmendia Usandizagako irakaslea eta orientatzailearekin, Ion Ander Maiz Laskorain Ikastolako irakaslearekin eta Nora Salbotx Amaiurko eskolako zuzendariarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -1320,8 +1320,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Jamaika entzuteko: musika, gertatzen denaren isla",
-    "media_desc": "Xabi Ormazabali astebete geratzen zaio Jamaikan eta gu ere iritsi gara Jamaika Entzutekoren azken tartera. Gaurkoan egunerokotasuneko gertakariek historian zehar erritmoak nola aldatu dituzten aztertu dugu, eta udan zehar aldarrikatu nahi izan duguna gogoratu dugu: musika estilo askoren jatorria Jamaikan dagoela eta \"Rege\" ahoskatzen dela, ez \"Rigi\"!",
+    "media_title": "Dena garestiago: haragi, gozo eta jogurten kontsumoan nabari da.",
+    "media_desc": "Hego Euskal Herriko inflazioa estatukoaren gainetik kokatzeak nola eragin du elikagaien kontsumoan? Euskadiko merkatarien federazioa, BM eta Superamara saltokietako zuzendaritza eta Gipuzkoako merkatari ganbarako arduradunekin hitz egin dugu Faktorian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1c469b5c-e883-4301-b56c-59e71308bcbe.jpg"
   },
   "1412": {
@@ -1375,8 +1375,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Orpoaren proba eta kutsaduraren kalteak",
-    "media_desc": "Jaioberriei egiten zaien orpoko probaren garrantziaz hitz egin du Felix Zubia medikuak. Hantavirusaren amaiera eta kutsadurak haziaren kalitatean duen eragina ere aztertu ditu.",
+    "media_title": "Medikuntza alternatiboa?",
+    "media_desc": "Felix Zubia medikuak medikuntza alternatiboaren inguruan hitz egin du. Horrez gain, Ubulopalatoplastiari eta azaleko onttoei buruz aritu da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1386,8 +1386,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Galiziako orkestaren panorama",
-    "media_desc": "Gasteizko elkarte galiziarreko kideek festa baterako kontratatutako orkesta baten ibileren berri eman digu Alain Ibarrak. Ahotsa urratu samar ekarri du gaurkoan Ibarrak, eta halere, orkesta hartako abeslaria baino finago aritu da. Entzun!",
+    "media_title": "Gazteak urduri unibertsitaterako hautaproba atarian",
+    "media_desc": "Ikasle garaiak gogora ekarri nahian EHUren Donostiako kanpusera jaitsi da Antton, mikroa eskuan. Argi geratu da ikasle garaian ez zituela ikasi beharreko guztiak ikasi. Eskerrak gazteek ondo zaindu duten. Entzun!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/626f5215-bb1e-4038-95c0-f32cceb6b771.jpg"
   },
   "1395": {
@@ -1409,8 +1409,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8011e4bf-881c-480b-ac78-990e5ac59953.jpg",
-    "media_title": "Mirari Arana eta Bego\u00f1a del Teso",
-    "media_desc": "Arana Harana bihurtu du kantari plazaratzeko. 'Hurbil' du lehendabizimo munduratzea. Bost kantuz.\nBego\u00f1a del Teso sartu da udan Odisean... eta ez ote den gehiago irten..."
+    "media_title": "Idoia Fraile",
+    "media_desc": "Idoia Fraileren lehendabiziko eleberria da 'Arranoaren luma'.\nHemeretzigarren. mendea, Zuberoa, gogoz kontra ezkontarazitako emakumearen bizitza eskarmentua alabak kontatua, arranoa izan nahi zuela jakindakoan."
   },
   "1429": {
     "rss": "https://guau.eus/series/1429/rss.xml",
@@ -1419,8 +1419,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Emakume arteko laguntasuna desmitifikatzen ",
-    "media_desc": "Victoria Martin sortzailearen azken telesailaz hitz egin digu Berezi Fernandezek.",
+    "media_title": "Wacky Pomo estetikaren kaos dibertigarria",
+    "media_desc": "Kolore biziak, tipografia jostariak eta muturrera eramandako formak. 90eko hamarkadako estetika honen aldeko aldarria egin dute.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0eeff14e-dc83-4901-aa9d-23fd30eb9c3f.jpg"
   },
   "1413": {
@@ -1525,8 +1525,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Danza Vertical",
-    "media_desc": "Gloria Peon (La Glo), Unai Gorri eta Victor Lazarorekin (Milki Lee) hitz egin dugu Bilboko Dantza Bertikalaren Jardunaldien laugarren edizioaz. Irailaren 17tik 20ra bitartean, hiria sorkuntzarako, prestakuntzarako eta hausnarketarako gune bihurtuko da; dantza, zirkua eta arte eszeniko garaikideen artean kokatutako diziplina baten inguruan.",
+    "media_title": "Nacho Vegas",
+    "media_desc": "Artista asturiarra bisitari, Kafe Antzokiko kontzertuaren atarian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
@@ -1536,7 +1536,7 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": "Casi medio kil\u00f3metro de pantalla ac\u00fastica para aislar del ruido del tr\u00e1fico a Ari\u00f1ez",
+    "media_title": "El olivo de La Pilastra por los represaliados del franquismo de Eltziego",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/07f3de67-4fc0-449e-baa8-598b5638c8d8.jpg"
   },
@@ -2148,8 +2148,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n",
     "media_type": "audio",
-    "media_title": "Maider Alzaga: askotariko gorpuzkerentzako moda",
-    "media_desc": "Maider Alzaga oasi txiki bilakatu da multinazionalen denda handiez josita dagoen merkataritza zentro batean. Korrontearen aurka eta tendentzietatik harago, Maiderrek jantziak diseinatu, patronatu eta saldu egiten ditu. Saltzerako orduan, gainera, jantzia bezeroaren gorpuzkerara egokitzeko lanak egiten dituela aitortu digu.",
+    "media_title": "Milei \"bot ustiategi\" baten laguntzaz iritsi al zen presidentetzara?",
+    "media_desc": "Argentinan Javier Milei presidentearen garaipenean paper garrantzitsua izan zuen komunikazio aholkulariaren atxiloketak, eta poliziak bere etxean topatu duen ustezko \"bot ustiategiak\" agerian jarri dute, beste behin, sare sozialek zenbaterainoko ahalmena izan dezaketen gezurrak eta desinformazioa zabaltzeko. \"Bot ustiategi\" horiek zenbaterainoko ahalmena izango zuketen Milei presidentetzara eraman zuten hauteskundeak baldintzatzeko? Espainiar eta Frantziar Estatuetan topatu al dute halakorik? Eta Euskal Herrian? Zer egin genezake horrelako teknologiek sortutako gezurrak ez irensteko? Asier Errasti teknologia gaiez aritzen den kazetariak eman dizkigu erantzunak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/28f58bdf-6bca-453a-af5f-681092a402a7.jpg"
   },
   "1506": {
@@ -2160,8 +2160,8 @@
     "description": "Benetako abenturazaleak ezagutuko ditugun programa. Inguru zoragarriak, jende zoragarria edo ohitura bereziak aurkituko ditugu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0e8e0160-c04e-4dfd-8e7e-307aaa6f1b57.jpg",
-    "media_title": "Aventureros",
-    "media_desc": ""
+    "media_title": "Georgia, Armenia , Pau y Corea en Aventureros ",
+    "media_desc": "Gaur, Mertxek eta Josebak Georgiara eta Armeniara eramango gaituzte autokarabanaz. Europa zeharkatu ondoren, kultura oso anitza duten bi herrialde ezagutuko dituzte. I\u00f1aki Makazagak Pirinio Atlantikoetara hurbilduko gaitu, eta Rakel Navarrok Korea ezagutzera gonbidatuko gaitu."
   },
   "1481": {
     "rss": "https://guau.eus/series/1481/rss.xml",
@@ -2693,7 +2693,7 @@
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/bf09ca84-c8c5-46b9-8996-7cfaa6da457a.jpg",
     "media_title": "Pompas de Papel",
-    "media_desc": "Abestiak:\n\nParastoo Ahmadi\nEinangran: Vonin er.\nFabia: Rebordao: Juras.\nRuper Ordorika: Hogeitamabosgarren kantorea.\n\nLiburuak:\n\nMaddi Ane Txoperena: Zaldi bat. Arg. Txalaparta.\nUrsula K. Le Guin: Orsinia. (Itzul: Esp: Carlos Gardini/Ana Quijada/ Juan Pascual). Ed. Minotauro.\nStig Dagerman: La serpiente (Itzul. Esp: Carmen Montes Cano). Ed. N\u00f3rdica.\nMarlen Haushofer: Ganbara. (Itzul Eusk: Naroa Zubillaga). Arg. Erein.\nMiriam Toews: Tregua, que no paz. (Itzul. Esp: Julia Osuna Aguilar). Ed. Sexto Piso.\nRakel Pardo Perez: Deiadarraren antologia bat\u201d. Arg. Alberdania. \nRaquel Vazquez: Nodo Norte. Ed. Letraversal.\nGabriel Abreu: Triste no es la palabra exacta. Ed. Las Afueras.\nAne Zubeldia: Datorren udan ez gara hemen biziko. Arg. Elkar.\nMichele Ruol: Inventario de los que queda cuando el bosque arde. (Trad. Esp: Natalia Zarco). Ed.Siruela.\nClara Pastor: Erietta. Ed. Acantilado.\nPeio Iturralde: Denboraren esku urdinak. Arg.Susa.\nAlba Dalmau: Si una familia. (Itzul. Esp: gemma Deza Guil). Ed. Consonni.\nJoe Sacco: Gazako oin-oharrak. (Itzul. Eusk: Julen Gabiria). Arg. Astiberri.\nReyes Navas Montalvo: Puzle de una escena de caza. Ed. Piezas  Azules.\nAlessandro Piperno: Aire de famimlia. (Itzul. Esp: Carlos Gumpert). Ed. Libros del Asteroide.\nMilena Busquets: Las palabras justas. Ed. Anagrama.\nFernanda Fr\u00edas: No so\u00f1ar\u00e1s flores. Ed. Tr\u00e1nsito.\nGeorges Perec: Me cuerdo (Itzul. Esp: Eduardo Berti). Ed. Impedimenta.\nPol Guasch: Bihotzean napalma. (Itzul. Eusk: Ibai Sarasua Garcia). Arg. Txalaparta. \nMikel Zabalza: Entre el cielo y la Tierra. Ed. Sua Ediciones. (Jorge Nagore).\nJ.P. Mallory: Indoeuropeos. (Itzul. Eusk: Diego Su\u00e1rez Mart\u00ednez). Ed. Desperta Ferro.\nItziar Agirre Sagaseta: Honekin egin nahi duzuna. Arg. Balea Zuria. \n\nMenciones-Autor\u00edas-Colaboraciones:\n\nCartas Para Berlin: Izaskun Gracia.\nRecomendaciones de Libros: Jorge Nagore, Eva Caballero.\nBertso: Miren Artetxe."
+    "media_desc": "Liburuak:\n\nValentin Roma: Los Trillizos. Ed. Perif\u00e9rica.\nAitziber Etxeberria: Chicago. Arg. Erein\nNora Ephron: Gente a cenar. (Trad. Esp: Catalina Martinez Mu\u00f1oz). Ed. Libros del Asteroide.\nMarkel Sanchez: Sorbatza. Arg. Elkar.\nSara Barquinero: La chica m\u00e1s lista que conozco. Ed.Lumen-Penguin (Maddalen Marzol).\nCharles C. Mann: 1493. (Trad. Esp: Stella Mastrangelo). Ed. Capitan Swing.\nOihana Arana: Zerua Hemen. Arg. Susa.\nJonathan Swift: Los Viajes de Gulliver. (Trad. Eusk: I\u00f1aki Mendiguren Bereziartu). Arg. Elka.\n\n\nAbestiak:\n\nMassi Souad: D\u2019ici de la bas\nDave: Marvellous.\nAlosa: El cant dels ocells.\nAna Laan: Un se\u00f1or y un reloj.\nPeiremans: Send flowers.\n\n Aipamenak-Egiletza-Kolaborazioak:\n\nCartas para Berlin: Izaskun Gracia.\nBertso: Miren Artetxe.\nRecomendaciones de libros: Maddalen Marzol eta Eva Caballero."
   },
   "1454": {
     "rss": "https://guau.eus/series/1454/rss.xml",
@@ -3295,8 +3295,8 @@
     "description": "I\u00f1igo Satrustegik hartu die lekukoa Alaia Martini eta Peru Magdalenari. Irudimena, umorea eta hizkuntzarekin jolas egiteko gaitasuna, absurdoak diruditen galderei erantzuteko. Bizitzari buruzko gogoeta jostaria, irribarrez. Euskadi Irratiko Faktoria saioko edukia. EITB Mediak GUAU gure audioa plataforman argitaratua.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/610dc9db-7e75-4989-ae5d-1012727d5382.jpg",
-    "media_title": "Zein da yogurt baten benetako iraungitze data?",
-    "media_desc": "Hitzekin jolas eginez eta irudimena astinduta, absurdoak diruditen galderak erantzuten dizkigu I\u00f1igo Satrustegik, itzultzaile eta editoreak. Hozkailuetan eta supermerkatuko korridoreetan barrena eraman gaitu, yogurten iraungitze dataren misterioa argitzeko."
+    "media_title": "Nor eseri da nire aurretik treneko eserleku honetan?",
+    "media_desc": "Trenera garamatza I\u00f1igo Satrustegik; trenez bidaiatzera: paisaiak, bidaiariak, irudikatutako istorioak eta aulki jokoa, gainezka dagoen bagoi batean."
   },
   "2105": {
     "rss": "https://guau.eus/series/2105/rss.xml",
@@ -3337,7 +3337,7 @@
   },
   "2113": {
     "rss": "https://guau.eus/series/2113/rss.xml",
-    "media_title": "Alfonbra gorria, estreinaldien analisia eta protagonistak gertu-gertutik",
+    "media_title": "Hasi da Zinemaldia!",
     "media_desc": null,
     "media_type": "audio"
   },
@@ -3923,7 +3923,7 @@
   },
   "3193": {
     "rss": "https://guau.eus/series/3193/rss.xml",
-    "media_title": "Remo",
+    "media_title": "Portugalete",
     "media_desc": null,
     "media_type": "audio",
     "title": "Remo 2026",
@@ -4213,7 +4213,7 @@
   "2986": {
     "rss": "https://guau.eus/series/2986/rss.xml",
     "media_title": "\u00a1Entr\u00e9game la noche!",
-    "media_desc": "MUSICOFILIAren bederatzigarren atal honetan, amarrak askatu eta maparik eta helmugarik gabeko musika itsaso batean sartuko gara. Gaua kantu berri eta klasiko hilezkorren bidez zeharkatuko dugu; beste garai batzuetara itzultzen gaituzten melodiak, oroitzapenak pizten dituztenak, oroimenean kokatzen direnak eta, gutxien espero dugunean, oinak mugiarazten dizkigutenak. Prestatu zentzumenak, utzi musikak eraman gaitzan... gaur gauean dena eman behar delako! Besteak beste, artista eta talde hauen abestiak entzungo dira: Gailu, Flea, Thom Yorke, Bonobo, Joy Crookes, Thee Sacred Souls, Don West, El Sabor De Nacho orkestra, Los Mirlos, Sister Nancy, George Benson, Rare Pleasure, Paraf\u00fcnk eta beste asko.",
+    "media_desc": "MUSICOFILIAren bederatzigarren atal honetan, amarrak askatu eta maparik eta helmugarik gabeko musika itsaso batean sartuko gara. Gaua kantu berri eta klasiko hilezkorren bidez zeharkatuko dugu; beste garai batzuetara itzultzen gaituzten melodiak, oroitzapenak pizten dituztenak, oroimenean kokatzen direnak eta, gutxien espero dugunean, oinak mugiarazten dizkigutenak. Prestatu zentzumenak, utzi musikak eraman gaitzan... gaur gauean dena eman behar delako! Besteak beste, artista eta talde hauen abestiak entzungo dira: Gailu, Flea, Thom Yorke, Bonobo, Joy Crookes, Thee Sacred Souls, Don West, El Sabor De Nacho orkestra, Los Mirlos, Sister Nancy, George Benson, Rare Pleasure, Paraf\u00fcnk eta beste asko.\n",
     "media_type": "audio",
     "title": "Musicofilia",
     "description": "\"Musicofilia\" musikaren eta gizakiaren artean dagoen lotura sakona planteatzen digun egoera  da, bizitzaren funtsezko zati gisa sentitzeko beharra. Bertan, DJ Makalak estilo eta ahots berriei leihoa irekitzen die, euskarazko musika aukeraketa barne. Emozioak ezagutzeko, gozatzeko eta partekatzeko soinu-bidaia. ",
