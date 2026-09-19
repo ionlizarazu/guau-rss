@@ -167,8 +167,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Mahats bilketa aurreratuta, uda beroa dela eta",
-    "media_desc": "Uda bero eta lehorrak aurreratu egin du mahats bilketa. Samaniegoko Pascual Larrieta upategiko Mikel Pascualekin eta Bizkaiko Txakolina egiten duen Itsasmendi upategiko Garikoiz Riosekin. Klima aldaketa dela eta, aurrera begira hartu beharreko neurriak zeintzuk izan daitezkeen zehazteko lanetan dabil NEIKER, eta Landare Ekoizpen eta Babes Saileko ikerlaria da Ana Aizpurua.",
+    "media_title": "Ozempic kontu handiz",
+    "media_desc": "Duela ia 10 urte iritsi ziren Ozempic eta gisa bereko botikak Euskal Herriko farmazietara, eta ordutik osasunaren eta estetikaren arteko mugan orokortu da horien kontsumoa. Farmazietan sumatzen dute gorakada hori, medikuek onurak ikusten dituzte beharra dutenengan, baina kontrolik gabe hartzeak ze ondorio dituen azaldu digu Jon Pardo Osakidetzako endokrinologoak. \nAzken urteetan ikerketa asko ari dira egiten, eta azkenetako bat da bizi-iraupenaren ingurukoa, Californiako Berkeley-ko talde batek egindako ikerketak ondorioztatu du saguetan bizi-iraupena %12 luzatu duela, ikerketa hori aztertzeko batu da mahaira Jon Irazusta EHUko fisiologia katedraduna ere.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7c02e4af-f282-4d43-a0f5-46bc9c55b532.jpg"
   },
   "1535": {
@@ -671,7 +671,7 @@
     "page_id": 68,
     "media_title": "La otra memoria de las galleteras",
     "media_desc": "Laura Sanz Corada idazlearen ama gailetagilea izan zen, eta \"Galleteras\" izeneko liburua argitaratu berri du. Beste emakume gailetagile baten alaba ere gurean izan da. Gaileta lantegietan ziharduten emakumeen erretratu bat osatu dute bien artean.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/74b88559-1738-45c7-888c-3aa663fad464.png"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/6412fdd0-c147-4b6f-825a-79511fbf87a1.jpg"
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
@@ -1398,7 +1398,7 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3dd90bd0-7af8-451c-ac08-b3a5d557f5e5.jpg",
-    "media_title": "Patricia Lopez Arnaiz",
+    "media_title": "Oskar Alegria. 14 Gau",
     "media_desc": ""
   },
   "1397": {
@@ -1419,8 +1419,8 @@
     "media_type": "audio",
     "page": "Gaztea",
     "page_id": 70,
-    "media_title": "Toy Story: uda hasierako pop ekitaldi handia",
-    "media_desc": "Saga ezagunaren bosgarren atalean izen potolo asko topatuko dugu. Zer da jostailu ospetsuei gertatuko zaiena?",
+    "media_title": "Zer da Solomoon fenomenoa?",
+    "media_desc": "Oporretan bakarrik joatea geroz eta ohikoagoa izaten hasi da. Bikotezentrismoarekin apurtzeko datu eta gako batzuk eman ditu Sara Alonsok.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0eeff14e-dc83-4901-aa9d-23fd30eb9c3f.jpg"
   },
   "1413": {
@@ -2670,8 +2670,8 @@
     "description": "Zer egin, datorkigunaren aurrean? Klima aldaketa eta trantsizio ekologikoa hizpide dituen saio honetan ikerketak ere tarte berezia izango du. Guillermo Roak gidatutako saioa, Elhuyarrekin elkarlanean.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e22d42ec-5454-46f5-b6bd-f38736873d00.jpg",
-    "media_title": "Lurzoruko mikrobio dibertsitatea",
-    "media_desc": "Ainara Artetxe eta Lur Epelde Naikerreko ikertzaileak martxan jartzen ari dira LURNET, lurozruaren ezaugarriak eta kalitatea ikertzeko proiektua. Dagoeneko emaitzak badituzte, lurzoruko mikrobioen dibertsitateari eta kutsatzaileei buruzkoak (oraingoz emaitza onak), baina oraindik proiektuaren metodologiarekin ari dira lanean. "
+    "media_title": "Landareak nola eta zertarako komunikatzen dira?",
+    "media_desc": "Edurne Ayusok Fagus Alkiza aipatuko digu: Gipuzkoako onddoen dibertsitateari buruzko  erakusketa. Irati Diez Virto biologoak eta dibulgatzaileak berriz, landareak ekarriko dizkigu: nola komunikatzen dira haien artean eta zertarako? Hipotesi asko daude, bai eta baieztatutako komunikazio-metodo ugari ere, botanikaren munduan."
   },
   "1424": {
     "rss": "https://guau.eus/series/1424/rss.xml",
@@ -4554,6 +4554,14 @@
     "title": "Futboltegia",
     "description": "Futbola. Analisia, iritzia eta protagonistak. Jagoba Arrasateren eskarmentua eta aditu talde zabala, I\u00f1aki Berastegik gidatua: Ane Etxezarreta, Keoma Fuentes, Ion Zabaleta, Nerea Zusberro, Nerea Abances, Aitor Manterola, Loren Barbado, Haritz Otxotorena. Euskadi Irratiaren edukia.",
     "media_type": "audio",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/7450064d-2385-44c6-9288-5e1d250c2945.png"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/7450064d-2385-44c6-9288-5e1d250c2945.png",
+    "media_title": "Jagoba Arrasate: aukera berrien zain",
+    "media_desc": "Jagoba Arrasateri elkarrizketa. Arturo Ruizen eta Braulioren agurrak. Reala-Bournemouth analisia. Alavesen denboraldi hasiera. Loren Barbado, Nerea Abancens, Ion Zabaleta."
+  },
+  "134": {
+    "rss": "https://guau.eus/series/134/rss.xml"
+  },
+  "1941": {
+    "rss": "https://guau.eus/series/1941/rss.xml"
   }
 }
