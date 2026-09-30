@@ -156,8 +156,8 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "media_title": " Ricardo Garai,  historiador y experto en arte y cultura,  nos acerca al patrimonio cultural",
-    "media_desc": "Ricardo Garai historialari, arte eta kulturan aditu eta Gasteizko Elizbarrutiko ondare historiko-artistiko eta dokumentalaren ordezkariak Dordonizko Kantua eta Olanoko San Bartolomeren erretaula ezagutuko ditu.",
+    "media_title": "Ura Iturralde, fot\u00f3grafa documental",
+    "media_desc": "'Periodismo a pie de calle' jardunaldiek aurrera jarraitzen dute. Gaur, freelance argazkilari dokumentalak, Ura Iturraldek, Kuban jarriko du begirada. Bere hitzaldiaren izenburua 'Iluntasuna Fidelen mendeurrenean' da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/6f24ce09-5f82-4d0d-a444-780da6b8ebde.jpg"
   },
   "1763": {
@@ -944,8 +944,8 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4c6baf8d-47fc-4d87-bdab-662f46ff2093.jpg",
-    "media_title": "El sonido del habla",
-    "media_desc": "Funtzionaltasunak soinu polita izan dezake? Eta politak, funtzionala? Galdera horien erantzuna Susana Santolaria kolaboratzaileak eman dizkigu. Eta gurekin egon da ere Saul Santaolaria, musikaria, abeslaria, soinu ingeniaria eta ahotsaren soinuaren pedagogian aditua, marka pertsonal eta profesional gisa."
+    "media_title": "La entrevista de trabajo y audiciones",
+    "media_desc": "Susana Santolariak eta Lara Sagastizabal sopranoak laneko elkarrizketa bati eta entzunaldi musikal bati aurre egiteko gakoak azaldu dizkigute."
   },
   "1743": {
     "rss": "https://guau.eus/series/1743/rss.xml",
@@ -1309,8 +1309,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Desira pantailen aroan",
-    "media_desc": "Zer da desira? Zenbat desira mota daude? Nola ari da aldatzen desira pantailen eta like-en garaiotan. Amaiur Macias eta Itsaso Bakedano Faktorian, \"Hau ez da sexuari buruzko tertlulia bat\" tartean.",
+    "media_title": "Lasterka egitearen kontra... (eta alde?)",
+    "media_desc": "\u2018Stablishment\u2019-ak gustuko du zu korrika ikustea. Goiburu horixe jarri dio Jon Torner Zanala kazetariak ARGIA astekarian idatzi duen azken artikuluari. Soka ekarri du bere idatziak, zeinetan pentsalari espainiar baten hitzak jaso baitituen: \"Runningaren inguruan eraikitako diskurtsoak klase menderatzailearen interesei erantzuten die\". Artikuluak mahai gainean jarritako zenbait auzi aletu ditugu Torner berarekin eta Itziar Urkijo Cela kirol psikologo eta ikerlariarekin. Julen Telleria eta Ainhoa Aldalur korrikalarien lekukotzak ere bildu ditugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1409,7 +1409,7 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/8011e4bf-881c-480b-ac78-990e5ac59953.jpg",
-    "media_title": "Joxean Agirre",
+    "media_title": "K Errasti, I Beristain, H Arrastoa eta B del Teso",
     "media_desc": null
   },
   "1429": {
@@ -1475,8 +1475,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "Ordenanzas fiscales y PERI en Di\u00e1logos municipales ",
-    "media_desc": "Zerga-ordenantzen zirriborroa bihar aurkeztuko dute Gasteizko Udalean; ordu gutxi barru ezagutuko dugu gobernu-taldeak 2027rako zerga eta tasei buruz duen proposamena. Akordioa lortu da turismo-tasari eta hiriko Alde Zaharra Birgaitzeko Plan Integralari buruz."
+    "media_title": "Teatro y cine en Di\u00e1logos culturales ",
+    "media_desc": "Asteburu honetan hasiko da Gasteizko Nazioarteko Antzerki Jaialdia eta bertako taldeek euren lana erakutsiko dute OFF LOKAL jaialdiaren edizio berri batean. Gainera, Uribarri Ganboako Ingurumen Zinemaren Jaialdia amaitzear dago, lehiaketara aurkeztutako film laburren bistaratzearekin."
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -1525,8 +1525,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "'Somos muchos los que hacemos las cosas de otra manera'",
-    "media_desc": "Koldo Almandoz 'Azken agurra' filmeko zuzendariak filma aurkeztu digu hatz bizarrik gabe.",
+    "media_title": "Nacho Vegas",
+    "media_desc": "Artista asturiarra bisitari, Kafe Antzokiko kontzertuaren atarian.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
@@ -2148,8 +2148,8 @@
     "title": "Amarauna",
     "description": "Gorka Otaegik eta bere taldeak mundua soseguz begiratzen dute. Hausnarketak, bizi-esperientzia sakonak eta umorea, asteburu goizetan.\n\n",
     "media_type": "audio",
-    "media_title": "Iru\u00f1eko udaletxera bisita",
-    "media_desc": "Iru\u00f1eko Udalak bisita gidatuak antolatu ditu Pribilegioaren Batasuna aitzakia hartuta.",
+    "media_title": "Werner Herzog, Simulacro eta Nestor Urbieta",
+    "media_desc": "Nestor Urbieta Dust filmeko argazki zuzendariarekin hitz egin dugu; baita Simulacro filmeko Nytia Lopez Saitua eta Iraia Eliasekin ere. Aurretik, irekiera gala eta Werner Herzogen Donostia saria errepasatu ditugu.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/28f58bdf-6bca-453a-af5f-681092a402a7.jpg"
   },
   "1506": {
@@ -2641,8 +2641,8 @@
     "description": "Nekazaritza eta ingurugiroari eskainitako informazio saioa. Jakoba Errekondo adituak lagunduta, etxeko eta baratzeko landare eta zuhaitzak zaintzeko gida osatzen du Landaberrik, entzuleen galderei erantzunez.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/263a5f11-2039-4651-bc53-523eaf14c71e.jpg",
-    "media_title": "Artilea moketa egiteko",
-    "media_desc": "Garikoitz Aiesta Deba Garaiko Landa Garapen Elkarteko Teknikaria: \"Gipuzkoako artilea txinara eramango dute moketa egiteko\". Jakoba Errekondorekin jorratutako gaiak: Ahuakateondoak, Pipia egurrean, Adelfak, artoa, Patata, porrua eta azak, kalabaza eta kuiatxoak."
+    "media_title": "Lehortearen eraginez esne gutxiago eman dute ardiek eta gaztaren ekoizpena jeitsi egingo da. ",
+    "media_desc": "Amaia Garmendia Sukia artzaiak Aralarren du artaldea. Lehortearen eraginez ura eman behar die ardiei egunean bitan belarra lehortzen ari delako. Honek ardien esnean eta gaztaren ekoizpenean izango duen eraginari buruz hitz egin du. Jakoba Errekondok baratzak ureztatzerari buruz hitz egin du. Porrua noiz landatu, tipula eta baratxuria noiz atera eta kotxinilari aurre egiteko tratamenduari buruz hitz egin du."
   },
   "1508": {
     "rss": "https://guau.eus/series/1508/rss.xml",
@@ -3061,8 +3061,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b90ae8a-6def-4c1a-bf90-68625b71e0fc.jpg",
-    "media_title": "Madonnaren itzulera",
-    "media_desc": "Madonna bueltan da, zazpi urtez disko berririk kaleratu gabe egon ondoren. 2005ean argitaratu zuen \"Confessions on a Dance Floor\" diskoan oinarrituta, \"Confessions II\" izeneko lan berria kaleratu du. Oraingoan ordea, mezu desberdin batekin dator. Sara Alonsok kontatu digu."
+    "media_title": "Edalontzi berrerabilgarrien eztabaida",
+    "media_desc": "Jaialdietako edalontzi berrerabilgarrien inguruan sortu den polemikaz hitz egin digu Alain Perezek. 130 erakunde elkartu dira Espainiako Gobernuari araudia zorrozteko eskatzeko."
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3376,8 +3376,8 @@
     "description": "Planetak zibilizazio modernoaren eragina nabari du, baina kaosaren erdian oraindik badira paradisuak. Aner Etxebarria gidari ezin hobea da ia ahaztuta genituen lekuak, kulturak eta animalia-espezieak ezagutzeko. Milaka kilometrotan jasotako istorioak dira, eta gal ez daitezen kontatu nahi ditu Anerrek Radio Euskadiko Boulevard saioan, 'Historias del mundo'n. \n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1833fc1a-cc07-45c9-8b0b-681e69f2ad0c.jpg",
-    "media_title": "Las historias de Aner",
-    "media_desc": ""
+    "media_title": "La fauna amaz\u00f3nica",
+    "media_desc": "Jaguarretik anakondara, Aner Etxebarriak Hego Amerikako iruditerian eta herrietan Amazonian bizi diren animalien eragina zehaztu digu ."
   },
   "2117": {
     "rss": "https://guau.eus/series/2117/rss.xml",
@@ -4017,8 +4017,8 @@
   },
   "3373": {
     "rss": "https://guau.eus/series/3373/rss.xml",
-    "media_title": "Lander Martinez (Sumar): \u201cBoto-emaileek ezkerreko boto-paper bakarra nahi dute\u201d",
-    "media_desc": "Lander Martinez Sumar mugimenduko komunikazio idazkaria eta diputatua izan dugu Faktorian: Adimen Artifizialaz, Ceutako krisiaren kudeaketaz edota datorren hauteskunde zikloaz hitz egin dugu.",
+    "media_title": "Igone Bastarrika: \"Enpresak konturatu dira euskara lehiakortasun faktorea dela\"",
+    "media_desc": "EMUN kooperatbak ia 30 urte daramatza, batez ere, euskara lan munduan txertatzeko planak sortzen. Igone Bastarrika koordinatzaile berria da, eta euskaran eragiteaz gain, gizarte eraldaketan egiten duten jardunaz ere mintzatu gara berekin.",
     "media_type": "audio",
     "title": "Faktoriako elkarrizketak",
     "description": "Faktoriako elkarrizketak. Eguneko protagonistak eta zer esana duten pertsonak I\u00f1aki Guridirekin eta Maider Segurolarekin hizketan. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4196,8 +4196,8 @@
   },
   "2987": {
     "rss": "https://guau.eus/series/2987/rss.xml",
-    "media_title": "A los pies del monte Uzturre",
-    "media_desc": "Gaur egun, Uzturre mendiaren (710 m) magalean ibiliko gara, Tolosatik Santa Luzia auzotik, boluntario sutsu talde batek sastrakatik erreskatatutako erietxe zahar bateraino. Josu Iztueta bidaiariak Pisuaguako baserritik gidatuko ditu gure urratsak, ahanzturatik berreskuratutako putzu batzuk eta orain inguruan balkoi natural bihurtutako erietxe bat. Gaur ere aterpea irakurtzera eta ikustaldiez gozatzera joateko. 7,6 km-ko bidezidorrean zehar hitz egingo dugu Santi Soler espazioaren berreskurapenean inplikatutako boluntarioarekin, Tolosaldeko Turismo Bulegoko Alo\u00f1a Garmendiarekin eta Tolosako Fronton jatetxeko Soniarekin.\n\nHau Mugarri da, I\u00f1aki Makazagak aurkeztu eta zuzendutako Radio Euskadiren Euskal Herriko ibilbideen podcasta. Gaur egun, Uzturre mendiaren magalean, Tolosan, antogio santaorio baten bila, orain inguruko balkoi natural batean bihurtua.",
+    "media_title": "Ruta circular por el Valle de Ayala en torno al Conjunto Monumental de Quejana",
+    "media_desc": "Aiarako haranetik ibiliko gara, Gorobel mendilerroaren magalean, Kexaako Monumentu Multzoaren inguruan, Perega\u00f1a mendiaren gailurrera (628 m) igo eta Arabako Erdi Aroko bihotza ezagutzeko, haritzen, antzinako mandazainen bideen eta Aiarako kantzelarien jauretxe eta monasterioaren artean. Zigor Egia Euskal Mendizale Federazioko zuzendaritzako kidearen atzetik ibiliko gara, bertako bizilaguna izateaz gain. Beti bezala ibiliko gara paisaia horien guztien soinu, zapore eta koloreen bila. Halaber, Kexaako Arcos jatetxeko \u00c1ngel San Mamed-ekin hitz egingo dugu, baita bidean aurkituko ditugun abeltzainekin ere.\n\nMugarri da I\u00f1aki Makazagak zuzendu eta aurkeztutako Euskal Herriko ibilbideei buruzko Radio Euskadiko podcasta. Gaur, Arabako Erdi Aroko bihotzaren inguruan, Kexaan, hasiko gara.",
     "media_type": "audio",
     "title": "Mugarri: rutas por Euskal Herria",
     "description": "\"Mugarri\" lekuak, bideak, pertsonak, soinuak eta zaporeak bertatik bertara ezagutzeko gunea da, bideetako protagonisten bitartez. Mendizaleek, idazleek eta artzainek txoko eta ibilbide berriak aurkitzen, beren balio naturala berraurkitzen eta horiek zaintzeko gakoak aurkitzen laguntzen digute. Ibilbideak Euskal Herritik zehar I\u00f1aki Makazagarekin. ",
@@ -4425,8 +4425,8 @@
   },
   "3374": {
     "rss": "https://guau.eus/series/3374/rss.xml",
-    "media_title": "Patata entsalada",
-    "media_desc": "Osagaiak: Patatak (lau bat, ertainak), lekak, 2 arrautza, tipula edo tipulin bat, hegaluze egosi lata bat oliotan, oliba olio birjina, ziape (mostaza) goilarakada bat, yogur natural bat, gatza.\n- Nola egin: zatitu lekak, zuritu patatak eta moztu dado handietan. Egosi elkarrekin eltze handi batean. Arrautzak ere egosi. Egositakoa hozten denean, ontzi handi batean nahastu lekak, patatak, tipula fin-fin moztuta, arrautza egosia eta atuna. Ondoren, prestatu saltsa kikara batean: yogurra, oliba olioa, ziapea eta gatza. Ondo nahasi sardeska batekin. Gainetik bota eta dena ondo nahastu.  \nAnne Otegi sukaldariaren errezeta",
+    "media_title": "Errukula eta Idiazabal tosta",
+    "media_desc": "Osagaiak: ogi xerra lodiak (ahal bada, ama orekoa), Idiazabal gazta (nahi izanez gero, kehetua), errekulua freskoaren eskukada handi bat, tomate heldu bat, intxaur zati batzuk, olioa, gatza, eztia, Modena kremaren bat edo pikuak.\n- Nola egin: Txigortu ogia eta jarri tomatea gainean. Olioa bota eta ogia bero dagoela, gazta zatiak ipini. Gero, aurrez goxatutako errukula jarri. Amaitzeko, intxaurrak, eztia eta piku zatituak jarri gainean.\nAnne Otegi sukaldariaren errezeta",
     "media_type": "audio",
     "title": "Jantzi mantala",
     "description": "Anne Otegi, Lander Cornago eta Jabi Sarasua sukaldariek kozinatzeko ideia berriak eta errazak, goizero, Faktoria albistegian. Garaian garaiko produktuak eta nutrizio aholkuak. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4592,11 +4592,11 @@
   "3477": {
     "rss": "https://guau.eus/series/3477/rss.xml",
     "title": "Gladysen haritik",
-    "description": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, Puntueus eta EHUko Informatika Sailarekin elkarlanean egina.\n",
+    "description": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, Puntueus eta EHUko Informatika Fakultatearekin elkarlanean egina.\n",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0fc4035f-5102-4953-9999-b51db33eacad.jpg",
     "media_title": "0. Teaser. \"Gladysen haritik\"",
-    "media_desc": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, PuntuEus eta EHUko Informatika Sailarekin elkarlanean egina.\n"
+    "media_desc": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, PuntuEus eta EHUko Informatika Fakultatearekin elkarlanean egina.\n"
   },
   "3330": {
     "rss": "https://guau.eus/series/3330/rss.xml",
@@ -4623,5 +4623,14 @@
     "description": "Mundua ulertzeko gakoak ematen dizkizugu. Mundua konpontzea ez baitago gure esku",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/084bf263-7361-47ae-8111-b61ebe9d6197.png"
+  },
+  "3489": {
+    "rss": "https://guau.eus/series/3489/rss.xml",
+    "title": "Salda badugu",
+    "description": "Beti esan izan da, euskaldunoi saltseoa asko gustatzen zaigula, baina, orain arte, ez da inor ausartu saltsa horretan sartzen.\nAinhoa Etxebarria eta Alexander Padilla gara eta \u201cSalda Badugu\u201d bideopodcastean Euskal Herriko famatuak elkarrizketatuko ditugu, bizi dituzten krisialdi existentzialei burufamaz galdetu, eta beraien saltsa guztiak komentatzeko. Hori guztia salda goxo-goxo bat hartu bitartean.\n",
+    "media_type": "video",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/d5c8dd6c-d1f4-4c4d-84ab-092c1a9954c0.jpg",
+    "media_title": "0. Trailerra. \"Salda badugu\"",
+    "media_desc": "Beti esan izan da, euskaldunoi saltseoa asko gustatzen zaigula, baina, orain arte, ez da inor ausartu saltsa horretan sartzen.\nAinhoa Etxebarria eta Alexander Padilla gara eta \u201cSalda Badugu\u201d podcastean Euskal Herriko famatuak elkarrizketatuko ditugu, bizi dituzten krisialdi existentzialei buruz galdetu, eta beraien saltsa guztiak komentatzeko. Hori guztia salda goxo-goxo bat hartu bitartean.\n"
   }
 }
