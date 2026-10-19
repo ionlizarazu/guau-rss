@@ -603,8 +603,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Los Ocho de Erandio y las presiones para que dejen sus casas",
-    "media_desc": "Erandioko Zortzi izeneko 100 bizilagun inguruk (Tartanga kalean dauden 12 atari) beren etxeak erosi dituen putre-funtsetik gutunak eta presioak jasotzen ari dira, InmoCaixa aurreko jabearekin alokairuan bizi diren etxeak eros edo utz ditzaten. Victoria Abecia, Santos, Claudia eta Endika P\u00e9rez LABeko ordezkariek azaldu dute.",
+    "media_title": "Pasteler\u00eda en riesgo de extinci\u00f3n",
+    "media_desc": "Kimetz Garate gozogilearen eskutik, desagertzeko arriskuan dagoen Bizkaiko gozotegia ezagutu dugu. Neguriko Zurikaldai gozotegiko lantegian eskola magistral bat eman da, behin gure bizitzaren parte izan ziren postre horiek berreskuratzeko moduari buruz. Ondare zahar... eta gozoa!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d2882f9c-a639-49b5-b1b6-1af676f7c54f.jpg"
   },
   "1437": {
@@ -671,7 +671,7 @@
     "page_id": 68,
     "media_title": "Cuando el m\u00f3vil se convierte en un comensal m\u00e1s en la mesa",
     "media_desc": "Mugikorrari edo gailuren bati begira bazkaltzea edo afaltzea gero eta jende gehiagorentzako ohitura bihurtu da. Aldaketa horrek arriskuan jartzen du familian jatearen tradizioa eta janariaz gozatzen den bitartean hitz egiteko ohitura; horrez gain, gure burmuinean eragina du. Mugikorra mahaian esertzeak gure emozioei kalte egiten die, eta gure elikadura-ohiturak okertzen ditu. Hala jasotzen du 'Sukaldean egosten denaren zientzia' ikerketak. Emaitzei buruz hitz egin digu Neurologiako Espainiako Elkarteko presidente Jes\u00fas Portak.",
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/6412fdd0-c147-4b6f-825a-79511fbf87a1.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/74b88559-1738-45c7-888c-3aa663fad464.png"
   },
   "1744": {
     "rss": "https://guau.eus/series/1744/rss.xml",
@@ -923,7 +923,9 @@
     "media_type": "audio",
     "page": "Radio Vitoria",
     "page_id": 69,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/153de859-0285-4abd-ac8c-0b3c7e429c11.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/153de859-0285-4abd-ac8c-0b3c7e429c11.jpg",
+    "media_title": "95. El mundo est\u00e1 mal hecho",
+    "media_desc": ""
   },
   "1623": {
     "rss": "https://guau.eus/series/1623/rss.xml",
@@ -1311,8 +1313,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Argi luzeak: protestak",
-    "media_desc": "\"Hamarkada batzuetan ez da ezer gertatzen eta aste batzuetan hamarkadak pasatzen dira\"  aipu horrekin abiatu dute gaurko \"Argi luzeak\" atala Malen Dominguez soziologoak,  Julen Larra\u00f1aga antropologoak eta Boubacar Mbaye hizkuntzalariak, azken asteotako protesta eta kaleko intentsitateari begiratzeko, urrutira ikusteko argiak piztuta.",
+    "media_title": "Gorka Olazabal eta Oihana Aristegi: \"Bi ordutan egin daitezke buruarinak, baita erraldoi txikiak dantzan jarri ere\"",
+    "media_desc": "Gorka Olazabal eta Oihana Aristegi etorri zaizkigu Euskadi Irratiko Miramongo estudiotara, ez bakarrik ordea. Burarinen tailerra eskaintzen noiz eta nola hasi ziren kontatu digute. Erraldoi txikiak dantzan jartzeko tailerra dutela ere kontatu digute ipuin-kontaketan eta bakarrizketetan murgildu direla ere bai. Entzun!",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1333,8 +1335,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Futbola Palestinara itzuli da",
-    "media_desc": "Patxi Vrignon-Etxezaharretaren asteko gaia",
+    "media_title": "Belodromoetatik NASAra",
+    "media_desc": "Patxi Vrignon-Etxezaharretaren asteko gaia.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/db1b5095-4d71-47cf-ab26-6a1161d883bc.jpg"
   },
   "1430": {
@@ -1367,8 +1369,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89fd8ef4-557d-4b7b-a87d-2043c93b9145.jpg",
-    "media_title": "ELA gaixotasuna, gertutik bizi dutenen testigantzak",
-    "media_desc": "Xabier Estefania Gil-en eta etxekoen egunerokoa asko aldatu da azken urtean, Javier aitari ELA zuela esan ziotenetik. Ordutik bizi duten egoeraren berri eman digu. Idoia Coloma Del Tiok berriz  azken urtean amaren galera oso presente izan du, ELA gaixotasunak erasan eta hilabete gutxitan hil zen. Egun elkartean ari da Estefania Gil familiaren eta gaixotasuna etxean dutenen egunerokoari aurre egiteko egin beharreko urratsetan laguntzen."
+    "media_title": "Glaukoma, gehien erasaten duen gaixotasun neuro degeneratiboa",
+    "media_desc": "Aizpea Izak haurra zenetik du glaukoma, baina ez da ohikoena. Aritz Urkola oftalmologoak eman digu gaixotasunaren berri eta ohartu, besteak beste, adin batetik aurrera begiko tentsioa zaintzeak duen garrantziaz, garaiz ez diagnostikatzeak itsu geratzea ekar bait dezake. "
   },
   "1402": {
     "rss": "https://guau.eus/series/1402/rss.xml",
@@ -1377,8 +1379,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Pertsona toxikoak eta gehiegizko enpatia",
-    "media_desc": "",
+    "media_title": "Mailu Odriozola eta Felix Zubia",
+    "media_desc": null,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9baf062a-f9c1-48ef-9f51-51184043c5a8.jpg"
   },
   "1427": {
@@ -1477,8 +1479,8 @@
     "page": "Radio Vitoria",
     "page_id": 69,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dce649f6-270d-422d-9509-237927307731.jpg",
-    "media_title": "\u00bfSe instrumentalizan las crisis fronterizas? Di\u00e1logos Sociales ",
-    "media_desc": "Ceutako migrazio-krisiak atzamarra jarri die berriro Magrebetik iritsitako migratzaileen kolektiboei. Diskurtso batzuek inguruan ditugun arazo askorekin lotzen dituzte kolektibo horiek. Estigmatizatzen al ditugu beste eremu batzuetatik etorritako populazioak? Rosabel Argotek, Susana Manganak eta Ahmed Chaouik gai horri buruzko hausnarketa egin dute.\n"
+    "media_title": "Los jovenes valoran m\u00e1s la salud mental",
+    "media_desc": "Bihar, urriak 10, Osasun Mentalaren Munduko Eguna ospatuko da. Gai horri helduko diogu gazteei galdetuz ea osasun mentalak kezkatzen dituen? Jabetzen al dira duten garrantziaz? Alain Velasco, Irati Ant\u00eda eta Elsa Mute gai honetara hurbildu dira.\n"
   },
   "1485": {
     "rss": "https://guau.eus/series/1485/rss.xml",
@@ -1527,8 +1529,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Especial Atlantikaldia con Macaco",
-    "media_desc": "Radio Euskadi berriz ere Atlantikaldian, Errenteriako jaialdian, etorriko da artistengana, \"Artistak gertutik\" lanaren atal berri batekin. Oraingoan, aurrez aurre, Galder Perez eta Macaco, Dani Carbonell, musikariak Futuro ancestral diskoa eta bira aurkeztu baino ordu batzuk lehenago.\nPresarik gabeko eta distantzia gutxiko elkarrizketa. Musikatik bizitzara; publikotik sorkuntzara; kulturatik kulturetara. Baita askatasunarena, konpromisoarena eta abesti bihurtu aurretik gai bat elikatzen duen guztiarena ere.",
+    "media_title": "'Ez Dot Amaitu' - Amorante",
+    "media_desc": "Amorantek (Iban Urizar) 'Ez Dot Amaitu' disko berria aurkeztu digu. Amaitu gabekotan, aukera bizirik mantentzeko modu bat bilatzen duen diskoa. Musikarii elgoibartarraren laugarren lan luzea da, bere ibilbidea Amorante izenarekin hasi zuenetik.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/65113666-e3ed-467f-bbee-b6c3c00b0ffd.jpg"
   },
   "1477": {
@@ -1561,7 +1563,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/873f6e0a-5deb-48c6-b31c-e499a3ac468e.jpg",
-    "media_title": "Valencia-Athletic",
+    "media_title": "Athletic-Getafe | Valencia-Baskonia | Real Sociedad-Levante | Pelota",
     "media_desc": null
   },
   "1394": {
@@ -2098,8 +2100,8 @@
     "description": "Nutrizioarekin lotutako gaiak Aitor S\u00e1nchezekin.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/a7138745-da8d-46ab-8831-ac2a9d388fe1.jpg",
-    "media_title": "Mitos de la alimentaci\u00f3n infantil",
-    "media_desc": "Gure etxeko txikiei jaten ematen diegunean, sortzen diren zalantza eta mito guztiez hitz egin nahi dugu. Izan ere, funtsezkoa da elikaduraren inguruko mito horiek gezurtatzea. Eskoletako atean, parkeetan eta abarretan gurasoen arteko elkarrizketetan ia egunero agertzen diren gaiei buruz hitz egiten dugu. Belaunaldiz belaunaldi transmititzen den guztia batzuetan ez baita egia."
+    "media_title": "El desayuno: \u00bfes o no la comida m\u00e1s importante del d\u00eda?",
+    "media_desc": ""
   },
   "1478": {
     "rss": "https://guau.eus/series/1478/rss.xml",
@@ -2129,8 +2131,8 @@
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e67bdf7c-e5d6-476e-a95f-757e309d7d83.jpg",
-    "media_title": "La Ruta Slow en Radio Euskadi/ Urriak, 12",
-    "media_desc": "Igande honetan Idiazabalen egin den Euskal Herriko Artzain Gazta Lehiaketaren emaitzak - \"Mesa y mantel\", Jos\u00e9 Antonio Cruzekin, Marco Real Upeltegien Taldeko zuzendari tekniko Kepa Sagastizabalekin hizketan - Elkarrizketa euskal sustraiak dituen argentinar batekin, Gaizka Javier Ormaechea Aranberri eta bere seme I\u00f1akirekin."
+    "media_title": "La Ruta Slow en Radio Euskadi / Urriak, 18",
+    "media_desc": "V Orbea Rioja Alavesa datorren astean Guardian - Sergio Zaratek \"Zarate\" berria estreinatuko du Bilbon, arrainaren inguruko proposamen ausart batekin - Slow Foodek antolatutako nazioarteko topaketa agroekologikoa hartuko du Arabak datorren astean."
   },
   "1456": {
     "rss": "https://guau.eus/series/1456/rss.xml",
@@ -2173,8 +2175,8 @@
     "description": "Gehiegizko kontsumoa duen gizarte batean bizi gara. Planetako baliabideen erabilera gainditzen ari gara. Horregatik, \"Consumidores\" saioan kontsumo arduratsu, etiko eta solidarioaren alde egiten dugu. Programa honek zure zalantzak argitu eta zure ondorioak ateratzeko tresnak eskaintzen dizkizu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/58551caf-dd53-43d3-ac53-b02a3a2b4a9c.jpg",
-    "media_title": "Nueva estafa on line: clonar webs de concesionarios",
-    "media_desc": "Volotea eta hegaldiak bertan behera uztea: zer egingo dugu kontsumitzaile gisa?\nAutoen salerosketan erreklamazioak ugaritzen ari dira\nOnline iruzur berria: kontzesionarioen webguneak klonatzea"
+    "media_title": "Europa cierra el cerco al ecopostureo de empresas",
+    "media_desc": "Aireko bidaiarien eskubideei buruzko Europako erregelamendu berria\nEuropak kontsumitzaileak babesten ditu \"greenwashing\"-aren aurrean\nPrezio dinamikoaren eta prezio pertsonalizatuaren arteko ezberdintasunak"
   },
   "1452": {
     "rss": "https://guau.eus/series/1452/rss.xml",
@@ -2353,7 +2355,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/690eedc9-3070-48cb-a629-6bf6593262a8.jpg",
-    "media_title": "Araski-Girona",
+    "media_title": "Legan\u00e9s-Araski",
     "media_desc": null
   },
   "1476": {
@@ -2415,7 +2417,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/dc123503-3d1d-4685-b772-9d53a7b0ec3a.jpg",
-    "media_title": "D.Alav\u00e9s F-Sevilla",
+    "media_title": "Deportivo-D.Alav\u00e9s",
     "media_desc": null
   },
   "1574": {
@@ -2437,7 +2439,7 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/de26b257-9b89-4cd8-aa2e-7073bcd535fd.jpg",
-    "media_title": "Virtus-Baskonia",
+    "media_title": "Valencia-Baskonia",
     "media_desc": null
   },
   "1305": {
@@ -2791,8 +2793,8 @@
     "description": "Gaztean, Dj Makalaren eskutik, Boom Shaka Laka irrati showaren denboraldi berria. Beti bezala, bazter guztietako musika berri eta ez hain berriak, esklusiboak, aurrerapenak! Dastatzeko, deskubritzeko, gozatzeko, dantzatzeko! Boom Shaka Laka!!! Mundu osoko taupadak zure belarrientzat!\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/514a0503-e44e-4495-a2c9-17e6930d7a46.jpg",
-    "media_title": "Kay Slice, Nickodemus, Dur-Dur Band ",
-    "media_desc": "01. Kay Slice - Sauce n Stew - Agogo\n02. Baba Sissoko & Captain Planet - Seneke Masa - Turntables On The Hudson\n03. Kolinga - Kongo (S\u00d8\u00d1ARA Remix) - Underdog\n04. Nickodemus - Mama Tchipp (Follow Me) [Tigerbalm Remix] - Wonderwheel\n05. Nickodemus - Rumba Tobacco Y Ron (Ben Gomori Remix) - Wonderwheel \n06. Meridian Brothers - Mandala (Radio Edit) - Ansonia / Bongo Joe Records\n07. Mansour Shuaibu - We Have Got It - Strut\n08. Dur-Dur Band - Gariirtee (You Are Shaking) - Analog Africa\n09. Dur-Dur Band - Boodhari Sidiisii (Like Boodhari) - Analog Africa\n10. Orchestra Mambo International - Yenyere - Loft\n11. The Animeros - G\u00f3zalo (45 Mix) - Easy Eye Sound\n12. Mexican Institute Of Sound & Meridian Brothers feat. Beck - Ritmo Babilonia - Ansonia\n13. Karen y Los Remedios - Curandera - ZZK\n"
+    "media_title": "EZEZEZ, Rikas, Natasha Diggs",
+    "media_desc": "01. EZEZEZ - Zaunk - EZEZEZ\n02. Bonobo - Me and You - Ninja Tune\n03. Jiri Jiri - Spaghetti Western - Batov\n04. Black Diamonds - De Seh Seh (Caribombo Remix) - Galletas Calientes\n05. The Bam Jam Band - Theme - Batov\n06. Rikas - Last Train To London - Rikas\n07. The Ruffcats feat. Doug Shorts - I Ain't Worried (Erobique Remix) - Sonar Kollektiv\n08. Megatronic & Natasha Diggs - PEOPLE (Extended Club Mix) - The Jazz Diaries\n09. I Gemin - Do Yo Thang - Scruscru / Scruniversal Records\n10. Nubiyan Twist - Homecoming - Strut\n11. Bonobo feat. Joy Crookes - Always On Your Side - Ninja Tune\n12. The Bamboos feat. Reginald AK - On And On - Pacific Theatre\n13. Montoya feat. Alumin\u00e8 - Brillar - ZZK\n14. Us3 feat. Akil Dasan - Cool Cat - Us3\n15. The Allergies feat. HybridMP & KAI - Lost My Soul - Jalapeno"
   },
   "1433": {
     "rss": "https://guau.eus/series/1433/rss.xml",
@@ -3063,8 +3065,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b90ae8a-6def-4c1a-bf90-68625b71e0fc.jpg",
-    "media_title": "Zorionak, C.Tangana!",
-    "media_desc": "Gaur, C.Tanganaren urtebetetze eguna dela aprobetxatuta, berari buruzko bitxikeria batzuk kontatu dizkigu Sara Alonsok. Ba al zenekien \"Crema\" izenarekin hasi zuela bere ibilbide musikala? Eta, musikaria izan aurretik, \"Pans & Company\" dendan ogitartekoak saltzen zituela?"
+    "media_title": "Elliot Page-n kontrako irain transfoboak",
+    "media_desc": "Bihar estreinatuko da \"The Odissey\" filma. Elliot Page aktorea ere bertan izango da eta, azken asteotan, sare sozialetan, milaka  irain transfobo jaso ditu bere itxura fisikoa aitzakia hartuta.  Entzun Alainek kontatu diguna."
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3301,8 +3303,8 @@
     "description": "I\u00f1igo Satrustegik hartu die lekukoa Alaia Martini eta Peru Magdalenari. Irudimena, umorea eta hizkuntzarekin jolas egiteko gaitasuna, absurdoak diruditen galderei erantzuteko. Bizitzari buruzko gogoeta jostaria, irribarrez. Euskadi Irratiko Faktoria saioko edukia. EITB Mediak GUAU gure audioa plataforman argitaratua.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/610dc9db-7e75-4989-ae5d-1012727d5382.jpg",
-    "media_title": "Nor eseri da nire aurretik treneko eserleku honetan?",
-    "media_desc": "Trenera garamatza I\u00f1igo Satrustegik; trenez bidaiatzera: paisaiak, bidaiariak, irudikatutako istorioak eta aulki jokoa, gainezka dagoen bagoi batean."
+    "media_title": "Noiztik ote dago musuzapi hau patrikan?",
+    "media_desc": "I\u00f1igo Satrustegik hitzekin eta irudimenarekin jolas egiten du galdera bitxiak erantzuteko. Uda luzeak, bero boladak, neguko katarroak aipatu dizkigu atal honetan eta neguko txamarren poltsikoetan topatzen ditugun altxorrak."
   },
   "2105": {
     "rss": "https://guau.eus/series/2105/rss.xml",
@@ -3490,13 +3492,13 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "2. Aner Ansorena: Gorroto dut politikoki zuzena izatea",
-    "media_desc": "Badago bizitzan politikoki zuzena izatea baino zerbait aspergarriagorik? Zergatik jendea eta politikariak beldur dira pentsatzen dutena adierazteko?\nGaldera horiek erantzuteko, politikoki zuzena izatetik ihes egiten duen gonbidatua dugu: Aner Ansorena.  Bera aholkulari politikoa da eta inor baino gehiago gorroto du gaurko gaia."
+    "media_title": "3. Josune Otegi. Zahartzaroa gorrotatu ",
+    "media_desc": "Zer da zahartzea? Urte batzuk betetzearen ondorioa edo jarrera kontua? Maiderrek argi du: bizitzeko grina galtzearekin lotura du zahartzaroak. Horregatik zahartzen ez dakien gonbidatua ekarri du estudiora: Josune Otegi. Hainbat urtez tabernetan lan egin eta gazte zein helduekin egon ondoren, argi du zein den gazte sentitzeko gakoa. Jakin nahi? Entzun bada, ilusioa islatzen duen elkarrizketa"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
-    "media_title": "Agurain / Salvatierra. Recalculando...",
-    "media_desc": "1256an sortua, Salbaterra hiribildua \"Hagurahin\" herrixkaren gainean dago, antzinako garaietatik bidegurutzea dena, inguruko trikuharriek erakusten dutenez. \"Recalculando...\" saioak bere kaleak, bere historia eta azokaren edizio baten giroa eskaini digu. Arabako nekazaritzaren 6 mende baino gehiagoko tradizioa, Klaratarren komentuan sortutako gozogintzaren tentazio gozoekin batera.",
+    "media_title": "Bego\u00f1a. Recalculando...",
+    "media_desc": "Errepublika izeneko elizate bizkaitarra izan zen. Bego\u00f1a Bilboko auzo izatera igaro zen 1925ean, baina agian amatxoren basilikaren zorupeak gordetzen du ondoen gordetako sekretua: hiriburuaren beraren aurreko jatorria, \"Vecunia\". Recalculando saioak  Matsorris, Bego\u00f1ako bizilagunekin, hitz egin du eta bere historia errepasatu du Esteban Kadarsorekin. Abesbatzek, txikiteroek edo Bilbao edalontziak gaur egungo auzo bilbotarraren esentziarekin topo egiteko balio digute.",
     "media_type": "audio",
     "title": "Recalculando...",
     "description": "Ezagutu Euskadi \"Recalculando...\" saioarekin; hurbileko istorioekin bidaiatzen duen podcastarekin.\nRadio Euskadiko unitate ibiltariaren laguntzarekin Jon Bilbaok eta Mikel Iba\u00f1ezek Euskal Herriko herri, hiri eta auzo esanguratsuenetara eramango zaituzte.  Euskal Herriko historia, kultura, tradizio, gastronomia eta bitxikerien berri emango dizuete.\nAudio gida ezin hobea, zure ihesaldiak planifikatzeko eta lurralde bakoitzeko pertsona eta txoko interesgarrienak ezagutzeko. Entzun ezazu Araban, Behe-Nafarroan, Bizkaian, Gipuzkoan, Lapurdin, Nafarroan, zein Zuberoan egingo duzu zure hurrengo abentura antolatzen duzun bitartea.\nDoitu zure GPS nabigatzailea, eman play-ri eta aurkitu ibilbide desberdinak! \u201cRecalculando\u2026\u201d\n",
@@ -3580,8 +3582,8 @@
     "description": "Kafea hainbat modutan har daiteke. Guk azentua, doinua, jartzen diogu; elkarrizketa atseginak, memoriak, atzoko eta gaurko istorio hurbilak, protagonistek Gari Udaberi kontatuak.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e6d0cbf7-a70c-4199-a68a-cd2d53f66846.jpg",
-    "media_title": "Jose Pedro Raposo, amigo de los animales y ni\u00f1os ",
-    "media_desc": "Jose Pedro Raposo, portugaldarra, Kortezubin dagoen basa-faunaren babesleku den Basondori lotutako irudietako bat da. Bere lanak lotura estua izan du basa-animaliak zaindu eta babestearekin. Haurrak natura errespetatzearen eta kontserbatzearen garrantziaz sentsibilizatzea izan da lanetako bat."
+    "media_title": "Iker Sastre, esp\u00edritu de campe\u00f3n ",
+    "media_desc": "Iker Sastre bilbotarrak istripu bat izan zuen surfa egiten, eta bizitza osorako lesioa izan zuen. Baina oso berea duen indarrarekin, bere bizitza berrira egokitu zen, eta egokitutako mahai-teniseko jokalari erreferente bihurtu da. Bi joko olinpikotan parte hartzera iritsi da. "
   },
   "2369": {
     "rss": "https://guau.eus/series/2369/rss.xml",
@@ -3666,8 +3668,8 @@
     "description": "Moda, diseinu eta dekorazio tendentzia berriei buruzko saioa Ederne Frontelak gidatuta, eta Andoni Calvo eta Sarai Perezen kolaborazioarekin.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/62c17de8-1eeb-4c9e-9683-ec25888d126c.jpg",
-    "media_title": "Teatralidad romantizada decadente",
-    "media_desc": "John Galliano \"L 'enfant terrible\" modaren joera da berriro. Urratzailea, errebeldea, polemikoa, probokatzailea, erromantikoa, nostalgikoa, sortzailea, teatrala... horrelakoa da Gallianoren estiloa, eta adierazpen batzuek berriro eroriko dela kondenatu zuten. Berpizte horri buruz hitz egin dugu Borja Hernandezekin.\nSarai Perezekin udazkeneko piezatxoei buruz hitz egiten dugu; katiluak eta platerak kalabaza batekin edo besterekin, eta liburuei buruz hitz egiten dugu, batzuetan desfileak egiten baitituzte."
+    "media_title": "Vida Monacal",
+    "media_desc": "Elena Guerrak Bizitza Monakalaz hitz egitea proposatzen du eta bere etxea itxierako moja baten Ziega bihurtzen du; izan ere, Ana Garrigak eta C\u00e1rmen Urbitak defendatzen duten bezala, XVIII. mendeko moja bati aurre egin zioten zalantza eta gorabehera berberak XXI. mendeko emakumeenak bezalakoak izan daitezke. Irene Martinezek bere belarritako artisauak eta formatu handia aurkezten dizkigu, azken aldian joera direnak, eta Javi Cuestak zineman kontatuko den istorioa aurkezten digu, La Oreja de Van Goghen abestien bidez.\n"
   },
   "2433": {
     "rss": "https://guau.eus/series/2433/rss.xml",
@@ -3729,7 +3731,7 @@
   },
   "2441": {
     "rss": "https://guau.eus/series/2441/rss.xml",
-    "media_title": "Valencia-Athletic",
+    "media_title": "Lillestrom-Reala",
     "media_desc": null,
     "media_type": "audio"
   },
@@ -3753,7 +3755,7 @@
     "description": "Munduko gaurtasunari buruzko azterketa zehatza adituen eskutik",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3f72785d-5d26-4ada-9261-b93f76e2d9b2.jpg",
-    "media_title": "El gran tablero mundial: Italia",
+    "media_title": "El gran tablero mundial",
     "media_desc": ""
   },
   "2468": {
@@ -3887,8 +3889,8 @@
     "description": "\"Juxtu-juxtu\" gazteei zuzendutako bideopodcasta da, egunerokoan lagungarri izan daitezkeen aholku praktikoak eta baliabide erabilgarriak eskaintzeko sortua. Janire Atxurraren eskutik, dirua aurrezteko, aukerak aprobetxatzeko eta eguneroko erronkei errazago aurre egiteko trikimailuak ezagutuko dituzte entzuleek. Umorea, gertutasuna eta Janireren bizipen bitxiak bidelagun, gazteen kezka eta egoera arruntak izango ditu hizpide saioak, informazio erabilgarria modu arin, fresko eta entretenigarrian eskainiz.\n\nOn Timek ekoitzi du, EITB Mediarentzat. ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/88986c45-80c5-4a43-84d1-1a5891e61c63.jpg",
-    "media_title": "Plan finantzieroa auto berria erosteko",
-    "media_desc": "Janirek auto berria erosi du bikotearekin. Zer egingo du 24.000 euro balio dituen autoa ordaintzeko? Izan ere, 541 euro ordaindu beharko ditu hilero. Diru asko denez, ezinbestekoa plangintza egitea. Kalkulagailua hartu, eta kontuak egingo ditu Janirek. Juxtu-juxtu ibiliko da, baina posible ikusten du autoa urtebetean ordaintzea."
+    "media_title": "Erabiltzen ez duzuna kendu, dirurik ez galtzeko",
+    "media_desc": "Janirek bestelako garbiketa egin du: plataforma, aplikazio eta web orriak gainbegiratu, eta batzuk kentzea erabaki du. Hasieran debalde hartu zituen, baina gero ordaintzen hasi, eta orain diru dezente ordaintzen ari dela konturatu da. Gainera, batzuk ez ditu erabili ere egiten! Zeintzuk kenduko ditu?"
   },
   "2142": {
     "rss": "https://guau.eus/series/2142/rss.xml",
@@ -4025,8 +4027,8 @@
   },
   "3373": {
     "rss": "https://guau.eus/series/3373/rss.xml",
-    "media_title": "Igor Fernandez, El Jueves-eko zuzendaria: \"Ergelik ez da falta Espainian\"",
-    "media_desc": "Duela hiru urtetik zuzentzen du agerkari historikoa. 50. urteurreneko ekitaldiak prestatzen ari direla kontatu digu Fernandezek satira egitea gero eta zailagoa dela: \"Politikoak hain dira parodiazkoak!\"",
+    "media_title": "Garazi Esnaola: \"Norberaren izenarekin sinatzean barnerantz sortzen da\"",
+    "media_desc": "",
     "media_type": "audio",
     "title": "Faktoriako elkarrizketak",
     "description": "Faktoriako elkarrizketak. Eguneko protagonistak eta zer esana duten pertsonak I\u00f1aki Guridirekin eta Maider Segurolarekin hizketan. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4204,8 +4206,8 @@
   },
   "2987": {
     "rss": "https://guau.eus/series/2987/rss.xml",
-    "media_title": "Ruta circular en torno a Lugo por la ribera del r\u00edo Mi\u00f1o",
-    "media_desc": "",
+    "media_title": "Escalamos el Cabo de Ogo\u00f1o en pleno Urdaibai, atalaya al Cant\u00e1brico m\u00e1s salvaje",
+    "media_desc": "Gaur, Ogo\u00f1o lurmuturrera joango gara, Ibarrangelu eta Elantxobe artean, Urdaibairen bihotzean, Bizkaian. Kareharrizko murailoian eskalatuko dugu, Kantauri itsasoan, Atxukullu gailurretik 308 metrora. 30 bide baino gehiagorekin, Euskal Herriko eskolarik benetakoenetako bati bizia ematen dio, itsasoaren soinuarekin oinetara igota eta Urdabibai osora begira. Hiru luzeko bide bat eskalatuko dugu, Mailu, seigarren eta bosgarren graduen artean, eta hegaztien habiak hormetan trabatzen ez diren hilabeteak aprobetxatuko ditugu. Jon Mendizabal dokumentalistarekin eta Jozu Zamakona geologoarekin kordada egingo dugu.\nHalaber, Urdaibai Bird Center bisitatuko dugu Vicente de Albarekin, zeruan bizi diren 300 hegazti ezberdin baino gehiagoren balioa nabarmentzeko, eta Sua argitaletxeko Hektor Ortegarekin itxiko dugu soinu-bidaia, liburu itxurako paperezko bidezidorren proposamen berriekin, motxilan sartzeko. Nepaletik Lur Uribarren mendi gidariaren soinudun postal bat iritsiko zaigu, Elantxobekoa, Island Peaken tontorrean 6.189 metrorekin.\nMugarri da I\u00f1aki Makazaga kazetariak aurkeztu eta zuzendutako Radio Euskadik Euskal Herriko ibilbideei buruz duen podcasta. Gaur Ogo\u00f1o lurmuturra eskalatuko dugu Kantauri itsasora.",
     "media_type": "audio",
     "title": "Mugarri: rutas por Euskal Herria",
     "description": "\"Mugarri\" lekuak, bideak, pertsonak, soinuak eta zaporeak bertatik bertara ezagutzeko gunea da, bideetako protagonisten bitartez. Mendizaleek, idazleek eta artzainek txoko eta ibilbide berriak aurkitzen, beren balio naturala berraurkitzen eta horiek zaintzeko gakoak aurkitzen laguntzen digute. Ibilbideak Euskal Herritik zehar I\u00f1aki Makazagarekin. ",
@@ -4222,8 +4224,8 @@
   },
   "2986": {
     "rss": "https://guau.eus/series/2986/rss.xml",
-    "media_title": "Caramelos sonoros",
-    "media_desc": "",
+    "media_title": "\u00a1Expr\u00e9sate!",
+    "media_desc": "\"Musicofilia\" -ren hamabosgarren atal honetan, oso gauza erraza proposatu dugu: musikaren bidez adieraztea. Musika ere hori delako: batzuetan hitzez azaltzen ez dakiguna esateko modu bat. Gaur, guregatik hitz egiten duten abestiek eramango gaituzte, oroitzapenak pizten dituzten melodiek, aldartea aldatzen diguten soinuek eta gorputza mugitzera gonbidatzen gaituzten erritmoek. Beraz, prestatu zentzumenak, ireki belarriak eta, batez ere, utzi eramaten. Gaur, Musicofilian... Espresa zaitez! Musikarekin. Emozioekin. Barruan daramazun guztiarekin. Lalo L\u00f3pez, Brigitte Emaga, Prince, Saun & Starr, Gotts Street Park, Martin De Marte, Mocedades, Amp Fiddler, N.W.A, James Brown, Kenny Dope, Tom Tom Club, Tuxedo & Zapp eta beste askoren abestiak entzungo dira.",
     "media_type": "audio",
     "title": "Musicofilia",
     "description": "\"Musicofilia\" musikaren eta gizakiaren artean dagoen lotura sakona planteatzen digun egoera  da, bizitzaren funtsezko zati gisa sentitzeko beharra. Bertan, DJ Makalak estilo eta ahots berriei leihoa irekitzen die, euskarazko musika aukeraketa barne. Emozioak ezagutzeko, gozatzeko eta partekatzeko soinu-bidaia. ",
@@ -4433,8 +4435,8 @@
   },
   "3374": {
     "rss": "https://guau.eus/series/3374/rss.xml",
-    "media_title": "Kuia kauserak. Kalabaza bu\u00f1ueloak",
-    "media_desc": "",
+    "media_title": "Mondeju risottoa",
+    "media_desc": "- Osagaiak: 320 g arroz, 2 mondeju, porru 1 xehe-xehe moztuta, litro 1 oilo salda, ardo zuri baso bat, 300 g Idiazabal gazta, oliba olio apur bat, koilarakada bat gurin. - Prestaketa: mondejuari azala kendu eta mamia bitan banatu. Erdia eskuz zatitu. Lapiko batean, su eztian egin porrua 5 min inguru. Eskuz zatitutako mondejua gehitu eta gantz guztia askatzen utzi. Gehitu arroza eta nahastu, ale guztiak olioz estali arte. Ardoa bota. alkohola lurrintzen utzi eta salda beroa botatzen joan pixkanaka nahastuz, 12-14 minutuz. Azken 2 minututan geratzen zaigun mondejua bota zatitan, Idiazabal gazta birrindua eta gurina gehitu eta nahastu. Sutik kanpo, estalita utzi 5 min eta jateko prest! Lander Cornegoren errezeta.",
     "media_type": "audio",
     "title": "Jantzi mantala",
     "description": "Anne Otegi, Lander Cornago eta Jabi Sarasua sukaldariek kozinatzeko ideia berriak eta errazak, goizero, Faktoria albistegian. Garaian garaiko produktuak eta nutrizio aholkuak. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4604,8 +4606,8 @@
     "description": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, Puntueus eta EHUko Informatika Fakultatearekin elkarlanean egina.\n",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0fc4035f-5102-4953-9999-b51db33eacad.jpg",
-    "media_title": "0. Teaser. \"Gladysen haritik\"",
-    "media_desc": "\u201cGladysen haritik\u201d bideopodcastak teknologiaren eta ingurune digitalaren esparruan ari diren emakumeak ekarriko ditu lehen planora, haien lana ez ezik, haien ibilbidea, jakin-minak, zaletasunak eta mundua ikusteko modua ezagutzeko.\nElene Mendizabal informatikari eta eduki sortzaile zumaiarrak gidatuko ditu solasaldiak, aurkezpen formaletatik eta curriculum-zerrendetatik aldenduta. Gonbidatuek zer egiten duten jakiteko, baina batez ere nor diren, zerk mugiarazten dituen eta nola iritsi diren dauden lekura.\n\"Gladysen haritik\", EITB Audioren ekoizpen bat da, PuntuEus eta EHUko Informatika Fakultatearekin elkarlanean egina.\n"
+    "media_title": "1. \u201cTxikitan etxeko ordenagailua desmuntatu nuen\u201d",
+    "media_desc": "Eire musika taldeko kidea izateagatik ezaguna, telekomunikazio ingeniaritza ikasi zuen eta gaur egun kriptografia kuantikoaren alorrean ikertzen eta doktorego tesia egiten ari da. Elene Mendizabal aurkezleak eta Eire Salegik gauza asko partekatzen dituzte: zumaiarrak dira eta solfeoa ikasi zuten."
   },
   "3330": {
     "rss": "https://guau.eus/series/3330/rss.xml",
@@ -4613,8 +4615,8 @@
     "description": null,
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0c72f009-f815-4b3c-8ea1-aa6534bf5745.jpg",
-    "media_title": "Menchu Gal",
-    "media_desc": "Archivos Cruzados Menchu Gal artistaren pintzelen trazo eta koloreekin argiztatzen da. Artearen munduan egin zituen lehen urratsak eta azken egunetara arte izan zuen ibilbide artistikoa ezagutuko ditugu."
+    "media_title": "Jose Angel Iribar",
+    "media_desc": "Archivos Cruzados Jose Angel Iribar ezagutzeko aukera ematen digu. Zarauzko hondartzatik hasi eta bere etxea den Athletic Clubek Lezaman dituen instalazioetaraino,  egindako kirol ibilbidea errepasatuko dugu."
   },
   "815": {
     "rss": "https://guau.eus/series/815/rss.xml"
@@ -4661,8 +4663,8 @@
   },
   "3500": {
     "rss": "https://guau.eus/series/3500/rss.xml",
-    "media_title": "Humor con Santiago Lorenzo y memoria tr\u00e1gica de Irlanda con \u2018Todos siguen aqu\u00ed\u201d",
-    "media_desc": "\nSantiago Lorenzo saioaren elkarrizketa nagusiko protagonista da. Portugaleteko idazleak \"Contenta\" (Blackie Books) aurkezten du. Bertan, Cecilia protagonistak herri oso itsusi baten iragarkia egin beharko du. Iruzkindutako liburuen artean daude Tamara Silvaren \"Temporada de ballenas\" (Igarobidea) eta Ipar Irlandako \"Todos siguen aqu\u00ed\" (Feltrinelli) kontakizun bilduma. Gainera, atal guztiak, hala nola lehiaketa, El Manual Anti Ayuda, Poesia Zabalarean Jon Garmendia, Txuriyaren, \"Ulthaintsaren negarra (Elkar) eta literatur nobedadeak.\n",
+    "media_title": "Charlamos con Elena Medel, comentamos \u2018Cosamala\u2019 y lo nuevo de Ian McEwan",
+    "media_desc": "Elena Medel da elkarrizketa nagusiko protagonista. Cordobako poeta eta idazleak \"Todos mis pecados y la mitad de mi dolor\" (Seix Barral) eleberria aurkezten du. Eleberrian hainbat pertsonaia biltzen dira, klase, anbizio eta botere-borrokek nahasita unibertsitate-ingurune batean. Protagonista literatura erromantiko ingelesean aditua den katedradun zahar bat da, eta ospe handia du probintzietako fikziozko hiri txiki batean. Iruzkindutako liburuen artean, Alana S. Porteroren itzulera \"Cosamala\" (Seix Barral) liburuarekin eta Ian McEwanen \"Lo que podemos saber\" (Anagrama) . Gainera, atal guztiak, hala nola lehiaketa, El Manual de Anti-Ayuda, Ane Zabala Luigi Anselmiren poema batekin eta literatur nobedadeak.\n\nNobedadeen zerrenda:\n\n-Ahora que se acerca el final, Diana Athill (Asteoride)\n-Atzerakarga, Fermin Etxegoien (Pamiela) \n-Conversaci\u00f3n en la oscuridad, Mariana Enr\u00edquez (P\u00e1ginas de espuma)\n-El chico del norte, Sam Sussman (Siruela)\n-Europeana, Patrick Ourednik (Perif\u00e9rica)\n-La conjura de los necios, Kennedy Toole y Albert Monteys (Astiberri)\n-Las leopardas, Marta Borraz (Tusquets)\n-Los suicidios de Gardel, Mart\u00edn Caparr\u00f3s (Galaxia Gutenberg)",
     "media_type": "audio",
     "title": "Pompas, papel o tijera",
     "description": "Un programa sobre literatura.",
@@ -4703,5 +4705,30 @@
     "title": "El pentsaleku econ\u00f3mico",
     "description": "Ekonomia hizkuntza ulerterrazago batera itzultzen dugu. Enrique S\u00e1ez Uribarri ekonomialari eta Deusto Business Schooleko irakasleak asteko albiste ekonomiko nabarmenenak laburbildu, azaldu eta aztertu ditu.\n",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0af2081e-ae05-4229-bd8a-50e9921ef6f6.jpg"
+  },
+  "3492": {
+    "rss": "https://guau.eus/series/3492/rss.xml",
+    "title": "Plaz!",
+    "description": "Nork esan du liburuei buruz hitz egitea aspergarria denik? \u201cPlaz!\u201d bideopodcasta, euskarazko literatura beste modu batera ezagutzeko plaza da. Irakurle sutsua den Nahia Sillerok gidatuta, atal bakoitzean gonbidatu ezagun batek liburu bat izango du abiapuntu, eta hortik aurrera... auskalo nora eramango gaituen elkarrizketak!\nMaitasuna, laguntasuna, identitatea, harremanak, bizitzako kezkak... Liburuetatik tiraka, denetarik izango dugu hizpide, umorez, naturaltasunez eta konplexurik gabe.\n\u201cPlaz!\u201d saioan liburuak ez dira helmuga, abiapuntua baizik.\n",
+    "media_type": "video",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/3a6c4a43-cfe4-4408-97b0-8438083b9f28.jpg",
+    "media_title": "0. Trailer:  \"Plaz!\". Liburu bat. Gonbidatu bat. Eta hortik sortzen den guztia",
+    "media_desc": "Nork esan du liburuei buruz hitz egitea aspergarria denik? \u201cPlaz!\u201d bideopodcasta, euskarazko literatura beste modu batera ezagutzeko plaza da. Irakurle sutsua den Nahia Sillerok gidatuta, atal bakoitzean gonbidatu ezagun batek liburu bat izango du abiapuntu, eta hortik aurrera... auskalo nora eramango gaituen elkarrizketak!\nMaitasuna, laguntasuna, identitatea, harremanak, bizitzako kezkak... Liburuetatik tiraka, denetarik izango dugu hizpide, umorez, naturaltasunez eta konplexurik gabe.\n\u201cPlaz!\u201d saioan liburuak ez dira helmuga, abiapuntua baizik.\n\n"
+  },
+  "3498": {
+    "rss": "https://guau.eus/series/3498/rss.xml",
+    "title": "Reset",
+    "description": "Eta adimen artifizialak kontrola hartuko balu? Adimen artifizial batek gidatutako autobus batek istripu larria izan du, eta hainbat pertsona hil dira. Zer gertatu den argitzeko, aditu bat bidaliko dute AA aztertzera. Baina ohiko ebaluazio bat izan behar zuena joko psikologiko arriskutsu bihurtuko da. Nor ari da nor kontrolatzen? Zer da erreala, eta zer manipulazioaren parte?\n\n\"Reset\" thriller psikologiko murgiltzailea da, gizakiaren eta adimen artifizialaren arteko xake-partida batean harrapatuko zaituena. Eta amaierara arte dena zalantzan jarriko duzu.\n\nAketza Lopez, Lorea Intxausti eta Josean Bengoetxea dira protagonistak. Anartz Zuazuak egin du aktore zuzendaritza, gidoia Martin eta Xabier Etxeberriak, eta Oier Aranzabalek zuzendu du taldea. Soinu Banda Iban Urizar \"Amorante\" musikariak berariaz sortua da eta Alain Urrutiak egin du artea.  \n\n\"Reset\" EITB Audioren jatorrizko ekoizpena da, ULU Mediak egina.",
+    "media_type": "audio",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/4326a253-90e7-410e-bc4c-da547d2e4285.jpg"
+  },
+  "3486": {
+    "rss": "https://guau.eus/series/3486/rss.xml",
+    "media_title": "El sentimiento albiazul llega a Londres con una nueva pe\u00f1a alavesista",
+    "media_desc": "@alavesuk Instagrameko kontu bat da, joan den irailean Londresen bizi den alaveszale talde batek zabaldu duena. \"Londreseko Alaveszale Hintxa Taldearen\" helburua Ingalaterran bizi den komunitatea elkartzea eta Gasteiztik urrun egonda ere alaveszaletasuna bizirik mantentzea da. Marta Gutierrez eta Ruben de la Torre kideetako birekin hitz egin dugu.",
+    "media_type": "audio",
+    "title": "Artistas en Red",
+    "description": "Sareetan artista hutsak. Artean influenzerrak",
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/aed293ab-ac4a-4c9d-a414-2e7e93e7129b.png"
   }
 }
