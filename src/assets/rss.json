@@ -4029,8 +4029,8 @@
   },
   "3373": {
     "rss": "https://guau.eus/series/3373/rss.xml",
-    "media_title": "Niko Etxart: \"Aita bezela azken une arte arte eutsi nahiko nioke bizipozari\"",
-    "media_desc": "Datorren azaroan Getxoko Muxikebarri zentroak, \u2018Iparra galdu gabe\u2019 kultura-ekimenaren 25. urteurrenaren ospakizunen baitan, Nik Etxart omenduko dute. Maite dituen lagun musikariz lagunduta egongo da oholtzan, eta aitzakia hori baliatu dugu egungo musika eszenaz eta euskararen egoeraz gogoeta egiteko.",
+    "media_title": "Lander Martinez (Sumar): \u201cEzkerreko aukeren artean errespetua behar da; arriskua eskuina da\u201d",
+    "media_desc": "Lander Martinez, Sumar mugimenduko diputatu eta Komunikazio Idazkariari elkarrizketa Euskadi Irratiko Faktorian",
     "media_type": "audio",
     "title": "Faktoriako elkarrizketak",
     "description": "Faktoriako elkarrizketak. Eguneko protagonistak eta zer esana duten pertsonak I\u00f1aki Guridirekin eta Maider Segurolarekin hizketan. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4744,5 +4744,11 @@
     "description": "Zerbait hasiko bada, beste zerbaitek bukatu behar du. Aldatu beharra dago. Bizitza goitik behera irauli duten solaskideak. Eredugarriak izan daitezken aldaketak. Eguna bukatu aurretik entzungo dugu elkar, hemen azkeneko hitza, zurea delako.\n\n ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/89cfabe8-5887-448e-ae95-9a0f72b4f2c3.jpg"
+  },
+  "3499": {
+    "rss": "https://guau.eus/series/3499/rss.xml",
+    "media_title": "Armintz Gorrotxategi: \"Ez ditugu turroi gozoegiak egin nahi\"",
+    "media_desc": "Iritsi da turroia supermerkatuetako apaletara, eta horrek erakusten digu Gabonak ate-joka ditugula. Horri heldu nahi izan diogu, eta gurean turroia egiten duen gozogintza lantegi batera jo dugu. Tolosan du Gorrotxategi familiak berea.",
+    "media_type": "audio"
   }
 }
