@@ -487,7 +487,7 @@
     "title": "Benetan zabiz? ",
     "description": "\"Benetan zabiz?\" Aitziber Grados eta Malen Altunak gidatzen duten podcast gazte eta lotsagabea da, umoretik entretenimendurako asmoz sortua. Astez-aste gonbidatu ezberdin batekin solasten dira, aho bizarrik gabe.  \nOihane Alonsoren esku dago produkzioa eta edizio lana. ON TIMEk egiten du ekoizpena. ",
     "media_type": "video",
-    "media_title": "4. Luma Ota\u00f1o, harremanetako \u201cpeluxea\u201d duena ",
+    "media_title": "4. Luma Ota\u00f1o, harremanetako \u201cpeluxea\u201d ",
     "media_desc": "Denboraldiko lehen eduki sortzaile gonbidatua \u201cBenetan zabiz?\u201d podcastean: Luma Ota\u00f1o! \nTolosako eduki sortzaileak ez du lan bakarra egiten; haurreskola batean haur hezitzailea ere bada, eta aitortu digu, mahai-jokoak oso gogoko dituela. Mugikorraren gehiegizko erabilera, kuadrillismoa, sare sozialak, norbere bizitza partekatzea, oversharing-a eta postureoa izan dira, besteak beste, ataleko gai nagusiak. Kolaboratzaile berrietako bat ere hurbildu da gainera!\nJon Gotzon Aldaparena \u201ctardeo\u201daz eta gazteek alkoholik ez edateko joera berriaz aritu da. Bai eta bikote harremanetako \u201cpeluxea\u201d izateaz ere. \n\nBenetan Zabiz galdu egingo duzula? ",
     "page": "Gaztea",
     "page_id": 70,
@@ -1315,8 +1315,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Anjel Alkain eta Jon Garate: \"Lau lagunek elkarrekin aritu nahi genuen. Hortik sortu da Superra\"",
-    "media_desc": "Estreinatzear da, Primeran plataforman, aspaldian ikusminik handiena piztu duen euskarazko telesaila. Super Manterola izeneko saltoki txiki batean girotua dago Superra. Aitziber Garmendia, Iker Galartza, Anjel Alkain eta Jon Garatek sortu dute. Azken bi horiek izan dira Faktorian.",
+    "media_title": "Izaro Zubiria: \"Behi arrazak identifikatzen ezkajintasun handia dago\"",
+    "media_desc": "Lizartzako Ueta Etxaldeko abeltzaina da Izaro Zubiria. Inguruan ditugun behiak zer eta zertarako diren identifikatzen lanak izaten ditugu askotan, eta sortzen den nahasmendua ekiditeko asmoz \"Behi arrazen gida praktikoa\" eskatu diogu. Esan eta egin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/5558d81d-d593-4d08-be82-0298ea6353f5.jpg"
   },
   "1389": {
@@ -1437,8 +1437,8 @@
     "page": "Euskadi irratia",
     "page_id": 67,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/cd0f7a87-42e7-4995-9e8e-b7e3ce7e44bb.jpg",
-    "media_title": "Adimen artifiziala auzitan",
-    "media_desc": "Ustez, OpenAIko adimen artifizialeko sistema batek milurteko problema matematikoetako bat ebatzi du. Navier-Stokes ekuazio konplexuak dira: atmosferaren eta ozeanoen dinamikak edo hegazkin baten aerodinamika kalkulatzeko ekuazioak dira. Baina polemika piztu da, ez baitago argi lan hori egiteko OpenAIk matematikari batzuen lana plagiatu duen ala ez. Hortik abiatuko da saio hau. Gainera, beste kontu asko Norteko Ferrokarrillean."
+    "media_title": "Bizilabe: zientzia aisialdirako",
+    "media_desc": "Saioa Aranburuk (Elhuyar) eta Eider Nu\u00f1ezek (EHU), zientzialariak biak, Bizilabe proiektuaren aurtengo edizioa aurkeztu digute. Gazteek aisialdian zientzia-proiektuak garatzeko aukera ematen du proiektu honek. Elhuyarrek antolatzen du, eta bertako eta kanpoko zientzialariek hartzen dute parte. \n\n"
   },
   "1484": {
     "rss": "https://guau.eus/series/1484/rss.xml",
@@ -1565,7 +1565,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/873f6e0a-5deb-48c6-b31c-e499a3ac468e.jpg",
-    "media_title": "Athletic-Getafe | Valencia-Baskonia | Real Sociedad-Levante | Pelota",
+    "media_title": "Athletic-Real Sociedad",
     "media_desc": null
   },
   "1394": {
@@ -1983,8 +1983,8 @@
     "description": "Elkarrizketa podcasta, baina, ez edonolakoa. Oier Aranzabalek pertsonaia baten etxera sartuko gaitu, berarekin solasean jardun eta istorio berriak kontatzeko. Sortzaileak, musikariak, aurkezleak eta zerbait interesgarria esateko daukan oro. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3f1a0b8b-0b8e-4353-bef4-c136b6285c96.jpg",
-    "media_title": "93. Oskar Alegria, behien hizkuntzan ari da  ",
-    "media_desc": "Teilatuan zulo bat du Oskar Alegriak. Bertatik argia sartzen zaio etxera. Eta euria ere bai. Lastoa du zoruan eta mahai bat egin du artzain baten bordako atearekin. Mikrofonoak bertan jarri ditugu. Behien hizkera maite du zinemagileak eta behien inguruan solas egitea ere bai. Memoria buztina bezala dela esaten du, eta lanabes gisa erabili izan du bere filmetan. \u201cBarruan gaude\u201d podcastaren seigarren denboraldiko lehen atal hau denboraren kapsula bihurtuko dela dio: \"Itzuliko gara hona, edo agian ez gara inoiz hemendik aterako\"."
+    "media_title": "94. Amaia Hennebutte, haurren begietatik   ",
+    "media_desc": "Senpereko XVI. mendeko baserri batean bizi da aktore, idazle eta marrazkilaria. Sagarrondo sail batera ematen du sukaldeak eta atariko mahai bat eskaini digu solaserako. Irudimenaren muinera egiten du Amaia Hennebuttek, haurraren begiradak eskaintzen duen bidezidorretik. Ukrainan eta Libanon ere izan da, gerra guneetan kulturaren eta ipuinen bidez irribarreak pizten. Irakasle izan zen eta bizia sormenari eman dio"
   },
   "1294": {
     "rss": "https://guau.eus/series/1294/rss.xml",
@@ -2133,7 +2133,7 @@
     "description": "Gertuko gastronomia, tokiko produktu eta ekoizleak, eta gure herrietako azokak. Zero kilometroko saioa, Aitor Buendiak gidatuta.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/e67bdf7c-e5d6-476e-a95f-757e309d7d83.jpg",
-    "media_title": "La Ruta Slow en Radio Euskadi / Urriak, 25",
+    "media_title": "La Ruta Slow en Radio Euskadi / 25 de octubre",
     "media_desc": "\"Talentos Martiko\" lehiaketa Basque Culinary Centerren - 2026ko Lurraldeak dastatzea Donostiako GOEn Subsierra eta VDP Alemaniako upategien eskutik - Slow Fooden Nazioarteko Topaketa Araban Slow Food Farms eta Sukaldarien Aliantzarekin - \"Reyno Gourmet\" Pintxoaren IV. Ibilbidea Vitoria-Gasteizen."
   },
   "1456": {
@@ -3067,8 +3067,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b90ae8a-6def-4c1a-bf90-68625b71e0fc.jpg",
-    "media_title": "Charli xcx-en \u201cantimarketina\u201d marketina da",
-    "media_desc": "Gaurr Charli xcx- ek  \"Music, Fashion, Film\" disko berria kaleratu du eta, horregatik, Julen Idigoras gonbidatu dugu gurera. Lan berri honen xehetasunak kontatu dizkigu eta, azken egunotan, Charlik antimarketinaren alde egindako apustuaz ere aritu zaigu. Izan ere, antimarketina ez al da marketing estrategia bat?"
+    "media_title": "15 urte Amy Winehouse gabe",
+    "media_desc": "Gaur, 15 urte betetzen dira Amy Winehouse zendu zenetik. Bere heriotza kolpe handia izan zen musikaren munduarentzat eta horregatik  Sara Alonsok artistari omenaldi txiki bat egin nahi izan dio. Bere ibilbidea gogoratu eta utzi zizkigun arrakasta handienetako batzuk ekarri dizkigu. Entzun!"
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3305,8 +3305,8 @@
     "description": "I\u00f1igo Satrustegik hartu die lekukoa Alaia Martini eta Peru Magdalenari. Irudimena, umorea eta hizkuntzarekin jolas egiteko gaitasuna, absurdoak diruditen galderei erantzuteko. Bizitzari buruzko gogoeta jostaria, irribarrez. Euskadi Irratiko Faktoria saioko edukia. EITB Mediak GUAU gure audioa plataforman argitaratua.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/610dc9db-7e75-4989-ae5d-1012727d5382.jpg",
-    "media_title": "Zenbat lagunen aurpegiak ikusten ditugu egunero?",
-    "media_desc": "Wislawa Szymborska poeta eta nobel saridunaren hitzak ekarri dizkigu I\u00f1igo Satrustegik, atal honetara. Eta egunero gurutzatzen ditugun pertsonen aurpegiak aipatu dizkigu: ikusi, ezagutu eta gogoratzen ditugunak eta ikusezin zaizkigunak. Benetako istorioak eta irudikatzen ditugunak."
+    "media_title": "Etxeko zein objektuk ezagutzen zaitu hobekien?",
+    "media_desc": "Etxeko eskailerak, zapaten altzaria, ispilua, sukaldeko labea, lapikoak, irratia, dutxa, gonbidatuen gela, gau mahaia, burkoa, izarak, telebista, sofa... Denek dakite zerbait gutaz. I\u00f1igo Satrustegik hitzekin jolas eginez erantzuten ditu galdera bitxiak."
   },
   "2105": {
     "rss": "https://guau.eus/series/2105/rss.xml",
@@ -3471,7 +3471,7 @@
     "description": "Ardoa edari bat baino askoz gehiago da. Araban mendeetako tradizioa eta historia batzen dituen kulturaren zati da. \"En honor a Baco\" podcast bat da, adituak ez diren baina bitxiak diren pertsonei zuzendua, ardoaren munduari buruz gehiago jakin nahi dutenei. Atal bakoitzean, Yolanda Ortiz de Arri ardoetan aditua den kazetari eta dibulgatzailearekin hitz egiten dugu, gomendioak eta bitxikeriak modu atsegin eta hezitzailean azaltzeko.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/f193c7e3-27f1-461a-a66e-71dcf2bf9f4b.jpg",
-    "media_title": "\"Vino y se qued\u00f3\", vino artesanal en la Sierra de Gredos",
+    "media_title": "\"En\u00f3logo por un d\u00eda\", crea tu propio vino en las bodegas Amador Garc\u00eda de Ba\u00f1os de Ebro",
     "media_desc": ""
   },
   "2138": {
@@ -3494,8 +3494,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "5. Gorroto dut etorkizuna, Alex Padilla eta Ainhoa Etxebarria",
-    "media_desc": "Zer izan nahi duzu handitan? Txikitatik etorkizunean pentsatzera behartzen gaituzte, espektatiba batzuk sortzera eta bat-batean 30 edo 40 urte betetzean, bizitzak zaplazteko bat ematen dizu, ez dituzulako zure txikitako ametsak bete. \nHorregatik egiten dute terapia Alex Padillak eta Ainhoa Etxebarriak \u201cSalda Badugu\u201d\nbideopodcastean, famatuekin salda bat hartzen duten bitartean, horrela adin krisiak hobeto eramaten baitira."
+    "media_title": "6. Gorroto ditut anai-arrebak, Xabat eta Joanes Illarregi",
+    "media_desc": "Anai-arreben arteko erlazioak gorabeheratsuak izan ohi dira: batzuetan maitasuna, bestetan gorrotoa\u2026 Anekdota-bilduma bat sortu genezake elkarrekin bizitako momentuekin, zehazki Xabat eta Joanes Illarregi anaiek bizitako une polit zein beldurgarriekin. Bestela galdetu haien amonari! Bi bertsolari nafarrak amonaren etxera joaten zirenean, urduri jartzen zen amona. Zergatik ote?"
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
@@ -3891,8 +3891,8 @@
     "description": "\"Juxtu-juxtu\" gazteei zuzendutako bideopodcasta da, egunerokoan lagungarri izan daitezkeen aholku praktikoak eta baliabide erabilgarriak eskaintzeko sortua. Janire Atxurraren eskutik, dirua aurrezteko, aukerak aprobetxatzeko eta eguneroko erronkei errazago aurre egiteko trikimailuak ezagutuko dituzte entzuleek. Umorea, gertutasuna eta Janireren bizipen bitxiak bidelagun, gazteen kezka eta egoera arruntak izango ditu hizpide saioak, informazio erabilgarria modu arin, fresko eta entretenigarrian eskainiz.\n\nOn Timek ekoitzi du, EITB Mediarentzat. ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/88986c45-80c5-4a43-84d1-1a5891e61c63.jpg",
-    "media_title": "Doako plataformak",
-    "media_desc": "Aurreko atal batean hainbat plataformetako harpidetzak kendu zituen Janirek, bakoitza gutxi baina denak batuta, azkenean dirutza zelako. Gaurko atalean berriz, doako hainbat plataforma ezagutaraziko dizkigu, eta azkenean gure Euskal telebistaren ingurukoei erreparatuko die, GUAU, Primeran, ETB ON, Makusi.. eduki ugari dituztelako, euskaraz, eta gainera doan!"
+    "media_title": "Ikasgunea",
+    "media_desc": "Janirek 15-16 urte zituenetik sarritan erabiltzen du Ikasgunea izeneko online plataforma. Bertan ikaslearen informazio akademiko guztia kontsulta daiteke, hau da, notak, baina baita beken edo matrikulen inguruko datuak ere. Oso erabilgarria iruditzen zaio Janireri, eta horregatik, beti aholkatu izan du. Hori bai, unibertsitatez kanpoko ikasleei bideratua dago."
   },
   "2142": {
     "rss": "https://guau.eus/series/2142/rss.xml",
@@ -4029,8 +4029,8 @@
   },
   "3373": {
     "rss": "https://guau.eus/series/3373/rss.xml",
-    "media_title": "Eneko Goia: \"Bipolarizazioaren gainetik, herria defendatzea dagokigu\"",
-    "media_desc": "Donostiako alkatetza utzi zuenetik urtebete pasa denean, eta Diputatuen kongresurako Gipuzkoako zerrendan Eusko Alderdi Jeltzalearen hautagaia izango dela jakin berritan mintzatu da",
+    "media_title": "Laura Garrido: \"Erasoak, pintadak... inboluzio bat ikusten ari gara\"",
+    "media_desc": "Jarduneko bi kideen espetxeratzearen harira, Alderdi Popularreko Legebiltzarreko bozeramaileak esan du, hala ere, zuhur jokatu beharra dagoela eta justiziari lan egiten utzi behar zaiola",
     "media_type": "audio",
     "title": "Faktoriako elkarrizketak",
     "description": "Faktoriako elkarrizketak. Eguneko protagonistak eta zer esana duten pertsonak I\u00f1aki Guridirekin eta Maider Segurolarekin hizketan. Euskadi Irratiaren edukia, Eitb Mediak Guau plataforman argitaratua.",
@@ -4684,8 +4684,8 @@
     "description": "Hiria, balio-sorkuntza, teknologia, etorkizuna eta osasuna izango dira lehen denboraldi honetako ardatzak, eta \u201cDiseinuz Talks\u201d kongresuaren edukiak aurreratu eta zabalduko ditu. Jes\u00fas Cao arkitekto eta aholkulari estrategikoak aurkeztutako DISEINUZ \u00b7 Bilbao Bizkaia Design Summit izeneko kongresuaren podcasta da hau.\nPodcast hau DISEINUZ Bilbao Bizkaia Design Summit delakoaren harira antolatzen diren jarduera paraleloen barruan kokatzen da. Kongresua, 2026ko azaroaren 19an eta 20an izango da, EITBren Bilboko egoitzan.\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/bf708860-ab3f-4991-aa19-d340235b7709.jpg",
-    "media_title": "1. \u201cEl futuro de las ciudades, es el futuro de todos\u201d",
-    "media_desc": "Zer da hiri bat diseinatzea? Batzuetan, hiri bat aldatzeko, espaloi bat aldatzetik hasi behar dugu. Hiru profesionalek hiria ulertzen lagunduko digute: Idoia Postigok, Bilbao Metropoli-30eko zuzendari nagusiak; Mar\u00eda Aranak, Mugak Biurtekoko komisarioa eta Urbanbateko sortzaileetarikoa denak, eta Jon Abadek, Abad Designeko diseinatzaile industrial eta sortzaileak.\nHiria, balio-sorkuntza, teknologia, etorkizuna eta osasuna izango dira lehen denboraldi honetako ardatzak, eta \u201cDiseinuz Talks\u201d kongresuaren edukiak aurreratu eta zabalduko ditu. Jes\u00fas Cao arkitekto eta aholkulari estrategikoak aurkeztutako DISEINUZ \u00b7 Bilbao Bizkaia Design Summit izeneko kongresuaren podcasta da hau.\nPodcast hau DISEINUZ Bilbao Bizkaia Design Summit delakoaren harira antolatzen diren jarduera paraleloen barruan kokatzen da. Kongresua, 2026ko azaroaren 19an eta 20an izango da, EITBren Bilboko egoitzan."
+    "media_title": "2. C\u00f3mo el dise\u00f1o puede transformar nuestra manera de cuidar",
+    "media_desc": "Zaintzea ere diseinatzea da. Entzutea, ulertzea eta geure bizitzari buruz erabakitzen jarraitzea ahalbidetuko diguten espazioak eta zerbitzuak sortzea.\n\n\u201cDiseinuz Talks\u201d podcastaren bigarren atalean, Jes\u00fas Caok, Matia Fundazioko Irene Gonz\u00e1lez Fern\u00e1ndezekin eta zerbitzuen diseinatzaile Asier P\u00e9rezekin hitz egingo du diseinuak gure zaintza-modua nola alda dezakeen aztertzeko.\n\nAutonomiari, ongizateari eta pertsonei egokitutako zaintzari buruzko elkarrizketa."
   },
   "883": {
     "rss": "https://guau.eus/series/883/rss.xml"
