@@ -145,7 +145,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Los retos y las carencias de la educaci\u00f3n vasca",
+    "media_title": "Rom\u00e1n Or\u00fas: \u201cLa inteligencia artificial es una tecnolog\u00eda geoestrat\u00e9gica\u201d",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/83e7ad75-e53b-4e45-81ac-26f1c8bf911a.jpg"
   },
@@ -509,7 +509,9 @@
     "media_type": "video",
     "page": "Gaztea",
     "page_id": 70,
-    "img": "https://cdnstorage.primeran.eus/directus/eitb/d7674b36-59b5-4625-a43c-3a6b09025f81.jpg"
+    "img": "https://cdnstorage.primeran.eus/directus/eitb/d7674b36-59b5-4625-a43c-3a6b09025f81.jpg",
+    "media_title": "12. Belaunaldi aldaketa eta Garcia-Azpiazu familia",
+    "media_desc": "Gai nagusia belaunaldi aldaketa izango da. Lehenengo denboraldiko azkeneko atala da hau eta agurra modu berezian egin nahi izan dute Ibanek eta Maitek, beraien familiakideak gonbidatuta. Nagore Garcia, Ibanen arreba eta Maiteren alaba eta Agustin Garcia, Ibanen aita eta Maiteren senarrarekin batera aritu dira.\n\nNoiz ginen zoriontsuago, lehen edo orain? Nola aldatu da gizartea azken urteetan? Nola jolasten zuen Maitek eta nola Ibanek? Sare sozialen eta teknologiaren eboluzioa nolakoa izan da? Hainbat galderei buruz aritu dira ama-semeak.\n\nNoski, hau dena, umorez josita!"
   },
   "1689": {
     "rss": "https://guau.eus/series/1689/rss.xml",
@@ -592,7 +594,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "El futuro de la energ\u00eda nuclear",
+    "media_title": "Envejecer con calidad de vida",
     "media_desc": "Actualidad y opini\u00f3n en el programa referente de la radio vespertina que dirige Arantza Garc\u00eda.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/92350349-bc6b-4395-b44f-7148f17ad957.jpg"
   },
@@ -603,8 +605,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "Andr\u00e9s Urrutia, notario: \"Los lunes recibimos m\u00e1s consultas sobre herencias y donaciones\" ",
-    "media_desc": "Andres Urrutia euskaltzainburu eta notarioak bere notariotzara iristen diren herentzia edo dohaintza bat kudeatzeko eskaerak ugaritu egin direla baieztatu du. Eragiketa horietako gehienak seme-alabei lagundu nahi dieten gurasoek egiten dituzte, normalean, etxebizitza bat erosi eta mailegu bat ordaindu behar dutenean. Urrutiaren arabera, astelehenetan jasotzen dituzte kontsulta gehien, eta horrek asteburuko familia-ospakizunei egozten die zerikusia: paperak konpontzea eta baterako ondasunak ordenatzea.",
+    "media_title": "Una app para compartir coche y llegar antes al campus",
+    "media_desc": "Egunero unibertsitatera joateak buruhausteak ekartzen dizkie hainbat ikasleri. Zenbaitek garraiobide bat baino gehiago hartu behar izaten ditu eta denbora gehiegi igaro errepidean. Hori dela eta, EHUko zuzendaritzak Karos izeneko app-ren bitartez, auto pribatuak partekatzea bultzatu nahi du ikasle zein EHUko langileen artean. Radio Euskadiko Boulevard saioan xehetasun gehiago eman dituzte.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d2882f9c-a639-49b5-b1b6-1af676f7c54f.jpg"
   },
   "1437": {
@@ -614,7 +616,7 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"Desde abril no vivimos. He estado buscando piso por toda Bizkaia, me daba igual\"",
+    "media_title": "J\u00f3venes y extrema derecha: \u00bfel nuevo punk?",
     "media_desc": "",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/c098fc0d-003b-47a4-9699-6309b2c2866f.jpg"
   },
@@ -636,8 +638,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\u2018La rabia es una emoci\u00f3n primaria, como la alegr\u00eda; hay que saber gestionarla\u2019 ",
-    "media_desc": "Paperak galtzeaz hitz egin dugu. Denok ezagutzen dugu esamolde hori, eta ziur aski denok izan gara noizbait protagonista. Etxean gertatzen zaigu, nekea pilatzen denean eta gure inguruko jendeari oihuka amaitzen dugunean. Baina gidatzean ere gertatzen zaigu; adibidez, erabat eraldatzen gara auto-ilara baten edo beste gidari baten maniobra txar baten aurrean. Zergatik kostatzen zaigu hainbeste kontrola mantentzea konfiantzazko inguruneetan edo eguneroko estresaren pean? Non amaitzen da hustuketa eta non hasten da jokabide problematiko bat? Juanan Tejero psikologoarekin aztertu dugu.",
+    "media_title": "C\u00e1ncer de mama: detectar, acompa\u00f1ar y avanzar",
+    "media_desc": "Urtero, 1.600 emakume ingururi bularreko minbizia diagnostikatzen diete Euskadin. Errealitate hori izango du ardatz aurten EITB Maratoiak, minbizi ginekologikoarekin batera. ACAMBIko In\u00e9s S\u00e1nchez eta Feli del Cerrorekin hitz egin dugu: euren esperientzia partekatu dute eta detekzio goiztiarraren, ikerketaren eta laguntza emozionalaren garrantzia azpimarratu dute. Gainera, igande honetan Bilboko kaleak arrosaz jantziko ditu berriro Bularreko Minbiziaren aurkako Martxa Solidarioak.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/61a113c1-6276-4d94-b152-8daeaad591b7.jpg"
   },
   "1782": {
@@ -1315,8 +1317,8 @@
     "media_type": "audio",
     "page": "Euskadi irratia",
     "page_id": 67,
-    "media_title": "Bernard Goienetxe, Matalaz, mitoa eta gizona",
-    "media_desc": "Bernad Goienetxe XVII. mendeko apaiz zuberotarrari buruz, Matalazi buruz, aritu gara Aritz Ibarrarekin. Abesti eta kondaira ezagunetik harago haren bizitza berreskuratzen ari da Ibarra liburu ilustratu bat egiteko.",
+    "media_title": "Xanti Arrizabalaga: \"Ile-txertaketaren aurretik diagnostikoa egitea ezinbestekoa da\"",
+    "media_desc": "Ia hiru hamarkada daramatza Xanti Arrizabalagak Svenson ile-klinikan lan egiten. Ile-txertaketa bogan den honetan prozedura honen inguruan mintzatu da.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/1e3ee441-7ec9-48fd-b432-0245a3405fd6.jpg"
   },
   "1389": {
@@ -1500,8 +1502,8 @@
     "media_type": "audio",
     "page": "Radio Euskadi",
     "page_id": 68,
-    "media_title": "\"La historia del Sacamantecas es m\u00e1s apasionante y truculenta de lo que cuentan las leyendas\"",
-    "media_desc": "Hamarkada askotan, Juan D\u00edaz de Garayo istorioaren eta kondairaren artean harrapatutako pertsonaia izan da. Sakamantecas, XIX. mendean Araba aztoratu zuen hiltzailea, tradizio herrikoiko pertsonaia bihurtu zen, haurrak beldurtzeko erabiltzen zen izen bat eta beti gertatu ez ziren kontakizunez inguratutako irudi bat. Julio Corral San Rom\u00e1n hainbat urtez alea eta lastoa bereizten jardun duen ikertzaileetako bat da, eta ikerketa hori 'Locos que no lo parecen' liburuan argitaratu zuen. Sakamanteen benetako historia '. David P\u00e9rez Sa\u00f1udo zinemagilearen eskutik D\u00edaz de Garayoren figura gaurkotasunera itzuli den honetan, Corral al al origen filmarekin itzuli gara, artxiboetara, deklarazio judizialetara, garaian argitaratutako artikuluetara...",
+    "media_title": "\u00bfConsultas a la IA antes de realizar una compra?",
+    "media_desc": "10 kontsumitzailetik 8 dagoeneko joaten dira adimen artifizialera erosketa bat egin aurretik, bereziki teknologiaren, edertasunaren edo bidaien kategorietan. Gure erosketen botere absolutua utziko al diogu IAri? Xehetasunak Alejandro Mart\u00ednez Berriochoa Eroski Fundazioko eta Consumer aldizkariko zuzendariarekin.",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/7b45a2b2-581f-4195-8fac-6a7db68416d6.jpg"
   },
   "1645": {
@@ -1565,7 +1567,7 @@
     "page": "Radio Euskadi",
     "page_id": 68,
     "img": "https://cdnstorage.primeran.eus/directus/eitb/873f6e0a-5deb-48c6-b31c-e499a3ac468e.jpg",
-    "media_title": "Real Sociedad-Rayo | Pelota Ogeta",
+    "media_title": "Eibar-Cadiz | Baskonia-Real Madrid | Bera Bera-Rocasa | Pelota",
     "media_desc": null
   },
   "1394": {
@@ -2257,7 +2259,7 @@
     "description": "Historia egin duten emakumeen bizitza eta ondarea, nahiz eta beti historiara pasatu ez diren. Heroinak. Bilauak. Asmatzekoak. Akatsenak. Konbentzioei erronka adoretsuak. Emakume ospetsuak edo oraindik aurkitzeke daudenak, baina beti, bereziak.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/4b5dccb5-bcbe-4686-b6c3-16ab2f0e8856.jpg",
-    "media_title": "Jayne Mansfield, la maldici\u00f3n de una vida en paralelo",
+    "media_title": "Suzanne No\u00ebl: pionera cirujana especializada en est\u00e9tica",
     "media_desc": ""
   },
   "1253": {
@@ -3067,8 +3069,8 @@
     "description": "Astelehenetik ostiralera, 08:00etatik 11:00etara, Dida Fresh! Zure udako oasia izan nahi dugu. ",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/9b90ae8a-6def-4c1a-bf90-68625b71e0fc.jpg",
-    "media_title": "Hamarkada bat \"Glad is the Day\" jaialdiak",
-    "media_desc": "Igandean, \"Glad Is The Day\" jaialdiaren 10. urteurrena ospatuko da Donostiako Kristina Enea parkean. Xarma handia duen jaialdi interesgarrienetako bat bilakatu da eta, aurten ere, eskaintza oparoa izango da. Irati Elizaldek artista-talde interesgarrienak ekarri dizkigu."
+    "media_title": "Zorionak, Elvis Crespo!",
+    "media_desc": "Merengearen erregea da. Udako ahotsetako bat eta uda bete-betean jaio zen, nola ez. Elvis Crespok 55urte bete ditu eta Irati Elizaldek bere arrakastak bildu dizkigu!"
   },
   "2015": {
     "rss": "https://guau.eus/series/2015/rss.xml",
@@ -3305,8 +3307,8 @@
     "description": "I\u00f1igo Satrustegik hartu die lekukoa Alaia Martini eta Peru Magdalenari. Irudimena, umorea eta hizkuntzarekin jolas egiteko gaitasuna, absurdoak diruditen galderei erantzuteko. Bizitzari buruzko gogoeta jostaria, irribarrez. Euskadi Irratiko Faktoria saioko edukia. EITB Mediak GUAU gure audioa plataforman argitaratua.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/610dc9db-7e75-4989-ae5d-1012727d5382.jpg",
-    "media_title": "Zenbat hauts dago hautsaren gainean?",
-    "media_desc": "Inoiz ez dago jakiterik nor bizi den, zer dagoen, hautsa pilatzen ari den etxe horretan. I\u00f1igo Satrustegik istorioak kontatzen dizkigu absurdoak diruditen galderak erantzuteko Faktoria saioko \"Erantzuteko beste modu bat\" atalean."
+    "media_title": "Nork askatu du euri-urez zipriztindu gaituen baldosa hori? ",
+    "media_desc": "I\u00f1igo Satrustregik egun librea gozatu nahi du: irratia entzun, lasai gosaldu eta hirian oinez ibili enkarguak eginez. Ezusteko batek, ordea,  bat-batean aldatu dio aldartea. Galdera bitxiak bere erara erantzuten ditu I\u00f1igo Satrustegik Faktorian, \"Erantzuteko beste modu bat\" atalean."
   },
   "2105": {
     "rss": "https://guau.eus/series/2105/rss.xml",
@@ -3494,8 +3496,8 @@
     "description": "\u201cGorroto\u201d podcastak hate-ean du oinarria, pertsonon grisetan. Besteekin gaudenean isilik gordetzen ditugun iritzi edo pentsamenduak mahai gainean jartzeko gunea da, terapia egiteko lekua, beti ere umoretik.\n\nIzan ere, gorrotoa da mundua mugiarazten duen indarretako bat, Maider Uriarte podcasteko gidariaren ustez. Gorrotatzea ez dago gaizki, irizpiderik ez izatea da gaizki dagoena. Psikologoaren kontsultan baleude bezala, gorrotoa marraztuko dute gonbidatuek.\n\n\"Gorroto\" podcasta ULU Mediak ekoitzi du EITB Mediarentzat. \n\n",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/eb04beea-eb92-4817-b2db-c0ef94d0d1ba.jpg",
-    "media_title": "6. Gorroto ditut anai-arrebak, Xabat eta Joanes Illarregi",
-    "media_desc": "Anai-arreben arteko erlazioak gorabeheratsuak izan ohi dira: batzuetan maitasuna, bestetan gorrotoa\u2026 Anekdota-bilduma bat sortu genezake elkarrekin bizitako momentuekin, zehazki Xabat eta Joanes Illarregi anaiek bizitako une polit zein beldurgarriekin. Bestela galdetu haien amonari! Bi bertsolari nafarrak amonaren etxera joaten zirenean, urduri jartzen zen amona. Zergatik ote?"
+    "media_title": "7. Gorroto ditut runnerrak, Ander Maldabi",
+    "media_desc": "Nola bilakatzen da norbait runner? Adin-krisiarekin lotuta omen dago kirola egiteko behar hori, baina hanketako minak, txandal fluoreszenteak eta runclub baten parte izateak merezi du? Ander Malbadirentzat bai; bera umoregilea da, eta barre egin dugu berarekin, antza denez, ez zuelako bere burua runnertzat jotzen."
   },
   "2130": {
     "rss": "https://guau.eus/series/2130/rss.xml",
@@ -3891,8 +3893,8 @@
     "description": "\"Juxtu-juxtu\" gazteei zuzendutako bideopodcasta da, egunerokoan lagungarri izan daitezkeen aholku praktikoak eta baliabide erabilgarriak eskaintzeko sortua. Janire Atxurraren eskutik, dirua aurrezteko, aukerak aprobetxatzeko eta eguneroko erronkei errazago aurre egiteko trikimailuak ezagutuko dituzte entzuleek. Umorea, gertutasuna eta Janireren bizipen bitxiak bidelagun, gazteen kezka eta egoera arruntak izango ditu hizpide saioak, informazio erabilgarria modu arin, fresko eta entretenigarrian eskainiz.\n\nOn Timek ekoitzi du, EITB Mediarentzat. ",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/88986c45-80c5-4a43-84d1-1a5891e61c63.jpg",
-    "media_title": "Ikasgunea",
-    "media_desc": "Janirek 15-16 urte zituenetik sarritan erabiltzen du Ikasgunea izeneko online plataforma. Bertan ikaslearen informazio akademiko guztia kontsulta daiteke, hau da, notak, baina baita beken edo matrikulen inguruko datuak ere. Oso erabilgarria iruditzen zaio Janireri, eta horregatik, beti aholkatu izan du. Hori bai, unibertsitatez kanpoko ikasleei bideratua dago."
+    "media_title": "Bidaiatu, jan eta lo egin merke",
+    "media_desc": "Europan merke nola bidaiatu azalduko digu Janirek. Hegazkineko txartel merkeak lortzeko Skyscanner erabiltzea proposatu du. Baina aplikazio gehiago ere badira autobusean edo autoan ibitzeko, merke jateko, arropak garbitzeko eta beste kontu batzuetarako. Horregatik, guztiak ezagutzea komeni da. Bidaian joaten denean, komunekin duen arazoa ere aipatu du Janirek, inolako sekreturik gabe. "
   },
   "2142": {
     "rss": "https://guau.eus/series/2142/rss.xml",
@@ -4647,8 +4649,8 @@
     "description": "Beti esan izan da, euskaldunoi saltseoa asko gustatzen zaigula, baina, orain arte, ez da inor ausartu saltsa horretan sartzen.\nAinhoa Etxebarria eta Alexander Padilla gara eta \u201cSalda Badugu\u201d bideopodcastean Euskal Herriko famatuak elkarrizketatuko ditugu, bizi dituzten krisialdi existentzialei burufamaz galdetu, eta beraien saltsa guztiak komentatzeko. Hori guztia salda goxo-goxo bat hartu bitartean.",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/d5c8dd6c-d1f4-4c4d-84ab-092c1a9954c0.jpg",
-    "media_title": "3. \u201cInork ez du zapuztuko Telmoren eta nire momentua Ura Bere Bideanen\u201d",
-    "media_desc": "Bizitzak emandako opari gisa onartu du Ura Bere Bidean proiektuan parte hartzeko eskaintza. Betizun partaide gehiago ere bazirela aipatzen duten txutxumutxuei iskin eginez, \u201cLokaleko Lehiotik\u201d abesten gozatu nahi du Telmorekin batera. Amatasuna, Kala Naiz proiektua, Enraizadas\u2026 hizpide izan ditu podcastean.  Animalia bat balitz, txoria izango litzateke Zuri\u00f1e Hidalgo. Mila ideia buruan, horiek gauzatzeko gogoz\u2026 Psikologoak esan zion: hegan egizu, baina oinak lurrean dituzula. "
+    "media_title": "4. \"Eutanasia eskatu eta agurra prestatzeko deitzen dizutenean, prozesua desberdina baina aberasgarria izaten da\u201d",
+    "media_desc": "Beilatokien negozioarekin hasi zenean beldurra zion heriotzari, orain, berriz, Mikel Idoatek lasai hitz egiten du heriotzaz eta baita eutanasiaz ere.  \nKonfort gunetik kanpo egotera ohituta, argi eta garbi mintzatu da heriotzaz, pilotaz, negozioez eta euskararen inguruan. Ainhoak eta Alexek ez dute ulertzen zergatik den zaila pilotari batekin elkarrizketa lotzea. Mikelek argi du: pilotan hainbat ikuspegi aldatzea beharrezkoa da. \n"
   },
   "319479": {
     "rss": "https://guau.eus/series/319479/rss.xml",
@@ -4714,8 +4716,8 @@
     "description": "Nork esan du liburuei buruz hitz egitea aspergarria denik? \u201cPlaz!\u201d bideopodcasta, euskarazko literatura beste modu batera ezagutzeko plaza da. Irakurle sutsua den Nahia Sillerok gidatuta, atal bakoitzean gonbidatu ezagun batek liburu bat izango du abiapuntu, eta hortik aurrera... auskalo nora eramango gaituen elkarrizketak!\nMaitasuna, laguntasuna, identitatea, harremanak, bizitzako kezkak... Liburuetatik tiraka, denetarik izango dugu hizpide, umorez, naturaltasunez eta konplexurik gabe.\n\u201cPlaz!\u201d saioan liburuak ez dira helmuga, abiapuntua baizik.\n",
     "media_type": "video",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/3a6c4a43-cfe4-4408-97b0-8438083b9f28.jpg",
-    "media_title": "1. Zer gertatzen da lagun batekin dugun harremana amaitzen denean?",
-    "media_desc": "Jone Arriolak, Elgoibarko zinema zuzendari eta gidoilariak, Miren Amurizaren \u201cPleibak\u201d liburua ekarri du \u201cPlaz!\u201d podcastera. Liburuko istoriotik abiatuta, gaztaroko erreferentziez, ametsez eta laguntasun-harremanez aritu dira atal honetan. Baina, kontziente al gara laguntasun-harremanak ere hautsi daitezkeela? Eta zer gertatzen da lagun batekin dugun harremana amaitzen denean? Nola egiten zaio aurre lagun baten galerari?"
+    "media_title": "2. Telmo Trenado eta \"Bar Gloria\": etxetik kanpo bizitzea",
+    "media_desc": "Telmo Trenado eduki sortzaileak Nerea Ibarzabalen \u201cBar Gloria\u201d liburua ekarri du \u201cPlaz!\u201d podcastera.\nLiburuko istoriotik abiatuta, etxetik eta herritik ateratzeaz, inkomunikazioaz eta anai-arreben arteko harremanez aritu dira. Tabernek gure bizitzetan duten lekuaz ere hausnartu dute, elkartzeko eta harremanak sortzeko espazio gisa. Zer aldatzen da herritik kanpo bizitzera goazenean? Eta zenbateraino partekatzen dugu barruan daramaguna gertukoenekin?\n"
   },
   "3498": {
     "rss": "https://guau.eus/series/3498/rss.xml",
@@ -4788,5 +4790,8 @@
     "description": "Audiolaben \"soinu mapa\" rekin elkarlanean, Euskal Herri osoko feriak, jaiak, natura, kaleak, hondartzak, azokak, erromeriak, jai herrikoiak... bisitatuko ditugu.",
     "media_type": "audio",
     "img": "https://cdnstorage.primeran.eus/directus/eitb/0920dae9-d1ef-40d7-b271-6082a6f3352d.jpg"
+  },
+  "2072": {
+    "rss": "https://guau.eus/series/2072/rss.xml"
   }
 }
